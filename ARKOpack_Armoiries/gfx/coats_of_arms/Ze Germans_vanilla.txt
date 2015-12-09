@@ -1,0 +1,253 @@
+################################
+# Armoiries Ze Germans! by Aasmul
+# German vanilla families by Aasmul 
+# Dynasties Pack : Ze Germans
+################################
+
+0-INDEX couleurs
+-1- "von Eberstein"# 213 Franken
+-2- "von Sulzbach" # 219 Bavaria
+-3- "von Formbach" # 210 Bavaria
+-4- "von Oldenburg" # 224 Saxony
+-5- "von Raabs" # 262 Bavaria
+-6- "von Diepholz" # 52 Saxony
+-7- "von Andechs" # 218 Bavaria, 
+-8- "von Schauenburg" # 12463 Saxony .
+-9- "von Attems" # 12247 Carinthia(Friuli)
+-10- "von Tübingen" # 260 Swabia
+-11- "von Saarbrucken" # 252 Lotharingen Should be "von Saarbrücken"
+-12- "von Kleve" # 221 Lotharingen
+-13- "Ekbertiner" # 9550 Saxony(and titular count of the Dänishermark(AKA Slesvig))
+-14- "von Veldenz" #  243 Lotharingen #
+-15- "von Katzenelnbogen" # 101888 Lotharingen
+-16- "von Sponheim" # 12439 Lotharingen
+-17- "von Blankenheim" # 12436 Lotharingen
+-18- "von Geroldseck" # 12426 Swabia/Austria  
+-19- "von Jülich" # 285 Lotharingen, 
+-19- "Brunonen" # 435 Saxony
+-20- "Meinhardiner" # 12404, Bavaria.
+-21- "von Nassau"" #263 Franken.
+-22- "von Vianden" # 283 Lotharingen, 
+-22- "von Babenberg" #247 Bavaria/Franconia
+-23- "van Rheineck" # 290 Lotharingen. dutch in vanilla(but all charcters german), should be german and called "von Rheineck".
+-24- "von Berg" # 248 Lotharingen
+-25- "von Eppenstein" # 523 Carintiha/Austria
+-26- "Otakeren" # 101605 Carintiha
+-27- "von der Mark" # 7117 Lotharingen.
+-28- "von Hohenlohe" # 7138 Franken
+-29- "von Osterna" # 7140 Franken
+-30- "von Hessen" # 101895 Franken 
+-31- "von Berg-Schelklingen" # 179 Lotharingen/Franken 
+-32- "von Landsberg" # 244 Lotharingen/Franken 
+-33- "Babenberger" # 7290, It sould be "von Henneberg" !#  Franken. Paradox applied this ID to what would be the charcters of the "von Henneberg" family in vanilla(and they also made another 7165 "von Henneberg" family for the counts of mecklemburg and haven't botherd to link them :_ ). This fluffy chikken is the late arms(second line that took over in 1262), and that was only used by the counts propper. Have made the early von Henneberg arms that could be to the Mecklemburg counts family of the Henneberg(technically it wasn't really a Henneberg branch since it was the wife of count/duke that was a Henneberg while he himself was a younger son of Mecklemburg/Friesack line) they did use that arm alongside the bullhead of Mecklemburg..
+-34- "von Groitzsch" # 7295 Saxony.
+!35- "von Lichtenberg" # 7285 Swabia
+-36- "von Abensberg" # 7283 Bavaria
+-37- "von Hoya" # 7131 Saxony
+-38- "von Heinsberg" # 12443 Lotharingen/Franken, 
+-39- "von Sayn" # 12445 Lotharingen
+-40- "von Tyrol" # 12420 Bavaria
+-41- "von Tecklenburg" # 7123 Lotharingen
+-42- "von Steinfurt" # 7122 Saxony
+-43- "von Weyhe" # 7127 Saxony
+-44- "Ludowinger" # 257 Saxony
+-45- "von der Lippe" # 12462 Saxony
+-46- "Wettin" # 528 Saxony, "Wettiner" or "von Wettin" might be better option if going for plural.
+-47- "von Ortenburg" 12421 Bavaria
+-48- "von Bregenz" # 9587 Swabia
+-49- "von Waldeck"# 7125 Franconia/Thüringen.
+-50- "von Ravensberg"# 7126 Saxony and 
+-50- "von Eppstein" # 289 Franken(Families not related)
+-51- "von Bassenheim" # 7133 Lotharingen
+-52- "von Neuenburg" # 87 Swabia
+-53- "Orlamunde"# 527 should be changed to "von Orlamünde" Thüringa/Franken.
+-54- "von Beilstein" # 521 Saxony, should be changed since this is the name of a very late cadet branch of Nassau that makes little senese in CK2, name should be "von Bilstein".
+-55- "von Weimar" # 216  Saxony
+-56- "von Buxthoeven" # 7147 Saxony/Livonia
+-57- "von Hachberg" # 7286  Swabia
+-58- "von Monheim" # 12479 Saxony/Livonia
+-59- "von Grünberg" # 7284 Franconia/Thüringen. Not sure about the colors.
+-60- "von Lichtenberg" # 7285 Swabian
+-61- "Beck" # 12005 Saxony. Should be changed to"von der Beck". Was  called van der Beke/Becke in Dutch. Not sure about the colors. 
+-62- "von Bismarck" #100447 Saxony
+-63- "von Bibra" # 100446 Franconia/Thüringen. Fluffy beaver!
+-64- "von Bülow" # 100457 Saxony
+-65- "von Bodeck" #100448 Saxony/Prussia
+-66- "von Urach" #101718 Swabia
+-67- "von Leiningen" #100122 Franconia
+-68- "von Plauen" # 100311 Saxony
+-69- "von Löwenstein" # 12452 Franconia/Thüringen.
+-70- "von Pfirt" # 12451 Swabia(was also the orignal lords of Mouson)
+-71- "von Salm" # 12437 Lotharingen
+-72- "von Württemberg" # 12446 Swabia and 
+-72- "von Landau" # 12453 Swabia(important cadet branch of Wuttemberg)
+-73- "von Veringen" # 12447 Swabia
+-74- "von Arnim" # 100316 Saxony
+-75- "von Urslingen" # 12480 Swabia(they had held the duchy of Sopleto under Stauffer, but don't know if they were orignally German or Italian)
+-76- "von Eselsberg" # 12449 Swabia
+-77- "von Bikkenbach" # 12442 Franconia
+-78- "von Falkenstein" # 12438 Swabia(was also families from Hessen and Bavaria with this name)
+-79- "von Hunolstein" # 12435 Lotharingen
+-80- "von Lüneburg" #100258 Saxony
+-81- "von Dassel" # 7233 Saxony
+-82- "von Scharfenberg" # 7223 Lotharingen
+-83- "von Schwarzburg" # 7230 Franconia/Thüringen.
+-84- "von Saffenberg" # 12400 Lotharingen
+-85- "von Querfurt" # 12402 Saxony 
+-86- "von Mansfeld" # 12403 Saxony
+-87- "von Schmidtburg" 12414 Franken
+-88- "von Limpurg" # 12432 Swabia
+-89- "von Daun" # 12431 Lotharingen
+-90- "von Vinstingen"# 12429 Lotharingen
+-91- "von Bocksberg" # 12427 Franconia, should be either "von Bocksperg" or"von Boxberg" the family was never called Bocksberg.
+-92- "von Arstein" # 238 Saxony Should be "von Arnstein", 
+-92- "von Arnstein" # 7101 both has to be here since paradox made two dynasty with members(one lone woman each :_) 
+-93- "von Heimbach" # 282 Lotharingen. Should probably be called "von Hengebach" Heimbach was the city while Hengebach was the castle the family was named after.
+-94- "von Ringelheim" # 668 Saxony
+-95- "von Isenberg" # 7116 Lotharingen
+-96- "von Schweinfurt" # 653 Bavaria
+-97- "von Nellenburg" # 7100 Swabia
+-98- "von Supplingenburg" # 7103 should be changed to "von Süpplingenburg" Saxony
+-99- "von Wunstorf" # 7109 Saxony
+-100- "von Wölpe"#  7111 Saxony
+-101- "von Holte" # 7113 Saxony. Tied to the bishoperics of Münster and Osnabrück, was another contemporary family of same name(but differnt coa) tied to the counts of Berg-Altena.
+-102- "von Wippra" # 7115 Saxony. A cadet branch of Mansfeeld and Querfurt, they made their arms by quartering the two family crests.
+-103- "von Calw" # 101558 Franken
+-104- "von Are" # 7114 Saxony
+-105- "von Rietberg" # 7119  Saxony
+-106- "von Helffenstein" # 101695 Swabia should be "von Helfenstein"
+-107- "von Arbon" # 101717 Swabia
+-108- "von Holstein" # 154 dosn't have anything to due with the ducal families, was minor nobility(knightly) in Holstein and Mecklemburg, and in Denmark. Only really made their name in Denmark, where they became very influenctial in the 17th and 18th century holding a lot of high offices.
+-109- "von Altena" # Lotharingen 101889
+-110- "von Stein" 12441 Swabia
+-111- "von Lengenfeld # 212 Bavaria. Should be "von Pettendorf" which was the actuall name of the family.
+-112- "von Plain"# 207 Bavaria, colors unkown.
+-113- "von Treven" # 8732 Bavaria, colors unkown.
+-114- "von Fürstenberg" # 100251 Swabia
+-115- "von Virneberg" # 200064 should be "von Virneburg" Lotharingen
+-116- "von Schwerin" 7154 Saxony and Livonia. Bit complicated this one, its the family of the counts of Schwerin(used amongst others for the bishop of Riga) in vanilla. The propper name would be "von Hagen"(yes there is another ingame dynasty called that but its just a lone patrician in Lybæk), annoyingly Paradox uses the same family for all the counts(the post 1323 memebers ought be "von Wittenburg"(styling red field over gold) which was a cadet banch(counts of Wittenburg) of von Hagen. What makes it double problematic is that the real "von Schwerin" family(with a thrid coa) wasn't the counts family but lower nobility.
+-117- "von Malberg" # 7137 Lotharingen and 
+-117- "von Altenburg" 12477 Swabia
+-118- "von Wüllersleben" # 7139 Franken
+-119- "von Sangershausen" # 7141 Saxony/Thüringen
+-120- "von Heldrungen" # 7142 Thüringen/Franken
+-121- "von Schwanden" # 7143 Swabia
+-122- "von Feuchtwangen" #7144 Franken
+-123- "von Trier" # 7145 Lotharingen
+-124- "von Kerpen" 7134 Lotharingen 
+-125- "von Tunna" 7135 Thüringen/Franken
+-126- "von Orseln" # 7146 Franken
+-127- "von Vechta" #7151 Saxony/Bohemia/Livonia
+-128- "von Haseldorf" #7156 Saxony/Livonia. "Haselthorpe" in medival Danish.
+-129- "von Lechsgmünd" # 7167 should be "von Lechsgemünd" Bavaria
+-130- "von Komburg" # 7178 Franken, Should be "von Comburg" or better still "Comburg-Rothenburg".
+-131- "von Stahleck" # 7180 Lotharingen. This is where the Pfalzgraflische lion comes from.
+-132- "von Braunschweig" # 100257 Saxony
+-132- "de Normandie" # 752
++133- "Welf" # 650 Saxony, Welfen?
+-134- "Billung" # 656 Saxony, "Billunger" might be better name? depends on wether it should be plural.
+-135- "Askanien" # Saxony 226 Should be "Askanier" or "von Askanien". Arms here is those of the Ballenstedt branch, there was another orignal branch that of Ascherleben(counts of Ascharien(today Ascherleben)(where the Ascharia castle of which the Ascanian name is derived of is located. Their arms was white and black checkerd), but Ballenstedt was the one of the two that ended up dominating.
+-136- "von Hohenstaufen" 529 Swabia
+-137- "von Hohenzollern" 12476 Swabia
+-138- "von Rheinfelden" # 657 Swabia.
+-139- "von Bogen" # 228
+-140- "von Habsburg" # 51 Swabia
+-141- "von Zähringen" # 261
++142- "von Lenzburg" # 672 Swabia
+-143- "von Baden" # 100125 Swabia. Dosn't have anything to do with the Graf or Markgrafschaft.
+-144- "von Cilli" # 101881 Carinthia. They made their arms by quartering Sanneck(2 silver and 2 red stripes) with that of Heunbrug (three gold stars on blue)
+-145- "von Berlichingen" # 100435 Franken
+-146- "Boeselager" # 100449. Saxony
+-147- "Brauchitsch" # 100456. Should be "von Brauchitsch" Saxony(was mostely in Silesia, but the family did not have any affiliation with Bohemia or Poland)
+-148- "von Dillingen" 101555 Swabia
+-149- "von Kyburg" # 101697 Swabia
+-150- "van Groothusen" # 7130 Saxony/Prussia/Livonia, dutch in vanilla. Should be "von Grotthuß" and german.
+-151- "von Ziegenhain" # 7173 Thüringen/Franken.
+-152- "von Friesack" # 7164 Saxony Three water lillies, colors unkown.
+-153- "von Wolfach" # 7289 Swabia. Colors not recorded afaik, so just went with the ones of todays wulfach arm.
+-154- "Pahlen" # 100394 Saxony/Pommernia/Livonia. "von der Pahlen" would be better. 
+-155- "von Stolzenberg" # 12418 Bavaria
+-156- "von Versfleth" # 222 saxony. Should be renamed to "von Stumpenhusen" the name of the house of the counts of Versfleth(aswell as Stumpehusen). Colors unkown.
+-157- "von Signau" 7293 Swabia
+-158- "von Sommerchenberg" # 256 Saxony, should be "von Sommerschenburg" other attributed arms is 9 red and 9 silver horizontal stripes but Im a bit doubting it can look decent on so small a coa.
+-159- "Rapotonen" #7220 Bavaria. Coa of Deipoldinger(its the same family as Rapotonen), colors is a tad unsure(afaik the only place the arms is actually recorded is on one stone tablet with no color) but red on silver is what normally is attributed to the coa.
+-160- "von Brunshorn" 12440 Lotharingen  should be "von Braunshorn"
+-161- "von Kirchberg" # 258 Swabia
+-162- "von Frontenhausen" # 12423 Bavaria.
+-163- "Asperger" # 797 Swabia. Ought to be "von Asperg" IMO. 
+-164- "von Dachau" # 7132 Bavaria.
+-165- "von Luxemburg" # 420 Lotharingen counts of Luxembourg (the frankish dynasty nr 61 "de Luxembourg" that Armories already got a coa attached hasn't got any characters in vanilla)
+-166- "von Hardegg" # 12410 Bavaria.
+-167- "von Schoenecken" 12430 Lotharingen should be "von Schönecken"
+-168- "von Baumberg" # Lotharingen 12417, should be "von Baumburg"("Baumberg" is the name for the town that grew up close to the castle that gave the dynasty their name). Family also known as "Raugrafen"
+-169- "von Henneberg" # 7165 Franken/Saxony . Used for the "Henneberg branch"( via the wife of the first count of this branch) counts of Mekclemburg in vanilla. This is the early arms of von Henneberg, and an arm that the Mecklemburg counts of this branch did use, while I gave the post 1262 Henneberg arm to the Henneberg propper family(that Paradox called Babbenberger).
+-170- "von Wangen" # 12422 Bavaria.
+-171- "von Sigmaringen" # 8666 Swabia
+-172- "von Naumburg" 12407 Saxony . A bit liberal coa application, the ID is used for the second master of the Livonian bortherhood of the sword in vanilla, and not much is known of his heritage(except that he likely came from northern Saxony) so I based this on his arms stamp.
+-173- "von Eschenloch" 12406 one of the cadet branches of Meinhardiner. Unsure about the colors of the bird(wondering if it might have been black on gold instead), but it comes from the Tyrolian eagle(castle was located there and belonged to the Tyrolian/Carinthian Meinhardiners after they nicked it from a branch of the counts of Appiano) so I went with a normal Tyrolian eagle.
+-174- "von Goltern" # 7110 Saxony, Should be "von Heimburg"(the actual name of the house that was lords of Goltern) coa is of the Goltern branch of von Heimbach.
+-175- "von Wasserburg" # 211 Bavaria.
+-176- "von Werle" # 111 Saxony, should be "von Werl" 
+-176- "von Arnsberg" 101896 saxony. Arms of "von Arnsberg"(that was just the continuation of von Werl after they moved seat).
+-177- "von Greyerz" # 7257 Burgundy.
+-178- "von Grenchen" # 7259 Swabia.
+-179- "von Hohenfels" # 12434 Thuringia/Franken.
+-180- "von Gruningen" # 12448 Swabia, should be "von Grüningen".
+-181- "von Liebnitz" # 200063 Bavaria
+-182- "von Regenstein" #101902 Saxony
+-183- "von Amsberg" # 100307 Saxony
+-184- "von Beetzen" # 100430 Saxony
+-185- "von Bucheck" # 101897 Swabia Should be "von Buchegg" 
+-186- "Grelle" # 200061 Saxony, sohuld be "von Grell"
+-187- "von Klingenberg" # 9515 Swabia
+-188- "von Jülichgau" # 101694 Lotharingen. Original Jülich lion had black claws but it ended up devloping red ones overtime, so Jülichgau has gotten the old one with black claws while Jülich get the one with red claws :)
+-189- "von Wickerode" # 223 Saxony
+-190- "von Wittelsbach".  Wittlesbach ancient, their arms while being counts of Scheyern and before inheriting the counts of Bogen and the their coa.
+-191- "Immedinger" #7282
+-192- "Konradiner" #1053
+-193- "Ludolfinger" #669
+
+
+#################################
+Dutch
+#################################
+-195- "van Bergh" # 293 .
+-196- "Flamens" # 427 counts and Dukes of Geldern. Might make sense to change the name to "van Wassemberg". Flamens was surname of the first count of Wassemberg, but afaik its not normally applied to the whole house which normally goes by the Wassemberg name.
+-197- "van Loon" # 424
+-198- "von Diest" # 7118 german in vanilla. Should be "van Diest" and be Dutch.
+-199- "van Gaveren" 6008
+-200- "van Serooskerken" # 220
+-201- "van Wesemael" 6013
+-202- "van Glymes" # 6009
+-203- "Gerulfing" # 432 Counts of Holland
+-204- "van Egmond" # 6000
+-205- "van Arkel" # 6002
+-206- "van Brederode" # 6004
+-207- "van Heemskerk" # 6007
+-208- "van Wassenaer" # 6014
+-200- "van Boutershem" 6003 Should be "van Boutersem".
+-210- "van Renesse" # 6012
+-211- "van Rheden" # 6015 another cadet branch of the lords of Bahr.
+-212- "van Bronckhorst" # 6016
+-213- "van Keppel" # 6017
+-214- "van Voorst" # 6018
+-215- "van Lathum" # 6019 # Might be better as "van Bahr". Lathum was seat of the lords of Bahr, and at some point a it was also the name of a tiny cadet branch, but Bahr as dynasty is much more important(and its their arm) and makes more sense.
+-216- "van Wisch" # 6022
+-217- "van Cuijck" # 7168 , should be "Van Cuijk"
+-218- "van Sierck" # 7174. Its the cross of Uthrecht, it was Jan Sierck that as bishop introduced the weapon to the bishopery.
+-219- "van Naaldwijk" 7200
+-220- "van Berthout" 7175
+-221- "van Voorne" 7197
+-222- "von Hornes" 422 . german( in vanilla should be dutch and called "van Horne" # three red drinking horns on gold
+-223- "van Oudshoorn" 7176. Three gold drinking horns on gold.
+-224- "van Amstel" 6001
+-225- "Fryske" # 246 Frisian kings.
+-226- "van Zutphen" 101918, is german in vanilla, should be made dutch.
+-227- "De Graeff" # 430, Should be "van De Graeff"
+-228- "Reginar" # 7198 
+-229- "van Leuven" # 419 The Leuven branch of the house of Reignar was the one styling the Lion that later came to symbol the duchy of Brabant. 
+-230- "van Valkenburg" # 12444 German in vanilla, should be Dutch.
+-231- "van Randerath" 7172
+-232- "van Gand" #434, not sure what the right name is for this one but I think its best to either go middle English, Dutch or French with it and not a mix.
+-233- "van Breda" # 6006
+-234- "van Veluwe" #429

@@ -1,0 +1,250 @@
+spriteTypes = {
+	spriteType = {
+		name = "GFX_charview_goto_dynasty_vide"
+		texturefile = "gfx\\interface\\charview_goto_dynasty_vide.dds"
+	}
+	spriteType = {
+		name = "GFX_ironman_revolt_icone"
+		texturefile = "gfx\\interface\\ironman_revolt_icon.dds"
+	}
+	spriteType = {
+		name = "GFX_trade_post_bg_notbuilt_arko"
+		texturefile = "gfx\\interface\\trade_post_bg_notbuilt.dds"
+	}
+	spriteType = {
+		name = "GFX_decadence_revolt_label"
+		texturefile = "gfx\\interface\\decadence_revolt_label.dds"
+	}
+	spriteType = {
+		name = "GFX_trade_post_bg_arko"
+		texturefile = "gfx\\interface\\trade_post_bg.dds"
+	}
+	spriteType = {
+		name = "GFX_parchemin_arko"
+		texturefile = "gfx\\interface\\trade_post_bg_arko.dds"
+	}
+	spriteType = {
+		name = "GFX_label_arko"
+		texturefile = "gfx\\interface\\label_arko.dds"
+	}
+	spriteType = {
+		name = "GFX_label_tronque"
+		texturefile = "gfx\\interface\\label_tronque.dds"
+	}
+	spriteType = {
+		name = "GFX_label_arko_small"
+		texturefile = "gfx\\interface\\label_arko_small.dds"
+	}
+	spriteType = {
+		name = "GFX_garrison_arko"
+		texturefile = "gfx\\interface\\garrison_arko.dds"
+	}
+	spriteType = {
+		name = "GFX_domaine"
+		texturefile = "gfx\\interface\\province_bg_domaines.dds"
+	}
+	progressbartype = {
+		name = "GFX_default_progress_arko" #anciennement pour trade post -big-
+		color = { 0.0 0.5 0.0 }
+		colortwo = { 1.0 0.0 0.0 }
+		textureFile1 = "gfx\\interface\\default_progress_1.dds"
+		textureFile2 = "gfx\\interface\\default_progress_2.dds"
+		size = { x = 180 y = 76 }
+		effectFile = "gfx/FX/progress.lua"
+	}
+	progressbartype = {
+		name = "GFX_default_progress_arko2" #nouveau pour fort
+		color = { 0.0 0.5 0.0 }
+		colortwo = { 1.0 0.0 0.0 }
+		textureFile1 = "gfx\\interface\\default_progress_1g.dds"
+		textureFile2 = "gfx\\interface\\default_progress_2g.dds"
+		size = { x = 99 y = 32 }
+		effectFile = "gfx/FX/progress.lua"
+	}
+
+	###SIEGE VIEW
+	progressbartype = {
+		name = "GFX_combat_siege_morale_att"
+		color = { 0.0 0.5 0.0 }
+		colortwo = { 1.0 0.0 0.0 }
+		textureFile1 = "gfx\\interface\\combat_siege_morale1.dds"
+		textureFile2 = "gfx\\interface\\combat_siege_morale2.dds"
+		size = { x = 121 y = 20 }
+		effectFile = "gfx/FX/progress.lua"
+	}
+	progressbartype = {
+		name = "GFX_combat_siege_morale_def"
+		color = { 0.0 0.5 0.0 }
+		colortwo = { 1.0 0.0 0.0 }
+		textureFile1 = "gfx\\interface\\combat_siege_morale3.dds"
+		textureFile2 = "gfx\\interface\\combat_siege_morale2.dds"
+		size = { x = 121 y = 20 }
+		effectFile = "gfx/FX/progress.lua"
+	}
+	spriteType = {
+		name = "GFX_siege_banniere"
+		texturefile = "gfx\\interface\\siege_banniere_arko.dds"
+	}
+	spriteType = {
+		name = "GFX_siege_cadres"
+		texturefile = "gfx\\interface\\siege_cadres_arko.dds"
+	}
+	spriteType = {
+		name = "GFX_icon_siege_tofewmen_arko"
+		texturefile = "gfx\\interface\\icon_siege_tofewmen_arko.tga"
+		noOfFrames = 1
+		norefcount = yes
+	}
+	
+###BUILD NEW VIEW
+	spriteType = {
+		name = "GFX_build_settlement_banniere_arko"
+		texturefile = "gfx\\interface\\build_settlement_banniere_arko.dds"
+	}
+	spriteType = {
+		name = "GFX_build_settlement_fond_arko"
+		texturefile = "gfx\\interface\\build_settlement_fond_arko.dds"
+	}
+### GENERAL Buildview
+	spriteType = {
+		name = "GFX_buildview_level_arko"
+		texturefile = "gfx\\interface\\buildview_level_arko.dds"
+		noOfFrames = 12
+	}
+### COUNCIL
+	spriteType = {
+		name = "GFX_honorifique"
+		texturefile = "gfx\\interface\\honorifique.dds"
+	}
+
+### CHRONIQUE
+	spriteType = {
+		name = "GFX_chronicle_label_ARKO"
+		texturefile = "gfx\\interface\\chronicle_divider_ARKO.dds"
+	}
+	spriteType = {
+		name = "GFX_charframe_50_chronicle"
+		texturefile = "gfx\\interface\\charframe_50_chronicle.dds"
+		noOfFrames = 6
+		allwaystransparent = yes
+	}
+###MAIN
+	spriteType = {
+		name = "nudge_icon"
+		texturefile = "gfx\\interface\\icon_nudge.dds"
+		noOfFrames = 1
+		norefcount = yes
+	}
+###FRONTEND
+	spriteType = {
+		name = "GFX_lobby_right_entree_vassal"
+		texturefile = "gfx\\interface\\lobby_right_entree_vassal.dds"
+		allwaystransparent = yes
+	}
+	spriteType = {
+		name = "GFX_era_bg_blank"
+		texturefile = "gfx\\interface\\pick_era_bg_blank.dds"
+#		allwaystransparent = yes
+	}
+	spriteType = {
+		name = "GFX_lobby_left_loadsave"
+		texturefile = "gfx\\interface\\lobby_left_loadsave.dds"
+	}	
+##VUE PERSO
+	spriteType = {
+		name = "GFX_opinion_bg_rond"
+		texturefile = "gfx\\interface\\opinion_bg_rond.tga"
+	}
+	spriteType = {
+		name = "GFX_primaires_1fond"
+		texturefile = "gfx\\interface\\primaires_1fond.tga"
+	}
+	spriteType = {
+		name = "GFX_primaires_2cadre"
+		texturefile = "gfx\\interface\\primaires_2cadre.tga"
+	}
+	spriteType = {
+		name = "GFX_bg_cadres_charview"
+		texturefile = "gfx\\interface\\charview_bg_cadres.dds"
+	}
+	spriteType = {
+		name = "GFX_dynashield_deco"
+		texturefile = "gfx\\interface\\dynashield_deco.tga"
+	}
+	spriteType = {
+		name = "GFX_dynashield_deco2"
+		texturefile = "gfx\\interface\\dynashield_deco2.tga"
+	}
+	spriteType = {
+		name = "GFX_dynashield_label"
+		texturefile = "gfx\\interface\\dynashield_label.tga"
+	}
+	spriteType = {
+		name = "GFX_black1"
+		texturefile = "gfx\\interface\\black_perso1.tga"
+	}
+	spriteType = {
+		name = "GFX_black2"
+		texturefile = "gfx\\interface\\black_perso2.tga"
+	}
+	spriteType = {
+		name = "GFX_religio_deco"
+		texturefile = "gfx\\interface\\religio_deco.tga"
+	}
+	spriteType = {
+		name = "GFX_charview_tab_arko1"
+		texturefile = "gfx\\interface\\charview_tab_arko1.dds"
+		noOfFrames = 2
+	}
+	spriteType = {
+		name = "GFX_charview_tab_arko2"
+		texturefile = "gfx\\interface\\charview_tab_arko2.dds"
+		noOfFrames = 2
+	}
+	spriteType = {
+		name = "GFX_lobby_tab_blue"
+		texturefile = "gfx\\interface\\lobby_tab_blue.dds"
+		noOfFrames = 2
+	}
+	spriteType = {
+		name = "GFX_charview_icone_claims"
+		texturefile = "gfx\\interface\\charview_icone_claims.dds"
+	}
+	spriteType = {
+		name = "GFX_charview_icone_diplomatie"
+		texturefile = "gfx\\interface\\charview_icone_diplomatie.dds"
+	}
+	spriteType = {
+		name = "GFX_charview_icone_culture"
+		texturefile = "gfx\\interface\\charview_icone_culture.dds"
+	}
+	spriteType = {
+		name = "GFX_charview_deco_culture"
+		texturefile = "gfx\\interface\\culture_deco.dds"
+	}
+	spriteType = {
+		name = "GFX_the_realm_ARKO"
+		texturefile = "gfx\\interface\\the_realm3.tga"
+	}
+	spriteType = {
+		name = "GFX_charview_wikipedia_real"
+		texturefile = "gfx\\interface\\charview_goto_wiki_real.dds"
+	}
+	spriteType = {
+		name = "GFX_religion_icon_strip_decorated"
+		texturefile = "gfx\\interface\\religion_icon_strip_decorated.tga"
+		noOfFrames = 60
+	}
+	spriteType = {
+		name = "GFX_charview_label_bg_alt"
+		texturefile = "gfx\\interface\\charview_label_bg_alt.dds"
+		allwaystransparent = yes
+	}
+###EVENTS
+	spriteType = {
+		name = "GFX_evt_battle_arabic"
+		texturefile = "gfx\\event_pictures\\battle_scene_muslims.tga"
+		allwaystransparent = yes
+	}
+}
+

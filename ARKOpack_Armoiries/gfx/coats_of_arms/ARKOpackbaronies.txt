@@ -1,0 +1,115 @@
+﻿################################
+# Armoiries ArkoPack par ARKO
+#
+# Baronnies
+################################
+
+marquage par "*" = dernières nouveautés (latest additions)
+
+01-*
+02-*
+03-*
+04-*
+05-*
+06-*
+07-*
+
+###c_bugey
+00-INDEX couleurs
+
+
+-21-Thoire = { coat_of_arms = { data = { 0 4 0 21 0 0 0 } religion="catholic" } }
+-22-Nantua = { coat_of_arms = { data = { 0 4 0 11 0 0 0 } religion="catholic" } }
+-23-Valbonne = { coat_of_arms = { data = { 0 4 0 10 0 0 0 } religion="catholic" } }
+-24-Oyonnax = { coat_of_arms = { data = { 0 4 0 18 0 0 0 } religion="catholic" } }
+-25-Bourgenbresse = { coat_of_arms = { data = { 0 4 0 13 0 0 0 } religion="catholic" } }
+
+
+
+
+
+###c_geneve
+-10-b_geneve = { coat_of_arms = { data = { 0 4 0 15 0 0 0 } religion="catholic" } }
+
+
+-12-b_nyon  = { coat_of_arms = { data = { 0 4 0 16 0 0 0 } religion="catholic" } }
+-13-b_lausanne = { coat_of_arms = { data = { 0 4 0 17 0 0 0 } religion="catholic" } }
+
+
+16-*
+17-*
+18-*
+19-*
+20-*
+21-*
+22-*
+23-*
+###c_macon
+-b_cluny = { coat_of_arms = { data = { 0 5 0 13 0 0 0 } religion="catholic" } }
+24-*
+25-*
+26-
+27-
+28-
+29-
+-b_geldern = { coat_of_arms = { data = { 0 4 0 23 0 0 0 } religion="catholic" } }
+-b_utrecht = { coat_of_arms = { data = { 0 4 0 22 0 0 0 } religion="catholic" } }
+30-
+31-
+32-
+33-
+34-
+35-
+36-
+37-
+38-
+39-
+
+-62-Saint-Maurice*
+
+-71-Chateau l'Emperi*
+-72-Salon de Provence*
+
+-81-Marseille
+-82-Grimaud*
+
+83-*
+84-*
+85-*
+
+-90-Forcalquier*
+-91-Digne*
+
+-93-Sault*
+
+-101-Grasse *
+-102-Barcelonette*
+
+-114-Venasque*
+
+-119-Gigondas
+
+-141-Gap*
+
+-170-Basel capital*
+-171-Basel second settlement*
+-172-Basel second settlement*
+-173-Basel second settlement*
+
+###Portois
+-182-Luxeuil
+
+###c_varais
+200-*
+201-*
+-202-Poligny*
+-203-Salins*
+-204-Clairvaux*
+-205-Saint Oyand*
+
+###c_besancon
+-210-Besançon*
+-211-Saint-Ferjeux*
+
+
+

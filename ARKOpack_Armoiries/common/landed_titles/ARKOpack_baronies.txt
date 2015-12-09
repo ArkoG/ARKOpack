@@ -1,0 +1,37 @@
+#baronial CoA code entry template
+
+#coat_of_arms= {
+#		data= { 
+#			0 #composition/template 
+#			5 #index de texture/texture ID
+#			0 #élément en superposition/emblem
+#			13 #index interne à la texture/texture internal
+#			0 #couleur 1/colour 1
+#			0 #couleur 2/colour 2
+#			0 #couleur 3/colour 3
+#			}
+#		religion="catholic" #blason seulement actif pour cette religion, sinon random
+#	}
+
+#compact version #b_cluny = { coat_of_arms = { data = { 0 5 0 13 0 0 0 }	religion="catholic"	} }#
+
+#from dynasty file
+b_cluny  	= 	{ coat_of_arms = { data =	{ 0 5 0 13 0 0 0 }	religion="catholic" } }
+b_chalon  	= 	{ coat_of_arms = { data =	{ 0 5 0 6 0 0 0 }	religion="catholic" } }
+b_orange  	= 	{ coat_of_arms = { data =	{ 0 5 0 32 0 0 0 }	religion="catholic" } }
+b_metz  	= 	{ coat_of_arms = { data =	{ 0 5 0 104 0 0 0 }	religion="catholic" } }
+b_geldern	=	{ coat_of_arms = { data =	{ 0 5 0 107 0 0 0 }	religion="catholic" } }
+
+#from barony file
+b_geneve 	=	{ coat_of_arms = { data =	{ 0 4 0 10 0 0 0 }	religion="catholic" } }
+b_lausanne 	=	{ coat_of_arms = { data =	{ 0 4 0 13 0 0 0 }	religion="catholic" } }
+b_marseille	=	{ coat_of_arms = { data =	{ 0 4 0 81 0 0 0 }	religion="catholic" } }
+b_grimaud	=	{ coat_of_arms = { data =	{ 0 4 0 82 0 0 0 }	religion="catholic" } }
+b_forcalquier=	{ coat_of_arms = { data =	{ 0 4 0 90 0 0 0 }	religion="catholic" } }
+b_grasse	=	{ coat_of_arms = { data =	{ 0 4 0 101 0 0 0 }	religion="catholic" } }
+b_venasque	=	{ coat_of_arms = { data =	{ 0 4 0 114 0 0 0 }	religion="catholic" } }
+#b_chateauneufdupape={ coat_of_arms = {data ={ 0 4 0 119 0 0 0 }	religion="catholic" } }
+b_gap	=		{ coat_of_arms = { data =	{ 0 4 0 141 0 0 0 }	religion="catholic" } }
+b_basel	=		{ coat_of_arms = { data =	{ 0 4 0 170 0 0 0 }	religion="catholic" } }
+b_besancon	=	{ coat_of_arms = { data =	{ 0 4 0 210 0 0 0 }	religion="catholic" } }
+

@@ -1,0 +1,194 @@
+######################################
+#New pommeranian dynasties
+######################################
+#Vendish, Oborite nobility from Mecklenburg
+#
+######################################
+#Proper dynasties
+#Range 1000035781-1000035800
+######################################
+
+1000035781 = {
+name="Barnekow"
+ culture = pommeranian
+}
+1000035782 = {
+name="Linstow"
+ culture = pommeranian
+}
+1000035783 = {
+name="Vestenie"
+ culture = pommeranian
+ coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 12
+			texture_internal = 24
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+1000035784 = {
+name="Normann"
+ culture = pommeranian
+ coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 12
+			texture_internal = 29
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+1000035785 = {
+name="Santz"
+ culture = pommeranian
+ coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 12
+			texture_internal = 51
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+1000035786 = {
+name="Steinwehr"
+ culture = pommeranian
+ coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 12
+			texture_internal = 77
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+1000035787 = {
+name="Moltke"
+ culture = pommeranian
+ coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 12
+			texture_internal = 79
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+1000035788 = {
+name="Pressentin"
+ culture = pommeranian
+ coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 12
+			texture_internal = 84
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+1000035789 = {
+name="Knuth"
+ culture = pommeranian
+ coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 12
+			texture_internal = 86
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+1000035790 = {
+name="Dodenberg"
+ culture = pommeranian
+ coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 12
+			texture_internal = 87
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+1000035791 = {
+name="Göretze"
+ culture = pommeranian
+ coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 12
+			texture_internal = 97
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+1000035792 = {
+name="Mule"
+ culture = pommeranian
+ coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 12
+			texture_internal = 99
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+1000035793 = {
+name="Krakewitz"
+ culture = pommeranian
+ coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 12
+			texture_internal = 105
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+######################
+#Tribes
+######################
+1000100400 = {
+name="Velunzani"
+ culture = pommeranian
+}
+1000100401 = {
+name="Licicaviki"
+ culture = pommeranian
+}

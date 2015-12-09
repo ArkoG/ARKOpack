@@ -1,0 +1,195 @@
+################################
+# Armoiries ArkoPack par ARKO
+#
+# Armoiries Pack : -Titres Terriens- (Landed titles)
+#
+################################
+
+"*" = nouveauté/blason redessiné/amélioré (latest additions/upgraded)
+
+Provinces et titres :
+
+C Aargau
+C Albret
+C Amiens
+C Arborea
+C Armagnac
+C Auvergne
+C Auxerre
+C Bamberg
+C Bearn
+C Besançon
+C Bern
+C Bar
+C Barcelona
+C Blois
+C Bologna
+C Bordeaux
+C Bourbon*
+C Bourges
+C Burgos
+C Brescia
+C Byzantion
+C Carlat (SWMH)
+C Châlons
+C Charolais
+C Chartres
+C Chur
+C Cornouailles
+C Corsica
+C Couserans (MOD)
+C Lyon
+C Viennois
+C Dijon
+C_Eivissa (MOD)
+C Firenze
+C Forcalquier
+C Forez
+C_Gallura (MOD)
+C Genève
+C Gènes
+C Gent
+C Gévaudan
+C Grisons
+C Hainaut
+C Labourd
+C La Marche
+C Leon (Brittany)
+C Liège
+C Leòn
+C Loon
+C Lusignan
+C Luxembourg
+C Lorraine
+C Lyon
+C Mâcon
+C Mallorca
+C Mende (MOD)
+C Metz
+C Monferrato
+C Montpellier
+C Mortain
+C Munster
+C Murat (SWMH)
+C Nantes
+C_Narbonne
+C Nevers
+C_Nemours (MOD)
+C Neuchatel
+C Nordgau
+C_Nordulandvestra (MOD)
+C Parma
+C Penthièvre
+C Penthièvre alt
+C Plafz
+C Pisa
+C Poitiers
+C Provence
+C Reims
+C Rennes
+C Rennes alt
+C Rouergue
+C Royaumont (MOD)
+C Saluzzo
+C Santiago
+C Saintonge
+C Sens
+C Sankt Gallen
+C Sticht
+C Sundgau
+C Savoie
+C Saintois
+C Schwyz
+C_Sponheim (MOD)
+C_Sudurland (MOD)
+C Carcassonne
+C venizia
+C Vannes
+C Vivarais
+C Lusignan
+C Périgord
+C Agen
+C Angoulême
+C Toulouse
+C Touraine
+C Troyes
+C Valais
+C Venaissin
+C Verdun
+C Vermandois
+------------
+D Alsace
+D_Antipape (MOD)
+D Aragon*
+D_Asturias
+D Auvergne
+D Aquitaine
+D_Bar (MOD)
+D Barcelone*
+D Berry
+D Bourbon
+D Bourgogne
+D Bretagne
+D Brabant
+D Corsica (MOD)
+D Champagne
+D Dauphiné
+D Finlande
+D Flandres
+D Genovese_navy
+D Gascogne
+D Gènes
+D Upper Burgundy
+D Leòn
+D Luxembourg
+D Mallorca
+D Normandie
+D_Piemont (MOD)
+D Pisa
+D Provence
+D Savoie
+D Swiss
+D Toulouse
+D Toscana
+D Upper_lorraine
+D Trezibond*
+D venizia
+D Zaragoza
+------------
+K Aquitaine
+K Aragon*
+K_Asturias
+K Bourgogne
+K Bretagne
+K_burgundy_transjurana (MOD)
+K_burgundy_transjurana alt (MOD)
+K Byzantium
+K_england (latin)
+K_england (west germanic)
+K Hungary
+K Finlande
+K France
+K Germany
+K Leon
+K Lotharingia
+K Naples
+K Papauté
+K Ireland
+K Italy
+K_occitania (MOD)
+K_provence (MOD)
+K_savoy (MOD)
+K_genova (MOD)
+K_genoa
+K_Trezibond*
+K venizia
+------------
+E Byzantium
+E France
+E Scandinavia
+E HRE
+E Italy
+
+
+
+

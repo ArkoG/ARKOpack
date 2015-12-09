@@ -1,0 +1,191 @@
+######################################
+#New swedish dynasties
+######################################
+#
+#
+######################################
+#Range1000053700-1000053799
+######################################
+1000053700 = {
+name="Tillbakaseende Ulv"
+ culture = swedish
+ coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 12
+			texture_internal = 7
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+1000053701 = {
+name="Hand"
+ culture = swedish
+ coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 12
+			texture_internal = 9
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+1000053702 = {
+name="Uggla"
+ culture = swedish
+ coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 12
+			texture_internal = 11
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+1000053703 = {
+name="Gyllenstierna"
+ culture = swedish
+ coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 12
+			texture_internal = 12
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+1000053704 = {
+name="Häst"
+ culture = swedish
+ coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 12
+			texture_internal = 14
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+1000053705 = {
+name="Sabelskjöld"
+ culture = swedish
+ coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 12
+			texture_internal = 20
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+1000053706 = {
+name="Gumsehuvud"
+ culture = swedish
+ coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 12
+			texture_internal = 23
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+1000053707 = {
+name="Barun"
+ culture = swedish
+ coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 12
+			texture_internal = 40
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+1000053708 = {
+name="Forstena"
+ culture = swedish
+ coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 12
+			texture_internal = 41
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+1000053709 = {
+name="Sandbro"
+ culture = swedish
+ coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 12
+			texture_internal = 53
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+1000053710 = {
+name="Ama"
+ culture = swedish
+ coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 12
+			texture_internal = 72
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+1000053711 = {
+name="Örnfot"
+ culture = swedish
+ coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 12
+			texture_internal = 83
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+
+
+

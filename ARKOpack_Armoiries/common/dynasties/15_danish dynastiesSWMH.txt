@@ -1,0 +1,1094 @@
+######################################
+#New danish dynasties
+######################################
+#
+#
+######################################
+#Range  1000035851-1000035900
+#Range2 1000053800-1000053899
+######################################
+
+1000035851 = {
+name="Sested"
+ culture = danish
+ coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 12
+			texture_internal = 1
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+1000035852 = {
+name="Krag"
+ culture = danish
+ coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 12
+			texture_internal = 2
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+1000035853 = {
+name="Krummedige"
+ culture = danish
+ coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 12
+			texture_internal = 3
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+1000035854 = {
+name="Grubbe"
+ culture = danish
+ coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 12
+			texture_internal = 4
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+1000035855 = {
+name="Krugelund"
+ culture = danish
+ coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 12
+			texture_internal = 5
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+1000035856 = {
+name="Galskyt"
+ culture = danish
+ coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 12
+			texture_internal = 6
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+1000035857 = {
+name="Vind"
+ culture = danish
+ coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 12
+			texture_internal = 8
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+1000035858 = {
+name="Giedde"
+ culture = danish
+ coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 12
+			texture_internal = 10
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+1000035859 = {
+name="Aasmul"
+ culture = danish
+ coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 12
+			texture_internal = 13
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+1000035860 = {
+name="Kjærulf"
+ culture = danish
+ coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 12
+			texture_internal = 16
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+1000035861 = {
+name="Lykke"
+ culture = danish
+ coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 12
+			texture_internal = 17
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+1000035862 = {
+name="Godov"
+ culture = danish
+ coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 12
+			texture_internal = 18
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+1000035863 = {
+name="Rani"
+ culture = danish
+ coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 12
+			texture_internal = 21
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+1000035864 = {
+name="Skram"
+ culture = danish
+ coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 12
+			texture_internal = 22
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+1000035865 = {
+name="Kruse"
+ culture = danish
+ coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 12
+			texture_internal = 25
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+1000035866 = {
+name="Markmand"
+ culture = danish
+ coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 12
+			texture_internal = 26
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+1000035867 = {
+name="Løvenbalk"
+ culture = danish
+ coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 12
+			texture_internal = 27
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+1000035868 = {
+name="Lund"
+ culture = danish
+ coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 12
+			texture_internal = 28
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+1000035869 = {
+name="Pors"
+ culture = danish
+ coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 12
+			texture_internal = 30
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+1000035870 = {
+name="Lunge"
+ culture = danish
+ coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 12
+			texture_internal = 31
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+1000035871 = {
+name="Krumpen"
+ culture = danish
+ coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 12
+			texture_internal = 32
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+1000035872 = {
+name="Prip"
+ culture = danish
+ coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 12
+			texture_internal = 33
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+1000035873 = {
+name="Mus"
+ culture = danish
+ coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 12
+			texture_internal = 34
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+1000035874 = {
+name="Kirt"
+ culture = danish
+ coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 12
+			texture_internal = 35
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+1000035875 = {
+name="Af Vadskær"
+ culture = danish
+ coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 12
+			texture_internal = 36
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+1000035876 = {
+name="Harbou"
+ culture = danish
+ coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 12
+			texture_internal = 37
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+1000035877 = {
+name="Glug"
+ culture = danish
+ coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 12
+			texture_internal = 38
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+1000035878 = {
+name="Due"
+ culture = danish
+ coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 12
+			texture_internal = 39
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+1000035879 = {
+name="Griis"
+ culture = danish
+ coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 12
+			texture_internal = 42
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+1000035880 = {
+name="Grim"
+ culture = danish
+ coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 12
+			texture_internal = 43
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+1000035881 = {
+name="Glob"
+ culture = danish
+ coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 12
+			texture_internal = 44
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+1000035882 = {
+name="Skovgård"
+ culture = danish
+ coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 12
+			texture_internal = 45
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+1000035883 = {
+name="Steeg"
+ culture = danish
+ coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 12
+			texture_internal = 46
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+1000035884 = {
+name="Straale"
+ culture = danish
+ coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 12
+			texture_internal = 47
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+1000035885 = {
+name="Steen"
+ culture = danish
+ coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 12
+			texture_internal = 48
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+1000035886 = {
+name="Snekken"
+ culture = danish
+ coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 12
+			texture_internal = 49
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+1000035887 = {
+name="Sommer"
+ culture = danish
+ coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 12
+			texture_internal = 50
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+1000035888 = {
+name="Saxtrup"
+ culture = danish
+ coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 12
+			texture_internal = 52
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+1000035889 = {
+name="Sappi"
+ culture = danish
+ coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 12
+			texture_internal = 55
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+1000035890 = {
+name="Brock"
+ culture = danish
+ coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 12
+			texture_internal = 56
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+1000035891 = {
+name="Laxmand"
+ culture = danish
+ coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 12
+			texture_internal = 57
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+1000035892 = {
+name="Skade"
+ culture = danish
+ coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 12
+			texture_internal = 58
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+1000035893 = {
+name="Røde"
+ culture = danish
+ coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 12
+			texture_internal = 60
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+1000035894 = {
+name="Råsted"
+ culture = danish
+ coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 12
+			texture_internal = 61
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+1000035895 = {
+name="Rød"
+ culture = danish
+ coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 12
+			texture_internal = 62
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+1000035896 = {
+name="Abildgaard"
+ culture = danish
+ coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 12
+			texture_internal = 63
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+1000035897 = {
+name="Hvide"
+ culture = danish
+ coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 12
+			texture_internal = 70
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+1000035898 = {
+name="Kyrning"
+ culture = danish
+ coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 12
+			texture_internal = 71
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+1000035900 = {
+name="Dreefeld"
+ culture = danish
+ coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 12
+			texture_internal = 73
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+1000053800 = {
+name="Dotting"
+ culture = danish
+ coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 12
+			texture_internal = 74
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+1000053801 = {
+name="Gagge"
+ culture = danish
+ coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 12
+			texture_internal = 75
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+1000053802 = {
+name="Rudbek"
+ culture = danish
+ coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 12
+			texture_internal = 76
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+1000053803 = {
+name="Taa"
+ culture = danish
+ coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 12
+			texture_internal = 78
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+1000053804 = {
+name="Urne"
+ culture = danish
+ coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 12
+			texture_internal = 80
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+1000053805 = {
+name="Tinhuus"
+ culture = danish
+ coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 12
+			texture_internal = 81
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+1000053806 = {
+name="Vognsen"
+ culture = danish
+ coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 12
+			texture_internal = 82
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+1000053807 = {
+name="Udsen"
+ culture = danish
+ coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 12
+			texture_internal = 85
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+1000053808 = {
+name="Halland"
+ culture = danish
+ coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 12
+			texture_internal = 88
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+1000053809 = {
+name="Falster"
+ culture = danish
+ coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 12
+			texture_internal = 89
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+1000053810 = {
+name="Reef"
+ culture = danish
+ coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 12
+			texture_internal = 92
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+1000053811 = {
+name="Hørby"
+ culture = danish
+ coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 12
+			texture_internal = 93
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+1000053812 = {
+name="Limbek"
+ culture = danish
+ coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 12
+			texture_internal = 95
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+1000053813 = {
+name="Krognos"
+ culture = danish
+ coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 12
+			texture_internal = 96
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+1000053814 = {
+name="Kruckow"
+ culture = danish
+ coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 12
+			texture_internal = 98
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+1000053815 = {
+name="Smalsted"
+ culture = danish
+ coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 12
+			texture_internal = 100
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+1000053816 = {
+name="Vinter"
+ culture = danish
+ coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 12
+			texture_internal = 101
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+1000053817 = {
+name="Panter"
+ culture = danish
+ coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 12
+			texture_internal = 102
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+1000053818 = {
+name="Skaaning"
+ culture = danish
+ coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 12
+			texture_internal = 103
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+1000053819 = {
+name="Fasti"
+ culture = danish
+ coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 12
+			texture_internal = 104
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+1000053820 = {
+name="Stalder"
+ culture = danish
+ coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 12
+			texture_internal = 106
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+1000053821 = {
+name="Lange"
+ culture = danish
+ coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 12
+			texture_internal = 107
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+1000053822 = {
+name="Mormand"
+ culture = danish
+ coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 12
+			texture_internal = 107
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+1000053823 = {
+name="Bodilsen"
+ culture = danish
+}

@@ -1,0 +1,1315 @@
+######################################
+#New lithuanian dynasties by Galvakojis
+######################################
+#
+#
+######################################
+#Proper dynasties
+#Range 1000053400-1000053459
+######################################
+
+1000053401 = {
+name="Palemonas"
+ culture = lithuanian
+   	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 11
+			texture_internal = 1
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+1000053405 = {
+name="Kentauras"
+ culture = lithuanian
+   	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 11
+			texture_internal = 14
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+1000053406 = {
+name="Mingailaitis"
+ culture = lithuanian
+   	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 11
+			texture_internal = 15
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+1000053407 = {
+name="Leliušas"
+ culture = lithuanian
+   	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 11
+			texture_internal = 16
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+1000053408 = {
+name="Daugirdas"
+ culture = lithuanian
+   	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 11
+			texture_internal = 17
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+1000053409 = {
+name="Butrimas"
+ culture = lithuanian
+   	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 11
+			texture_internal = 18
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+1000053488 = {
+name="Sapiega"
+ culture = lithuanian
+   	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 11
+			texture_internal = 19
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+1000053489 = {
+name="Oginskis"
+ culture = lithuanian
+   	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 11
+			texture_internal = 20
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+1000053410 = {
+name="Abromavicius"
+ culture = lithuanian
+   	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 11
+			texture_internal = 21
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+1000053411 = {
+name="Iljinicius"
+ culture = lithuanian
+   	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 11
+			texture_internal = 22
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+1000053412 = {
+name="Valavicius"
+ culture = lithuanian
+   	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 11
+			texture_internal = 23
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+1000053413 = {
+name="Gosievskis"
+ culture = lithuanian
+   	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 11
+			texture_internal = 24
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+1000053414 = {
+name="Olielkaitis"
+ culture = lithuanian
+   	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 11
+			texture_internal = 25
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+1000053415 = {
+name="Bilevicius"
+ culture = lithuanian
+   	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 11
+			texture_internal = 26
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+1000053416 = {
+name="Masalskis"
+ culture = lithuanian
+   	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 11
+			texture_internal = 27
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+1000053417 = {
+name="Chreptavicius"
+ culture = lithuanian
+   	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 11
+			texture_internal = 28
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+1000053418 = {
+name="Chaleckis"
+ culture = lithuanian
+   	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 11
+			texture_internal = 29
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+1000053419 = {
+name="Kiška"
+ culture = lithuanian
+   	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 11
+			texture_internal = 30
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+1000053420 = {
+name="Korsakas"
+ culture = lithuanian
+   	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 11
+			texture_internal = 31
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+1000053421 = {
+name="Gelgaudas"
+ culture = lithuanian
+   	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 11
+			texture_internal = 32
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+1000053422 = {
+name="Zbarackis"
+ culture = lithuanian
+   	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 11
+			texture_internal = 33
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+1000053423 = {
+name="Nemiraitis"
+ culture = lithuanian
+   	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 11
+			texture_internal = 34
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+1000053424 = {
+name="Putiaticius"
+ culture = lithuanian
+   	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 11
+			texture_internal = 35
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+1000053425 = {
+name="Glinskis"
+ culture = lithuanian
+   	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 11
+			texture_internal = 36
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+1000053426 = {
+name="Nemirovicius"
+ culture = lithuanian
+   	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 11
+			texture_internal = 37
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+1000053427 = {
+name="Zaviša"
+ culture = lithuanian
+   	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 11
+			texture_internal = 38
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+1000053428 = {
+name="Kmita"
+ culture = lithuanian
+   	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 11
+			texture_internal = 39
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+1000053490 = {
+name="Bareikis"
+ culture = lithuanian
+   	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 11
+			texture_internal = 40
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+1000053429 = {
+name="Siesickis"
+ culture = lithuanian
+   	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 11
+			texture_internal = 41
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+1000053430 = {
+name="Tyzenhauzas"
+ culture = lithuanian
+   	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 11
+			texture_internal = 42
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+1000053431 = {
+name="Stravinskis"
+ culture = lithuanian
+   	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 11
+			texture_internal = 43
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+1000053432 = {
+name="Sluška"
+ culture = lithuanian
+   	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 11
+			texture_internal = 44
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+1000053433 = {
+name="Bialozoras"
+ culture = lithuanian
+   	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 11
+			texture_internal = 45
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+1000053434 = {
+name="Klocka"
+ culture = lithuanian
+   	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 11
+			texture_internal = 46
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+1000053435 = {
+name="Palubinskis"
+ culture = lithuanian
+   	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 11
+			texture_internal = 47
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+1000053436 = {
+name="Galminas"
+ culture = lithuanian
+   	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 11
+			texture_internal = 48
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+1000053437 = {
+name="Mindaugas"
+ culture = lithuanian
+   	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 11
+			texture_internal = 49
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+1000053438 = {
+name="Pociejus"
+ culture = lithuanian
+   	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 11
+			texture_internal = 50
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+1000053439 = {
+name="Zenovicius"
+ culture = lithuanian
+   	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 11
+			texture_internal = 51
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+1000053440 = {
+name="Žaba"
+ culture = lithuanian
+   	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 11
+			texture_internal = 52
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+1000053441 = {
+name="Hilzenas"
+ culture = lithuanian
+   	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 11
+			texture_internal = 53
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+1000053442 = {
+name="Buržinskis"
+ culture = lithuanian
+   	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 11
+			texture_internal = 54
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+1000053443 = {
+name="Davaina"
+ culture = lithuanian
+   	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 11
+			texture_internal = 55
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+1000053444= {
+name="Chmara"
+ culture = lithuanian
+   	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 11
+			texture_internal = 56
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+1000053445= {
+name="Jablonovskis"
+ culture = lithuanian
+   	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 11
+			texture_internal = 57
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+1000053446= {
+name="Niesiolovskis"
+ culture = lithuanian
+   	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 11
+			texture_internal = 58
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+1000053447= {
+name="Kopecis"
+ culture = lithuanian
+   	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 11
+			texture_internal = 59
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+1000053448= {
+name="Denhofas"
+ culture = lithuanian
+   	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 11
+			texture_internal = 60
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+1000053449= {
+name="Potockis"
+ culture = lithuanian
+   	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 11
+			texture_internal = 61
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+1000053450= {
+name="Sasnauskis"
+ culture = lithuanian
+   	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 11
+			texture_internal = 62
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+1000053451= {
+name="Kiršenšteinas"
+ culture = lithuanian
+   	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 11
+			texture_internal = 63
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+1000053452= {
+name="Karpis"
+ culture = lithuanian
+   	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 11
+			texture_internal = 64
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+1000053453= {
+name="Dimša"
+ culture = lithuanian
+   	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 11
+			texture_internal = 65
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+1000053454= {
+name="Stulpinas"
+ culture = lithuanian
+   	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 11
+			texture_internal = 66
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+1000053455= {
+name="Babenskas"
+ culture = lithuanian
+   	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 11
+			texture_internal = 67
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+1000053456= {
+name="Liubenskas"
+ culture = lithuanian
+   	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 11
+			texture_internal = 68
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+1000053457= {
+name="Nagurskis"
+ culture = lithuanian
+   	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 11
+			texture_internal = 69
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+1000053458= {
+name="Butkevicius"
+ culture = lithuanian
+   	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 11
+			texture_internal = 70
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+1000053459= {
+name="Darbutas"
+ culture = lithuanian
+   	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 11
+			texture_internal = 71
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+1000053460= {
+name="Eitiminavicius"
+ culture = lithuanian
+   	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 11
+			texture_internal = 72
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+1000053461= {
+name="Mackevicius"
+ culture = lithuanian
+   	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 11
+			texture_internal = 73
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+1000053462= {
+name="Jocas"
+ culture = lithuanian
+   	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 11
+			texture_internal = 74
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+1000053463= {
+name="Batavicius"
+ culture = lithuanian
+   	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 11
+			texture_internal = 75
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+1000053464= {
+name="Žutautas"
+ culture = lithuanian
+   	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 11
+			texture_internal = 76
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+1000053465= {
+name="Gedvilas"
+ culture = lithuanian
+   	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 11
+			texture_internal = 77
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+1000053466= {
+name="Vaišvila"
+ culture = lithuanian
+   	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 11
+			texture_internal = 78
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+1000053467= {
+name="Kazlauskas"
+ culture = lithuanian
+   	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 11
+			texture_internal = 79
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+1000053468= {
+name="Koreivas"
+ culture = lithuanian
+   	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 11
+			texture_internal = 80
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+1000053469= {
+name="Daunoravicius"
+ culture = lithuanian
+   	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 11
+			texture_internal = 81
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+1000053470= {
+name="Bulatas"
+ culture = lithuanian
+   	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 11
+			texture_internal = 82
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+1000053471= {
+name="Beizimas"
+ culture = lithuanian
+   	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 11
+			texture_internal = 83
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+1000053472= {
+name="Ditka"
+ culture = lithuanian
+   	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 11
+			texture_internal = 84
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+1000053473= {
+name="Bruška"
+ culture = lithuanian
+   	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 11
+			texture_internal = 85
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+1000053474= {
+name="Daugirdaitis"
+ culture = lithuanian
+   	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 11
+			texture_internal = 86
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+1000053475= {
+name="Baranauskas"
+ culture = lithuanian
+   	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 11
+			texture_internal = 87
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+1000053476= {
+name="Jakimavicius"
+ culture = lithuanian
+   	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 11
+			texture_internal = 88
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+1000053477= {
+name="Rusteikis"
+ culture = lithuanian
+   	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 11
+			texture_internal = 89
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+1000053478= {
+name="Hludzinskis"
+ culture = lithuanian
+   	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 11
+			texture_internal = 90
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+1000053479= {
+name="Ginvilas"
+ culture = lithuanian
+   	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 11
+			texture_internal = 91
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+1000053480= {
+name="Druckis"
+ culture = lithuanian
+   	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 11
+			texture_internal = 92
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+1000053481= {
+name="Vambutaitis"
+ culture = lithuanian
+   	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 11
+			texture_internal = 93
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+1000053482= {
+name="Vambuts"
+ culture = lithuanian
+   	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 11
+			texture_internal = 94
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+1000053483= {
+name="Rozmiras"
+ culture = lithuanian
+   	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 11
+			texture_internal = 95
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+1000053484= {
+name="Ustarbauskis"
+ culture = lithuanian
+   	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 11
+			texture_internal = 96
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+1000053485= {
+name="Žabauskas"
+ culture = lithuanian
+   	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 11
+			texture_internal = 97
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+1000053486= {
+name="Naurutavicius"
+ culture = lithuanian
+   	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 11
+			texture_internal = 98
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+1000053487= {
+name="Pociejunas"
+ culture = lithuanian
+   	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 11
+			texture_internal = 99
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
