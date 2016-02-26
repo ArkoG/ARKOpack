@@ -1,6 +1,6 @@
 guiTypes = {
 
-	### CHAPTER ENTRY (NEW) TUTO
+	### CHAPTER ENTRY (NEW)
 	windowType = {
 		name ="tutorial_chapter_entry"
 		backGround=""
@@ -119,7 +119,7 @@ guiTypes = {
 		
 		### era windows
 		windowType = {
-			name = "dark_ages_window"
+			name = "era_window_1"
 			position = { x=75 y=121 }
 			moveable = 0
 			fullScreen = no
@@ -148,7 +148,7 @@ guiTypes = {
 				name = "label"
 				position = { x = 10 y = 9 }
 				font = "vic_18"
-				text = "DARK_AGES"
+				text = ""
 				maxWidth = 150
 				maxHeight = 20
 				fixedsize = yes
@@ -167,7 +167,7 @@ guiTypes = {
 		}
 		###
 		windowType = {
-			name = "viking_era_window"
+			name = "era_window_2"
 			position = { x=256 y=121 }
 			moveable = 0
 			fullScreen = no
@@ -196,7 +196,7 @@ guiTypes = {
 				name = "label"
 				position = { x = 10 y = 9 }
 				font = "vic_18"
-				text = "VIKING_ERA"
+				text = ""
 				maxWidth = 150
 				maxHeight = 20
 				fixedsize = yes
@@ -215,7 +215,7 @@ guiTypes = {
 		}
 		###
 		windowType = {
-			name = "early_med_window"
+			name = "era_window_3"
 			position = { x=437 y=121 }
 			moveable = 0
 			fullScreen = no
@@ -244,7 +244,7 @@ guiTypes = {
 				name = "label"
 				position = { x = 10 y = 9 }
 				font = "vic_18"
-				text = "EARLY_MED"
+				text = ""
 				maxWidth = 150
 				maxHeight = 20
 				fixedsize = yes
@@ -263,7 +263,7 @@ guiTypes = {
 		}
 		###
 		windowType = {
-			name = "high_med_window"
+			name = "era_window_4"
 			position = { x=618 y=121 }
 			moveable = 0
 			fullScreen = no
@@ -292,7 +292,7 @@ guiTypes = {
 				name = "label"
 				position = { x = 10 y = 9 }
 				font = "vic_18"
-				text = "HIGH_MED"
+				text = ""
 				maxWidth = 150
 				maxHeight = 20
 				fixedsize = yes
@@ -311,7 +311,7 @@ guiTypes = {
 		}
 		###
 		windowType = {
-			name = "late_med_window"
+			name = "era_window_5"
 			position = { x=799 y=121 }
 			moveable = 0
 			fullScreen = no
@@ -340,7 +340,7 @@ guiTypes = {
 				name = "label"
 				position = { x = 10 y = 9 }
 				font = "vic_18"
-				text = "LATE_MED"
+				text = ""
 				maxWidth = 150
 				maxHeight = 20
 				fixedsize = yes
@@ -371,8 +371,8 @@ guiTypes = {
 		
 		OverlappingElementsBoxType = {
 			name = "era_characters"
-			position = { x=118 y=370 }
-			size = { x=1010 y=32 }
+			position = { x=119 y=370 }
+			size = { x=930 y=32 }
 			format = left
 		}
 		
@@ -4909,6 +4909,7 @@ guiTypes = {
 					Orientation = "CENTER_UP"
 					pdx_tooltip = "MAPMODE_TERRAIN"
 					pdx_tooltip_delayed = "MAPMODE_TERRAIN_DESC"
+					shortcut = "q"
 				}
 				
 				guiButtonType = 
@@ -4919,6 +4920,7 @@ guiTypes = {
 					Orientation = "CENTER_UP"
 					pdx_tooltip = "MAPMODE_REALM"
 					pdx_tooltip_delayed = "MAPMODE_REALM_DESC"
+					shortcut = "w"
 				}
 				
 				guiButtonType = 
@@ -4929,6 +4931,7 @@ guiTypes = {
 					Orientation = "CENTER_UP"
 					pdx_tooltip ="MAPMODE_DEFACTO_COUNTIES"
 					pdx_tooltip_delayed = "MAPMODE_DEFACTO_COUNTIES_DESC"
+					shortcut = "f"
 				}				
 				
 				guiButtonType = 
@@ -4939,6 +4942,7 @@ guiTypes = {
 					Orientation = "CENTER_UP"
 					pdx_tooltip ="MAPMODE_DEFACTO_DUCHIES"
 					pdx_tooltip_delayed = "MAPMODE_DEFACTO_DUCHIES_DESC"
+					shortcut = "i"
 				}
 				
 				guiButtonType = 
@@ -4949,6 +4953,7 @@ guiTypes = {
 					Orientation = "CENTER_UP"
 					pdx_tooltip ="MAPMODE_DEFACTO_KINGDOMS"
 					pdx_tooltip_delayed = "MAPMODE_DEFACTO_KINGDOMS_DESC"
+					shortcut = "o"
 				}
 				
 				guiButtonType = 
@@ -4959,6 +4964,7 @@ guiTypes = {
 					Orientation = "CENTER_UP"
 					pdx_tooltip ="MAPMODE_RELIGION"
 					pdx_tooltip_delayed = "MAPMODE_RELIGION_DESC"
+					shortcut = "r"
 				}
 				
 				guiButtonType = 
@@ -4969,6 +4975,7 @@ guiTypes = {
 					Orientation = "CENTER_UP"
 					pdx_tooltip ="MAPMODE_CULTURE"
 					pdx_tooltip_delayed = "MAPMODE_CULTURE_DESC"
+					shortcut = "t"
 				}
 				
 				guiButtonType = 
@@ -4979,6 +4986,7 @@ guiTypes = {
 					Orientation = "CENTER_UP"
 					pdx_tooltip ="MAPMODE_GOVERNMENTS"
 					pdx_tooltip_delayed = "MAPMODE_GOVERNMENTS_DESC"
+					shortcut = "h"
 				}
 				
 				### show only for multiplayer.
@@ -5101,6 +5109,14 @@ guiTypes = {
 					name ="HL_DLC"
 					spriteType = "GFX_dlc_icon_horse_lords"
 					position = { x= 422 y = -221 }
+					Orientation = "LOWER_LEFT"
+				}
+				
+				iconType = 
+				{
+					name ="ZE_DLC"
+					spriteType = "GFX_dlc_icon_zeus"
+					position = { x= 468 y = -221 }
 					Orientation = "LOWER_LEFT"
 				}
 				
@@ -6373,17 +6389,28 @@ guiTypes = {
 			
 		guiButtonType = {
 			name = "cancel"
-			position = { x = 95 y = 442 }
+			position = { x = 95 y = 417 }
 			quadTextureSprite ="GFX_standard_button_112"	
 			buttonText = "SM_BACK"
 			buttonFont = "vic_18"
 		}
 		guiButtonType = {
 			name = "start"
-			position = { x = 249 y = 442 }
+			position = { x = 249 y = 417 }
 			quadTextureSprite ="GFX_standard_button_112"	
 			buttonText = "IRONMAN_START"
 			buttonFont = "vic_18"
+		}
+		
+		guiButtonType = 
+		{
+			name = "continue"
+			position = { x = 140 y = 445 }
+			quadTextureSprite ="GFX_big_button_176"	
+			buttonText = "CONTINUE"
+			buttonFont = "vic_22"
+			clicksound = menu_click
+			shortcut = "ENTER"
 		}
 	}
 	

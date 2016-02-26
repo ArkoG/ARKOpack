@@ -111,12 +111,54 @@ spriteTypes = {
 		texturefile = "gfx\\interface\\buildview_level_arko.dds"
 		noOfFrames = 12
 	}
-### COUNCIL
+### COUNCIL&LAWs
 	spriteType = {
 		name = "GFX_honorifique"
 		texturefile = "gfx\\interface\\honorifique.dds"
 	}
-
+	spriteType = {
+		name = "GFX_crown_law_arko"
+		texturefile = "gfx\\interface\\crown_law_arko.dds"
+		noOfFrames = 1
+	}
+	spriteType = {
+		name = "GFX_law_arko_entry_bg"
+		texturefile = "gfx\\interface\\law_arko_entry_bg.dds"
+	}
+	spriteType = {
+		name = "GFX_council_status_bg_arko"
+		texturefile = "gfx\\interface\\council_status_bg_arko.dds"
+	}	
+	
+	spriteType = {
+		name = "GFX_council_status_bg_button_arko"
+		texturefile = "gfx\\interface\\council_status_bg_button_arko.dds"
+	}
+	spriteType = {
+		name = "GFX_enforce_peace"
+		texturefile = "gfx\\interface\\enforce_peace.dds"
+	}
+	spriteType = {
+		name = "GFX_enforce_peace_bis"
+		texturefile = "gfx\\interface\\enforce_peace_bis.dds"
+	}
+	spriteType = {
+		name = "GFX_enforce_peace_fond"
+		texturefile = "gfx\\interface\\enforce_peace_fond.dds"
+	}
+	spriteType = {
+		name = "GFX_checkbox_honorifique"
+		texturefile = "gfx\\interface\\checkbox_honorifique.dds"
+		noOfFrames = 2
+		clicksound = generic_click_04
+	}
+	spriteType = {
+		name = "GFX_checkbox_commandants"
+		texturefile = "gfx\\interface\\checkbox_commandants.dds"
+		noOfFrames = 2
+		clicksound = generic_click_04
+	}
+	
 ### CHRONIQUE
 	spriteType = {
 		name = "GFX_chronicle_label_ARKO"

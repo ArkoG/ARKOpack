@@ -12,8 +12,8 @@ character_view =
 
 court_view = 
 {
-	file = "courtview.wav"
-	volume = 100
+	file = "council_view_01.wav"
+	volume = 40
 }
 
 law_view = 
@@ -601,4 +601,144 @@ tutorial_hint =
 connecting = 
 {
 	file = "menuclick.wav"
+}
+
+council_view = 
+{
+	file = "council_view_01.wav"
+	volume = 40
+}
+pleased_council = 
+{
+	file = "pleased_council_01.wav"
+}
+enforcing_peace = 
+{
+	file = "enforcing_peace_realm_01.wav"
+}
+displeased_council = 
+{
+	file = "displeased_council_01.wav"
+}
+
+child_peaceful_death_01
+{
+	file = "child_death_01.wav"
+}
+
+child_peaceful_death_02
+{
+	file = "child_death_02.wav"
+}
+
+child_peaceful_death_03
+{
+	file = "child_death_03.wav"
+}
+
+child_violent_death_01
+{
+	file = "child_death_01.wav"
+}
+
+child_violent_death_02
+{
+	file = "child_death_02.wav"
+}
+
+child_violent_death_03
+{
+	file = "child_death_03.wav"
+}
+
+
+female_peaceful_death_01
+{
+	file = "female_peaceful_death_01.wav"
+}
+
+female_peaceful_death_02
+{
+	file = "female_peaceful_death_02.wav"
+}
+
+female_peaceful_death_03
+{
+	file = "female_peaceful_death_03.wav"
+}
+
+female_peaceful_death_04
+{
+	file = "female_peaceful_death_04.wav"
+}
+
+
+female_violent_death_01
+{
+	file = "female_violent_death_01.wav"
+}
+
+female_violent_death_02
+{
+	file = "female_violent_death_02.wav"
+}
+
+female_violent_death_03
+{
+	file = "female_violent_death_03.wav"
+}
+
+female_violent_death_04
+{
+	file = "female_violent_death_04.wav"
+}
+
+male_peaceful_death_01
+{
+	file = "male_peaceful_death_01.wav"
+}
+
+male_peaceful_death_02
+{
+	file = "male_peaceful_death_02.wav"
+}
+
+male_peaceful_death_03
+{
+	file = "male_peaceful_death_03.wav"
+}
+
+male_peaceful_death_04
+{
+	file = "male_peaceful_death_04.wav"
+}
+
+male_peaceful_death_05
+{
+	file = "male_peaceful_death_05.wav"
+}
+
+male_violent_death_01
+{
+	file = "male_violent_death_01.wav"
+}
+
+male_violent_death_02
+{
+	file = "male_violent_death_02.wav"
+}
+
+male_violent_death_03
+{
+	file = "male_violent_death_03.wav"
+}
+
+male_violent_death_04
+{
+	file = "male_violent_death_04.wav"
+}
+
+male_violent_death_05
+{
+	file = "male_violent_death_05.wav"
 }

@@ -13,40 +13,10 @@ guiTypes = {
 #		upsound = click
 		
 		iconType = {
-			name ="bg_court_view"
+			name ="court_bg"
 			spriteType = "GFX_court_bg"
 			position = { x= 0 y = -98 }
 			Orientation = "UPPER_LEFT"
-		}
-		iconType = {
-			name ="repover_churchwindow_1"
-			spriteType = "GFX_repover_churchwindow_1"
-			position = { x= 9 y = -56 }
-		}
-		iconType = {
-			name ="repover_council_1"
-			spriteType = "GFX_repover_council_1"
-			position = { x= 16 y = 61 }
-		}
-		iconType = {
-			name ="repover_council_2"
-			spriteType = "GFX_repover_council_1"
-			position = { x= 16 y = 177 }
-		}
-		iconType = {
-			name ="repover_council_3"
-			spriteType = "GFX_repover_council_1"
-			position = { x= 16 y = 293 }
-		}
-		iconType = {
-			name ="repover_council_4"
-			spriteType = "GFX_repover_council_1"
-			position = { x= 16 y = 409 }
-		}
-		iconType = {
-			name ="repover_council_5"
-			spriteType = "GFX_repover_council_1"
-			position = { x= 16 y = 525 }
 		}
 		
 		guiButtonType =	{
@@ -83,38 +53,189 @@ guiTypes = {
 			format = centre
 		}
 		
-		guiButtonType =	{
-			name ="toggle_honorary_titles_view"
-			quadTextureSprite ="GFX_standard_button_112"
-			position = { x= 427 y = 22 }
-			clicksound = generic_click_01
-			buttonText = "MINOR_TITLES"
-			buttonFont = "vic_18"
-		}
-		
-		listboxType = {
-			name = "councillor_box"
-			position = { x = 10 y = 83 }
-			size = { x=515 y=580 }
-			Orientation = "UPPER_LEFT"
-			spacing = 0
-			scrollbartype = "standardlistbox_slider"
-			borderSize = {x = 0 y = 0}
+		windowType = {
+		name = "domestic_court_tabs"
+		backGround =""
+		position = { x = 0 y = 0 }
+		size = { x = 576 y = 512 }
+		moveable = 0
+		dontRender = ""
+		horizontalBorder = "0"
+		verticalBorder = ""
+		fullScreen = no
+
+			guiButtonType =	{
+				name ="toggle_council_jobs_view"
+				quadTextureSprite ="GFX_laws_tab_button"
+				position = { x= 18 y = 47 }
+				clicksound = generic_click_01
+				buttonText = ""
+				buttonFont = "vic_18"
+			}
+			guiButtonType =	{
+				name ="toggle_honorary_titles_view"
+				quadTextureSprite ="GFX_laws_tab_button"
+				position = { x= 146 y = 47 }
+				clicksound = generic_click_01
+				buttonText = ""
+				buttonFont = "vic_18"
+			}
+			guiButtonType =	{
+				name ="toggle_my_council_view"
+				quadTextureSprite ="GFX_laws_tab_button"
+				position = { x= 274 y = 47 }
+				clicksound = generic_click_01
+				buttonText = ""
+				buttonFont = "vic_18"
+			}
+			guiButtonType =	{
+				name ="toggle_liege_council_view"
+				quadTextureSprite ="GFX_laws_tab_button"
+				position = { x= 402 y = 47 }
+				clicksound = generic_click_01
+				buttonText = ""
+				buttonFont = "vic_18"
+			}
+			
+			instantTextBoxType = {
+				name = "council_jobs_label"
+				position = { x= 43 y = 60 }
+				textureFile = ""
+				font = "vic_18"
+				borderSize = {x = 0 y = 0}
+				text = "COUNCIL_TABS_JOBS"
+				maxWidth = 80
+				maxHeight = 32
+				format = center
+				allwaystransparent = yes
+			}
+			instantTextBoxType = {
+				name = "honarary_titles_label"
+				position = { x= 151 y = 60 }
+				textureFile = ""
+				font = "vic_18"
+				borderSize = {x = 0 y = 0}
+				text = "MINOR_TITLES"
+				maxWidth = 120
+				maxHeight = 32
+				fixedsize = yes
+				format = center
+				allwaystransparent = yes
+			}
+			instantTextBoxType = {
+				name = "my_council_label"
+				position = { x= 299 y = 60 }
+				textureFile = ""
+				font = "vic_18"
+				borderSize = {x = 0 y = 0}
+				text = "COUNCIL_TABS_MY_COUNCIL"
+				maxWidth = 80
+				maxHeight = 32
+				fixedsize = yes
+				format = center
+				allwaystransparent = yes
+			}
+			instantTextBoxType = {
+				name = "liege_council_label"
+				position = { x= 427 y = 60 }
+				textureFile = ""
+				font = "vic_18"
+				borderSize = {x = 0 y = 0}
+				text = "COUNCIL_TABS_LIEGE_COUNCIL"
+				maxWidth = 80
+				maxHeight = 32
+				fixedsize = yes
+				format = center
+				allwaystransparent = yes
+			}
 		}
 	}
 	
 	#####
 	
 	windowType = {
-		name = "councillor_entry"
+		name = "jobs_view"
 		backGround =""
 		position = { x=0 y=0 }
-		size = { x=303 y=116 }
+		size = { x=303 y=112 }
 		moveable = 0
 		dontRender = ""
 		horizontalBorder = "0"
 		verticalBorder = ""
 		fullScreen = no
+		
+		iconType = {
+			name ="court_bg_council"
+			spriteType = "GFX_court_bg_council"
+			position = { x= 15 y = 178 }
+			Orientation = "UPPER_LEFT"
+		}
+		
+		iconType = {
+			name ="repover_churchwindow_1"
+			spriteType = "GFX_repover_churchwindow_1"
+			position = { x= 9 y = 41 }
+		}
+		iconType = {
+			name ="repover_council_1"
+			spriteType = "GFX_repover_council_1"
+			position = { x= 16 y = 181 }
+		}
+		iconType = {
+			name ="repover_council_2"
+			spriteType = "GFX_repover_council_1"
+			position = { x= 16 y = 293 }
+		}
+		iconType = {
+			name ="repover_council_3"
+			spriteType = "GFX_repover_council_1"
+			position = { x= 16 y = 405 }
+		}
+		iconType = {
+			name ="repover_council_4"
+			spriteType = "GFX_repover_council_1"
+			position = { x= 16 y = 517 }
+		}
+		iconType = {
+			name ="repover_council_5"
+			spriteType = "GFX_repover_council_1"
+			position = { x= 16 y = 629 }
+		}
+		
+		listboxType = {
+			name = "councillor_box"
+			position = { x = 10 y = 199 }
+			size = { x=515 y=580 }
+			Orientation = "UPPER_LEFT"
+			spacing = 1
+			scrollbartype = "standardlistbox_slider"
+			borderSize = {x = 0 y = 0}
+		}
+	}
+		
+	windowType = {
+		name = "councillor_entry"
+		backGround =""
+		position = { x=0 y=0 }
+		size = { x=303 y=112 }
+		moveable = 0
+		dontRender = ""
+		horizontalBorder = "0"
+		verticalBorder = ""
+		fullScreen = no
+
+		#iconType = {
+		#	name ="council_jobview_arko"
+		#	spriteType = "GFX_council_jobview_arko"
+		#	position = { x= 0 y = 0 }
+		#}
+		
+		iconType = { #moved up
+			name ="relevant_attribute_icon"
+			spriteType = "GFX_attribute_strip_council_arko"
+			position = { x= 5 y = -16 }
+			Orientation = "UPPER_LEFT"
+		}
 		
 		guiButtonType =	{
 			name ="portrait"
@@ -186,7 +307,7 @@ guiTypes = {
 			fixedsize = yes
 		}
 		instantTextBoxType = {
-			name = "currentjob"
+			name = "currentjob"  #location
 			position = { x = 131 y = 33 }
 			textureFile = ""
 			font = "vic_18"
@@ -198,15 +319,10 @@ guiTypes = {
 			fixedsize = yes
 		}
 		
-		iconType = {
-			name ="relevant_attribute_icon"
-			spriteType = "GFX_attribute_strip"
-			position = { x= 440 y = -13 }
-			Orientation = "UPPER_LEFT"
-		}
+
 		instantTextBoxType = {
 			name = "relevant_attribute"
-			position = { x = 471 y = -8 }
+			position = { x = 471 y = -4 }
 			textureFile = ""
 			font = "vic_22"
 			borderSize = {x = 0 y = 0}
@@ -242,6 +358,13 @@ guiTypes = {
 			format = left
 			spacing = 2
 		}
+		iconType = {
+			name ="portrait_powerful"
+			quadTextureSprite = "GFX_overlay_char_powerful_small"
+			position = { x= 85 y = 50 }
+			Orientation = "UPPER_LEFT"
+			pdx_tooltip = "CHARACTER_POWERFUL_TOOLTIP"
+		}
 	}
 	
 	###
@@ -262,6 +385,664 @@ guiTypes = {
 			quadTextureSprite ="GFX_action_improve_relations"
 			position = { x= -10 y = 0 }
 			clicksound = generic_click_01
+		}
+	}
+	
+	
+	
+	###
+	
+	windowType = {
+		name = "honorary_titles_view"
+		position = { x=10 y=175 }
+		size = { x=500 y=360 }
+		dontRender = ""
+		horizontalBorder= ""
+		verticalBorder= ""
+		fullScreen = no
+		
+		#iconType = {
+		#	name ="background"
+		#	spriteType = "GFX_court_bg_tmp"
+		#	position = { x= 7 y = 5 }
+		#	Orientation = "UPPER_LEFT"
+		#}
+		
+		#iconType = {
+		#	name ="bg"
+		#	spriteType = "GFX_honorary_titles_view_bg"
+		#	position = { x = 5 y = 0 }
+		#	Orientation = "UPPER_LEFT"
+		#}
+		
+		#instantTextBoxType = {
+		#	name = "title_text"
+		#	position = { x = 63 y = 15 }
+		#	textureFile = ""
+		#	font = "vic_18"
+		#	text = "MINOR_TITLES"	
+		#	maxWidth = 240
+		#	maxHeight = 20	
+		#	fixedsize = yes
+		#	format = centre
+		#	allwaystransparent = yes
+		#}
+
+		iconType = {
+			name ="repover_churchwindow_1"
+			spriteType = "GFX_repover_churchwindow_1"
+			position = { x= -1 y = -134 }
+		}
+		
+		iconType = {
+			name ="council_minor_header"
+			spriteType = "GFX_council_minor_header"
+			position = { x= 7 y = 15 }
+			Orientation = "UPPER_LEFT"
+		}
+		
+		guiButtonType = {
+			name = "toggle_show_honorary_titles"
+			position = { x = 68 y = 29 }
+			quadTextureSprite ="GFX_checkbox_honorifique"
+		}
+		
+		instantTextBoxType = {
+			name = "toggle_show_honorary_titles_text"
+			position = { x = 103 y = 37 }
+			textureFile = ""
+			font = "vic_18"
+			text = "HT_SHOW_HONORARY_TITLES"	
+			maxWidth = 275
+			maxHeight = 20	
+			fixedsize = yes
+			format = left
+			allwaystransparent = yes
+		}
+		guiButtonType = {
+			name = "toggle_show_commanders"
+			position = { x = 276 y = 29 }
+			quadTextureSprite ="GFX_checkbox_commandants"
+		}
+		instantTextBoxType = {
+			name = "toggle_show_commanders_text"
+			position = { x = 311 y = 37 }
+			textureFile = ""
+			font = "vic_18"
+			text = "HT_SHOW_COMMANDERS"	
+			maxWidth = 275
+			maxHeight = 20	
+			fixedsize = yes
+			format = left
+			allwaystransparent = yes
+		}
+				
+		
+		
+		smoothListboxType = {
+			name ="honorary_titles_list"
+			position = { x = 7 y = 77 }
+			backGround=""
+			size = { x=505  y =504}
+			spacing = 0
+			scrollbartype = "standardlistbox_slider"
+			borderSize = {x = 0 y = 0}
+		}
+	}
+	
+	### entry
+	windowType = {
+		name = "honorary_titles_view_item"
+		backGround=""
+		position = { x=0 y=0 }
+		size = { x=389 y=63 }
+		moveable = 0
+		dontRender = ""
+		horizontalBorder= ""
+		verticalBorder= ""
+		fullScreen = no
+		
+		iconType = {
+			name ="council_minor_bg"
+			spriteType = "GFX_council_minor_bg"
+			position = { x= 0 y = 2 }
+			Orientation = "UPPER_LEFT"
+		}
+		guiButtonType = {
+			name ="appoint_button"
+			spriteType = "GFX_honorary_titles_view_appoint_button"
+			position = { x= 148 y = 27 }
+		}		
+		iconType = {
+			name ="background"
+			spriteType = "GFX_messagesettings_listbutton_2"
+			position = { x= 110 y = 8 }
+			Orientation = "UPPER_LEFT"
+		}
+		
+		guiButtonType =	{
+			name ="portrait"
+			quadTextureSprite= "GFX_char_50"
+			position = { x= 56 y = 8 }
+			pdx_tooltip = "CHARACTER_TOOLTIP"
+			pdx_tooltip_delayed = "CHARACTER_TOOLTIP_DELAYED"
+		}
+		guiButtonType = {
+			name ="portrait_frame"
+			spriteType = "GFX_charframe_50"
+			position = { x= 49 y = 0 }
+		}
+		guiButtonType = {
+			name ="shield"
+			quadTextureSprite = "GFX_shield_small"
+			position = { x= 92 y = 32 }
+		}
+		
+		instantTextBoxType = {
+			name = "title_name"
+			position = { x = 160 y = 11 }
+			textureFile = ""
+			font = "vic_18_black"
+			borderSize = {x = 0 y = 0}
+			text = ""	
+			maxWidth = 260
+			maxHeight = 20	
+			fixedsize = yes
+			format = centre
+			allwaystransparent = yes
+		}
+
+		instantTextBoxType = {
+			name = "holder_name"
+			position = { x = 155 y = 32 }
+			textureFile = ""
+			font = "vic_18"
+			borderSize = {x = 0 y = 0}
+			text = ""	
+			maxWidth = 260
+			maxHeight = 60	
+			fixedsize = yes
+			format = centre
+			allwaystransparent = yes
+		}
+		
+		# Shown for minor titles with a specified attribute
+		iconType = {
+			name ="relevant_attribute_icon"
+			spriteType = "GFX_attribute_strip"
+			position = { x= 396 y = 6 }
+			Orientation = "UPPER_LEFT"
+		}
+		instantTextBoxType = {
+			name = "relevant_attribute"
+			position = { x = 409 y = 10 }
+			textureFile = ""
+			font = "vic_22_black"
+			borderSize = {x = 0 y = 0}
+			text = "14"	
+			maxWidth = 40
+			maxHeight = 26
+			format = centre
+			fixedsize = yes
+		}
+		
+		# Shown for commanders
+		iconType = {
+			name ="icon_commandmodifier"
+			spriteType = "GFX_commandmodifier_icon"
+			position = { x= 133 y = 4 }
+			Orientation = "UPPER_LEFT"
+		}
+		iconType = 
+		{
+			name ="trait_icon_0"
+			spriteType = "GFX_trait_amateurish_plotter"
+			position = { x= 172 y = 8 }
+			Orientation = "UPPER_LEFT"
+		}
+		iconType = 
+		{
+			name ="trait_icon_1"
+			spriteType = "GFX_trait_amateurish_plotter"
+			position = { x= 198 y = 8 }
+			Orientation = "UPPER_LEFT"
+		}
+		
+	}
+	
+	###
+	
+	windowType = {
+		name = "listbox_row"
+		position = { x=0 y=0 }
+		size = { x=500 y=165 }
+		dontRender = ""
+		horizontalBorder= ""
+		verticalBorder= ""
+		fullScreen = no
+		
+		OverlappingElementsBoxType = {
+			name = "items"
+			position = { x = 0 y = 0 }
+			size = { x=500 y=125 }
+			format = left
+			spacing = 0
+		}
+		
+	}
+	
+	
+	windowType = {
+		name = "voter_entry"
+		position = { x=0 y=0 }
+		size = { x=125 y=150 }
+		dontRender = ""
+		horizontalBorder= ""
+		verticalBorder= ""
+		fullScreen = no
+		
+		windowType = {
+			name = "voter_entry"
+			position = { x= 8 y = 25 }
+			size = { x=125 y=100 }
+			dontRender = ""
+			horizontalBorder= ""
+			verticalBorder= ""
+			fullScreen = no
+		
+			
+			#iconType = {
+			#	name ="council_member_banner"
+			#	spriteType = "GFX_council_member_banner"
+			#	position = { x= 0 y = 0 }
+			#	Orientation = "UPPER_LEFT"
+			#}
+			
+			#iconType = {
+			#	name ="council_frame"
+			#	spriteType = "GFX_council_frame"
+			#	position = { x= -3 y = -28 }
+			#	Orientation = "UPPER_LEFT"
+			#}
+			
+			instantTextBoxType = {
+				name = "member_name"
+				position = { x = 0 y = -16 }
+				textureFile = ""
+				font = "vic_18"
+				borderSize = {x = 0 y = 0}
+				text = ""	
+				maxWidth = 115
+				maxHeight = 26
+				format = center
+				#fixedsize = yes
+			}
+			
+			guiButtonType =	{
+				name ="portrait"
+				quadTextureSprite= "GFX_char_100"
+				position = { x= 8 y = 20 }
+				Orientation = "UPPER_LEFT"
+				pdx_tooltip = "CHARACTER_TOOLTIP"
+				pdx_tooltip_delayed = "CHARACTER_TOOLTIP_DELAYED"
+			}
+			guiButtonType = {
+				name ="portrait_frame"
+				quadTextureSprite = "GFX_charframe_100"
+				position = { x= 0 y = 11 }
+				Orientation = "UPPER_LEFT"
+			}
+			iconType = {
+				name ="portrait_status"
+				spriteType = "GFX_overlay_char_status_100"
+				position = { x= 10 y = 16 }
+				Orientation = "UPPER_LEFT"
+			}
+			iconType = {
+				name ="portrait_relation"
+				spriteType = "GFX_overlay_char_relation_100"
+				position = { x= 83 y = 16 }
+				Orientation = "UPPER_LEFT"
+			}
+			
+			iconType = {
+				name ="council_position"
+				spriteType = "GFX_council_postions_sprite"
+				position = { x= 0 y = 90 }
+				Orientation = "UPPER_LEFT"
+			}
+			
+			iconType = {
+				name ="council_favor_me"
+				spriteType = "GFX_council_favor_me"
+				position = { x= 0 y = 90 }
+				Orientation = "UPPER_LEFT"
+				allwaystransparent = yes
+			}
+			
+			iconType = {
+				name ="council_favor_other"
+				spriteType = "GFX_council_favor_other"
+				position = { x= 0 y = 90 }
+				Orientation = "UPPER_LEFT"
+				allwaystransparent = yes
+			}
+			
+			iconType = {
+				name ="council_favor_icon"
+				spriteType = "GFX_council_favor_icon"
+				position = { x= 25 y = 115 }
+				Orientation = "UPPER_LEFT"
+			}
+			
+			iconType = {
+				name ="crown"
+				spriteType = "GFX_shield_crown_strip_medium"
+				position = { x= 77 y = 60  } 
+				Orientation = "UPPER_LEFT"
+			}
+			guiButtonType =	{
+				name = "shield"
+				position = { x=65 y=83 }
+				quadTextureSprite ="GFX_shield_medium"
+			}
+			iconType = {
+				name ="portrait_powerful"
+				quadTextureSprite = "GFX_overlay_char_powerful"
+				position = { x = 44 y = 100 }
+				Orientation = "UPPER_LEFT"
+				pdx_tooltip = "CHARACTER_POWERFUL_TOOLTIP"
+			}			
+		}
+		
+		windowType = {
+			name = "no_voter_entry"
+			position = { x= 8 y = 25 }
+			size = { x=125 y=100 }
+			dontRender = ""
+			horizontalBorder= ""
+			verticalBorder= ""
+			fullScreen = no
+			
+			guiButtonType =	{
+				name ="no_voter_portrait"
+				quadTextureSprite= "GFX_char_100"
+				position = { x= 8 y = 20 }
+				Orientation = "UPPER_LEFT"
+			}
+			guiButtonType = {
+				name ="no_voter_frame"
+				quadTextureSprite = "GFX_charframe_100"
+				position = { x= 0 y = 11 }
+				Orientation = "UPPER_LEFT"
+			}
+			
+			#iconType = {
+			#	name ="banner"
+			#	spriteType = "GFX_council_member_banner"
+			#	position = { x= 0 y = 0 }
+			#	Orientation = "UPPER_LEFT"
+			#}
+			
+			instantTextBoxType = {
+				name = "title_name"
+				position = { x = 0 y = 1 }
+				textureFile = ""
+				font = "vic_18"
+				borderSize = {x = 0 y = 0}
+				text = ""	
+				maxWidth = 115
+				maxHeight = 26
+				format = center
+				fixedsize = yes
+			}
+		}
+	}
+	
+	windowType = { #synthese composition conclave
+		name = "position_entry"
+		position = { x= 0 y = 0 }
+		size = { x=52 y=52 } #tooltip area
+		dontRender = ""
+		horizontalBorder= ""
+		verticalBorder= ""
+		fullScreen = no
+		
+		iconType =	{#
+			name ="council_status_bg"
+			quadTextureSprite= "GFX_council_status_bg" #religion GUI
+			position = { x= 0 y = 0 }
+			Orientation = "UPPER_LEFT"
+		}
+		
+		
+		iconType =	{
+			name ="position_icon" #size 48x48
+			spriteType= "GFX_council_postions_sprite"
+			position = { x= 2 y = 2 }
+			Orientation = "UPPER_LEFT"
+			#scale = 0.5
+			alwaystransparent = yes			
+		}
+		
+		guiButtonType =	{
+			name ="council_status_bg_button" #pour choisir sa position
+			quadTextureSprite= "GFX_council_status_bg_button_arko" #one for all
+			position = { x= 0 y = 0 }
+			Orientation = "UPPER_LEFT"
+		}
+		
+		instantTextBoxType = { #decompte
+			name = "position_voters"
+			position = { x = 22 y = 52 }
+			textureFile = ""
+			font = "vic_18"
+			borderSize = {x = 0 y = 0}
+			text = "5"	
+			maxWidth = 50
+			maxHeight = 50
+			format = left
+			fixedsize = yes
+		}
+	}
+		
+	windowType = {
+		name = "council_view"
+		position = { x=10 y=350 }
+		size = { x=600 y=360 }
+		dontRender = ""
+		horizontalBorder= ""
+		verticalBorder= ""
+		fullScreen = no
+		
+		#iconType = {
+		#	name ="background"
+		#	spriteType = "GFX_court_bg_tmp"
+		#	position = { x= 7 y = 5 }
+		#	Orientation = "UPPER_LEFT"
+		#}
+
+		iconType = {
+			name ="repover_churchwindow_1"
+			spriteType = "GFX_repover_churchwindow_1"
+			position = { x= -1 y = -309 }
+		}
+		
+		iconType = {
+			name ="council_frame_all"
+			spriteType = "GFX_council_frame_all"
+			position = { x= 13 y = 47 }
+			Orientation = "UPPER_LEFT"
+		}
+		
+		OverlappingElementsBoxType = { #recap factions avec decompte
+			name = "positions"
+			position = { x = 115 y = -76 }
+			size = { x=300 y=125 }
+			format = center
+			spacing = 0
+		}
+		
+		instantTextBoxType = {
+			name = "council_name"
+			position = { x = 9999 y = 9999 }
+			textureFile = ""
+			font = "vic_22_black"
+			borderSize = {x = 0 y = 0}
+			text = "Riksdagen"	
+			maxWidth = 517
+			maxHeight = 26
+			format = center
+			fixedsize = yes
+		}
+		
+		listboxType = {
+			name = "voters"
+			position = { x = 10 y = 50 }
+			backGround=""
+			size = { x=502 y = 330}
+			spacing = 0
+			scrollbartype = "standardlistbox_slider"
+			borderSize = {x = 0 y = 0}
+			Orientation = "UPPER_LEFT"
+		}
+		
+		iconType = {
+			name ="my_council_header"
+			spriteType = "GFX_my_council_header"
+			position = { x= 43 y = -174 }
+			Orientation = "UPPER_LEFT"
+		}
+
+		iconType = {
+			name ="liege_council_header"
+			spriteType = "GFX_my_council_header_simple"
+			position = { x= 43 y = -174 }
+			Orientation = "UPPER_LEFT"
+		}
+		
+		instantTextBoxType = {
+			name = "council_status_text"
+			position = { x = 73 y = -150 }
+			maxWidth = 390
+			maxHeight = 30
+			textureFile = ""
+			font = "vic_22"
+			text = "Council is content"	
+			format = centre
+			fixedsize = yes
+		}
+
+		instantTextBoxType = {
+			name = "council_regency_text"
+			position = { x = 43 y = 0 }
+			maxWidth = 450
+			maxHeight = 192
+			textureFile = ""
+			font = "vic_22"
+			text = "Council is content"	
+			fixedsize = yes
+			format = centre
+			alwaystransparent = yes
+		}
+		#iconType = {
+		#	name ="enforce_peace_fond"
+		#	spriteType = "GFX_enforce_peace_fond"
+		#	position = { x=426 y = -170 }
+		#}
+		
+		#guiButtonType =	{
+		#	name ="enforce_peace_button"
+		#	quadTextureSprite= "GFX_enforce_peace"
+		#	position = { x=439 y = -188 }
+		#}
+		guiButtonType =	{
+			name ="enforce_peace_button"
+			quadTextureSprite= "GFX_enforce_peace_bis"
+			position = { x= 146 y = -114 }
+		}
+		
+		instantTextBoxType = {
+			name = "enforce_peace_button_text"
+			position = { x = 178 y = -110 }
+			maxWidth = 180
+			maxHeight = 192
+			textureFile = ""
+			font = "vic_22"
+			text = "enforce_realm_peace"	
+			fixedsize = yes
+			format = centre
+			alwaystransparent = yes
+		}
+
+		### VOTE STUFF
+		windowType = {
+			name = "vote_result"
+			backGround=""
+			position = { x=540 y=-120 }
+			size = { x=200 y=0 }
+			moveable = 0
+			
+
+			iconType = {
+				name ="bg_vote"
+				spriteType = "GFX_vote_bg"
+				position = { x= 0 y = -2 }
+				Orientation = "UPPER_LEFT"
+			}
+			instantTextBoxType = {
+					name = "label"
+					position = { x = -28 y = 10 }
+					textureFile = ""
+					font = "vic_18"
+					text = "ENFORCE_PEACE"
+					maxWidth = 255
+					maxHeight = 20
+					format = centre
+					fixedsize = yes
+				}
+
+			iconType = {
+				name ="vote_for"
+				spriteType = "GFX_vote_for_icon"
+				position = { x= 50 y = 27 }
+				Orientation = "UPPER_LEFT"
+			}
+
+			iconType = {
+				name ="vote_against"
+				spriteType = "GFX_vote_against_icon"
+				position = { x= 125 y = 27 }
+				Orientation = "UPPER_LEFT"
+			}
+
+			#iconType = {
+			#	name ="vote_abstain"
+			#	spriteType = "GFX_vote_abstain_icon"
+			#	position = { x= 203 y = 27 }
+			#	Orientation = "UPPER_LEFT"
+			#}
+
+			listboxType = {
+				name = "voters"
+				position = { x = 36 y = 61 }
+				backGround=""
+				size = { x=138 y=372 }
+				spacing = 0
+				scrollbartype = "standardlistbox_slider"
+				borderSize = {x = 0 y = 0}
+				Orientation = "UPPER_LEFT"
+			}
+
+			guiButtonType =	{
+				name ="execute_action"
+				quadTextureSprite ="GFX_standard_button_164"
+				position = { x= 17 y = 430 }
+				clicksound = generic_click_01
+				buttonText = "DIP_SEND"
+				buttonFont = "vic_18"
+				Orientation = "UPPER_LEFT"
+			}
 		}
 	}
 }

@@ -411,7 +411,7 @@ guiTypes = {
 			font = "vic_18"
 			borderSize = {x = 0 y = 0 }
 			position = { x= 167 y= 436 }
-			text = "CONTENTVIEW_TERMS"
+			text = "STEAM_SUBSCRIBER_AGREEMENT"
 			fixedsize = yes
 			maxwidth = 260
 			maxheight = 20

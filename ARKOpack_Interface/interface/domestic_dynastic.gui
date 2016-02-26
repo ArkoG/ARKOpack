@@ -163,6 +163,13 @@ guiTypes = {
 				pdx_tooltip = "CHARACTER_DEAD_TOOLTIP"
 			}
 			iconType = {
+				name ="liege_portrait_powerful"
+				quadTextureSprite = "GFX_overlay_char_powerful_small"
+				position = { x= 133 y = 35 }
+				Orientation = "UPPER_LEFT"
+				pdx_tooltip = "CHARACTER_POWERFUL_TOOLTIP"
+			}
+			iconType = {
 				name ="liege_portrait_relation"
 				spriteType = "GFX_overlay_char_relation_50"
 				position = { x= 130 y = 14 }
@@ -934,12 +941,12 @@ guiTypes = {
 			Orientation = "UPPER_LEFT"
 		}
 		instantTextBoxType = {
-			name = "ally_text"
+			name = "pacts_text"
 			position = { x = 393 y = 380 }
 			textureFile = ""
 			font = "vic_18"
 			borderSize = {x = 0 y = 0}
-			text = "ALLIES_TEXT"
+			text = "PACTS"
 			maxWidth = 84
 			maxHeight = 24
 			#format = center #ex left
@@ -948,7 +955,7 @@ guiTypes = {
 			Orientation = "UPPER_LEFT"
 		}
 		instantTextBoxType = {
-			name = "ally_nr" 
+			name = "pacts_nr"
 			position = { x = 388 y = 380 }
 			textureFile = ""
 			font = "vic_18"
@@ -1076,6 +1083,13 @@ guiTypes = {
 				Orientation = "UPPER_LEFT"
 				pdx_tooltip = "CHARACTER_DEAD_TOOLTIP"
 			}
+			iconType = {
+				name ="character_portrait_powerful"
+				quadTextureSprite = "GFX_overlay_char_powerful"
+				position = { x = 161 y = 133 }
+				Orientation = "UPPER_LEFT"
+				pdx_tooltip = "CHARACTER_POWERFUL_TOOLTIP"
+			}
 			guiButtonType = {
 				name = "character_designate_heir_button"
 				quadTextureSprite = "GFX_overlay_char_designate_heir"
@@ -1201,6 +1215,13 @@ guiTypes = {
 				position = { x = 277 y = 136 }
 				Orientation = "UPPER_LEFT"
 				pdx_tooltip = "CHARACTER_DEAD_TOOLTIP"
+			}
+			iconType = {
+				name ="spouse_portrait_powerful"
+				quadTextureSprite = "GFX_overlay_char_powerful"
+				position = { x = 277 y = 136 }
+				Orientation = "UPPER_LEFT"
+				pdx_tooltip = "CHARACTER_POWERFUL_TOOLTIP"
 			}
 			iconType = {
 				name ="spouse_portrait_relation"
@@ -1612,7 +1633,7 @@ guiTypes = {
 			}
 			instantTextBoxType = {
 				name = "learning"
-				position = { x = 196 y = 221 }
+				position = { x = 196 y = 222 }
 				textureFile = ""
 				font = "vic_18"
 				borderSize = {x = 0 y = 0}
@@ -1815,6 +1836,14 @@ guiTypes = {
 			Orientation = "UPPER_LEFT"
 			pdx_tooltip = "CHARACTER_DEAD_TOOLTIP"
 		}
+
+		iconType = {
+			name ="portrait_powerful"
+			quadTextureSprite = "GFX_overlay_char_powerful_small"
+			position = { x = 0 y = 30 }
+			Orientation = "UPPER_LEFT"
+			pdx_tooltip = "CHARACTER_POWERFUL_TOOLTIP"
+		}
 		
 		iconType = {
 			name ="portrait_relation"
@@ -1835,7 +1864,7 @@ guiTypes = {
 		name = "vassal_entry"
 		backGround =""
 		position = { x=0 y=0 }	
-		size = { x = 200 y = 61 }
+		size = { x = 484 y = 61 }
 		moveable = 0
 		dontRender = ""
 		horizontalBorder = ""
@@ -1846,6 +1875,20 @@ guiTypes = {
 			name ="charview_list_bg"
 			spriteType = "GFX_charview_list_bg"
 			position = { x= 0 y = -10 }
+			Orientation = "UPPER_LEFT"
+		}
+		
+		iconType = {
+			name ="charview_list_overlay"
+			spriteType = "GFX_charview_list_overlay_strip"
+			position = { x= 0 y = -10 }
+			Orientation = "UPPER_LEFT"
+		}
+		
+		iconType = {
+			name ="relation_icon_strip"
+			spriteType = "GFX_relation_icon_strip"
+			position = { x= 425 y = -3 }
 			Orientation = "UPPER_LEFT"
 		}
 		
@@ -1871,6 +1914,13 @@ guiTypes = {
 			pdx_tooltip = "CHARACTER_DEAD_TOOLTIP"
 		}
 		iconType = {
+			name ="portrait_powerful"
+			quadTextureSprite = "GFX_overlay_char_powerful_small"
+			position = { x= 43 y = 24 }
+			Orientation = "UPPER_LEFT"
+			pdx_tooltip = "CHARACTER_POWERFUL_TOOLTIP"
+		}
+		iconType = {
 			name ="portrait_relation"
 			spriteType = "GFX_overlay_char_relation_50"
 			position = { x= 47 y = -6 }
@@ -1886,13 +1936,13 @@ guiTypes = {
 		guiButtonType = {
 			name ="shield"
 			quadTextureSprite = "GFX_shield_medium2"
-			position = { x= 49 y = 10 }
+			position = { x= 59 y = 2 }
 			Orientation = "UPPER_LEFT"
 		}
 		iconType = {
 			name = "shield_crown"
 			spriteType = "GFX_shield_crown_strip_medium2"
-			position = { x = 60 y = -7 }
+			position = { x = 70 y = -15 }
 			Orientation = "UPPER_LEFT"
 		}
 		
