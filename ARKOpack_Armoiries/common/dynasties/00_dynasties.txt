@@ -618,12 +618,12 @@
 	religion="catholic"
 }
 104 = {
-	name="Hayles"
+	name="Halhas"
 	culture ="saxon"
 	religion="catholic"
 }
 105 = {
-	name="of Norfolk"
+	name="Northing"
 	culture ="saxon"
 	religion="catholic"
 }
@@ -739,7 +739,7 @@
 	}
 }
 122 = {
-	name="Rose"
+	name="Hrothing"
 	culture ="saxon"
 }
 123 = {
@@ -2136,7 +2136,7 @@
 	culture = "frankish"
 }
 361 = {
-	name="Dodington"
+	name="Theoding"
 	culture ="saxon"
 }
 362 = {
@@ -2156,7 +2156,7 @@
 	culture ="english"
 }
 366 = {
-	name="Stawell"
+	name="Stawiellisc"
 	culture ="saxon"
 }
 367 = {
@@ -2168,8 +2168,8 @@
 	culture = "norman"
 }
 369 = {
-	name="Angevin"
-	culture = "norman"
+	name="de Salmur"
+	culture = "frankish"
 }
 370 = {
 	name="Dunbar"
@@ -2200,7 +2200,7 @@
 	culture ="scottish"
 }
 374 = {
-	name="Huntingdon"
+	name="Huntandunisc"
 	culture ="saxon"
 }
 375 = {
@@ -2258,7 +2258,7 @@
 	used_for_random = no
 }
 382 = {
-	name="Lockhart"
+	name="Heorting"
 	culture ="saxon"
 }
 383 = {
@@ -3051,7 +3051,7 @@
 	culture = "frankish"
 }
 518 = {
-	name="Henry"
+	name="Hering"
 	culture ="saxon"
 }
 519 = {
@@ -3145,7 +3145,7 @@
 	culture = "norman"
 }
 540 = {
-	name="Hastings"
+	name="Hæsting"
 	culture ="saxon"
 }
 541 = {
@@ -3241,7 +3241,7 @@
 	culture = "norman"
 }
 560 = {
-	name="of Hwicce" # Leofricson
+	name="Hwiccing" # Leofricson
 	culture ="saxon"
 	
 	coat_of_arms = {
@@ -3261,7 +3261,7 @@
 	culture = "norman"
 }
 562 = {
-	name="of Durham"
+	name="Dunisc"
 	culture ="saxon"
 }
 563 = {
@@ -3273,7 +3273,7 @@
 	culture = "norman"
 }
 565 = {
-	name="of Canterbury"
+	name="Cantwarisc"
 	culture ="saxon"
 }
 566 = {
@@ -3415,18 +3415,22 @@
 597 = {
 	name="Umawiyyún"
 	culture ="egyptian_arabic"
+	religion="sunni"
 	forced_coa_religiongroup = "muslim"
 }
 598 = {
 	name="Mustazhiriyún"
+	religion="sunni"
 	culture ="levantine_arabic"
 }
 599 = {
 	name="Banú Hudd"
+	religion="sunni"
 	culture ="andalusian_arabic"
 }
 600 = {
 	name="Qaimiyún"
+	religion="sunni"
 	culture ="levantine_arabic"
 }
 601 = {
@@ -3783,7 +3787,7 @@
 	culture = "frankish"
 }
 666 = {
-	name="of Saxony"
+	name="Seaxna"
 	culture ="saxon"
 }
 667 = {
@@ -4204,7 +4208,7 @@
 }
 
 744 = {
-	name="of Bamburgh"
+	name="Bebbanburh"
 	culture ="saxon"
 	
 	coat_of_arms = {
@@ -4220,7 +4224,7 @@
 	}
 }
 745 = {
-	name="of Northumbria"
+	name="Northymbrisc"
 	culture ="saxon"
 }
 746 = {
@@ -4241,7 +4245,7 @@
 }
 750 = {
 	name="Flambard"
-	culture ="saxon"
+	culture ="norman"
 }
 751 = {
 	name="de Montgomery" #comtes de la Marche sous domination anglaise
@@ -4254,11 +4258,11 @@
 	coat_of_arms = {	template = 0	layer = {	texture = 14	texture_internal = 132	emblem = 0	color = 0	color = 0	color = 0	}	}
 }
 753 = {
-	name="of Northampton"
+	name="Hamtunisc"
 	culture ="saxon"
 }
 756 = {
-	name="of Godwin"
+	name="of Godwine"
 	culture ="saxon"
 	coat_of_arms = {	template = 0	layer = {	texture = 5	texture_internal = 122	emblem = 0	color = 0	color = 0	color = 0	}	}
 	used_for_random = no
@@ -4572,7 +4576,7 @@
 	culture = "persian"
 }
 813 = {
-	name="of Mercia"
+	name="Miercisc"
 	culture ="saxon"
 	
 	coat_of_arms = {
@@ -4588,7 +4592,7 @@
 	}
 }
 814 = {
-	name="of Northumbria"
+	name="Beornicisc"
 	culture ="saxon"
 }
 815 = {
@@ -4934,7 +4938,12 @@
 	religion="norse_pagan"
 	used_for_random=no
 }
-
+883={
+	name="Nieminen"
+	culture=finnish
+	religion=finnish_pagan
+	used_for_random = no
+}
 1002 = {
 	name="Banner"
 	culture ="danish"
@@ -5625,7 +5634,7 @@
 }
 
 1150 = {
-	name = "Fysche"
+	name = "Fisc"
 	culture ="saxon"
 }
 
@@ -6112,11 +6121,11 @@
 	}
 }
 2013 = {
-	name="Dall"
+	name="Dælisc"
 	culture ="saxon"
 }
 2014 = {
-	name="Slee"
+	name="Slih"
 	culture ="saxon"
 }
 2015 = {
@@ -6158,7 +6167,7 @@
 	}
 }
 2019 = {
-	name="Kiil"
+	name="Ulfing"
 	culture ="saxon"
 }
 2020 = {
@@ -6192,7 +6201,7 @@
 	}
 }
 2022 = {
-	name="Mel"
+	name="Melisc"
 	culture ="saxon"
 }
 2023 = {
@@ -6297,7 +6306,7 @@
 	culture ="norwegian"
 }
 2037 = {
-	name="Holter"
+	name="Holtwose"
 	culture ="saxon"
 }
 2038 = {
@@ -6678,7 +6687,7 @@
 	culture ="scottish"
 }
 3146 = {
-	name="Randolph"
+	name="Rædwulfing"
 	culture ="saxon"
 }
 3811 = {
@@ -6714,7 +6723,7 @@
 }
 4000 = {
 	name="Percy"
-	culture ="saxon"
+	culture ="english"
 }
 4001 = {
 	name="Mortimer"
@@ -6722,7 +6731,7 @@
 }
 4002 = {
 	name="Despencer"
-	culture ="saxon"
+	culture ="english"
 }
 4003 = {
 	name="de Montfort"
@@ -6741,27 +6750,27 @@
 }
 4004 = {
 	name="Neville"
-	culture = "norman"
+	culture = "english"
 }
 4005 = {
 	name="Scrope"
-	culture = "norman"
+	culture = "english"
 }
 4007 = {
 	name="Bacon"
-	culture ="saxon"
+	culture ="english"
 }
 4008 = {
 	name="Reresby"
-	culture ="saxon"
+	culture ="english"
 }
 4009 = {
 	name="Cornwallis"
-	culture ="saxon"
+	culture ="english"
 }
 4010 = {
 	name="Clifford"
-	culture ="saxon"
+	culture ="english"
 }
 4011 = {
 	name="Giffard"
@@ -6769,15 +6778,15 @@
 }
 4012 = {
 	name="Crispin"
-	culture = "norman"
+	culture = "english"
 }
 4013 = {
 	name="Carew"
-	culture ="saxon"
+	culture ="english"
 }
 4014 = {
 	name="Maddock"
-	culture ="saxon"
+	culture ="english"
 }
 4015 = {
 	name="de Turberville"
@@ -6785,31 +6794,31 @@
 }
 4016 = {
 	name="Fortescue"
-	culture ="saxon"
+	culture ="english"
 }
 4017 = {
 	name="Bourchier"
-	culture = "norman"
+	culture = "english"
 }
 4018 = {
 	name="Stanley"
-	culture = "norman"
+	culture = "english"
 }
 4019 = {
 	name="de Ros"
-	culture ="saxon"
+	culture ="english"
 }
 4020 = {
 	name="Talbot"
-	culture = "norman"
+	culture = "english"
 }
 4021 = {
 	name="Howard"
-	culture ="saxon"
+	culture ="english"
 }
 4022 = {
 	name="Maudit"
-	culture ="saxon"
+	culture ="english"
 }
 4023 = {
 	name="d'Audley"
@@ -6817,11 +6826,11 @@
 }
 4024 = {
 	name="Berkeley"
-	culture ="saxon"
+	culture ="english"
 }
 4025 = {
 	name="Barton"
-	culture ="saxon"
+	culture ="english"
 }
 4026 = {
 	name="de St John"
@@ -6833,11 +6842,11 @@
 }
 4028 = {
 	name="Colvile"
-	culture ="saxon"
+	culture ="english"
 }
 4029 = {
 	name="de Fauconberg"
-	culture = "norman"
+	culture = "english"
 }
 4030 = {
 	name="de Leyburne"
@@ -6845,7 +6854,7 @@
 }
 4031 = {
 	name="Grey"
-	culture ="saxon"
+	culture ="english"
 }
 4032 = {
 	name="de Greystock"
@@ -6857,15 +6866,15 @@
 }
 4034 = {
 	name="de Burgh"
-	culture ="saxon"
+	culture ="english"
 }
 4035 = {
-	name="de Holland"
+	name="Holland"
 	culture ="english"
 }
 4036 = {
 	name="d'Ufford"
-	culture = "norman"
+	culture = "english"
 }
 4037 = {
 	name="de Lacy"
@@ -6877,7 +6886,7 @@
 }
 4039 = {
 	name="Darcy"
-	culture ="saxon"
+	culture ="english"
 }
 4040 = {
 	name="Butler"
@@ -7197,7 +7206,7 @@
 #}
 5069 = {
 	name="de Garlande"
-	culture ="saxon"
+	culture ="norman"
 }
 5070 = {
 	name="de Marly"
@@ -12705,7 +12714,7 @@ used_for_random = no
 	culture ="german"
 }
 14288 = {
-	name="Perry"
+	name="Perisc"
 	culture ="saxon"
 }
 15000 = {
@@ -13135,7 +13144,7 @@ used_for_random = no
 	culture ="georgian"
 }
 20022 = {
-	name="Aelfricson"
+	name="Ælfricesunu"
 	culture ="saxon"
 }
 20023 = {
@@ -13191,7 +13200,7 @@ used_for_random = no
 	culture = "frankish"
 }
 20036 = {
-	name="Bethell"
+	name="Beornesunu"
 	culture ="saxon"
 }
 20037 = {
@@ -13232,7 +13241,7 @@ used_for_random = no
 }
 20046 = {
 	name="Perry"
-	culture ="saxon"
+	culture ="english"
 }
 20047 = {
 	name="Lloyd"
@@ -13243,7 +13252,7 @@ used_for_random = no
 	culture ="irish"
 }
 20049 = {
-	name="Wake"
+	name="Wæcnan"
 	culture ="saxon"
 }
 20050 = {
@@ -14117,7 +14126,7 @@ used_for_random = no
 	culture ="scottish"
 }
 25041 = {
-	name="Borthwick"
+	name="Borthwic"
 	culture ="saxon"
 }
 25042 = {
@@ -14161,7 +14170,7 @@ used_for_random = no
 	culture ="scottish"
 }
 25052 = {
-	name="de London"
+	name="Lundunisc"
 	culture ="saxon"
 }
 25053 = {
@@ -14439,7 +14448,7 @@ used_for_random = no
 	culture ="irish"
 }
 100017 = {
-	name="of Hereford"
+	name="Heresfordisc"
 	culture ="saxon"
 }
 100018 = {
@@ -14455,51 +14464,51 @@ used_for_random = no
 	culture ="welsh"
 }
 100021 = {
-	name="of Gloucester"
+	name="Gleawisc"
 	culture ="saxon"
 }
 100022 = {
-	name="of Oxford"
+	name="Oxenafordisc"
 	culture ="saxon"
 }
 100023 = {
-	name="of Salisbury"
+	name="Searrisc"
 	culture ="saxon"
 }
 100024 = {
-	name="of Surrey"
+	name="Suthrige"
 	culture ="saxon"
 }
 100025 = {
-	name="of Sussex"
+	name="Suthseaxna"
 	culture ="saxon"
 }
 100026 = {
-	name="of Hampshire"
+	name="Wintan"
 	culture ="saxon"
 }
 100027 = {
-	name="of Dorset"
+	name="Dornisc"
 	culture ="saxon"
 }
 100028 = {
-	name="of Somerset"
+	name="Sumor"
 	culture ="saxon"
 }
 100029 = {
-	name="of Devon"
+	name="Defenisc"
 	culture ="saxon"
 }
 100030 = {
-	name="of Exeter"
+	name="Escanisc"
 	culture ="saxon"
 }
 100031 = {
-	name="of Cornwall"
+	name="Eastseaxna"
 	culture ="welsh"
 }
 100032 = {
-	name="of Bristol"
+	name="Brycgstow"
 	culture ="welsh"
 }
 100033 = {
@@ -14583,7 +14592,7 @@ used_for_random = no
 	culture ="scottish"
 }
 100053 = {
-	name="of Cumberland"
+	name="Gelling"
 	culture ="saxon"
 }
 100054 = {
@@ -14595,19 +14604,19 @@ used_for_random = no
 	culture ="irish"
 }
 100056 = {
-	name="of Durham"
+	name="Duning"
 	culture = "norman"
 }
 100057 = {
-	name="of York"
+	name="Eoforwicna"
 	culture ="saxon"
 }
 100058 = {
-	name="of Lancaster"
+	name="Lunisc
 	culture ="saxon"
 }
 100059 = {
-	name="of Chester"
+	name="Frodisc"
 	culture ="saxon"
 }
 100060 = {
@@ -14615,15 +14624,15 @@ used_for_random = no
 	culture ="welsh"
 }
 100061 = {
-	name="of Lincoln"
+	name="Lindisware"
 	culture ="saxon"
 }
 100062 = {
-	name="of Leicester"
+	name="Ligering"
 	culture ="saxon"
 }
 100063 = {
-	name="of Derby"
+	name="Northworthig"
 	culture ="saxon"
 }
 100064 = {
@@ -14635,36 +14644,36 @@ used_for_random = no
 	culture ="welsh"
 }
 100066 = {
-	name="of Shrewsbury"
+	name="Wenanisc"
 	culture ="saxon"
 }
 100067 = {
-	name="of Warwick"
+	name="Wæring"
 	culture ="english"
 }
 100068 = {
-	name="of Northampton"
+	name="Medelisc"
 	culture ="saxon"
 }
 100069 = {
-	name="of Bedford"
+	name="Beadisc"
 	culture ="saxon"
 }
 100070 = {
-	name="of Norfolk"
+	name="Seaxmunding"
 	culture ="saxon"
 }
 100071 = {
-	name="of Suffolk"
+	name="Giping"
 	culture ="saxon"
 }
 100072 = {
-	name="of Wessex"
+	name="of Westseax"
 	culture ="saxon"
 	coat_of_arms = {	template = 0	layer = {	texture = 5	texture_internal = 120	emblem = 0	color = 0	color = 0	color = 0	}	}
 }
 100073 = {
-	name="of Kent"
+	name="Centisc"
 	culture ="saxon"
 }
 100074 = {
@@ -14765,11 +14774,11 @@ used_for_random = no
 }
 100106 = {
 	name="de Nantes"
-	culture = "norman"
+	culture = "frankish"
 }
 100107 = {
 	name="d'Angers"
-	culture = "norman"
+	culture = "frankish"
 }
 100108 = {
 	name="du Mans"
@@ -20681,7 +20690,7 @@ used_for_random = no
 	culture = "norman"
 }
 101601 = {
-	name="Crawford"
+	name="Crow"
 	culture ="saxon"
 }
 101602 = {
@@ -20689,7 +20698,7 @@ used_for_random = no
 	culture = "frankish"
 }
 101603 = {
-	name="Tynedale"
+	name="Tinandæl"
 	culture ="saxon"
 }
 101604 = {
@@ -20869,12 +20878,12 @@ used_for_random = no
 	culture ="irish"
 }
 101708 = {
-	name="Pudsey"
+	name="Sealseg"
 	culture ="saxon"
 }
 101709 = {
 	name="Marshal"
-	culture ="saxon"
+	culture ="english"
 }
 101710 = {
 	name="de Quincy"
@@ -21770,7 +21779,7 @@ used_for_random = no
 	culture ="andalusian_arabic"
 }
 101916 = {
-	name="Tolui"
+	name="Toluid"
 	culture = "mongol"
 	can_appear = no
 }
@@ -21808,7 +21817,7 @@ used_for_random = no
 	culture = "norman"
 }
 101925 = {
-	name="of Mercia"
+	name="Miercna"
 	culture ="saxon"
 }
 101926 = {
@@ -22128,7 +22137,7 @@ used_for_random = no
 	culture ="scottish"
 }
 20088 = {
-	name="Rowe"
+	name="Rygisc"
 	culture ="saxon"
 }
 20089 = {
@@ -23162,7 +23171,7 @@ used_for_random = no
 }
 1031004 = {
 	name="de Criel"
-	culture ="saxon"
+	culture ="norman"
 	
 	coat_of_arms= {
 		data= { 4 0 2 21 0 11 5 0 2 21 0 11 5 0 2 21 0 11 5 }
@@ -23196,7 +23205,7 @@ used_for_random = no
 }
 1031011 = {
 	name="Ross"
-	culture ="saxon"
+	culture ="english"
 }
 
 1031012 = {
@@ -23302,7 +23311,13 @@ used_for_random = no
 	}
 	used_for_random = no
 }
-
+1031030=
+{
+	name="Rudén"
+	culture="swedish"
+	religion="norse_pagan"
+	used_for_random=no
+}
 1031100 = {
 	name="al-Ghazâlî"
 	culture = persian
