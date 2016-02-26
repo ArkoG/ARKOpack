@@ -1,9 +1,35 @@
 MOD NAME : ARKOpack
-MOD/DATE VERSION : 2015 december 10th
-GAME VERSION COMPATIBILITY : v2.4.x
+MOD/DATE VERSION : 2016 february 26th
+GAME VERSION COMPATIBILITY : v2.5.x
 
 see included readme's for details
 
+see included readme's for details
+
+
+--2016-02-24 changelog--
+ARMOIRIES :
+-saxonified saxon dynastic names (thanks to Woodyman)
+-fully updated to 2.5.x
+-tweaked some colours
+
+INTERFACE :
+-improved minor titles view
+-improved voting laws interface
+-in councillors job view, the coloured header are know linked to the job's main skill (so one can add new councillors and having them using different colours on scrolling) 
+-councillors job view old recolouring redone
+-fixed various misalignements (texts end various elements)
+-joining a voters' group has a new design (a golden "+")
+-civic laws title is no longer cut when displayed in French
+-various laws tabs now use their religion-group colour instead of a different colour by tab
+-councillor's position accounting is redesigned (number of voters in each group) and uses the big version of the position icon
+-enforce peace button is eluded to be replaced by some laurels
+-councillor's position icons has their external ring brighter
+-realm law tab now displays 5 laws at once instead of 4
+-realm law entry has a golden border for more visibility
+-extended previous to regular focuses to the new ones
+-updated localization files naming
+-updated to 2.5.x
 
 --2015-12-10 changelog--
 ARMOIRIES :
