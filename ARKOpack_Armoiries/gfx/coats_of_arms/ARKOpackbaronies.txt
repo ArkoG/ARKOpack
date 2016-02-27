@@ -24,7 +24,7 @@ marquage par "*" = dernières nouveautés (latest additions)
 -24-Oyonnax = { coat_of_arms = { data = { 0 4 0 18 0 0 0 } religion="catholic" } }
 -25-Bourgenbresse = { coat_of_arms = { data = { 0 4 0 13 0 0 0 } religion="catholic" } }
 
-
+-29-Brienne = { coat_of_arms = { data = { 0 4 0 29 0 0 0 } religion="catholic" } }
 
 
 

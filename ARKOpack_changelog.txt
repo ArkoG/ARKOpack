@@ -4,8 +4,14 @@ GAME VERSION COMPATIBILITY : v2.5.x
 
 see included readme's for details
 
-see included readme's for details
 
+--DEV changelog--
+ARMOIRIES :
+-
+-10 new dynastic CoA (Percy, de Vere, Mowbray, Marshal, de Mandeville, Bigod, de Brienne -baron-, de Brienne, de Guines, de Coucy)
+
+INTERFACE :
+-
 
 --2016-02-24 changelog--
 ARMOIRIES :

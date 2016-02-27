@@ -479,20 +479,10 @@
 	religion="catholic"
 }
 80 = {
-	name="de Brienne"
+	name="de Brienne" #latin empire
 	culture="frankish"
 	religion="catholic"
-	coat_of_arms = {
-		template = 0
-		layer = {
-			texture = 3 #DLC N°1
-			texture_internal = 12
-			emblem = 0
-			color = 0
-			color = 0
-			color = 0
-		}
-	}
+	coat_of_arms = {	template = 0	layer = {	texture = 5	texture_internal = 114	emblem = 0	color = 0	color = 0	color = 0	}	}
 }
 81 = {
 	name="d'Anjou" #Capet d'Anjou
@@ -608,9 +598,10 @@
 	coat_of_arms = {	template = 0	layer = {	texture = 5	texture_internal = 35	emblem = 0	color = 0	color = 0	color = 0	}	}	
 }
 102 = {
-	name="de Guines"
+	name="de Guines" #comtes de Guines
 	culture = "frankish"
 	religion="catholic"
+	coat_of_arms = {	template = 0	layer = {	texture = 5	texture_internal = 115	emblem = 0	color = 0	color = 0	color = 0	}	}
 }
 103 = {
 	name="Balliol"
@@ -2048,6 +2039,7 @@
 344 = {
 	name="de Mandeville"
 	culture ="english"
+	coat_of_arms = {	template = 0	layer = {	texture = 15	texture_internal = 4	emblem = 0	color = 0	color = 0	color = 0	}	}
 }
 345 = {
 	name="de Verre"
@@ -2056,17 +2048,7 @@
 346 = {
 	name="de Bigod"
 	culture = "norman"
-	coat_of_arms = {
-		template = 0
-		layer = {
-			texture = 3 #DLC N°1
-			texture_internal = 30
-			emblem = 0
-			color = 0
-			color = 0
-			color = 0
-		}
-	}
+	coat_of_arms = {	template = 0	layer = {	texture = 15	texture_internal = 5	emblem = 0	color = 0	color = 0	color = 0	}	}
 }
 347 = {
 	name="de Warren"
@@ -2154,6 +2136,8 @@
 365 = {
 	name="de Vere"
 	culture ="english"
+	coat_of_arms = {	template = 0	layer = {	texture = 15	texture_internal = 1	emblem = 0	color = 0	color = 0	color = 0	}	}
+
 }
 366 = {
 	name="Stawiellisc"
@@ -3235,6 +3219,7 @@
 558 = {
 	name="de Mowbray"
 	culture = "norman"
+	coat_of_arms = {	template = 0	layer = {	texture = 15	texture_internal = 3	emblem = 0	color = 0	color = 0	color = 0	}	}
 }
 559 = {
 	name="de Gael"
@@ -6724,6 +6709,7 @@
 4000 = {
 	name="Percy"
 	culture ="english"
+	coat_of_arms = {	template = 0	layer = {	texture = 15	texture_internal = 0	emblem = 0	color = 0	color = 0	color = 0	}	}
 }
 4001 = {
 	name="Mortimer"
@@ -7256,6 +7242,7 @@
 5081 = {
 	name="de Coucy"
 	culture = "frankish"
+	coat_of_arms = {	template = 0	layer = {	texture = 5	texture_internal = 116	emblem = 0	color = 0	color = 0	color = 0	}	}
 }
 5082 = {
 	name="de Fontaines"
@@ -13954,8 +13941,9 @@ used_for_random = no
 	culture = "frankish"
 }
 23115 = {
-	name="de Brienne"
+	name="de Brienne" #early baron of Brienne ?
 	culture = "frankish"
+	coat_of_arms = {	template = 0	layer = {	texture = 5	texture_internal = 113	emblem = 0	color = 0	color = 0	color = 0	}	}
 }
 23116 = {
 	name="d'Altaville"
@@ -14677,7 +14665,7 @@ used_for_random = no
 	culture ="saxon"
 }
 100074 = {
-	name="de Guines"
+	name="de Guines" #unused
 	culture = "frankish"
 }
 100076 = {
@@ -20884,6 +20872,7 @@ used_for_random = no
 101709 = {
 	name="Marshal"
 	culture ="english"
+	coat_of_arms = {	template = 0	layer = {	texture = 15	texture_internal = 3	emblem = 0	color = 0	color = 0	color = 0	}	}
 }
 101710 = {
 	name="de Quincy"

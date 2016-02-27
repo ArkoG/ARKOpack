@@ -124,9 +124,12 @@ Dynasties :
 110-Villehardouin
 111-*
 112-de Boulogne
-113-*
-114-*
-115-*
+*113-de Brienne #ID   23115		#coat_of_arms = {	template = 0	layer = {	texture = 113	texture_internal = 6	emblem = 0	color = 0	color = 0	color = 0	}	}
+*114-de Brienne #ID      80		#coat_of_arms = {	template = 0	layer = {	texture = 114	texture_internal = 7	emblem = 0	color = 0	color = 0	color = 0	}	}
+*115-de Guines #ID    80		#coat_of_arms = {	template = 0	layer = {	texture = 115	texture_internal = 8	emblem = 0	color = 0	color = 0	color = 0	}	}
+*116-de Coucy #ID   5081		#coat_of_arms = {	template = 0	layer = {	texture = 116	texture_internal = 9	emblem = 0	color = 0	color = 0	color = 0	}	}
+
+
 -
 120-of Wessex
 121-van Aarshot
@@ -279,5 +282,17 @@ Others (programmed from patterns)
 29-Orseolo*(placeholder)
 30-Konstantios
 31-Polkarios
+
+################################
+# Armoiries ArkoPack
+#
+# Dynasties Pack 15 : -England-
+################################
+00-Percy   			#ID   4000 	#coat_of_arms = {	template = 0	layer = {	texture = 15	texture_internal = 0	emblem = 0	color = 0	color = 0	color = 0	}	}
+01-de Vere 			#ID    365 	#coat_of_arms = {	template = 0	layer = {	texture = 15	texture_internal = 1	emblem = 0	color = 0	color = 0	color = 0	}	}
+02-Mowbray 			#ID    558 	#coat_of_arms = {	template = 0	layer = {	texture = 15	texture_internal = 2	emblem = 0	color = 0	color = 0	color = 0	}	}
+03-Marshal 			#ID 101709 	#coat_of_arms = {	template = 0	layer = {	texture = 15	texture_internal = 3	emblem = 0	color = 0	color = 0	color = 0	}	}
+04-de Mandeville	#ID    344 	#coat_of_arms = {	template = 0	layer = {	texture = 15	texture_internal = 4	emblem = 0	color = 0	color = 0	color = 0	}	}
+05-Bigod 			#ID    346	#coat_of_arms = {	template = 0	layer = {	texture = 15	texture_internal = 5	emblem = 0	color = 0	color = 0	color = 0	}	}
 
 
