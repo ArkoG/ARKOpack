@@ -116,7 +116,7 @@ guiTypes = {
 		
 		instantTextBoxType = { #textes votes en cours
 			name = "label_voting_status"
-			position = { x = 300 y = 91 }
+			position = { x = 231 y = 91 }
 			textureFile = ""
 			font = "vic_18"
 			borderSize = {x = 0 y = 0}
