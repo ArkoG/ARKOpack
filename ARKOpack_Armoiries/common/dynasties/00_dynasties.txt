@@ -14600,7 +14600,7 @@ used_for_random = no
 	culture ="saxon"
 }
 100058 = {
-	name="Lunisc
+	name="Lunisc"
 	culture ="saxon"
 }
 100059 = {
