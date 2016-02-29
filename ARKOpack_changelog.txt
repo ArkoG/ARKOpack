@@ -1,20 +1,13 @@
 MOD NAME : ARKOpack
-MOD/DATE VERSION : 2016 february 26th
+MOD/DATE VERSION : 2016 february 29th
 GAME VERSION COMPATIBILITY : v2.5.x
 
 see included readme's for details
 
 
---DEV changelog--
+--2016-02-29 changelog--
 ARMOIRIES :
--
 -10 new dynastic CoA (Percy, de Vere, Mowbray, Marshal, de Mandeville, Bigod, de Brienne -baron-, de Brienne, de Guines, de Coucy)
-
-INTERFACE :
--
-
---2016-02-24 changelog--
-ARMOIRIES :
 -saxonified saxon dynastic names (thanks to Woodyman)
 -fully updated to 2.5.x
 -tweaked some colours
