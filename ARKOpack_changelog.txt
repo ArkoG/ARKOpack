@@ -1,12 +1,16 @@
 MOD NAME : ARKOpack
-MOD/DATE VERSION : 2016 february 29th
+MOD/DATE VERSION : 2016 march 3rd
 GAME VERSION COMPATIBILITY : v2.5.x
 
 see included readme's for details
 
 
---2016-02-29 changelog--
+--2016-03-03 changelog--
+
 ARMOIRIES :
+-adds some CoA stuf for zoroastrians
+-adds 70 tamgas CoA for tengri
+-reworked existing tengri's CoA
 -10 new dynastic CoA (Percy, de Vere, Mowbray, Marshal, de Mandeville, Bigod, de Brienne -baron-, de Brienne, de Guines, de Coucy)
 -saxonified saxon dynastic names (thanks to Woodyman)
 -fully updated to 2.5.x
