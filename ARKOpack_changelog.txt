@@ -8,8 +8,8 @@ see included readme's for details
 --2016-03-03 changelog--
 
 ARMOIRIES :
--adds some CoA stuf for zoroastrians
--adds 70 tamgas CoA for tengri
+-adds some CoA stuff for zoroastrians
+-adds 70 new tamgas CoA for tengri
 -reworked existing tengri's CoA
 -10 new dynastic CoA (Percy, de Vere, Mowbray, Marshal, de Mandeville, Bigod, de Brienne -baron-, de Brienne, de Guines, de Coucy)
 -saxonified saxon dynastic names (thanks to Woodyman)
