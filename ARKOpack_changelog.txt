@@ -5,6 +5,18 @@ GAME VERSION COMPATIBILITY : v2.5.x
 see included readme's for details
 
 
+--DEV changelog--
+
+ARMOIRIES :
+-
+-
+
+INTERFACE :
+-
+-
+-chronicle image frame tweak
+-fixed the dimension of vanilla event picture triumph_arch
+
 --2016-03-03 changelog--
 
 ARMOIRIES :
