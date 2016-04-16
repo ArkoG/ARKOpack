@@ -405,7 +405,7 @@ culture = {
 	}
 
 	color = {
-		{ 200 255 0 }	#0 		Or d'Orient
+		{ 220 200 0 }	#0 		Or d'Orient
 		{ 208 208 208 } #1 		Argent
 		{ 100 150 250 } #2 		Bleu Céleste
 		{ 150 0 30 } 	#3 		Sanguine

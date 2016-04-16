@@ -9,7 +9,9 @@ see included readme's for details
 
 ARMOIRIES :
 -
--
+-fixed Bagratuni&co CoA attribution
+-tweaked some west african patterns
+-tweaked some colours (again)
 
 INTERFACE :
 -

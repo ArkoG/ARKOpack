@@ -260,7 +260,7 @@
 43 = {
 	name="Bagratuni"
 	culture ="armenian"
-	coat_of_arms = {	template = 0	layer = {	texture = 5	texture_internal = 127	emblem = 0	color = 0	color = 0	color = 0	}	}
+	coat_of_arms = {	template = 0	layer = {	texture = 5	texture_internal = 124	emblem = 0	color = 0	color = 0	color = 0	}	}
 }
 44 = {
 	name="Hayastani"
@@ -2955,7 +2955,13 @@
 507 = {
 	name="Bagrationi"
 	culture ="georgian"
-	coat_of_arms = {	template = 0	layer = {	texture = 5	texture_internal = 124	emblem = 0	color = 0	color = 0	color = 0	}	}
+	coat_of_arms=
+	{
+		data=
+		{
+0 3 0 6 0 0 0 			}
+		religion="catholic"
+	}
 	used_for_random = no
 }
 508 = {
@@ -13327,7 +13333,7 @@ used_for_random = no
 	culture = "frankish"
 }
 20071 = {
-	name="Progonovic"
+	name="Progoni"
 	culture ="serbian"
 }
 20072 = {
@@ -14227,13 +14233,7 @@ used_for_random = no
 25201 = { #reuse of vanilla's Bagrationi CoA from DLC
 	name="Kvirikian"
 	culture = "turkish"
-	coat_of_arms=
-	{
-		data=
-		{
-0 3 0 6 0 0 0 			}
-		religion="catholic"
-	}
+	coat_of_arms = {	template = 0	layer = {	texture = 5	texture_internal = 127	emblem = 0	color = 0	color = 0	color = 0	}	}
 }	
 25202 = {
 	name="Hephaistos"
