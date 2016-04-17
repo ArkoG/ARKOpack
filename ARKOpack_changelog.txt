@@ -1,21 +1,21 @@
 MOD NAME : ARKOpack
-MOD/DATE VERSION : 2016 march 3rd
+MOD/DATE VERSION : 
+standalone : 2016 march 3rd
+H.I.P : 2016 april 17th
 GAME VERSION COMPATIBILITY : v2.5.x
 
 see included readme's for details
 
 
---DEV changelog--
+--2016-04-17 changelog--
 
 ARMOIRIES :
--
 -fixed Bagratuni&co CoA attribution
 -tweaked some west african patterns
 -tweaked some colours (again)
 
 INTERFACE :
--
--
+-fixed a gfx glitich on build building view
 -chronicle image frame tweak
 -fixed the dimension of vanilla event picture triumph_arch
 
