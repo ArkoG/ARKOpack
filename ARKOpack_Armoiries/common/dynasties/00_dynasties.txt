@@ -14576,8 +14576,10 @@ used_for_random = no
 	culture ="scottish"
 }
 100052 = {
-	name="MacEadwine " #of Northumberland
-	culture ="scottish"
+	name="Gunnarsson"
+	culture ="norse"
+	#name="MacEadwine" #of Northumberland
+	#culture ="scottish"
 }
 100053 = {
 	name="Gelling"
