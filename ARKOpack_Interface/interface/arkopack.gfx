@@ -275,7 +275,7 @@ spriteTypes = {
 	spriteType = {
 		name = "GFX_religion_icon_strip_decorated"
 		texturefile = "gfx\\interface\\religion_icon_strip_decorated.tga"
-		noOfFrames = 74
+		noOfFrames = 75
 	}
 	spriteType = {
 		name = "GFX_charview_label_bg_alt"
