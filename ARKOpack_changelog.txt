@@ -1,11 +1,19 @@
 MOD NAME : ARKOpack
 MOD/DATE VERSION : 
-standalone : 2016 march 3rd
-H.I.P : 2016 april 17th
-GAME VERSION COMPATIBILITY : v2.5.x
+standalone : 2016 august 30th
+GAME VERSION COMPATIBILITY : v2.5.x v2.6.x
 
 see included readme's for details
 
+
+--2016-08-31 changelog--
+
+ARMOIRIES :
+-2.6.2 compatch
+-CoA for c_holland & d_holland
+
+INTERFACE :
+-XXX
 
 --2016-04-17 changelog--
 
