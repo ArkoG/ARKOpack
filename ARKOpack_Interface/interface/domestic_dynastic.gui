@@ -1382,12 +1382,12 @@ guiTypes = {
 			}
 			guiButtonType =	{
 				name ="cancel_plot"
-				quadTextureSprite= "GFX_cancel_ambition"
+				quadTextureSprite= "GFX_cancel_ambition_arkopack"
 				position = { x= 71 y = 31 } #background x+18 y+18
 			}
 			guiButtonType =	{
 				name ="cancel_ambition"
-				quadTextureSprite= "GFX_cancel_ambition"
+				quadTextureSprite= "GFX_cancel_ambition_arkopack"
 				position = { x= 52 y = 62 } #icon x+16 y+16
 			}		
 			

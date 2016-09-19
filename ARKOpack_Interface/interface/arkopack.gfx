@@ -1,4 +1,14 @@
 spriteTypes = {
+
+
+   ###CHARACTER VIEW
+  	spriteType = {
+		name = "GFX_cancel_ambition_arkopack"
+		texturefile = "gfx\\interface\\cancel_ambition_arkopack.tga"
+	}
+
+	
+	
 	spriteType = {
 		name = "GFX_charview_goto_dynasty_vide"
 		texturefile = "gfx\\interface\\charview_goto_dynasty_vide.dds"
@@ -61,7 +71,100 @@ spriteTypes = {
 		size = { x = 99 y = 32 }
 		effectFile = "gfx/FX/progress.lua"
 	}
-
+    ###OUTLINER
+	spriteType = {
+		name = "GFX_outliner_top_arkopack"	
+		texturefile = "gfx\\interface\\outliner_top_arkopack.tga"
+		loadType = "INGAME"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_outliner_bottom_arkopack"	
+		texturefile = "gfx\\interface\\outliner_bottom_arkopack.tga"
+		loadType = "INGAME"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_outliner_standard_arkopack"	
+		texturefile = "gfx\\interface\\outliner_standard_arkopack.tga"
+		loadType = "INGAME"
+		effectFile = "gfx/FX/buttonstate.lua"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_outliner_court_arkopack"	
+		texturefile = "gfx\\interface\\outliner_court_arkopack.tga"
+		loadType = "INGAME"
+		effectFile = "gfx/FX/buttonstate.lua"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_outliner_header_arkopack"	
+		texturefile = "gfx\\interface\\outliner_header_arkopack.tga"
+		loadType = "INGAME"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_outliner_config_bg_arkopack"	
+		texturefile = "gfx\\interface\\outliner_config_bg_arkopack.tga"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_checkbox_default_arkopack"
+		texturefile = "gfx\\interface\\checkbox_default_arkopack.dds"
+		noOfFrames = 2
+		clicksound = generic_click_04
+	}
+	progressbartype = {
+		name = "GFX_outliner_build_progress_arkopack"
+		color = { 0.0 0.5 0.0 }
+		colortwo = { 1.0 0.0 0.0 }
+		textureFile1 = "gfx\\interface\\outliner_build_progress_1_arkopack.dds"
+		textureFile2 = "gfx\\interface\\outliner_build_progress_2_arkopack.dds"
+		horizontal = no
+		size = { x = 2 y = 14 }
+		effectFile = "gfx/FX/progress.lua"
+	}
+	
+   ###PROVINCE VIEW
+	spriteType = {
+		name = "GFX_province_bg_arkopack"
+		texturefile = "gfx\\interface\\province_bg_arkopack.tga"
+	}  
+	spriteType = {
+		name = "GFX_province_bg_extended_arkopack"
+		texturefile = "gfx\\interface\\province_bg_extended_arkopack.tga"
+		transparencecheck = yes
+	}	
+	spriteType = {
+		name = "GFX_province_extend_arkopack"
+		texturefile = "gfx\\interface\\province_extend_button_arkopack.dds"
+		noOfFrames = 2
+	}
+	spriteType = {
+		name = "GFX_buildview_has_fort_arkopack"
+		texturefile = "gfx\\interface\\province_has_fort_arkopack.dds"
+		noOfFrames = 1
+	}	
+	spriteType = {
+		name = "GFX_buildview_fort_icon_arkopack"
+		texturefile = "gfx\\interface\\buildview_fort_icon_arkopack.dds"
+	}	
+	
+	#additional culturegfx missing from vanilla
+	spriteType = {
+		name = "GFX_province_settlement_frame_indiangfx" #indianstyle
+		texturefile = "gfx\\interface\\province_settlement_frame_indiangfx.tga"
+	}
+	spriteType = {
+		name = "GFX_province_settlement_frame_southindiangfx" #indianstyle
+		texturefile = "gfx\\interface\\province_settlement_frame_southindiangfx.tga"
+	}
+	spriteType = {
+		name = "GFX_province_settlement_frame_turkishgfx" #mongolstyle
+		texturefile = "gfx\\interface\\province_settlement_frame_turkishgfx.tga"
+	}
+	
 	###SIEGE VIEW
 	progressbartype = {
 		name = "GFX_combat_siege_morale_att"
@@ -94,6 +197,15 @@ spriteTypes = {
 		texturefile = "gfx\\interface\\icon_siege_tofewmen_arko.tga"
 		noOfFrames = 1
 		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_province_toggle_siege_arkopack"
+		texturefile = "gfx\\interface\\province_toggle_siege_arkopack.dds"
+	}
+	spriteType = {
+		name = "GFX_combat_siege_bg_arkopack"	
+		texturefile = "gfx\\interface\\combat_siege_bg_arkopack.dds"
+		transparencecheck = yes
 	}
 	
 ###BUILD NEW VIEW

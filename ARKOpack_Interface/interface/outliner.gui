@@ -3,8 +3,8 @@ guiTypes = {
 	windowType = {
 		name = "outliner"
 		backGround=""
-		position = { x=-317 y=218  }	
-		size = { x=317 y=100 }
+		position = { x=-319 y=215  }	
+		size = { x=324 y=100 }
 		moveable = 0
 		dontRender = ""
 		horizontalBorder= ""
@@ -15,13 +15,13 @@ guiTypes = {
 		iconType =
 		{
 			name ="GFX_outliner_top"
-			spriteType = "GFX_outliner_top"
+			spriteType = "GFX_outliner_top_arkopack"
 			position = { x= 0 y = 0 }
 		}
 		
 		guiButtonType = {
 			name = "outliner_open_config"
-			position = { x = 220  y = 3 }
+			position = { x = 208  y = 7 }
 			quadTextureSprite ="GFX_outliner_open_config"
 			Orientation = "UPPER_LEFT"
 			pdx_tooltip = "OUTLINER_BUTTON_CONFIG"
@@ -29,7 +29,7 @@ guiTypes = {
 		}
 		guiButtonType = {
 			name = "outliner_lock"
-			position = { x = 255  y = 3 }
+			position = { x = 243  y = 7 }
 			quadTextureSprite ="GFX_lock_icon"
 			Orientation = "UPPER_LEFT"
 			pdx_tooltip = "OUTLINER_BUTTON_LOCK"
@@ -37,7 +37,7 @@ guiTypes = {
 		}
 		guiButtonType = {
 			name = "outliner_toggle"
-			position = { x = 290  y = 3 }
+			position = { x = 278  y = 7 }
 			quadTextureSprite ="GFX_toggleopen_icons"
 			Orientation = "UPPER_LEFT"
 			pdx_tooltip = "OUTLINER_BUTTON_TOGGLE"
@@ -47,13 +47,13 @@ guiTypes = {
 		smoothListboxType = 
 			{
 			name ="outliner_list"
-			position = { x = 0 y = 35 }
+			position = { x = 0 y = 36 }
 			backGround=""
-			size = { x= 317 y = 200}
+			size = { x= 324 y = 200}
 			Orientation = "UPPER_LEFT"
 			spacing = 2
 			scrollbartype = "standardlistbox_slider"
-			offset = { x=-16 y=-4 }
+			offset = { x=-18 y=-2 }
 			borderSize = {x = 0 y = 0}
 		}
 
@@ -64,7 +64,7 @@ guiTypes = {
 	iconType =
 	{
 		name ="outliner_bottom"
-		spriteType = "GFX_outliner_bottom"
+		spriteType = "GFX_outliner_bottom_arkopack"
 		position = { x= 0 y = 0 }
 	}
 
@@ -73,9 +73,9 @@ guiTypes = {
 	windowType = {
 			name = "outliner_configuration"
 			backGround=""
-			position = { x=-550 y=110 }	
+			position = { x=-545 y=193 }	
 			size = { x=256 y=325 }
-			moveable = 1
+			moveable = 0
 			dontRender = ""
 			horizontalBorder= ""
 			verticalBorder= ""
@@ -85,14 +85,14 @@ guiTypes = {
 			iconType =
 			{
 				name ="outliner_config_bg"
-				spriteType = "GFX_outliner_config_bg"
+				spriteType = "GFX_outliner_config_bg_arkopack"
 				position = { x= 20 y = 27 }
 			}
 
 			listboxType = 
 				{
 				name ="outliner_configuration_list"
-				position = { x = 30 y = 40 }
+				position = { x = 30 y = 41 }
 				backGround=""
 				size = { x= 182 y = 352}
 				Orientation = "UPPER_LEFT"
@@ -105,7 +105,7 @@ guiTypes = {
 
 			guiButtonType = {
 				name = "close_button"	
-				position = {x = 72 y = 413 }
+				position = {x = 72 y = 333 }
 				quadTextureSprite ="GFX_standard_button_112"
 				buttonText = "CLOSE"
 				buttonFont = "vic_18"
@@ -133,18 +133,18 @@ guiTypes = {
 
 			checkboxType = {
 				name = "outliner_checkbox"
-				position = { x = 0 y = 0 }
+				position = { x = -1 y = 0 }
 				quadTextureSprite ="GFX_checkbox_default"
 				clicksound = click_03
 			}
 
 
 			instantTextBoxType={
-				position = {x = 30 y = 5 }
+				position = {x = 25 y = 5 }
 				name = "outliner_list_text"
 				font = "small_white"
 				borderSize = {x = 0 y = 0}	
-				maxWidth = 150
+				maxWidth = 170
 				maxHeight = 18
 				text = ""	
 				orientation = "UPPER_LEFT"
@@ -164,7 +164,7 @@ guiTypes = {
 		name = "outliner_header_entry"
 		backGround=""
 		position = { x=0 y=0 }	
-		size = { x=317 y=16 }
+		size = { x=324 y=16 }
 		moveable = 0
 		dontRender = ""
 		horizontalBorder= ""
@@ -174,7 +174,7 @@ guiTypes = {
 		iconType =
 		{
 			name ="outliner_header"
-			spriteType = "GFX_outliner_header"
+			spriteType = "GFX_outliner_header_arkopack"
 			position = { x= 0 y = 0 }
 		}
 
@@ -182,7 +182,7 @@ guiTypes = {
 
 		instantTextBoxType = {
 				name = "entry_text"
-				position = { x = 45 y = 1 }
+				position = { x = 52 y = 1 }
 				textureFile = ""
 				font = "vic_18_black"
 				borderSize = {x = 0 y = 0}
@@ -212,12 +212,12 @@ guiTypes = {
 		guiButtonType = {
 			name = "outliner_standard"
 			position = { x=0 y =0 }
-			quadTextureSprite ="GFX_outliner_standard"	
+			quadTextureSprite ="GFX_outliner_standard_arkopack"	
 		}
 		
 		instantTextBoxType = {
 				name = "name"
-				position = { x = 25 y = 2 }
+				position = { x = 32 y = 2 }
 				textureFile = ""
 				font = "Arial12_black"
 				borderSize = {x = 0 y = 0}
@@ -313,12 +313,12 @@ guiTypes = {
 		guiButtonType = {
 			name = "outliner_standard"
 			position = { x=0 y =0 }
-			quadTextureSprite ="GFX_outliner_standard"	
+			quadTextureSprite ="GFX_outliner_standard_arkopack"	
 		}
 		
 		instantTextBoxType = {
 				name = "name"
-				position = { x = 25 y = 2 }
+				position = { x = 32 y = 2 }
 				textureFile = ""
 				font = "Arial12_black"
 				borderSize = {x = 0 y = 0}
@@ -395,12 +395,12 @@ guiTypes = {
 		guiButtonType = {
 			name = "outliner_standard"
 			position = { x=0 y =0 }
-			quadTextureSprite ="GFX_outliner_standard"	
+			quadTextureSprite ="GFX_outliner_standard_arkopack"	
 		}
 
 		instantTextBoxType = {
 				name = "info_text"
-				position = { x = 25 y = 2 }
+				position = { x = 32 y = 2 }
 				textureFile = ""
 				font = "Arial12_black"
 				borderSize = {x = 0 y = 0}
@@ -412,9 +412,15 @@ guiTypes = {
 				fixedsize = yes
 		}
 		
+		iconType = 	{
+			name ="outliner_siege_icon_reintroduction"
+			spriteType = "GFX_outliner_siege_icon"
+			position = { x = 14 y = 0 }
+		}
+	
 		instantTextBoxType = {
 				name = "entry_text"
-				position = { x = 50 y = 2 }
+				position = { x = 57 y = 2 }
 				textureFile = ""
 				font = "Arial12_black"
 				borderSize = {x = 0 y = 0}
@@ -443,12 +449,12 @@ guiTypes = {
 		guiButtonType = {
 			name = "outliner_standard"
 			position = { x=0 y =0 }
-			quadTextureSprite ="GFX_outliner_standard"	
+			quadTextureSprite ="GFX_outliner_standard_arkopack"	
 		}
 
 		instantTextBoxType = {
 				name = "info_text"
-				position = { x = 25 y = 2 }
+				position = { x = 32 y = 2 }
 				textureFile = ""
 				font = "Arial12_black"
 				borderSize = {x = 0 y = 0}
@@ -462,7 +468,7 @@ guiTypes = {
 		
 		instantTextBoxType = {
 				name = "entry_text"
-				position = { x = 50 y = 2 }
+				position = { x = 57 y = 2 }
 				textureFile = ""
 				font = "Arial12_black"
 				borderSize = {x = 0 y = 0}
@@ -476,7 +482,7 @@ guiTypes = {
 
 	}
 	
-	### OUTLINER UNIT ENTRY
+	### OUTLINER UNIT ENTRY 
 	windowType = 
 	{
 		name = "outliner_unit_entry"
@@ -492,12 +498,12 @@ guiTypes = {
 		guiButtonType = {
 			name = "outliner_standard"
 			position = { x=0 y =0 }
-			quadTextureSprite ="GFX_outliner_standard"	
+			quadTextureSprite ="GFX_outliner_standard_arkopack"	
 		}
 
 		instantTextBoxType = {
 			name = "entry_text"
-			position = { x = 50 y = 2 }
+			position = { x = 57 y = 2 }
 			textureFile = ""
 			font = "Arial12_black"
 			borderSize = {x = 0 y = 0}
@@ -511,7 +517,7 @@ guiTypes = {
 		
 		instantTextBoxType = {
 				name = "info_text"
-				position = { x = 25 y = 2 }
+				position = { x = 32 y = 2 }
 				textureFile = ""
 				font = "Arial12_black"
 				borderSize = {x = 0 y = 0}
@@ -526,7 +532,7 @@ guiTypes = {
 			{
 				name ="movment"
 				spriteType = "GFX_outliner_move_arrow"
-				position = { x= 9 y = -10 }
+				position = { x= 16 y = -10 }
 				Orientation = "LOWER_LEFT"
 			}
 	}
@@ -547,12 +553,12 @@ guiTypes = {
 		guiButtonType = {
 			name = "outliner_standard"
 			position = { x=0 y =0 }
-			quadTextureSprite ="GFX_outliner_standard"	
+			quadTextureSprite ="GFX_outliner_standard_arkopack"	
 		}
 
 		instantTextBoxType = {
 			name = "entry_text"
-			position = { x = 50 y = 2 }
+			position = { x = 57 y = 2 }
 			textureFile = ""
 			font = "Arial12_black"
 			borderSize = {x = 0 y = 0}
@@ -566,7 +572,7 @@ guiTypes = {
 		
 		instantTextBoxType = {
 				name = "info_text"
-				position = { x = 25 y = 2 }
+				position = { x = 32 y = 2 }
 				textureFile = ""
 				font = "Arial12_black"
 				borderSize = {x = 0 y = 0}
@@ -586,7 +592,7 @@ guiTypes = {
 		name = "outliner_court_entry"
 		backGround=""
 		position = { x=0 y=0 }	
-		size = { x=317 y=16 }
+		size = { x=317 y=32 }
 		moveable = 0
 		dontRender = ""
 		horizontalBorder= ""
@@ -596,31 +602,31 @@ guiTypes = {
 		guiButtonType = {
 			name = "outliner_standard"
 			position = { x=0 y =0 }
-			quadTextureSprite ="GFX_outliner_standard"	
+			quadTextureSprite ="GFX_outliner_court_arkopack" #2lines	
 		}
 
 		instantTextBoxType = {
 			name = "entry_text"
-			position = { x = 135 y = 2 }
+			position = { x = 65 y = 17 }
 			textureFile = ""
 			font = "Arial12_black"
 			borderSize = {x = 0 y = 0}
 			text = ""	
-			maxWidth = 165
+			maxWidth = 231
 			maxHeight = 16
-
-			format = left
+	
+			format = right
 			fixedsize = yes
 		}
 		
 		instantTextBoxType = {
 				name = "info_text"
-				position = { x = 25 y = 2 }
+				position = { x = 32 y = 2 }
 				textureFile = ""
-				font = "Arial12_black"
+				font = "Arial12_bold_black"
 				borderSize = {x = 0 y = 0}
 				text = "Marshal"	
-				maxWidth = 100
+				maxWidth = 150
 				maxHeight = 16
 
 				format = left
@@ -643,12 +649,12 @@ guiTypes = {
 		guiButtonType = {
 			name = "outliner_standard"
 			position = { x=0 y =0 }
-			quadTextureSprite ="GFX_outliner_standard"	
+			quadTextureSprite ="GFX_outliner_standard_arkopack"	
 		}
 
 		instantTextBoxType = {
 			name = "entry_text"
-			position = { x = 50 y = 2 }
+			position = { x = 57 y = 2 }
 			textureFile = ""
 			font = "Arial12_black"
 			borderSize = {x = 0 y = 0}
@@ -662,7 +668,7 @@ guiTypes = {
 		
 		instantTextBoxType = {
 				name = "info_text"
-				position = { x = 10 y = 2 }
+				position = { x = 17 y = 2 }
 				textureFile = ""
 				font = "Arial12_black"
 				borderSize = {x = 0 y = 0}
@@ -691,13 +697,13 @@ guiTypes = {
 		{
 			name = "outliner_standard"
 			position = { x=0 y =0 }
-			quadTextureSprite ="GFX_outliner_standard"	
+			quadTextureSprite ="GFX_outliner_standard_arkopack"	
 		}
 
 		instantTextBoxType = 
 		{
 			name = "entry_text"
-			position = { x = 10 y = 2 }
+			position = { x = 17 y = 2 }
 			textureFile = ""
 			font = "Arial12_black"
 			borderSize = {x = 0 y = 0}
@@ -734,7 +740,7 @@ guiTypes = {
 		{
 			name = "outliner_standard"
 			position = { x=0 y =0 }
-			quadTextureSprite ="GFX_outliner_standard"
+			quadTextureSprite ="GFX_outliner_standard_arkopack"
 			pdx_tooltip = "CHARACTER_TOOLTIP"
 			pdx_tooltip_delayed = "CHARACTER_TOOLTIP_DELAYED"
 		}
@@ -742,7 +748,7 @@ guiTypes = {
 		instantTextBoxType = 
 		{
 			name = "entry_text"
-			position = { x = 50 y = 2 }
+			position = { x = 57 y = 2 }
 			textureFile = ""
 			font = "Arial12_black"
 			borderSize = {x = 0 y = 0}

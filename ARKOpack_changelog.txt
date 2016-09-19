@@ -6,6 +6,16 @@ GAME VERSION COMPATIBILITY : v2.5.x v2.6.x
 see included readme's for details
 
 
+--2016-09-19 changelog--
+
+ARMOIRIES :
+-XXX
+
+INTERFACE :
+-outliner improvments
+-some new empty settlements graphics where vanilla lacks some (turkish, indian, southindian)
+-(technical) more unique files
+
 --2016-08-31 changelog--
 
 ARMOIRIES :

@@ -58,7 +58,7 @@ guiTypes = {
 		}
 		iconType = {
 			name ="fort_icon"
-			spriteType ="GFX_buildview_fort_icon"
+			spriteType ="GFX_buildview_fort_icon_arkopack"
 			position = { x = 125 y = 79 }
 			Orientation = "UPPER_LEFT"
 		}
@@ -588,7 +588,7 @@ guiTypes = {
 		iconType = #à regarder
 		{
 			name ="icon_fort"
-			spriteType = "GFX_buildview_has_fort"
+			spriteType = "GFX_buildview_has_fort_arkopack"
 			position = { x= 29 y = -8 }
 			Orientation = "UPPER_LEFT"
 		}

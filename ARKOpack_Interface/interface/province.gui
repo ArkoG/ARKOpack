@@ -15,7 +15,7 @@ guiTypes = {
 		
 		iconType = {
 			name ="bg_province"
-			spriteType = "GFX_province_bg"
+			spriteType = "GFX_province_bg_arkopack"
 			position = { x= 0 y = 0 }
 			Orientation = "UPPER_LEFT"
 		}
@@ -533,7 +533,7 @@ guiTypes = {
 			iconType =
 			{
 				name ="siege_bg"
-				spriteType = "GFX_combat_siege_bg"
+				spriteType = "GFX_combat_siege_bg_arkopack"
 				position = { x= 0 y = 0 }
 				Orientation = "UPPER_LEFT"
 			}
@@ -783,7 +783,7 @@ guiTypes = {
 
 			iconType = {
 				name ="the_wall"
-				spriteType = "GFX_buildview_fort_icon"
+				spriteType = "GFX_buildview_fort_icon_arkopack"
 				position = { x= 306 y = 60 }
 				Orientation = "UPPER_LEFT"
 			}
@@ -925,7 +925,7 @@ guiTypes = {
 		guiButtonType = {
 			name = "province_toggle_siege" #siegetoggler
 			position = { x= 681 y = 237 }
-			quadTextureSprite ="GFX_province_toggle_siege"
+			quadTextureSprite ="GFX_province_toggle_siege_arkopack"
 			Orientation = "UPPER_LEFT"
 			clicksound = generic_click_04
 			shortcut = "z"
@@ -948,7 +948,7 @@ guiTypes = {
 			
 			iconType = {
 				name ="bg_province_extended"
-				spriteType = "GFX_province_bg_extended"
+				spriteType = "GFX_province_bg_extended_arkopack"
 				#spriteType = "GFX_domaine"
 				position = { x= 0 y = -401 }
 				Orientation = "UPPER_LEFT"
@@ -1132,7 +1132,7 @@ guiTypes = {
 				#FORT icon + value
 				iconType = {
 					name ="fort_icon"
-					spriteType ="GFX_buildview_fort_icon"
+					spriteType ="GFX_buildview_fort_icon_arkopack"
 					position = { x = 626 y =23 }
 					Orientation = "UPPER_LEFT"
 					pdx_tooltip = "FORT_LEVEL"
@@ -1317,6 +1317,7 @@ guiTypes = {
 				guiButtonType = {
 					name = "holding"
 					position = { x = 113 y = -1 }
+					#position = { x = 467 y = -191 } TEST OVERLAY
 					quadTextureSprite = "GFX_fort"
 					Orientation = "UPPER_LEFT"
 				}
@@ -1452,7 +1453,7 @@ guiTypes = {
 				#FORT icon + value
 				iconType = {
 					name ="fort_icon"
-					spriteType ="GFX_buildview_fort_icon"
+					spriteType ="GFX_buildview_fort_icon_arkopack"
 					position = { x = 234 y = 23 }
 					Orientation = "UPPER_LEFT"
 					pdx_tooltip = "FORT_LEVEL"
@@ -1485,7 +1486,7 @@ guiTypes = {
 		guiButtonType = { #funky ugly new generic switch button
 			name = "province_extend"
 			position = { x = 681 y = 289 }
-			quadTextureSprite = "GFX_province_extend"
+			quadTextureSprite = "GFX_province_extend_arkopack"
 			#quadTextureSprite = "GFX_province_tab_button"
 			Orientation = "UPPER_LEFT"
 #			pdx_tooltip = "LEDGER_PROVINCE_SETTLEMENTS"
