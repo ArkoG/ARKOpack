@@ -2,12 +2,14 @@ character_browser =
 {
 	file = "characterbrowser.wav"
 	volume = 95
+	on_demand = yes
 }
 
 character_view = 
 {
 	file = "characterview.wav"
 	volume = 100
+	on_demand = yes
 }
 
 court_view = 
@@ -20,30 +22,35 @@ law_view =
 {
 	file = "lawview.wav"
 	volume = 95
+	on_demand = yes
 }
 
 tech_view = 
 {
 	file = "techview.wav"
 	volume = 100
+	on_demand = yes
 }
 
 tech_view_2 = 
 {
 	file = "techview2.wav"
 	volume = 90
+	on_demand = yes
 }
 
 military_view = 
 {
 	file = "militaryview.wav"
 	volume = 75
+	on_demand = yes
 }
 
 plot_view = 
 {
 	file = "plotview.wav"
 	volume = 100
+	on_demand = yes
 }
 
 diplo_view = 
@@ -56,12 +63,14 @@ religion_view =
 {
 	file = "religionview.wav"
 	volume = 20
+	on_demand = yes
 }
 
 title_view = 
 {
 	file = "titleview.wav"
 	volume = 100
+	on_demand = yes
 }
 
 succession_view = 
@@ -73,24 +82,28 @@ republic_view =
 {
 	file = "republic_view.wav"
 	volume = 100
+	on_demand = yes
 }
 
 nomad_view =
 {
 	file = "nomad_view.wav"
 	volume = 100
+	on_demand = yes
 }
 
 factions_view =
 {
 	file = "factions_view.wav"
 	volume = 100
+	on_demand = yes
 } 
 
 dynasty_tree = 
 {
 	file = "dynastytree.wav"
 	volume = 90
+	on_demand = yes
 }
 
 new_alert = 
@@ -102,11 +115,31 @@ opensea =
 {
 	file = "opensea_ambient.wav"
 	volume = 25
+	on_demand = yes
 }
 
 zoomedout = 
 {
 	file = "zoomedoutambience.wav"
+	on_demand = yes
+}
+
+plague_1 =
+{
+	file = "plague_ambient_1.wav"
+	on_demand = yes
+}
+
+plague_2 =
+{
+	file = "plague_ambient_2.wav"
+	on_demand = yes
+}
+
+plague_3 =
+{
+	file = "plague_ambient_3.wav"
+	on_demand = yes
 }
 
 army_move = 
@@ -147,6 +180,7 @@ character_death =
 character_view_click = 
 {
 	file = "characterviewclick.wav"
+	on_demand = yes
 }
 
 chat_sent =
@@ -156,33 +190,43 @@ chat_sent =
 
 choose_country_1 = {
 	file = "choosecountry1.wav"
+	on_demand = yes
 }
 choose_country_2 = {
 	file = "choosecountry2.wav"
+	on_demand = yes
 }
 choose_country_3 = {
 	file = "choosecountry3.wav"
+	on_demand = yes
 }
 choose_country_4 = {
 	file = "choosecountry4.wav"
+	on_demand = yes
 }
 choose_country_5 = {
 	file = "choosecountry5.wav"
+	on_demand = yes
 }
 choose_country_6 = {
 	file = "choosecountry6.wav"
+	on_demand = yes
 }
 choose_country_7 = {
 	file = "choosecountry7.wav"
+	on_demand = yes
 }
 choose_country_8 = {
 	file = "choosecountry8.wav"
+	on_demand = yes
 }
 choose_country_9 = {
 	file = "choosecountry9.wav"
+	on_demand = yes
 }
 choose_country_10 = {
 	file = "choosecountry10.wav"
+	on_demand = yes
 }
 
 click_01 = 
@@ -209,12 +253,14 @@ city_western =
 {
 	file = "cityambiencewest.wav"
 	volume = 95
+	on_demand = yes
 }
 
 city_mid_east = 
 {
 	file = "cityambiencemideast.wav"
 	volume = 95
+	on_demand = yes
 }
 
 child_born = 
@@ -225,61 +271,73 @@ child_born =
 coastal = 
 {
 	file = "coastal_ambient.wav"
+	on_demand = yes
 }
 
 coastal_event_1 = 
 {
 	file = "coastal_event_01.wav"
+	on_demand = yes
 }
 
 coastal_event_2 = 
 {
 	file = "coastal_event_02.wav"
+	on_demand = yes
 }
 
 coastal_event_3 = 
 {
 	file = "coastal_event_03.wav"
+	on_demand = yes
 }
 
 coastal_event_4 = 
 {
 	file = "coastal_event_04.wav"
+	on_demand = yes
 }
 
 coastal_event_5 = 
 {
 	file = "coastal_event_05.wav"
+	on_demand = yes
 }
 
 desert =
 {
 	file = "desert_ambient.wav"
+	on_demand = yes
 }
 
 desert_event_3 = 
 {
 	file = "desert_event_03.wav"
+	on_demand = yes
 }
 
 desert_event_4 = 
 {
 	file = "desert_event_04.wav"
+	on_demand = yes
 }
 
 desert_event_5 = 
 {
 	file = "desert_event_05.wav"
+	on_demand = yes
 }
 
 desert_event_6 = 
 {
 	file = "desert_event_06.wav"
+	on_demand = yes
 }
 
 desert_event_7 = 
 {
 	file = "desert_event_07.wav"
+	on_demand = yes
 }
 
 diplomatic_message = 
@@ -290,36 +348,43 @@ diplomatic_message =
 forest =
 {
 	file = "forest_ambient.wav"
+	on_demand = yes
 }
 
 forest_event_1 =
 {
 	file = "forest_event_01.wav"
+	on_demand = yes
 }
 
 forest_event_2 =
 {
 	file = "forest_event_02.wav"
+	on_demand = yes
 }
 
 forest_event_3 =
 {
 	file = "forest_event_03.wav"
+	on_demand = yes
 }
 
 forest_event_4 =
 {
 	file = "forest_event_04.wav"
+	on_demand = yes
 }
 
 forest_event_5 =
 {
 	file = "forest_event_05.wav"
+	on_demand = yes
 }
 
 forest_event_6 =
 {
 	file = "forest_event_06.wav"
+	on_demand = yes
 }
 
 generic_click_01 =
@@ -348,6 +413,7 @@ go_back =
 character_event =
 {
 	file = "character_event.wav"
+	on_demand = yes
 }
 
 narrative_event =
@@ -375,11 +441,6 @@ declare_war =
 	file = "wardeclared.wav"
 }
 
-church_bells =
-{
-	file = "church_bells.wav"
-}
-
 illegal_move = 
 {
 	file = "illegal_move.wav"
@@ -388,6 +449,7 @@ illegal_move =
 land = 
 {
 	file = "land_ambient.wav"
+	on_demand = yes
 }
 
 land_battle_archery_1 = 
@@ -408,11 +470,13 @@ land_battle_archery_3 =
 land_battle_background = 
 {
 	file = "Land_Battle_Background.wav"
+	on_demand = yes
 }
 
 naval_battle_background =
 {
 	file = "Naval_Battle_Background.wav"
+	on_demand = yes
 }
 
 land_battle_sword_1 = 
@@ -463,46 +527,55 @@ land_battle_melee =
 land_battle_pursue = 
 {
 	file = "battle_pursue.wav"
+	on_demand = yes
 }
 
 land_battle_skirmish = 
 {
 	file = "battle_skirmish.wav"
+	on_demand = yes
 }
 
 menu_click = 
 {
 	file = "menuclick.wav"
+	on_demand = yes
 }
 
 land_event_1 = 
 {
 	file = "land_event_01.wav"
+	on_demand = yes
 }
 
 land_event_2 = 
 {
 	file = "land_event_02.wav"
+	on_demand = yes
 }
 
 land_event_3 = 
 {
 	file = "land_event_03.wav"
+	on_demand = yes
 }
 
 land_event_4 = 
 {
 	file = "land_event_04.wav"
+	on_demand = yes
 }
 
 land_event_5 = 
 {
 	file = "land_event_05.wav"
+	on_demand = yes
 }
 
 land_event_6 = 
 {
 	file = "land_event_06.wav"
+	on_demand = yes
 }
 
 ledger = 
@@ -522,11 +595,6 @@ turning_page =
 map_mode = 
 {
 	file = "mapmode.wav"
-}
-
-message_rules = 
-{
-	file = "messageruleslide.wav"
 }
 
 money_in = 
@@ -550,24 +618,22 @@ navy_selected =
 	volume = 80
 }
 
-other_start_war = 
-{
-	file = "other_start_war.wav"
-}
-
 play = 
 {
 	file = "playgame.wav"
+	on_demand = yes
 }
 
 quit = 
 {
 	file = "quitgame.wav"
+	on_demand = yes
 }
 
 siege = 
 {
 	file = "siege.wav"
+	on_demand = yes
 }
 
 siege_lost = 
@@ -583,39 +649,37 @@ siege_won =
 time_back =
 {
 	file = "time_back.wav"
+	on_demand = yes
 }
 
 time_forward = 
 {
 	file = "time_forward.wav"
+	on_demand = yes
 }
 
 tutorial_click = 
 {
 	file = "tutorialhintclick.wav"
 }
-tutorial_hint = 
-{
-	file = "tutorialhint.wav"
-}
-connecting = 
-{
-	file = "menuclick.wav"
-}
 
 council_view = 
 {
 	file = "council_view_01.wav"
 	volume = 40
+	on_demand = yes
 }
+
 pleased_council = 
 {
 	file = "pleased_council_01.wav"
 }
+
 enforcing_peace = 
 {
 	file = "enforcing_peace_realm_01.wav"
 }
+
 displeased_council = 
 {
 	file = "displeased_council_01.wav"
@@ -624,121 +688,924 @@ displeased_council =
 child_peaceful_death_01
 {
 	file = "child_death_01.wav"
+	on_demand = yes
 }
 
 child_peaceful_death_02
 {
 	file = "child_death_02.wav"
+	on_demand = yes
 }
 
 child_peaceful_death_03
 {
 	file = "child_death_03.wav"
+	on_demand = yes
 }
 
 child_violent_death_01
 {
 	file = "child_death_01.wav"
+	on_demand = yes
 }
 
 child_violent_death_02
 {
 	file = "child_death_02.wav"
+	on_demand = yes
 }
 
 child_violent_death_03
 {
 	file = "child_death_03.wav"
+	on_demand = yes
 }
-
 
 female_peaceful_death_01
 {
 	file = "female_peaceful_death_01.wav"
+	on_demand = yes
 }
 
 female_peaceful_death_02
 {
 	file = "female_peaceful_death_02.wav"
+	on_demand = yes
 }
 
 female_peaceful_death_03
 {
 	file = "female_peaceful_death_03.wav"
+	on_demand = yes
 }
 
 female_peaceful_death_04
 {
 	file = "female_peaceful_death_04.wav"
+	on_demand = yes
 }
 
 
 female_violent_death_01
 {
 	file = "female_violent_death_01.wav"
+	on_demand = yes
 }
 
 female_violent_death_02
 {
 	file = "female_violent_death_02.wav"
+	on_demand = yes
 }
 
 female_violent_death_03
 {
 	file = "female_violent_death_03.wav"
+	on_demand = yes
 }
 
 female_violent_death_04
 {
 	file = "female_violent_death_04.wav"
+	on_demand = yes
 }
 
 male_peaceful_death_01
 {
 	file = "male_peaceful_death_01.wav"
+	on_demand = yes
 }
 
 male_peaceful_death_02
 {
 	file = "male_peaceful_death_02.wav"
+	on_demand = yes
 }
 
 male_peaceful_death_03
 {
 	file = "male_peaceful_death_03.wav"
+	on_demand = yes
 }
 
 male_peaceful_death_04
 {
 	file = "male_peaceful_death_04.wav"
+	on_demand = yes
 }
 
 male_peaceful_death_05
 {
 	file = "male_peaceful_death_05.wav"
+	on_demand = yes
 }
 
 male_violent_death_01
 {
 	file = "male_violent_death_01.wav"
+	on_demand = yes
 }
 
 male_violent_death_02
 {
 	file = "male_violent_death_02.wav"
+	on_demand = yes
 }
 
 male_violent_death_03
 {
 	file = "male_violent_death_03.wav"
+	on_demand = yes
 }
 
 male_violent_death_04
 {
 	file = "male_violent_death_04.wav"
+	on_demand = yes
 }
 
 male_violent_death_05
 {
 	file = "male_violent_death_05.wav"
+	on_demand = yes
+}
+
+back_breaking_female_02
+{
+	file = "back_breaking_female_02.wav"
+	on_demand = yes
+}
+
+back_breaking_female_03
+{
+	file = "back_breaking_female_03.wav"
+	on_demand = yes
+}
+
+back_breaking_female_04
+{
+	file = "back_breaking_female_04.wav"
+	on_demand = yes
+}
+
+back_breaking_male_01
+{
+	file = "back_breaking_male_01.wav"
+	on_demand = yes
+}
+
+back_breaking_male_02
+{
+	file = "back_breaking_male_02.wav"
+	on_demand = yes
+}
+
+back_breaking_male_03
+{
+	file = "back_breaking_male_03.wav"
+	on_demand = yes
+}
+
+back_breaking_male_04
+{
+	file = "back_breaking_male_04.wav"
+	on_demand = yes
+}
+
+boiled_alive_female_01
+{
+	file = "boiled_alive_female_01.wav"
+	on_demand = yes
+}
+
+boiled_alive_female_02
+{
+	file = "boiled_alive_female_02.wav"
+	on_demand = yes
+}
+
+boiled_alive_male_01
+{
+	file = "boiled_alive_male_01.wav"
+	on_demand = yes
+}
+
+boiled_alive_male_02
+{
+	file = "boiled_alive_male_02.wav"
+	on_demand = yes
+}
+
+breaking_upon_wheel_female_01
+{
+	file = "breaking_upon_wheel_female_01.wav"
+	on_demand = yes
+}
+
+breaking_upon_wheel_female_02
+{
+	file = "breaking_upon_wheel_female_02.wav"
+	on_demand = yes
+}
+
+breaking_upon_wheel_female_03
+{
+	file = "breaking_upon_wheel_female_03.wav"
+	on_demand = yes
+}
+
+breaking_upon_wheel_male_01
+{
+	file = "breaking_upon_wheel_male_01.wav"
+	on_demand = yes
+}
+
+breaking_upon_wheel_male_02
+{
+	file = "breaking_upon_wheel_male_02.wav"
+	on_demand = yes
+}
+
+breaking_upon_wheel_male_03
+{
+	file = "breaking_upon_wheel_male_03.wav"
+	on_demand = yes
+}
+
+burning_female_01
+{
+	file = "burning_female_01.wav"
+	on_demand = yes
+}
+
+burning_female_02
+{
+	file = "burning_female_02.wav"
+	on_demand = yes
+}
+
+burning_female_03
+{
+	file = "burning_female_03.wav"
+	on_demand = yes
+}
+
+burning_male_01
+{
+	file = "burning_male_01.wav"
+	on_demand = yes
+}
+
+burning_male_02
+{
+	file = "burning_male_02.wav"
+	on_demand = yes
+}
+
+burning_male_03
+{
+	file = "burning_male_03.wav"
+	on_demand = yes
+}
+
+burning_male_04
+{
+	file = "burning_male_04.wav"
+	on_demand = yes
+}
+
+crushing_female_01
+{
+	file = "crushing_female_01.wav"
+	on_demand = yes
+}
+
+crushing_female_02
+{
+	file = "crushing_female_02.wav"
+	on_demand = yes
+}
+
+crushing_male_01
+{
+	file = "crushing_male_01.wav"
+	on_demand = yes
+}
+
+crushing_male_02
+{
+	file = "crushing_male_02.wav"
+	on_demand = yes
+}
+
+crushing_male_03
+{
+	file = "crushing_male_03.wav"
+	on_demand = yes
+}
+
+cruxifiction_female_01
+{
+	file = "cruxifiction_female_01.wav"
+	on_demand = yes
+}
+
+cruxifiction_female_02
+{
+	file = "cruxifiction_female_02.wav"
+	on_demand = yes
+}
+
+cruxifiction_male_01
+{
+	file = "cruxifiction_male_01.wav"
+	on_demand = yes
+}
+
+cruxifiction_male_02
+{
+	file = "cruxifiction_male_02.wav"
+	on_demand = yes
+}
+
+drowning_female_01
+{
+	file = "drowning_female_01.wav"
+	on_demand = yes
+}
+
+drowning_female_02
+{
+	file = "drowning_female_02.wav"
+	on_demand = yes
+}
+
+drowning_male_01
+{
+	file = "drowning_male_01.wav"
+	on_demand = yes
+}
+
+garroting_female_01
+{
+	file = "garroting_female_01.wav"
+	on_demand = yes
+}
+
+garroting_female_02
+{
+	file = "garroting_female_02.wav"
+	on_demand = yes
+}
+
+garroting_female_03
+{
+	file = "garroting_female_03.wav"
+	on_demand = yes
+}
+
+garroting_male_01
+{
+	file = "garroting_male_01.wav"
+	on_demand = yes
+}
+
+garroting_male_02
+{
+	file = "garroting_male_02.wav"
+	on_demand = yes
+}
+
+garroting_male_03
+{
+	file = "garroting_male_03.wav"
+	on_demand = yes
+}
+
+impaling_female_01
+{
+	file = "impaling_female_01.wav"
+	on_demand = yes
+}
+
+impaling_female_02
+{
+	file = "impaling_female_02.wav"
+	on_demand = yes
+}
+
+impaling_female_03
+{
+	file = "impaling_female_03.wav"
+	on_demand = yes
+}
+
+impaling_male_01
+{
+	file = "impaling_male_01.wav"
+	on_demand = yes
+}
+
+impaling_male_02
+{
+	file = "impaling_male_02.wav"
+	on_demand = yes
+}
+
+impaling_male_03
+{
+	file = "impaling_male_03.wav"
+	on_demand = yes
+}
+
+snake_pit_female_01
+{
+	file = "snake_pit_female_01.wav"
+	on_demand = yes
+}
+
+snake_pit_female_02
+{
+	file = "snake_pit_female_02.wav"
+	on_demand = yes
+}
+
+snake_pit_female_03
+{
+	file = "snake_pit_female_03.wav"
+	on_demand = yes
+}
+
+snake_pit_male_01
+{
+	file = "snake_pit_male_01.wav"
+	on_demand = yes
+}
+
+snake_pit_male_02
+{
+	file = "snake_pit_male_02.wav"
+	on_demand = yes
+}
+
+snake_pit_male_03
+{
+	file = "snake_pit_male_03.wav"
+	on_demand = yes
+}
+
+trampling_elephant_female_01
+{
+	file = "trampling_elephant_female_01.wav"
+	on_demand = yes
+}
+
+trampling_elephant_female_02
+{
+	file = "trampling_elephant_female_02.wav"
+	on_demand = yes
+}
+
+trampling_elephant_female_03
+{
+	file = "trampling_elephant_female_03.wav"
+	on_demand = yes
+}
+
+trampling_elephant_female_04
+{
+	file = "trampling_elephant_female_04.wav"
+	on_demand = yes
+}
+
+trampling_elephant_male_01
+{
+	file = "trampling_elephant_male_01.wav"
+	on_demand = yes
+}
+
+trampling_elephant_male_02
+{
+	file = "trampling_elephant_male_02.wav"
+	on_demand = yes
+}
+
+trampling_elephant_male_03
+{
+	file = "trampling_elephant_male_03.wav"
+	on_demand = yes
+}
+
+trampling_elephant_male_04
+{
+	file = "trampling_elephant_male_04.wav"
+	on_demand = yes
+}
+
+trampling_horse_female_01
+{
+	file = "trampling_horse_female_01.wav"
+	on_demand = yes
+}
+
+trampling_horse_female_02
+{
+	file = "trampling_horse_female_02.wav"
+	on_demand = yes
+}
+
+trampling_horse_female_03
+{
+	file = "trampling_horse_female_03.wav"
+	on_demand = yes
+}
+
+trampling_horse_male_01
+{
+	file = "trampling_horse_male_01.wav"
+	on_demand = yes
+}
+
+trampling_horse_male_02
+{
+	file = "trampling_horse_male_02.wav"
+	on_demand = yes
+}
+
+trampling_horse_male_03
+{
+	file = "trampling_horse_male_03.wav"
+	on_demand = yes
+}
+
+arrow_in_the_back_female
+{
+	file = "arrow_in_the_back_female.wav"
+	on_demand = yes
+}
+
+arrow_in_the_back_male
+{
+	file = "arrow_in_the_back_male.wav"
+	on_demand = yes
+}
+
+attacked_bear_female_01
+{
+	file = "attacked_bear_female_01.wav"
+	on_demand = yes
+}
+
+attacked_bear_female_02
+{
+	file = "attacked_bear_female_02.wav"
+	on_demand = yes
+}
+
+attacked_bear_female_03
+{
+	file = "attacked_bear_female_03.wav"
+	on_demand = yes
+}
+
+attacked_bear_male_01
+{
+	file = "attacked_bear_male_01.wav"
+	on_demand = yes
+}
+
+attacked_bear_male_02
+{
+	file = "attacked_bear_male_02.wav"
+	on_demand = yes
+}
+
+attacked_bear_male_03
+{
+	file = "attacked_bear_male_03.wav"
+	on_demand = yes
+}
+
+attacked_boar_female_01
+{
+	file = "attacked_boar_female_01.wav"
+	on_demand = yes
+}
+
+attacked_boar_female_02
+{
+	file = "attacked_boar_female_02.wav"
+	on_demand = yes
+}
+
+attacked_boar_female_03
+{
+	file = "attacked_boar_female_03.wav"
+	on_demand = yes
+}
+
+attacked_boar_male_01
+{
+	file = "attacked_boar_male_01.wav"
+	on_demand = yes
+}
+
+attacked_boar_male_02
+{
+	file = "attacked_boar_male_02.wav"
+	on_demand = yes
+}
+
+attacked_tiger_female_01
+{
+	file = "attacked_tiger_female_01.wav"
+	on_demand = yes
+}
+
+attacked_tiger_female_02
+{
+	file = "attacked_tiger_female_02.wav"
+	on_demand = yes
+}
+
+attacked_tiger_female_03
+{
+	file = "attacked_tiger_female_03.wav"
+	on_demand = yes
+}
+
+attacked_tiger_male_01
+{
+	file = "attacked_tiger_male_01.wav"
+	on_demand = yes
+}
+
+attacked_tiger_male_02
+{
+	file = "attacked_tiger_male_02.wav"
+	on_demand = yes
+}
+
+attacked_tiger_male_03
+{
+	file = "attacked_tiger_male_03.wav"
+	on_demand = yes
+}
+
+aztec_blood_sacrifice_female_01
+{
+	file = "aztec_blood_sacrifice_female_01.wav"
+	on_demand = yes
+}
+
+aztec_blood_sacrifice_male_01
+{
+	file = "aztec_blood_sacrifice_male_01.wav"
+	on_demand = yes
+}
+
+death_female_illness_01
+{
+	file = "death_female_illness_01.wav"
+	on_demand = yes
+}
+
+death_hanging_neutral_01
+{
+	file = "death_hanging_neutral_01.wav"
+	on_demand = yes
+}
+
+death_male_illness_01
+{
+	file = "death_male_illness_01.wav"
+	on_demand = yes
+}
+
+death_poisoning_female_01
+{
+	file = "death_poisoning_female_01.wav"
+	on_demand = yes
+}
+
+death_poisoning_female_02
+{
+	file = "death_poisoning_female_02.wav"
+	on_demand = yes
+}
+
+death_poisoning_female_03
+{
+	file = "death_poisoning_female_03.wav"
+	on_demand = yes
+}
+
+death_poisoning_male_01
+{
+	file = "death_poisoning_male_01.wav"
+	on_demand = yes
+}
+
+death_poisoning_male_02
+{
+	file = "death_poisoning_male_02.wav"
+	on_demand = yes
+}
+
+death_poisoning_male_03
+{
+	file = "death_poisoning_male_03.wav"
+	on_demand = yes
+}
+
+death_prison_female_03
+{
+	file = "death_prison_female_03.wav"
+	on_demand = yes
+}
+
+death_prison_female_01
+{
+	file = "death_prison_female_01.wav"
+	on_demand = yes
+}
+
+death_prison_female_02
+{
+	file = "death_prison_female_02.wav"
+	on_demand = yes
+}
+
+death_prison_male_01
+{
+	file = "death_prison_male_01.wav"
+	on_demand = yes
+}
+
+death_prison_male_02
+{
+	file = "death_prison_male_02.wav"
+	on_demand = yes
+}
+
+death_prison_male_03
+{
+	file = "death_prison_male_03.wav"
+	on_demand = yes
+}
+
+falling_female_01
+{
+	file = "falling_female_01.wav"
+	on_demand = yes
+}
+
+falling_female_02
+{
+	file = "falling_female_02.wav"
+	on_demand = yes
+}
+
+falling_female_03
+{
+	file = "falling_female_03.wav"
+	on_demand = yes
+}
+
+falling_male_01
+{
+	file = "falling_male_01.wav"
+	on_demand = yes
+}
+
+falling_male_02
+{
+	file = "falling_male_02.wav"
+	on_demand = yes
+}
+
+falling_male_03
+{
+	file = "falling_male_03.wav"
+	on_demand = yes
+}
+
+generic_sacrifice_female_01
+{
+	file = "generic_sacrifice_female_01.wav"
+	on_demand = yes
+}
+
+generic_sacrifice_female_02
+{
+	file = "generic_sacrifice_female_02.wav"
+	on_demand = yes
+}
+
+generic_sacrifice_male_01
+{
+	file = "generic_sacrifice_male_01.wav"
+	on_demand = yes
+}
+
+generic_sacrifice_male_02
+{
+	file = "generic_sacrifice_male_02.wav"
+	on_demand = yes
+}
+
+natural_death_female_01
+{
+	file = "natural_death_female_01.wav"
+	on_demand = yes
+}
+
+natural_death_female_02
+{
+	file = "natural_death_female_02.wav"
+	on_demand = yes
+}
+
+natural_death_female_03
+{
+	file = "natural_death_female_03.wav"
+	on_demand = yes
+}
+
+natural_death_female_04
+{
+	file = "natural_death_female_04.wav"
+	on_demand = yes
+}
+
+natural_death_female_05
+{
+	file = "natural_death_female_05.wav"
+	on_demand = yes
+}
+
+natural_death_male_0
+{
+	file = "natural_death_male_0.wav"
+	on_demand = yes
+}
+
+natural_death_male_01
+{
+	file = "natural_death_male_01.wav"
+	on_demand = yes
+}
+
+natural_death_male_02
+{
+	file = "natural_death_male_02.wav"
+	on_demand = yes
+}
+
+natural_death_male_03
+{
+	file = "natural_death_male_03.wav"
+	on_demand = yes
+}
+
+natural_death_male_04
+{
+	file = "natural_death_male_04.wav"
+	on_demand = yes
+}
+
+norse_sacrifice_female_01
+{
+	file = "norse_sacrifice_female_01.wav"
+	on_demand = yes
+}
+
+norse_sacrifice_female_02
+{
+	file = "norse_sacrifice_female_02.wav"
+	on_demand = yes
+}
+
+norse_sacrifice_male_01
+{
+	file = "norse_sacrifice_male_01.wav"
+	on_demand = yes
+}
+
+norse_sacrifice_male_02
+{
+	file = "norse_sacrifice_male_02.wav"
+	on_demand = yes
+}
+
+norse_sacrifice_male_03
+{
+	file = "norse_sacrifice_male_03.wav"
+	on_demand = yes
+}
+
+neutral_beheading_01
+{
+	file = "neutral_beheading_01.wav"
+	on_demand = yes
 }

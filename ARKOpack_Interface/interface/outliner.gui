@@ -33,7 +33,6 @@ guiTypes = {
 			quadTextureSprite ="GFX_lock_icon"
 			Orientation = "UPPER_LEFT"
 			pdx_tooltip = "OUTLINER_BUTTON_LOCK"
-			clicksound = generic_click_04
 		}
 		guiButtonType = {
 			name = "outliner_toggle"

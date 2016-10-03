@@ -40,6 +40,7 @@ guiTypes = {
 				quadTextureSprite = "GFX_focusicon_upbringing_pride"
 				position = { x = 255 y = 237 }
 				Orientation = "UPPER_LEFT"
+				clicksound = click_03
 			}
 			iconType = {
 				name ="selected_focus_ch_pride"
@@ -52,6 +53,7 @@ guiTypes = {
 				quadTextureSprite = "GFX_focusicon_upbringing_humility"
 				position = { x= 54 y = 235 }
 				Orientation = "UPPER_LEFT"
+				clicksound = click_03
 			}
 			iconType = {
 				name ="selected_focus_ch_humility"
@@ -64,6 +66,7 @@ guiTypes = {
 				quadTextureSprite = "GFX_focusicon_upbringing_duty"
 				position = { x = 208 y = 82 }
 				Orientation = "UPPER_LEFT"
+				clicksound = click_03
 			}
 			iconType = {
 				name ="selected_focus_ch_duty"
@@ -76,6 +79,7 @@ guiTypes = {
 				quadTextureSprite = "GFX_focusicon_upbringing_etiquette"
 				position = { x = 101 y = 282 }
 				Orientation = "UPPER_LEFT"
+				clicksound = click_03
 			}
 			iconType = {
 				name ="selected_focus_ch_etiquette"
@@ -88,6 +92,7 @@ guiTypes = {
 				quadTextureSprite = "GFX_focusicon_upbringing_thrift"
 				position = { x = 255 y = 128 }
 				Orientation = "UPPER_LEFT"
+				clicksound = click_03
 			}
 			iconType = {
 				name ="selected_focus_ch_thrift"
@@ -100,6 +105,7 @@ guiTypes = {
 				quadTextureSprite = "GFX_focusicon_upbringing_faith"
 				position = { x = 101 y = 82 }
 				Orientation = "UPPER_LEFT"
+				clicksound = click_03
 			}
 			iconType = {
 				name ="selected_focus_ch_faith"
@@ -112,6 +118,7 @@ guiTypes = {
 				quadTextureSprite = "GFX_focusicon_upbringing_struggle"
 				position = { x = 209 y = 282 }
 				Orientation = "UPPER_LEFT"
+				clicksound = click_03
 			}
 			iconType = {
 				name ="selected_focus_ch_struggle"
@@ -124,6 +131,7 @@ guiTypes = {
 				quadTextureSprite = "GFX_focusicon_upbringing_heritage"
 				position = { x = 54 y = 129 }
 				Orientation = "UPPER_LEFT"
+				clicksound = click_03
 			}
 			iconType = {
 				name ="selected_focus_ch_heritage"
@@ -153,6 +161,7 @@ guiTypes = {
 				quadTextureSprite = "GFX_focusicon_education_diplomatic"
 				position = { x = 87 y = 274 }
 				Orientation = "UPPER_LEFT"
+				clicksound = click_03
 			}
 			iconType = {
 				name ="selected_focus_ed_diplomacy"
@@ -165,6 +174,7 @@ guiTypes = {
 				quadTextureSprite = "GFX_focusicon_education_martial"
 				position = { x = 222 y = 273 }
 				Orientation = "UPPER_LEFT"
+				clicksound = click_03
 			}
 			iconType = {
 				name ="selected_focus_ed_martial"
@@ -177,6 +187,7 @@ guiTypes = {
 				quadTextureSprite = "GFX_focusicon_education_stewardship"
 				position = { x = 154 y = 68 }
 				Orientation = "UPPER_LEFT"
+				clicksound = click_03
 			}
 			iconType = {
 				name ="selected_focus_ed_stewardship"
@@ -189,6 +200,7 @@ guiTypes = {
 				quadTextureSprite = "GFX_focusicon_education_intrigue"
 				position = { x = 263 y = 146 }
 				Orientation = "UPPER_LEFT"
+				clicksound = click_03
 			}
 			iconType = {
 				name ="selected_focus_ed_intrigue"
@@ -201,6 +213,7 @@ guiTypes = {
 				quadTextureSprite = "GFX_focusicon_education_learning"
 				position = { x = 46 y = 146 }
 				Orientation = "UPPER_LEFT"
+				clicksound = click_03
 			}
 			iconType = {
 				name ="selected_focus_ed_learning"
@@ -230,6 +243,7 @@ guiTypes = {
 				quadTextureSprite = "GFX_focusicon_adult_rulership"
 				position = { x= 180 y = 70 }
 				Orientation = "UPPER_LEFT"
+				clicksound = click_03
 			}
 			guiButtonType =
 			{
@@ -237,6 +251,7 @@ guiTypes = {
 				quadTextureSprite = "GFX_focusicon_adult_business"
 				position = { x= 125 y = 70 }
 				Orientation = "UPPER_LEFT"
+				clicksound = click_03
 			}
 			guiButtonType =
 			{
@@ -244,6 +259,7 @@ guiTypes = {
 				quadTextureSprite = "GFX_focusicon_adult_seduction"
 				position = { x= 268 y = 171 }
 				Orientation = "UPPER_LEFT"
+				clicksound = click_03
 			}
 			guiButtonType =
 			{
@@ -251,6 +267,7 @@ guiTypes = {
 				quadTextureSprite = "GFX_focusicon_adult_intrigue"
 				position = { x= 247 y = 120 }
 				Orientation = "UPPER_LEFT"
+				clicksound = click_03
 			}
 			guiButtonType =
 			{
@@ -258,6 +275,7 @@ guiTypes = {
 				quadTextureSprite = "GFX_focusicon_adult_hunting"
 				position = { x= 245 y = 253 }
 				Orientation = "UPPER_LEFT"
+				clicksound = click_03
 			}
 			guiButtonType =
 			{
@@ -265,6 +283,7 @@ guiTypes = {
 				quadTextureSprite = "GFX_focusicon_adult_war"
 				position = { x= 202 y = 288 }
 				Orientation = "UPPER_LEFT"
+				clicksound = click_03
 			}
 			guiButtonType =
 			{
@@ -272,6 +291,7 @@ guiTypes = {
 				quadTextureSprite = "GFX_focusicon_adult_carousing"
 				position = { x= 107 y = 288 }
 				Orientation = "UPPER_LEFT"
+				clicksound = click_03
 			}
 			guiButtonType =
 			{
@@ -279,6 +299,7 @@ guiTypes = {
 				quadTextureSprite = "GFX_focusicon_adult_family"
 				position = { x= 64 y = 253 }
 				Orientation = "UPPER_LEFT"
+				clicksound = click_03
 			}
 			guiButtonType =
 			{
@@ -286,6 +307,7 @@ guiTypes = {
 				quadTextureSprite = "GFX_focusicon_adult_scholarship"
 				position = { x= 61 y = 120 }
 				Orientation = "UPPER_LEFT"
+				clicksound = click_03
 			}
 			guiButtonType =
 			{
@@ -293,6 +315,7 @@ guiTypes = {
 				quadTextureSprite = "GFX_focusicon_adult_theology"
 				position = { x= 40 y = 171 }
 				Orientation = "UPPER_LEFT"
+				clicksound = click_03
 			}
 			
 			# selected focus indicator
@@ -400,7 +423,7 @@ guiTypes = {
 			position = { x = 92 y = 540 }
 			buttonFont = "vic_18"
 			buttonText = "SELECT"
-			shortcut = "ENTER"
+			clicksound = generic_click_04
 		}
 		
 		guiButtonType = {

@@ -53,6 +53,20 @@ guiTypes = {
 			format = centre
 		}
 		
+		iconType = {
+			name ="repover_churchwindow_1"
+			spriteType = "GFX_repover_churchwindow_1"
+			position = { x= 9 y = -56 }
+		}
+		
+		OverlappingElementsBoxType = {
+			name = "important_minor_titles_list"
+			position = { x = 60 y = -10 }
+			size = { x=400 y=20 }
+			spacing = -20
+			format = left
+		}
+		
 		windowType = {
 		name = "domestic_court_tabs"
 		backGround =""
@@ -154,6 +168,38 @@ guiTypes = {
 	#####
 	
 	windowType = {
+		name = "important_minor_title_entry"
+		backGround=""
+		#position = { x=0 y=0 }
+		position = { x=-500 y=0 }
+		size = { x=70 y=70 }
+		
+		guiButtonType =	{
+			name ="portrait"
+			quadTextureSprite= "GFX_char_34"
+			#position = { x= 68 y = 16 }
+			position = { x= -568 y = 16 }
+			pdx_tooltip = "CHARACTER_TOOLTIP"
+			pdx_tooltip_delayed = "CHARACTER_TOOLTIP_DELAYED"
+		}
+		guiButtonType = {
+			name ="portrait_frame"
+			spriteType = "GFX_charframe_34"
+			#position = { x= 65 y = 10 }
+			position = { x= -565 y = 10 }
+		}
+
+		guiButtonType = {
+			name ="portrait_frame_laurel"
+			spriteType = "GFX_physician_frame"
+			#position = { x= 65 y = 13 }
+			position = { x= -565 y = 13 }
+		}
+	}
+	
+	#####
+	
+	windowType = {
 		name = "jobs_view"
 		backGround =""
 		position = { x=0 y=0 }
@@ -169,12 +215,6 @@ guiTypes = {
 			spriteType = "GFX_court_bg_council"
 			position = { x= 15 y = 178 }
 			Orientation = "UPPER_LEFT"
-		}
-		
-		iconType = {
-			name ="repover_churchwindow_1"
-			spriteType = "GFX_repover_churchwindow_1"
-			position = { x= 9 y = 41 }
 		}
 		iconType = {
 			name ="repover_council_1"
@@ -427,12 +467,6 @@ guiTypes = {
 		#	format = centre
 		#	allwaystransparent = yes
 		#}
-
-		iconType = {
-			name ="repover_churchwindow_1"
-			spriteType = "GFX_repover_churchwindow_1"
-			position = { x= -1 y = -134 }
-		}
 		
 		iconType = {
 			name ="council_minor_header"
@@ -531,6 +565,12 @@ guiTypes = {
 			name ="portrait_frame"
 			spriteType = "GFX_charframe_50"
 			position = { x= 49 y = 0 }
+		}
+		guiButtonType = {
+			name ="portrait_frame_laurel"
+			spriteType = "GFX_physician_frame"
+			#position = { x= 59 y = 13 }
+			position = { x= -1059 y = 13 }
 		}
 		guiButtonType = {
 			name ="shield"
@@ -673,15 +713,15 @@ guiTypes = {
 				borderSize = {x = 0 y = 0}
 				text = ""	
 				maxWidth = 115
-				maxHeight = 26
+				maxHeight = 36
 				format = center
-				#fixedsize = yes
+				fixedsize = yes
 			}
 			
 			guiButtonType =	{
 				name ="portrait"
 				quadTextureSprite= "GFX_char_100"
-				position = { x= 8 y = 20 }
+				position = { x= 8 y = 23 }
 				Orientation = "UPPER_LEFT"
 				pdx_tooltip = "CHARACTER_TOOLTIP"
 				pdx_tooltip_delayed = "CHARACTER_TOOLTIP_DELAYED"
@@ -689,33 +729,33 @@ guiTypes = {
 			guiButtonType = {
 				name ="portrait_frame"
 				quadTextureSprite = "GFX_charframe_100"
-				position = { x= 0 y = 11 }
+				position = { x= 0 y = 14 }
 				Orientation = "UPPER_LEFT"
 			}
 			iconType = {
 				name ="portrait_status"
 				spriteType = "GFX_overlay_char_status_100"
-				position = { x= 10 y = 16 }
+				position = { x= 10 y = 19 }
 				Orientation = "UPPER_LEFT"
 			}
 			iconType = {
 				name ="portrait_relation"
 				spriteType = "GFX_overlay_char_relation_100"
-				position = { x= 83 y = 16 }
+				position = { x= 83 y = 19 }
 				Orientation = "UPPER_LEFT"
 			}
 			
 			iconType = {
 				name ="council_position"
 				spriteType = "GFX_council_postions_sprite"
-				position = { x= 0 y = 90 }
+				position = { x= 0 y = 91 }
 				Orientation = "UPPER_LEFT"
 			}
 			
 			iconType = {
 				name ="council_favor_me"
 				spriteType = "GFX_council_favor_me"
-				position = { x= 0 y = 90 }
+				position = { x= 0 y = 91 }
 				Orientation = "UPPER_LEFT"
 				allwaystransparent = yes
 			}
@@ -723,7 +763,7 @@ guiTypes = {
 			iconType = {
 				name ="council_favor_other"
 				spriteType = "GFX_council_favor_other"
-				position = { x= 0 y = 90 }
+				position = { x= 0 y = 91 }
 				Orientation = "UPPER_LEFT"
 				allwaystransparent = yes
 			}
@@ -738,18 +778,18 @@ guiTypes = {
 			iconType = {
 				name ="crown"
 				spriteType = "GFX_shield_crown_strip_medium"
-				position = { x= 77 y = 60  } 
+				position = { x= 77 y = 63  } 
 				Orientation = "UPPER_LEFT"
 			}
 			guiButtonType =	{
 				name = "shield"
-				position = { x=65 y=83 }
+				position = { x=65 y=86 }
 				quadTextureSprite ="GFX_shield_medium"
 			}
 			iconType = {
 				name ="portrait_powerful"
 				quadTextureSprite = "GFX_overlay_char_powerful"
-				position = { x = 44 y = 100 }
+				position = { x = 44 y = 103 }
 				Orientation = "UPPER_LEFT"
 				pdx_tooltip = "CHARACTER_POWERFUL_TOOLTIP"
 			}			
@@ -861,12 +901,6 @@ guiTypes = {
 		#	position = { x= 7 y = 5 }
 		#	Orientation = "UPPER_LEFT"
 		#}
-
-		iconType = {
-			name ="repover_churchwindow_1"
-			spriteType = "GFX_repover_churchwindow_1"
-			position = { x= -1 y = -309 }
-		}
 		
 		iconType = {
 			name ="council_frame_all"

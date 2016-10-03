@@ -149,6 +149,13 @@ guiTypes = {
 				pdx_tooltip = "CHARACTER_TOOLTIP"
 				pdx_tooltip_delayed = "CHARACTER_TOOLTIP_DELAYED"
 			}
+			iconType = {
+				name ="liege_portrait_favor_indicator"
+				quadTextureSprite = "GFX_overlay_char_favor_indicator_small"
+				position = { x = 100 y = 15 }
+				Orientation = "UPPER_LEFT"
+				pdx_tooltip = "CHARACTER_FAVOR_INDICATOR_TOOLTIP"
+			}
 			guiButtonType = {
 				name ="liege_portrait_frame"
 				quadTextureSprite = "GFX_charframe_50"
@@ -1070,6 +1077,13 @@ guiTypes = {
 				pdx_tooltip = "CHARACTER_TOOLTIP"
 				pdx_tooltip_delayed = "CHARACTER_TOOLTIP_DELAYED"
 			}
+			iconType = {
+				name ="character_portrait_favor_indicator"
+				quadTextureSprite = "GFX_overlay_char_favor_indicator"
+				position = { x = 75 y = 13 }
+				Orientation = "UPPER_LEFT"
+				pdx_tooltip = "CHARACTER_FAVOR_INDICATOR_TOOLTIP"
+			}
 			guiButtonType = {
 				name ="character_portrait_frame"
 				quadTextureSprite = "GFX_charframe_150"
@@ -1153,6 +1167,13 @@ guiTypes = {
 				Orientation = "UPPER_LEFT"
 				pdx_tooltip = "CHARACTER_TOOLTIP"
 				pdx_tooltip_delayed = "CHARACTER_TOOLTIP_DELAYED"
+			}
+			iconType = {
+				name ="spouse_portrait_favor_indicator"
+				quadTextureSprite = "GFX_overlay_char_favor_indicator"
+				position = { x = 252 y = 51 }
+				Orientation = "UPPER_LEFT"
+				pdx_tooltip = "CHARACTER_FAVOR_INDICATOR_TOOLTIP"
 			}
 			guiButtonType = {
 				name ="spouse_portrait_frame"
@@ -1822,6 +1843,14 @@ guiTypes = {
 			pdx_tooltip_delayed = "CHARACTER_TOOLTIP_DELAYED"
 		}
 		
+		iconType = {
+			name ="portrait_favor_indicator"
+			quadTextureSprite = "GFX_overlay_char_favor_indicator_small"
+			position = { x = 8 y = 2 }
+			Orientation = "UPPER_LEFT"
+			pdx_tooltip = "CHARACTER_FAVOR_INDICATOR_TOOLTIP"
+		}
+		
 		guiButtonType = {
 			name ="portrait_frame"
 			quadTextureSprite = "GFX_charframe_50"
@@ -1900,6 +1929,15 @@ guiTypes = {
 			pdx_tooltip = "CHARACTER_TOOLTIP"
 			pdx_tooltip_delayed = "CHARACTER_TOOLTIP_DELAYED"
 		}
+		
+		iconType = {
+			name ="portrait_favor_indicator"
+			quadTextureSprite = "GFX_overlay_char_favor_indicator_small"
+			position = { x = 19 y = -5 }
+			Orientation = "UPPER_LEFT"
+			pdx_tooltip = "CHARACTER_FAVOR_INDICATOR_TOOLTIP"
+		}
+		
 		guiButtonType = {
 			name ="portrait_frame"
 			quadTextureSprite = "GFX_charframe_50"

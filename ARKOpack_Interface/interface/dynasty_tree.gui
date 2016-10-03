@@ -1183,6 +1183,13 @@ guiTypes = {
 			position = { x= 23 y = -14 }
 			Orientation = "UPPER_LEFT"
 		}
+		iconType = {
+			name ="portrait_powerful"
+			quadTextureSprite = "GFX_overlay_char_powerful_small"
+			position = { x= 3 y = 2 }
+			Orientation = "UPPER_LEFT"
+			pdx_tooltip = "CHARACTER_POWERFUL_TOOLTIP"
+		}
 		
 		guiButtonType = {
 			name ="expand"
