@@ -172,7 +172,7 @@ guiTypes = {
 			iconType = {
 				name ="liege_portrait_powerful"
 				quadTextureSprite = "GFX_overlay_char_powerful_small"
-				position = { x= 133 y = 35 }
+				position = { x= 130 y = 37 }
 				Orientation = "UPPER_LEFT"
 				pdx_tooltip = "CHARACTER_POWERFUL_TOOLTIP"
 			}
@@ -225,7 +225,7 @@ guiTypes = {
 
 		guiButtonType = {
 			name = "barber_button"
-			position = { x=518 y=-46 }
+			position = { x=520 y=-47 }
 			quadTextureSprite = "GFX_customization_barber_button"
 			clicksound = generic_click_02
 			pdx_tooltip = "BARBER_TOOLTIP"
@@ -328,6 +328,7 @@ guiTypes = {
 				quadTextureSprite = "GFX_standard_button_112"
 				buttonText = "CUT"
 				buttonFont = "vic_18"
+				clicksound = land_battle_sword_4
 			}
 			guiButtonType = {
 				name = "decline"
@@ -1079,8 +1080,10 @@ guiTypes = {
 			}
 			iconType = {
 				name ="character_portrait_favor_indicator"
-				quadTextureSprite = "GFX_overlay_char_favor_indicator"
-				position = { x = 75 y = 13 }
+				quadTextureSprite = "GFX_overlay_char_favor_indicator_small_arkopack"
+#				position = { x = 75 y = 13 }
+#				position = { x = 335 y = -7 }
+				position = { x = 50 y = 278 }
 				Orientation = "UPPER_LEFT"
 				pdx_tooltip = "CHARACTER_FAVOR_INDICATOR_TOOLTIP"
 			}
@@ -1787,7 +1790,7 @@ guiTypes = {
 			}
 			OverlappingElementsBoxType = {
 				name = "LeadershipTraits"
-				position = { x = 22 y = 245 }
+				position = { x = 23 y = 245 }
 				size = { x = 74 y = 32 }
 				format = left
 			}
@@ -1800,8 +1803,8 @@ guiTypes = {
 			}	
 			OverlappingElementsBoxType = {
 				name = "modifiers"
-				position = { x = 32 y = 276 }
-				size = { x=168 y=32 }
+				position = { x = 73 y = 276 }
+				size = { x=120 y=32 }
 				format = right
 			}
 		}
@@ -1847,6 +1850,7 @@ guiTypes = {
 			name ="portrait_favor_indicator"
 			quadTextureSprite = "GFX_overlay_char_favor_indicator_small"
 			position = { x = 8 y = 2 }
+#			position = { x = 388 y = 25 }
 			Orientation = "UPPER_LEFT"
 			pdx_tooltip = "CHARACTER_FAVOR_INDICATOR_TOOLTIP"
 		}
@@ -1917,7 +1921,7 @@ guiTypes = {
 		iconType = {
 			name ="relation_icon_strip"
 			spriteType = "GFX_relation_icon_strip"
-			position = { x= 425 y = -3 }
+			position = { x= 435 y = -3 }
 			Orientation = "UPPER_LEFT"
 		}
 		
@@ -1932,8 +1936,9 @@ guiTypes = {
 		
 		iconType = {
 			name ="portrait_favor_indicator"
-			quadTextureSprite = "GFX_overlay_char_favor_indicator_small"
-			position = { x = 19 y = -5 }
+			quadTextureSprite = "GFX_overlay_char_favor_indicator_small_arkopack"
+#			position = { x = 19 y = -5 }
+			position = { x = 402 y = 17 }
 			Orientation = "UPPER_LEFT"
 			pdx_tooltip = "CHARACTER_FAVOR_INDICATOR_TOOLTIP"
 		}
@@ -2000,23 +2005,23 @@ guiTypes = {
 		iconType ={
 			name ="liege_prestige"
 			spriteType = "GFX_icon_prestige"
-			position = { x= 378 y = -6 }
+			position = { x= 378 y = -8 } #arkopack -5x -2y
 			Orientation = "UPPER_LEFT"
-			scale = 0.90
+			#scale = 0.90
 		}
 		
 		iconType ={
 			name ="liege_piety"
 			spriteType = "GFX_dynastic_icon_piety"
-			position = { x= 403 y = -6 }
+			position = { x= 403 y = -8 } #arkopack -5x -2y
 			Orientation = "UPPER_LEFT"
-			scale = 0.90
+			#scale = 0.90
 		}
 		
 		iconType ={
 			name ="vote_right"
 			spriteType = "GFX_icon_voteright"
-			position = { x= 428 y = -3 }
+			position = { x= 438 y = -3 }
 			Orientation = "UPPER_LEFT"
 		}
 		instantTextBoxType = {
@@ -2060,9 +2065,9 @@ guiTypes = {
 		iconType = {
 			name ="tax_bg"
 			spriteType = "GFX_icon_wealth"
-			position = { x= 378 y = 18 }
+			position = { x= 375 y = 16 }
 			Orientation = "UPPER_LEFT"
-			scale = 0.85
+			#scale = 0.85
 		}
 		instantTextBoxType = {
 			name = "tax"
@@ -2080,12 +2085,12 @@ guiTypes = {
 		iconType = {
 			name ="opinion_bg"
 			spriteType = "GFX_opinion_bg"
-			position = { x= 419 y = 18 }
+			position = { x= 427 y = 18 }
 			Orientation = "UPPER_LEFT"
 		}
 		instantTextBoxType = {
 				name = "opinion"
-				position = { x = 411 y = 24 }
+				position = { x = 419 y = 24 }
 				textureFile = ""
 				font = "Arial12"
 				borderSize = {x = 0 y = 0}
