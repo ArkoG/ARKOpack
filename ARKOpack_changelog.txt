@@ -6,24 +6,18 @@ GAME VERSION COMPATIBILITY : v2.6.x for GUIpack
 
 see included readme's for details
 
---2016-10-03 changelog--
+--2016-10-10 changelog--
 
 ARMOIRIES :
--XXX
+-ARMOIRIES :
+-a lot more choice for CoA design for the "customizer" religion
 
 INTERFACE :
--removal of province view
 -2.6.1 compatibility
-
---2016-09-19 changelog--
-
-ARMOIRIES :
--XXX
-
-INTERFACE :
 -outliner improvments
+-temporary removal of province view
 -some new empty settlements graphics where vanilla lacks some (turkish, indian, southindian)
--(technical) more unique files
+-new desert city holding design
 
 --2016-08-31 changelog--
 

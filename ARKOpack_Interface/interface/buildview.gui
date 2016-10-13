@@ -536,7 +536,8 @@ guiTypes = {
 	windowType = {
 		name = "build_settlement_view"
 		backGround ="build_settlement_bg_area"
-		position = { x=23 y=-710 }	
+		#position = { x=23 y=-710 } #Arkopack full
+		position = { x=343 y=-683 }	#Arkopack no province view		
 		size = { x=280 y=500 }
 		moveable = 1
 		dontRender = ""
