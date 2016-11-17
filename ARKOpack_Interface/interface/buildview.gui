@@ -163,43 +163,43 @@ guiTypes = {
 		
 		iconType = {
 			name ="holy_site_icon_1"
-			spriteType = "GFX_religion_icon_strip_small"
-			position = { x= 380 y = 15 }
+			spriteType = "GFX_religion_icon_strip"
+			position = { x= 375 y = 10 }
 			Orientation = "UPPER_LEFT"
 		}	
 
 		iconType = {
 			name ="holy_site_icon_2"
-			spriteType = "GFX_religion_icon_strip_small"
-			position = { x= 360 y = 15 }
+			spriteType = "GFX_religion_icon_strip"
+			position = { x= 350 y = 10 }
 			Orientation = "UPPER_LEFT"
 		}		
 
 		iconType = {
 			name ="holy_site_icon_3"
-			spriteType = "GFX_religion_icon_strip_small"
-			position = { x= 340 y = 15 }
+			spriteType = "GFX_religion_icon_strip"
+			position = { x= 325 y = 10 }
 			Orientation = "UPPER_LEFT"
 		}		
 
 		iconType = {
 			name ="holy_site_icon_4"
-			spriteType = "GFX_religion_icon_strip_small"
-			position = { x= 320 y = 15 }
+			spriteType = "GFX_religion_icon_strip"
+			position = { x= 300 y = 10 }
 			Orientation = "UPPER_LEFT"
 		}		
 
 		iconType = {
 			name ="holy_site_icon_5"
-			spriteType = "GFX_religion_icon_strip_small"
-			position = { x= 300 y = 15 }
+			spriteType = "GFX_religion_icon_strip"
+			position = { x= 275 y = 10 }
 			Orientation = "UPPER_LEFT"
 		}		
 
 		iconType = {
 			name ="holy_site_icon_6"
-			spriteType = "GFX_religion_icon_strip_small"
-			position = { x= 280 y = 15 }
+			spriteType = "GFX_religion_icon_strip"
+			position = { x= 250 y = 10 }
 			Orientation = "UPPER_LEFT"
 		}			
 		
@@ -213,7 +213,7 @@ guiTypes = {
 		guiButtonType = {
 			name ="prev_province"
 			quadTextureSprite = "GFX_buildview_prev"
-			position = { x= 13 y =121 }
+			position = { x= 13 y =120 }
 			shortcut = "<"
 			pdx_tooltip = "PREV_PROVINCE"
 			clicksound = generic_click_04
@@ -222,7 +222,7 @@ guiTypes = {
 		guiButtonType = {
 			name ="next_province"
 			quadTextureSprite = "GFX_buildview_next"
-			position = { x= 87 y = 121 }
+			position = { x= 87 y = 120 }
 			shortcut = ">"
 			pdx_tooltip = "NEXT_PROVINCE"
 			clicksound = generic_click_04
@@ -369,7 +369,7 @@ guiTypes = {
 
 		guiButtonType =	{
 			name = "cancel_button"
-			position = { x=441 y=11 }
+			position = { x=441 y=10 }
 			quadTextureSprite ="GFX_main_close_button"
 			shortcut = "ESCAPE"
 		}
@@ -383,6 +383,7 @@ guiTypes = {
 			scrollbartype = "standardlistbox_slider"
 			borderSize = {x = 0 y = 0}
 			Orientation = "UPPER_LEFT"
+			offset = { x=15 y=-1 }
 		}
 	}
 
@@ -424,9 +425,10 @@ guiTypes = {
 		{
 			name ="icon_type"
 			spriteType = "GFX_buildview_building_strip_small"
-			position = { x= 9993 y = 3 }
+			position = { x= -3043 y = 7 }
 			Orientation = "UPPER_LEFT"
-			frame = 1
+			#frame = 15
+			#scale = 1.5
 		}
 		
 		iconType = {
@@ -438,12 +440,13 @@ guiTypes = {
 		
 		instantTextBoxType = {
 			name = "name"
-			position = { x = 27 y = 8 }
+			position = { x = 30 y = 8 }
 			textureFile = ""
-			font = "vic_18"
+			#font = "vic_18"
+			font = "vic_18_bidouille"
 			borderSize = {x = 0 y = 0}
 			text = "PW_UNIT_TYPE"
-			maxWidth = 260
+			maxWidth = 265
 			maxHeight = 32
 			Orientation = "UPPER_LEFT"
 			fixedsize = yes
@@ -451,15 +454,22 @@ guiTypes = {
 		}
 		
 		iconType = {
+			name ="buildview_not_active_icon"
+			spriteType = "GFX_buildview_not_active_icon"
+#			position = { x= 397 y = 6 }
+			position = { x= -2 y = 0 }
+		}		
+		
+		iconType = {
 			name ="icon_cantbuildreason"
 			spriteType = "GFX_buildview_cantbuildicon"
-			position = { x= 270 y = 3 }
+			position = { x= 280 y = 3 }
 			Orientation = "UPPER_LEFT"
 		}
 		
 		instantTextBoxType = {
 			name = "cost"
-			position = { x = 283 y = 8 }
+			position = { x = 293 y = 8 }
 			textureFile = ""
 			font = "vic_18"
 			borderSize = {x = 0 y = 0}
@@ -473,26 +483,26 @@ guiTypes = {
 		iconType = {
 			name ="icon_gold"
 			spriteType = "GFX_icon_gold_small"
-			position = { x= 335 y = 9 }
+			position = { x= 345 y = 9 }
 			Orientation = "UPPER_LEFT"
 		}
 		iconType = {
 			name ="icon_prestige"
 			spriteType = "GFX_icon_prestige_small"
-			position = { x= 335 y = 9 }
+			position = { x= 345 y = 9 }
 			Orientation = "UPPER_LEFT"
 		}
 		
 		guiButtonType = {
 			name = "buildbutton"
-			position = { x=265 y = 0 }
+			position = { x=275 y = 0 }
 			quadTextureSprite ="GFX_buildview_buildbutton"
 			clicksound = generic_click_04
 		}		
 		
 		instantTextBoxType = {
 			name = "buildtime"
-			position = { x = 342 y = 8 }
+			position = { x = 352 y = 8 }
 			textureFile = ""
 			font = "vic_18"
 			borderSize = {x = 0 y = 0}
@@ -505,7 +515,7 @@ guiTypes = {
 		}
 		instantTextBoxType = {
 			name = "status_text"
-			position = { x = 255 y = 8 }
+			position = { x = 265 y = 8 }
 			textureFile = ""
 			font = "vic_18"
 			borderSize = {x = 0 y = 0}
@@ -519,15 +529,11 @@ guiTypes = {
 		iconType = {
 			name ="status_icon"
 			spriteType = "GFX_buildview_status_strip"
-			position = { x= 392 y = 6 }
+			position = { x= 402 y = 6 }
 			Orientation = "UPPER_LEFT"
 		}
 		
-		iconType = {
-			name ="buildview_not_active_icon"
-			spriteType = "GFX_buildview_not_active_icon"
-			position = { x= 397 y = 6 }
-		}
+
 	}
 	
 	
@@ -536,8 +542,8 @@ guiTypes = {
 	windowType = {
 		name = "build_settlement_view"
 		backGround ="build_settlement_bg_area"
-		#position = { x=23 y=-710 } #Arkopack full
-		position = { x=343 y=-683 }	#Arkopack no province view		
+		position = { x=23 y=-710 } #Arkopack full
+		#position = { x=343 y=-683 }	#Arkopack no province view		
 		size = { x=280 y=500 }
 		moveable = 1
 		dontRender = ""

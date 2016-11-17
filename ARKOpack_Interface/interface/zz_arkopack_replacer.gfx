@@ -2,47 +2,7 @@ spriteTypes = {
 
 	
 ### rewrites province.gfx
-	spriteType = {
-		name = "GFX_trade_post_land"
-		texturefile = "gfx\\interface\\arko_trade_post_land.dds"
-		noOfFrames = 1
-		clicksound = generic_click_02
-	}
 
-	spriteType = {
-		name = "GFX_trade_post_muslimgfx_land"
-		texturefile = "gfx\\interface\\arko_trade_post_land_desert.dds"
-		noOfFrames = 1
-		clicksound = generic_click_02
-	}
-
-	spriteType = {
-		name = "GFX_trade_post_indiangfx_land"
-		texturefile = "gfx\\interface\\arko_trade_post_land_indian.dds"
-		noOfFrames = 1
-		clicksound = generic_click_02
-	}
-
-	spriteType = {
-		name = "GFX_trade_post_southindiangfx_land"
-		texturefile = "gfx\\interface\\arko_trade_post_land_indian.dds"
-		noOfFrames = 1
-		clicksound = generic_click_02
-	}
-
-	spriteType = {
-		name = "GFX_trade_post_mongolgfx_land"
-		texturefile = "gfx\\interface\\arko_trade_post_land_mongol.dds"
-		noOfFrames = 1
-		clicksound = generic_click_02
-	}
-
-	spriteType = {
-		name = "GFX_trade_post_westafricangfx_land"
-		texturefile = "gfx\\interface\\arko_trade_post_land_westafrican.dds"
-		noOfFrames = 1
-		clicksound = generic_click_02
-	}
 #
 ###rewrites outliner.gfx 
 	progressbartype = {

@@ -5139,7 +5139,7 @@ guiTypes = {
 				{
 					name ="RIP_DLC"
 					spriteType = "GFX_dlc_icon_reapers_due"
-					position = { x= 450 y = -221 }
+					position = { x= 513 y = -221 }
 					Orientation = "LOWER_LEFT"
 				}
 				

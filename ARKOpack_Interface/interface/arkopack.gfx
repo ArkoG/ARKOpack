@@ -63,12 +63,21 @@ spriteTypes = {
 		effectFile = "gfx/FX/progress.lua"
 	}
 	progressbartype = {
-		name = "GFX_default_progress_arko2" #nouveau pour fort
+		name = "GFX_default_progress_arko_hosp_et_TP" #nouveau pour hospital
 		color = { 0.0 0.5 0.0 }
 		colortwo = { 1.0 0.0 0.0 }
-		textureFile1 = "gfx\\interface\\default_progress_1g.dds"
-		textureFile2 = "gfx\\interface\\default_progress_2g.dds"
+		textureFile1 = "gfx\\interface\\default_progress_1hosp.dds"
+		textureFile2 = "gfx\\interface\\default_progress_2hosp.dds"
 		size = { x = 99 y = 32 }
+		effectFile = "gfx/FX/progress.lua"
+	}
+	progressbartype = {
+		name = "GFX_default_progress_arko_fort" #nouveau pour fort SMALL
+		color = { 0.0 0.5 0.0 }
+		colortwo = { 1.0 0.0 0.0 }
+		textureFile1 = "gfx\\interface\\default_progress_1fort.dds"
+		textureFile2 = "gfx\\interface\\default_progress_2fort.dds"
+		size = { x = 53 y = 18 }
 		effectFile = "gfx/FX/progress.lua"
 	}
     ###OUTLINER

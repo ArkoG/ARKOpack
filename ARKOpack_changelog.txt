@@ -1,15 +1,45 @@
 MOD NAME : ARKOpack
-MOD/DATE VERSION : 
-standalone : 2016 august 30th
+MOD/DATE/NAME VERSION : 
+standalone version : remember remember (this 17th of november)
 GAME VERSION COMPATIBILITY : v2.5.x v2.6.x for CoApack
 GAME VERSION COMPATIBILITY : v2.6.x for GUIpack
+CURRENT DEV/BETA : v2.6.x 
 
 see included readme's for details
+
+--2016-11-17 changelog--- 
+
+ARMOIRIES :
+-"Customizer" fake religion is now renamed "Heraldrism"
+
+INTERFACE :
+-charview // some new favour designs (main character and vassal list)
+-build building view // reworked the active/inactive building graphics
+-build building view // holy sites religion icons are now bigger
+-build building view // toned down a bit the colour intensity of can't build icon
+-build building view // adjusted scrolling bar
+-province view // 2.6 compatching
+-province view // made modifiers' area slightly taller
+-province view // now can display an even longer province name (approx. +5 letters)
+-build building view // changed fort holding design (christianity+default)
+-lobby // fixed RiP DLC icon position
+-outliner // fixed configuration close button position
+-localisation // fixed the mod localization not being loaded correctly
+-outliner // fixed yellow text for gold value - now black
+-outliner // tweaked around icons and values positions
+-3D mapindicators // added sparkles to siege smoke gfx
+-3D models // changed models used for western settlements (square dungeon, roman bigger church and bigger city hall)
+-3D models // changed size of models used for western settlements
+-3D models // changed models used for muslim castle settlements (level 2 fortress)
+-GFX/interface // improved chronicle book graphics
+-GFX/interface // changed trade route and province strait icons
+-customize dynasty view // fixes some wrong text positions
+-province_view // fixed the invisible land_trade_post issue
+-province view // added an overhauled design for fort settlement
 
 --2016-10-10 changelog--
 
 ARMOIRIES :
--ARMOIRIES :
 -a lot more choice for CoA design for the "customizer" religion
 
 INTERFACE :
