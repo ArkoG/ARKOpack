@@ -1488,7 +1488,7 @@ guiTypes = {
 						format = centre
 					}
 					instantTextBoxType = {
-						name = "selected_nation_status_label" #indÃ© ou vassal
+						name = "selected_nation_status_label" #indé ou vassal
 						#position = { x = 137 y = 346 }
 						position = { x = 152 y = 336 }
 						textureFile = ""
@@ -1846,7 +1846,7 @@ guiTypes = {
 						borderSize = {x = 0 y = 0}
 					}
 					
-					instantTextBoxType = { #vanilla Ã©cartÃ© car synthaxe pourrie et non modifiable
+					instantTextBoxType = { #vanilla écarté car synthaxe pourrie et non modifiable
 						name = "Title"
 						position = { x = 508 y = 43 }
 						textureFile = ""
@@ -1858,7 +1858,7 @@ guiTypes = {
 						format = centre
 						fixedsize = yes
 					}
-					instantTextBoxType = { #remplace prÃ©cÃ©dent
+					instantTextBoxType = { #remplace précédent
 						name = "TitlerepublicARKO"
 						position = { x = 66 y = 57 }
 						textureFile = ""
@@ -1870,7 +1870,7 @@ guiTypes = {
 						format = centre
 						fixedsize = yes
 					}
-		instantTextBoxType = { #blabla rÃ©publique
+		instantTextBoxType = { #blabla république
 						name = "TitlerepublicARKOblabla"
 						position = { x = 69 y = 230 }
 						textureFile = ""

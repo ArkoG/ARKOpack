@@ -4,8 +4,8 @@
 #		data= { 
 #			0 #composition/template 
 #			5 #index de texture/texture ID
-#			0 #Ã©lÃ©ment en superposition/emblem
-#			13 #index interne Ã  la texture/texture internal
+#			0 #élément en superposition/emblem
+#			13 #index interne à la texture/texture internal
 #			0 #couleur 1/colour 1
 #			0 #couleur 2/colour 2
 #			0 #couleur 3/colour 3

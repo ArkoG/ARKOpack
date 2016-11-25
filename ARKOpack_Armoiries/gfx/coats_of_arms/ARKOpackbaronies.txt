@@ -1,10 +1,10 @@
-﻿################################
+################################
 # Armoiries ArkoPack par ARKO
 #
 # Baronnies
 ################################
 
-marquage par "*" = dernières nouveautés (latest additions)
+marquage par "*" = derni�res nouveaut�s (latest additions)
 
 01-*
 02-*
@@ -108,7 +108,7 @@ marquage par "*" = dernières nouveautés (latest additions)
 -205-Saint Oyand*
 
 ###c_besancon
--210-Besançon*
+-210-Besan�on*
 -211-Saint-Ferjeux*
 
 
