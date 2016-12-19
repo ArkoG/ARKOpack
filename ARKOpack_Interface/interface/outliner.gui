@@ -235,7 +235,7 @@ guiTypes = {
 		}
 		instantTextBoxType = {
 			name = "money_text"
-			position = { x = 236 y = 2 }
+			position = { x = 230 y = 2 }
 			textureFile = ""
 			font = "Arial12_black_bidouille"
 			borderSize = {x = 0 y = 0}
@@ -337,7 +337,7 @@ guiTypes = {
 		}
 		instantTextBoxType = {
 			name = "money_text"
-			position = { x = 236 y = 2 }
+			position = { x = 230 y = 2 }
 			textureFile = ""
 			font = "Arial12_black_bidouille"
 			borderSize = {x = 0 y = 0}
@@ -420,7 +420,7 @@ guiTypes = {
 	
 		instantTextBoxType = {
 				name = "entry_text"
-				position = { x = 57 y = 2 }
+				position = { x = 63 y = 2 }
 				textureFile = ""
 				font = "Arial12_black"
 				borderSize = {x = 0 y = 0}
@@ -468,7 +468,7 @@ guiTypes = {
 		
 		instantTextBoxType = {
 				name = "entry_text"
-				position = { x = 57 y = 2 }
+				position = { x = 63 y = 2 }
 				textureFile = ""
 				font = "Arial12_black"
 				borderSize = {x = 0 y = 0}
@@ -607,7 +607,7 @@ guiTypes = {
 
 		instantTextBoxType = {
 			name = "entry_text"
-			position = { x = 65 y = 17 }
+			position = { x = 73 y = 17 }
 			textureFile = ""
 			font = "Arial12_black"
 			borderSize = {x = 0 y = 0}
@@ -654,7 +654,7 @@ guiTypes = {
 
 		instantTextBoxType = {
 			name = "entry_text"
-			position = { x = 57 y = 2 }
+			position = { x = 69 y = 2 }
 			textureFile = ""
 			font = "Arial12_black"
 			borderSize = {x = 0 y = 0}
@@ -703,7 +703,7 @@ guiTypes = {
 		instantTextBoxType = 
 		{
 			name = "entry_text"
-			position = { x = 17 y = 2 }
+			position = { x = 23 y = 2 }
 			textureFile = ""
 			font = "Arial12_black"
 			borderSize = {x = 0 y = 0}
@@ -748,7 +748,7 @@ guiTypes = {
 		instantTextBoxType = 
 		{
 			name = "entry_text"
-			position = { x = 57 y = 2 }
+			position = { x = 63 y = 2 }
 			textureFile = ""
 			font = "Arial12_black"
 			borderSize = {x = 0 y = 0}

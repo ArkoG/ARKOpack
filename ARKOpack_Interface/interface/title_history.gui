@@ -5,7 +5,7 @@ guiTypes = {
 		name = "title_history_view"
 		backGround ="background_bv"
 		position = { x=550 y=100 }
-		size = { x=420 y=655 }
+		size = { x=420 y=669 }
 		moveable = 1
 		dontRender = ""
 		horizontalBorder = "0"

@@ -865,65 +865,65 @@ guiTypes = {
 				fullscreen=yes
 				Orientation = "CENTER_DOWN"
 				
-				### NEW CONTENT AVAILABLE.
-				windowType = {
-					name ="new_content"
-					backGround=""
-					position = { x = -347 y = -300 }
-					size = { x=300 y =20}
-					moveable = 0
-					dontRender = ""
-					horizontalBorder= ""
-					verticalBorder= ""
-					upsound = ""
-					downsound = ""
-					fullscreen=yes
-					Orientation = "UPPER_LEFT"
-					
-					guiButtonType = 
-					{
-						name = "content_button"
-						position = { x = 152 y = 80 }
-						quadTextureSprite ="bannerbackground"	
-						clicksound = menu_click
-					}
-					iconType =
-					{
-						name ="dlc_alert_frame"
-						spriteType = "GFX_dlc_alert_frame"
-						position = { x= 126 y = 54 }
-					}
-					
-					instantTextBoxType = 
-					{
-						name = "content_new_dlc"
-						position = { x = 170 y = 64 }
-						textureFile = ""
-						font = "vic_18"
-						borderSize = {x = 0 y = 0}
-						maxWidth = 350
-						maxHeight = 24	
-						Orientation = "UPPER_LEFT"
-						format = centre
-						fixedsize = yes
-					}		
+### NEW CONTENT AVAILABLE.
+	windowType = {
+		name ="new_content"
+		backGround=""
+		position = { x = -347 y = -300 }
+		size = { x=300 y =20}
+		moveable = 0
+		dontRender = ""
+		horizontalBorder= ""
+		verticalBorder= ""
+		upsound = ""
+		downsound = ""
+		fullscreen=yes
+		Orientation = "UPPER_LEFT"
+		
+		guiButtonType = 
+		{
+			name = "content_button"
+			position = { x = 152 y = 8000 }
+			quadTextureSprite ="bannerbackground"	
+			clicksound = menu_click
+		}
+		iconType =
+		{
+			name ="dlc_alert_frame"
+			spriteType = "GFX_dlc_alert_frame"
+			position = { x= 126 y = 54 }
+		}
+		
+		instantTextBoxType = 
+		{
+			name = "content_new_dlc"
+			position = { x = 170 y = 8096 }
+			textureFile = ""
+			font = "vic_18"
+			borderSize = {x = 0 y = 0}
+			maxWidth = 350
+			maxHeight = 24	
+			Orientation = "UPPER_LEFT"
+			format = centre
+			fixedsize = yes
+		}		
 
-					instantTextBoxType = 
-					{
-						name = "content_name"
-						position = { x = 170 y = 96 }
-						textureFile = ""
-						font = "vic_22"
-						borderSize = {x = 0 y = 0}
-						text = ""	
-						maxWidth = 350
-						maxHeight = 24	
-						Orientation = "UPPER_LEFT"
-						format = centre
-						fixedsize = yes
-					}
-				}
-				##########
+		instantTextBoxType = 
+		{
+			name = "content_name"
+			position = { x = 170 y = 8096 }
+			textureFile = ""
+			font = "vic_22"
+			borderSize = {x = 0 y = 0}
+			text = "NEW_DLC_AVAILABLE"	
+			maxWidth = 350
+			maxHeight = 24	
+			Orientation = "UPPER_LEFT"
+			format = centre
+			fixedsize = yes
+		}
+	}
+	##########
 				##########
 				
 				iconType =

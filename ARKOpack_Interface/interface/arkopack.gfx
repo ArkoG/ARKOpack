@@ -286,6 +286,11 @@ spriteTypes = {
 		texturefile = "gfx\\interface\\chronicle_divider_ARKO.dds"
 	}
 	spriteType = {
+		name = "GFX_portrait_frame_deco"
+		texturefile = "gfx\\interface\\decorative_portrait.dds"
+		allwaystransparent = yes
+	}
+	spriteType = {
 		name = "GFX_charframe_50_chronicle"
 		texturefile = "gfx\\interface\\charframe_50_chronicle.dds"
 		noOfFrames = 6
