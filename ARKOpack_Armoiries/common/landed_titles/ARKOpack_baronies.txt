@@ -35,6 +35,9 @@ b_venasque	=	{ coat_of_arms = { data =	{ 0 4 0 114 0 0 0 }	religion="catholic" }
 b_gap	=		{ coat_of_arms = { data =	{ 0 4 0 141 0 0 0 }	religion="catholic" } }
 b_basel	=		{ coat_of_arms = { data =	{ 0 4 0 170 0 0 0 }	religion="catholic" } }
 b_besancon	=	{ coat_of_arms = { data =	{ 0 4 0 210 0 0 0 }	religion="catholic" } }
+b_montbeliard = { coat_of_arms = { data = 	{ 0 4 0 220 0 0 0 } religion="catholic" } }	
+b_ferette =		{ coat_of_arms = { data = 	{ 0 4 0 221 0 0 0 } religion="catholic" } }	
+b_saintdizier =	{ coat_of_arms = { data = 	{ 0 4 0 222 0 0 0 } religion="catholic" } } #Pont-à-Mousson	
 b_strassburg =	{ coat_of_arms = { data =	{ 0 4 0 241 0 0 0 }	religion="catholic" } }
 b_kolmar = 		{ coat_of_arms = { data =	{ 0 4 0 243 0 0 0 }	religion="catholic" } }
 b_murbach =		{ coat_of_arms = { data =	{ 0 4 0 242 0 0 0 }	religion="catholic" } }

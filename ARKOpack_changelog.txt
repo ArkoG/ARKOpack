@@ -13,7 +13,10 @@ see included readme's for details
 ARMOIRIES :
 -re-adds some reworked vanilla 2 colours CoA designs for Zoroastrian group (save compatible)
 ###-re-adds some reworked vanilla 3 colours CoA designs for Zoroastrian group (not save compatible)
--
+-redrawn CoA for dynasty "de Scarpone"
+-added dynastic CoA for dynasty "de Montfaucon"
+-redrawn title CoA for Bar county and duchy (MOD only for the latter)
+-added baronial CoAs for Montbéliard/Ferrette/Pont-à-Mousson 
 
 INTERFACE :
 -charview // adds a larger glowing area around realm_tree ring icon

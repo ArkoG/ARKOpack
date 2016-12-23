@@ -523,7 +523,7 @@
 }
 
 88 = {
-	name="Scarponnois" # = ou maison comtes de Ferrette, Montbéliard, Sundgau, Verdun, Bar
+	name="de Scarpone" # = ou maison comtes de Ferrette, Montbéliard, Sundgau, Verdun, Bar
 	culture = "frankish"
 	religion="catholic"
 	coat_of_arms = {	template = 0	layer = {	texture = 5	texture_internal = 61	emblem = 0	color = 0	color = 0	color = 0	}	}
@@ -8621,6 +8621,7 @@ used_for_random = no
 7287 = {
 	name="de Montfaucon"
 	culture = "frankish"
+	coat_of_arms = {	template = 0	layer = {	texture = 5	texture_internal = 128	emblem = 0	color = 0	color = 0	color = 0	}	}
 }
 7288 = {
 	name="von Wartenberg"

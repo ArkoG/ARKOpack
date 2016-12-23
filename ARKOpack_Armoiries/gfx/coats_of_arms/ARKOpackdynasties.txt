@@ -71,7 +71,7 @@ Dynasties :
 58-de Besièrs 
 59-de Carcassonna (à dessiner) 
 60-de Melun
-61-Scarponnois
+61-Scarponnois*
 62-von Limburg
 63-Pallavicini
 64-de Donzy
@@ -124,10 +124,10 @@ Dynasties :
 110-Villehardouin
 111-*
 112-de Boulogne
-*113-de Brienne #ID   23115		#coat_of_arms = {	template = 0	layer = {	texture = 113	texture_internal = 6	emblem = 0	color = 0	color = 0	color = 0	}	}
-*114-de Brienne #ID      80		#coat_of_arms = {	template = 0	layer = {	texture = 114	texture_internal = 7	emblem = 0	color = 0	color = 0	color = 0	}	}
-*115-de Guines #ID    80		#coat_of_arms = {	template = 0	layer = {	texture = 115	texture_internal = 8	emblem = 0	color = 0	color = 0	color = 0	}	}
-*116-de Coucy #ID   5081		#coat_of_arms = {	template = 0	layer = {	texture = 116	texture_internal = 9	emblem = 0	color = 0	color = 0	color = 0	}	}
+113-de Brienne #ID   23115		#coat_of_arms = {	template = 0	layer = {	texture = 113	texture_internal = 6	emblem = 0	color = 0	color = 0	color = 0	}	}
+114-de Brienne #ID      80		#coat_of_arms = {	template = 0	layer = {	texture = 114	texture_internal = 7	emblem = 0	color = 0	color = 0	color = 0	}	}
+115-de Guines #ID    80		#coat_of_arms = {	template = 0	layer = {	texture = 115	texture_internal = 8	emblem = 0	color = 0	color = 0	color = 0	}	}
+116-de Coucy #ID   5081		#coat_of_arms = {	template = 0	layer = {	texture = 116	texture_internal = 9	emblem = 0	color = 0	color = 0	color = 0	}	}
 
 
 -
@@ -137,9 +137,10 @@ Dynasties :
 123-Tudor
 124-Bragatides
 125-Mamikonian
-126-de Aragon (788)*
-127-Bagratuni (43)*
--
+126-de Aragon (788)
+127-Bagratuni (43)
+-128-de Montfaucon (7287)*
+
 140-#1000036008 "van Qlimax"
 141-#1000036009 "van Buuren"
 
