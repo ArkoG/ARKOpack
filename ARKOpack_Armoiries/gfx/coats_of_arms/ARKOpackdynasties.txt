@@ -139,7 +139,8 @@ Dynasties :
 125-Mamikonian
 126-de Aragon (788)
 127-Bagratuni (43)
--128-de Montfaucon (7287)*
+128-de Montfaucon (7287)*
+129-Etichonen (664)* [argentorum]
 
 140-#1000036008 "van Qlimax"
 141-#1000036009 "van Buuren"
