@@ -1621,7 +1621,7 @@ guiTypes = {
 					}
 					
 					guiButtonType = {
-						position = { x= 310 y = 40 }
+						position = { x= 305 y = 34 }
 						name = "player_shield"	
 						quadTextureSprite ="GFX_shield_medium"
 					}
@@ -1630,7 +1630,7 @@ guiTypes = {
 						name ="player_crown"
 						#name ="player_shield_crown"
 						spriteType = "GFX_shield_crown_strip_medium"
-						position = { x= 322 y = 16 }
+						position = { x= 317 y = 12 }
 						Orientation = "UPPER_LEFT"
 					}
 					guiButtonType = {
