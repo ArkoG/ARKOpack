@@ -82,40 +82,40 @@ spriteTypes = {
 	}
     ###OUTLINER
 	spriteType = {
-		name = "GFX_outliner_top_arkopack"	
-		texturefile = "gfx\\interface\\outliner_top_arkopack.tga"
+		name = "GFX_outliner_top"	
+		texturefile = "gfx\\interface\\outliner_top.tga"
 		loadType = "INGAME"
 		norefcount = yes
 	}
 	spriteType = {
-		name = "GFX_outliner_bottom_arkopack"	
-		texturefile = "gfx\\interface\\outliner_bottom_arkopack.tga"
+		name = "GFX_outliner_bottom"	
+		texturefile = "gfx\\interface\\outliner_bottom.tga"
 		loadType = "INGAME"
 		norefcount = yes
 	}
 	spriteType = {
-		name = "GFX_outliner_standard_arkopack"	
-		texturefile = "gfx\\interface\\outliner_standard_arkopack.tga"
-		loadType = "INGAME"
-		effectFile = "gfx/FX/buttonstate.lua"
-		norefcount = yes
-	}
-	spriteType = {
-		name = "GFX_outliner_court_arkopack"	
-		texturefile = "gfx\\interface\\outliner_court_arkopack.tga"
+		name = "GFX_outliner_standard"	
+		texturefile = "gfx\\interface\\outliner_standard.tga"
 		loadType = "INGAME"
 		effectFile = "gfx/FX/buttonstate.lua"
 		norefcount = yes
 	}
 	spriteType = {
-		name = "GFX_outliner_header_arkopack"	
-		texturefile = "gfx\\interface\\outliner_header_arkopack.tga"
+		name = "GFX_outliner_court"	
+		texturefile = "gfx\\interface\\outliner_court.tga"
+		loadType = "INGAME"
+		effectFile = "gfx/FX/buttonstate.lua"
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_outliner_header"	
+		texturefile = "gfx\\interface\\outliner_header.tga"
 		loadType = "INGAME"
 		norefcount = yes
 	}
 	spriteType = {
-		name = "GFX_outliner_config_bg_arkopack"	
-		texturefile = "gfx\\interface\\outliner_config_bg_arkopack.tga"
+		name = "GFX_outliner_config_bg"	
+		texturefile = "gfx\\interface\\outliner_config_bg.tga"
 		norefcount = yes
 	}
 	spriteType = {

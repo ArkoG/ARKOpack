@@ -15,7 +15,7 @@ guiTypes = {
 		iconType =
 		{
 			name ="GFX_outliner_top"
-			spriteType = "GFX_outliner_top_arkopack"
+			spriteType = "GFX_outliner_top"
 			position = { x= 0 y = 0 }
 		}
 		
@@ -63,7 +63,7 @@ guiTypes = {
 	iconType =
 	{
 		name ="outliner_bottom"
-		spriteType = "GFX_outliner_bottom_arkopack"
+		spriteType = "GFX_outliner_bottom"
 		position = { x= 0 y = 0 }
 	}
 
@@ -84,7 +84,7 @@ guiTypes = {
 			iconType =
 			{
 				name ="outliner_config_bg"
-				spriteType = "GFX_outliner_config_bg_arkopack"
+				spriteType = "GFX_outliner_config_bg"
 				position = { x= 20 y = 27 }
 			}
 
@@ -173,7 +173,7 @@ guiTypes = {
 		iconType =
 		{
 			name ="outliner_header"
-			spriteType = "GFX_outliner_header_arkopack"
+			spriteType = "GFX_outliner_header"
 			position = { x= 0 y = 0 }
 		}
 
@@ -211,7 +211,7 @@ guiTypes = {
 		guiButtonType = {
 			name = "outliner_standard"
 			position = { x=0 y =0 }
-			quadTextureSprite ="GFX_outliner_standard_arkopack"	
+			quadTextureSprite ="GFX_outliner_standard"	
 		}
 		
 		instantTextBoxType = {
@@ -313,7 +313,7 @@ guiTypes = {
 		guiButtonType = {
 			name = "outliner_standard"
 			position = { x=0 y =0 }
-			quadTextureSprite ="GFX_outliner_standard_arkopack"	
+			quadTextureSprite ="GFX_outliner_standard"	
 		}
 		
 		instantTextBoxType = {
@@ -395,7 +395,7 @@ guiTypes = {
 		guiButtonType = {
 			name = "outliner_standard"
 			position = { x=0 y =0 }
-			quadTextureSprite ="GFX_outliner_standard_arkopack"	
+			quadTextureSprite ="GFX_outliner_standard"	
 		}
 
 		instantTextBoxType = {
@@ -449,7 +449,7 @@ guiTypes = {
 		guiButtonType = {
 			name = "outliner_standard"
 			position = { x=0 y =0 }
-			quadTextureSprite ="GFX_outliner_standard_arkopack"	
+			quadTextureSprite ="GFX_outliner_standard"	
 		}
 
 		instantTextBoxType = {
@@ -498,7 +498,7 @@ guiTypes = {
 		guiButtonType = {
 			name = "outliner_standard"
 			position = { x=0 y =0 }
-			quadTextureSprite ="GFX_outliner_standard_arkopack"	
+			quadTextureSprite ="GFX_outliner_standard"	
 		}
 
 		instantTextBoxType = {
@@ -553,7 +553,7 @@ guiTypes = {
 		guiButtonType = {
 			name = "outliner_standard"
 			position = { x=0 y =0 }
-			quadTextureSprite ="GFX_outliner_standard_arkopack"	
+			quadTextureSprite ="GFX_outliner_standard"	
 		}
 
 		instantTextBoxType = {
@@ -602,9 +602,14 @@ guiTypes = {
 		guiButtonType = {
 			name = "outliner_standard"
 			position = { x=0 y =0 }
-			quadTextureSprite ="GFX_outliner_court_arkopack" #2lines	
+			quadTextureSprite ="GFX_outliner_standard" #1st line
 		}
-
+		guiButtonType = {
+			name = "outliner_standard_2"
+			position = { x=0 y =16 }
+			quadTextureSprite ="GFX_outliner_standard" #2nd line	
+		}
+		
 		instantTextBoxType = {
 			name = "entry_text"
 			position = { x = 73 y = 17 }
@@ -649,7 +654,7 @@ guiTypes = {
 		guiButtonType = {
 			name = "outliner_standard"
 			position = { x=0 y =0 }
-			quadTextureSprite ="GFX_outliner_standard_arkopack"	
+			quadTextureSprite ="GFX_outliner_standard"	
 		}
 
 		instantTextBoxType = {
@@ -697,7 +702,7 @@ guiTypes = {
 		{
 			name = "outliner_standard"
 			position = { x=0 y =0 }
-			quadTextureSprite ="GFX_outliner_standard_arkopack"	
+			quadTextureSprite ="GFX_outliner_standard"	
 		}
 
 		instantTextBoxType = 
@@ -740,7 +745,7 @@ guiTypes = {
 		{
 			name = "outliner_standard"
 			position = { x=0 y =0 }
-			quadTextureSprite ="GFX_outliner_standard_arkopack"
+			quadTextureSprite ="GFX_outliner_standard"
 			pdx_tooltip = "CHARACTER_TOOLTIP"
 			pdx_tooltip_delayed = "CHARACTER_TOOLTIP_DELAYED"
 		}
