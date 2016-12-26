@@ -108,14 +108,14 @@ guiTypes = {
 		guiButtonType = {
 			name ="shield"
 			quadTextureSprite = "GFX_shield_big"
-			position = { x= -64 y = -150 }
+			position = { x= -64 y = -144 }
 			Orientation = "CENTER"
 		}
 		
 		iconType = {
 			name = "shield_highlight"
 			spriteType = "GFX_lobby_coa_party_per_pale"
-			position = { x= -63 y = -149 }
+			position = { x= -63 y = -143 }
 			Orientation = "CENTER"
 		}
 		
