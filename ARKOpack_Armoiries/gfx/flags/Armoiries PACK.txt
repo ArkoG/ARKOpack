@@ -20,12 +20,12 @@ C Bamberg
 C Bearn
 C Besançon
 C Bern
-C Bar
+C Bar*
 C Barcelona
 C Blois
 C Bologna
 C Bordeaux
-C Bourbon*
+C Bourbon
 C Bourges
 C Burgos
 C Brescia
@@ -120,12 +120,12 @@ C Vermandois
 ------------
 D Alsace
 D_Antipape (MOD)
-D Aragon*
+D Aragon
 D_Asturias
 D Auvergne
 D Aquitaine
-D_Bar (MOD)
-D Barcelone*
+D_Bar* (MOD)
+D Barcelone
 D Berry
 D Bourbon
 D Bourgogne
@@ -152,12 +152,12 @@ D Swiss
 D Toulouse
 D Toscana
 D Upper_lorraine
-D Trezibond*
+D Trezibond
 D venizia
 D Zaragoza
 ------------
 K Aquitaine
-K Aragon*
+K Aragon
 K_Asturias
 K Bourgogne
 K Bretagne
@@ -181,7 +181,7 @@ K_provence (MOD)
 K_savoy (MOD)
 K_genova (MOD)
 K_genoa
-K_Trezibond*
+K_Trezibond
 K venizia
 ------------
 E Byzantium

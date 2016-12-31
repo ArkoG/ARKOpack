@@ -1,21 +1,21 @@
-Ôªø################################
+################################
 # Armoiries ArkoPack par ARKO
 #
 # Dynasties Pack 1 : -Dynasties-
 ################################
 
-marqu√© par "*" = derni√®res nouveaut√©s (latest additions)
+marquÈ par "*" = derniËres nouveautÈs (latest additions)
 
 
 Dynasties :
 
 0-INDEX couleurs
 1-Dampierre
-2-Ivr√©e
+2-IvrÈe
 3-Courtenay (2 maisons)
 4-Nevers
 5-Semur
-6-Auxonne/Ch√¢lons
+6-Auxonne/Ch‚lons
 7-Trencavel
 8-Bourgogne
 9-Bosonide/Bivinide
@@ -30,7 +30,7 @@ Dynasties :
 18-Vermandois
 19-Anjou sicile
 20-La Tour du Pin
-21-Gen√®ve
+21-GenËve
 22-Auvergne
 23-Baux
 24-Embrun
@@ -40,13 +40,13 @@ Dynasties :
 28-Ventadour
 29-Alachisling
 30-Astarac
-31-Ch√¢tenois
+31-Ch‚tenois
 32-Orange
 33-Melgueil
 34-Carolingiens
 35-Valois
 36-de Neuchastel
-37-Taillefer Angoul√™me
+37-Taillefer AngoulÍme
 38-Urgell-Barcelona
 39-de Neuchastel-Nidau
 40-Sforza
@@ -55,11 +55,11 @@ Dynasties :
 43-Lusignan
 44-Poitou
 45-Aleramici
-46-de P√©rigord
+46-de PÈrigord
 47-Agoult
 47-de Navarra (azure wolf on gold)
 48-Lara branche de Narbonne
-49-###Num√©ro index
+49-###NumÈro index
 50-Narbonne
 51-Gasconha
 52-Armanhac
@@ -67,11 +67,11 @@ Dynasties :
 54-Avaugour
 55-von Dilligen (Kyburg)
 56-Aton d'Alzonne
-57-de Comminges (√† dessiner) 
-58-de Besi√®rs 
-59-de Carcassonna (√† dessiner) 
+57-de Comminges (‡ dessiner) 
+58-de BesiËrs 
+59-de Carcassonna (‡ dessiner) 
 60-de Melun
-61-Scarponnois
+61-Scarponnois*
 62-von Limburg
 63-Pallavicini
 64-de Donzy
@@ -97,11 +97,11 @@ Dynasties :
 83-de Rohan (breton)
 84-de Hauteville
 85-de Preuilly
-86-banu Al-Abb√¢s
+86-banu Al-Abb‚s
 87-von Habsburg-Laufenburg
 88-da Romano
 89-della Scala
-90-de L√©on
+90-de LÈon
 91-de Vannes
 92-de Cornouailles
 93-de Barcelona
@@ -109,11 +109,11 @@ Dynasties :
 95-von Hohenzollern
 96-de Valpergue
 97-de Saint-Oyand
-98-*√† attribuer*
-99-*√† attribuer*
+98-*‡ attribuer*
+99-*‡ attribuer*
 100-de Nantes
 101-de Poher
-102-de Penthi√®vre
+102-de PenthiËvre
 103-de Rennes
 104-von Metz
 105-de Metz
@@ -124,10 +124,10 @@ Dynasties :
 110-Villehardouin
 111-*
 112-de Boulogne
-*113-de Brienne #ID   23115		#coat_of_arms = {	template = 0	layer = {	texture = 113	texture_internal = 6	emblem = 0	color = 0	color = 0	color = 0	}	}
-*114-de Brienne #ID      80		#coat_of_arms = {	template = 0	layer = {	texture = 114	texture_internal = 7	emblem = 0	color = 0	color = 0	color = 0	}	}
-*115-de Guines #ID    80		#coat_of_arms = {	template = 0	layer = {	texture = 115	texture_internal = 8	emblem = 0	color = 0	color = 0	color = 0	}	}
-*116-de Coucy #ID   5081		#coat_of_arms = {	template = 0	layer = {	texture = 116	texture_internal = 9	emblem = 0	color = 0	color = 0	color = 0	}	}
+113-de Brienne #ID   23115		#coat_of_arms = {	template = 0	layer = {	texture = 113	texture_internal = 6	emblem = 0	color = 0	color = 0	color = 0	}	}
+114-de Brienne #ID      80		#coat_of_arms = {	template = 0	layer = {	texture = 114	texture_internal = 7	emblem = 0	color = 0	color = 0	color = 0	}	}
+115-de Guines #ID    80		#coat_of_arms = {	template = 0	layer = {	texture = 115	texture_internal = 8	emblem = 0	color = 0	color = 0	color = 0	}	}
+116-de Coucy #ID   5081		#coat_of_arms = {	template = 0	layer = {	texture = 116	texture_internal = 9	emblem = 0	color = 0	color = 0	color = 0	}	}
 
 
 -
@@ -137,9 +137,11 @@ Dynasties :
 123-Tudor
 124-Bragatides
 125-Mamikonian
-126-de Aragon (788)*
-127-Bagratuni (43)*
--
+126-de Aragon (788)
+127-Bagratuni (43)
+128-de Montfaucon (7287)*
+129-Etichonen (664)* [argentorum]
+
 140-#1000036008 "van Qlimax"
 141-#1000036009 "van Buuren"
 
@@ -155,55 +157,55 @@ Kvirikian, reuses vanilla's one for Bagrationi
 
 
 0-INDEX couleurs
-1-papaut√© de Saint Lin au Concile de Nic√©e (325 avec St Silvestre)
-2-papaut√© entre 325 et 752 (√âtienne II)
-3-papaut√© Apr√®s la donation de P√©pin le Bref √† √âtienne II jusqu √† Silvestre II
-4-papaut√© de Silvestre II au d√©but du jeu
-5###Num√©ro d'index
+1-papautÈ de Saint Lin au Concile de NicÈe (325 avec St Silvestre)
+2-papautÈ entre 325 et 752 (…tienne II)
+3-papautÈ AprËs la donation de PÈpin le Bref ‡ …tienne II jusqu ‡ Silvestre II
+4-papautÈ de Silvestre II au dÈbut du jeu
+5###NumÈro d'index
 6-Antipapes
-7-Pape p√©riode 1 <1235
-8-Pape p√©riode 2 de 1235 √† 1303 (√† partir de Boniface VII)
-9-Pape p√©riode 3 √† partir de 1303 (√† partir de Benoit XI)
-10###Num√©ro d'index
-11-di Conti : Innocent III, Gr√©goire IX, Alexandre IV
+7-Pape pÈriode 1 <1235
+8-Pape pÈriode 2 de 1235 ‡ 1303 (‡ partir de Boniface VII)
+9-Pape pÈriode 3 ‡ partir de 1303 (‡ partir de Benoit XI)
+10###NumÈro d'index
+11-di Conti : Innocent III, GrÈgoire IX, Alexandre IV
 12-Savelli : Honorius III, Honorius IV
-13-Castiglione : C√©lestin IV
+13-Castiglione : CÈlestin IV
 14-de Fieschi : Innocent IV 
-15###Num√©ro d'index
+15###NumÈro d'index
 16-Beauvais
 17-Orsini
 18-
 19-
-20###Num√©ro d'index
+20###NumÈro d'index
 21-
 22-
 23-
 24-
-25###Num√©ro d'index
+25###NumÈro d'index
 26-
 27-
 28-
 29-
-30###Num√©ro d'index
+30###NumÈro d'index
 31-
 32-
 33-
 34-
-35###Num√©ro d'index
+35###NumÈro d'index
 36-
 37-
 38-
 39-
-40###Num√©ro d'index
+40###NumÈro d'index
 41-
 42-
 43-
 44-
-45###Num√©ro d'index
+45###NumÈro d'index
 46-
 47-
 43-Chevron-Villette : Nicolas II
-44-Fournier : Beno√Æt XII
+44-Fournier : BenoÓt XII
 
 
 ################################
@@ -217,7 +219,7 @@ Kvirikian, reuses vanilla's one for Bagrationi
 
 EMPTY FOR NOW
 
-20###Num√©ro d'index
+20###NumÈro d'index
 
 23-
 24-
@@ -229,11 +231,11 @@ EMPTY FOR NOW
 ################################
 Others (programmed from patterns)
 
--√Åsbirningar (DYN478)
--af Haukd√¶lir (DYN484)
--Sv√≠nfellingar (DYN485)
--Vatnsfir√∞ingar (DYN486)
--af Haukd√¶lir (DYN101891)
+-¡sbirningar (DYN478)
+-af HaukdÊlir (DYN484)
+-SvÌnfellingar (DYN485)
+-Vatnsfiringar (DYN486)
+-af HaukdÊlir (DYN101891)
 
 ################################
 # Armoiries ArkoPack par ARKO

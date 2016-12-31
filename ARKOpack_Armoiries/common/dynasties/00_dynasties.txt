@@ -523,7 +523,7 @@
 }
 
 88 = {
-	name="Scarponnois" # = ou maison comtes de Ferrette, Montbéliard, Sundgau, Verdun, Bar
+	name="de Scarpone" # = ou maison comtes de Ferrette, Montbéliard, Sundgau, Verdun, Bar
 	culture = "frankish"
 	religion="catholic"
 	coat_of_arms = {	template = 0	layer = {	texture = 5	texture_internal = 61	emblem = 0	color = 0	color = 0	color = 0	}	}
@@ -3284,7 +3284,7 @@
 	culture ="andalusian_arabic"
 }
 570 = {
-	name="Dhunnúniyún"
+	name="Banú Dhi l-Nún" #Dhunnúniyún"
 	culture ="andalusian_arabic"
 }
 571 = {
@@ -3296,7 +3296,7 @@
 	culture ="andalusian_arabic"
 }
 573 = {
-	name="Aftasiyún"
+	name="Banú-l-Aftas" #Aftasiyún Aftasides 
 	culture ="andalusian_arabic"
 }
 574 = {
@@ -3304,7 +3304,7 @@
 	culture ="bedouin_arabic"
 }
 575 = {
-	name="Hammadiyún"
+	name="Banú Hammad" #Hammadiyún Hammadides
 	culture ="maghreb_arabic"
 }
 576 = {
@@ -3360,7 +3360,7 @@
 	culture ="levantine_arabic"
 }
 589 = {
-	name="Fatimiyún"
+	name="al-Fatimiyyún"
 	culture ="maghreb_arabic"
 }
 590 = {
@@ -3404,7 +3404,7 @@
 	culture ="maghreb_arabic"
 }
 597 = {
-	name="Umawiyyún"
+	name="al-Umawiyyún" #almohades
 	culture ="egyptian_arabic"
 	religion="sunni"
 	forced_coa_religiongroup = "muslim"
@@ -3772,6 +3772,7 @@
 664 = {
 	name="Etichonen"
 	culture ="german"
+	coat_of_arms = {	template = 0	layer = {	texture = 5	texture_internal = 129	emblem = 0	color = 0	color = 0	color = 0	}	}
 }
 665 = {
 	name="von Franken"
@@ -4456,7 +4457,7 @@
 	used_for_random = no
 }
 791 = {
-	name = "Ghuriyán"
+	name = "Ál-e-Shansab" #Ghuriyán Ghurides
 	culture = "persian"
 }
 792 = {
@@ -4531,11 +4532,11 @@
 	culture ="italian"
 }
 804 = {
-	name="Radelchis"
+	name="Radelchis" #de benevento ?
 	culture ="italian"
 }
 805 = {
-	name="Siconulf"
+	name="Siconulf" #de salerno ?
 	culture ="italian"
 }
 806 = {
@@ -4559,7 +4560,7 @@
 	culture = "persian"
 }
 811 = {
-	name="Taheriyán"
+	name="Ál-e-Taher" #Taheriyán Tahirid
 	culture = "persian"
 }
 812 = {
@@ -8621,6 +8622,7 @@ used_for_random = no
 7287 = {
 	name="de Montfaucon"
 	culture = "frankish"
+	coat_of_arms = {	template = 0	layer = {	texture = 5	texture_internal = 128	emblem = 0	color = 0	color = 0	color = 0	}	}
 }
 7288 = {
 	name="von Wartenberg"
@@ -8784,11 +8786,11 @@ used_for_random = no
 	culture = "persian"
 }
 7330 = {
-	name="Kartiyán"
+	name="Ál-e-Kart" #Kartiyán Kartides
 	culture = "persian"
 }
 7331 = {
-	name="Bavandiyán"
+	name="Ál-e-Bavand" #Bavandiyán Bavandides
 	culture = "persian"
 }
 7332 = {
@@ -8804,7 +8806,7 @@ used_for_random = no
 	culture = "turkish"
 }
 7335 = {
-	name="Salaghuriyún"
+	name="Salghurlar" #Salaghuriyún Salgurids
 	culture = "turkish"
 }
 7336 = {
@@ -11703,9 +11705,9 @@ used_for_random = no
 	culture ="german"
 }
 12451 = {
-	name="von Pfirt"
+	name="von Pfirt" #used in vanilla only for one hypothetical Hildegard de Ferrete ID1327 probably unrelated to Ferrette/Scarpone
 	culture ="german"
-	coat_of_arms = {	template = 0	layer = {	texture = 14	texture_internal = 70	emblem = 0	color = 0	color = 0	color = 0	}	}
+	#coat_of_arms = {	template = 0	layer = {	texture = 14	texture_internal = 70	emblem = 0	color = 0	color = 0	color = 0	}	}
 }
 12452 = {
 	name="von Löwenstein"
@@ -20777,7 +20779,7 @@ used_for_random = no
 	culture ="greek"
 }
 101684 = {
-	name="Banu Jamal"
+	name="Banú Jamal"
 	culture ="bedouin_arabic"
 }
 101685 = {
@@ -20793,11 +20795,11 @@ used_for_random = no
 	culture = "turkish"
 }
 101688 = {
-	name="Annaziyán"
+	name="Banú Annaz" #Annaziyán Annazides
 	culture = kurdish
 }
 101689 = {
-	name="Ziyariyán"
+	name="Ál-e-Ziyar" #Ziyariyán Ziyarides
 	culture = persian
 }
 101690 = {

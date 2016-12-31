@@ -1,4 +1,4 @@
-CHRONICLE_OF_HOUSE;The Chronicle of the glorious \nHouse [GetOnlyDynastyName];Les Chroniques de la glorieuse \nMaison [GetOnlyDynastyName];Die Chronik des \nHauses [GetOnlyDynastyName];;La CrÃ³nica de la \nCasa de [GetOnlyDynastyName];;;;;;;;;x;;
+CHRONICLE_OF_HOUSE;The Chronicle of the glorious \nHouse [GetOnlyDynastyName];Les Chroniques de la glorieuse \nMaison [GetOnlyDynastyName];Die Chronik des \nHauses [GetOnlyDynastyName];;La Crónica de la \nCasa de [GetOnlyDynastyName];;;;;;;;;x;;
 Cultureee ;Culture ;Culture ;Kulture ;;Cultura ;;;;;;;;;x
 Religionee ;Religion ;Religion ;;;Religion ;;;;;;;;;x
 CHARVIEW_TITLES;Titles;Titres;Titel;;Titulos:;;;;;;;;;x
@@ -32,6 +32,8 @@ DUCAL;Ducal;Les;
 ROYAL;Royal;Les;
 IMPERIAL;Imperial;Les;
 LAWS;Laws;lois;
+ZeusDLC;Conclave;Conclave;;;;;;;;;;;x
+ConclaveDLC;Conclave;Conclave;Konklave;;Cónclave;;;;;;;;;x
 MINOR_TITLES;Minor Titles;Titres mineurs;
 HT_SHOW_HONORARY_TITLES;Show Honorary Titles;Afficher les titres honorifiques;
 HT_SHOW_COMMANDERS;Show Commanders;Afficher les commandants;

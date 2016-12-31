@@ -814,7 +814,12 @@ guiTypes = {
 			format = left
 		}
 		
-	
+#		iconType = {
+#			name ="portrait_fond_deco"
+#			spriteType ="GFX_portrait_frame_deco"
+#			position = { x= 385 y = -6 }
+#		}
+		
 		guiButtonType =
 		{
 			name ="portrait"
@@ -823,14 +828,7 @@ guiTypes = {
 			pdx_tooltip = "CHARACTER_TOOLTIP"
 			pdx_tooltip_delayed = "CHARACTER_TOOLTIP_DELAYED"
 		}
-#		iconType = {
-#			name ="portrait_frame_deco"
-#			spriteType ="GFX_charframe_50_chronicle"
-#			position = { x= 385 y = -6 }
-			#pdx_tooltip = "CHARACTER_TOOLTIP"
-			#pdx_tooltip_delayed = "CHARACTER_TOOLTIP_DELAYED"
-#		}
-		
+
 		guiButtonType =
 		{
 			name ="portrait_frame"
@@ -886,7 +884,7 @@ guiTypes = {
 	}
 	positionType = {
 		name = "after_picture_offset"
-		position = { x = 0 y = 13 }
+		position = { x = 0 y = 23 }
 	}
 	positionType = {
 		name = "after_portrait_offset"

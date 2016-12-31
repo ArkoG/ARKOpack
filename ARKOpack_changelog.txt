@@ -7,6 +7,34 @@ CURRENT DEV/BETA : v2.6.x
 
 see included readme's for details
 
+
+--2016-12-31 changelog--- 
+
+ARMOIRIES :
+-re-adds some reworked vanilla 2 colours CoA designs for Zoroastrian group (save compatible)
+-redrawn CoA for dynasty "de Scarpone"
+-added dynastic CoA for "de Montfaucon" "Etichonen"
+-added title CoA for county level Bar/Briesgau/Wurttemberg/Baden/Ostereich
+-redrawn title CoA for duchy level Baden/Ostereich
+-added baronial CoAs for Montbéliard/Ferrette/Pont-à-Mousson
+
+INTERFACE :
+-charview // adds a larger glowing area around realm_tree ring icon
+-outliner // fixed wrong position for income values
+-outliner // various position tweaks
+-unitpanel // adjusted its position to resolve the window clash that could happen with province view
+-chronicle // tweaked illustrations positions
+-frontend // removed DLC alert frame
+-customizer // changed CoA designer backgrounds (muslim+christian)
+-outliner // fixed outliner not displaying modded files for non christians
+-outliner // fixed config tab size for non christians
+-outliner // made muslim coloured borders
+-outliner // made indian coloured borders
+-customizer // adjusted CoA frame position
+-outliner // removed some unused files
+-charview // tweaks on christian and pagan versions
+
+
 --2016-11-17 changelog--- 
 
 ARMOIRIES :

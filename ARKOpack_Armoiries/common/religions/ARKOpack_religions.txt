@@ -1,4 +1,4 @@
-pagan_group = { #gives random CoA to pagan religions #donne des armes alÃ©atoires aux paÃ¯ens
+pagan_group = { #gives random CoA to pagan religions #donne des armes aléatoires aux païens
 	has_coa_on_barony_only = no
 	pagan = { graphical_culture = africangfx }
 }

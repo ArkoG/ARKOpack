@@ -1,10 +1,10 @@
-Ôªø################################
+################################
 # Armoiries ArkoPack par ARKO
 #
 # Baronnies
 ################################
 
-marquage par "*" = derni√®res nouveaut√©s (latest additions)
+marquage par "*" = derniËres nouveautÈs (latest additions)
 
 01-*
 02-*
@@ -13,7 +13,7 @@ marquage par "*" = derni√®res nouveaut√©s (latest additions)
 05-*
 06-*
 07-*
-
+-
 ###c_bugey
 00-INDEX couleurs
 
@@ -65,33 +65,33 @@ marquage par "*" = derni√®res nouveaut√©s (latest additions)
 38-
 39-
 
--62-Saint-Maurice*
+-62-Saint-Maurice
 
--71-Chateau l'Emperi*
--72-Salon de Provence*
+-71-Chateau l'Emperi
+-72-Salon de Provence
 
 -81-Marseille
--82-Grimaud*
+-82-Grimaud
 
 83-*
 84-*
 85-*
 
--90-Forcalquier*
--91-Digne*
+-90-Forcalquier
+-91-Digne
 
--93-Sault*
+-93-Sault
 
--101-Grasse *
--102-Barcelonette*
+-101-Grasse 
+-102-Barcelonette
 
--114-Venasque*
+-114-Venasque
 
 -119-Gigondas
 
--141-Gap*
+-141-Gap
 
--170-Basel capital*
+-170-Basel capital
 -171-Basel second settlement*
 -172-Basel second settlement*
 -173-Basel second settlement*
@@ -102,14 +102,18 @@ marquage par "*" = derni√®res nouveaut√©s (latest additions)
 ###c_varais
 200-*
 201-*
--202-Poligny*
--203-Salins*
--204-Clairvaux*
--205-Saint Oyand*
+-202-Poligny
+-203-Salins
+-204-Clairvaux
+-205-Saint Oyand
 
 ###c_besancon
--210-Besan√ßon*
--211-Saint-Ferjeux*
+-210-BesanÁon
+-211-Saint-Ferjeux (archidiocËse de BesanÁon)
 
+-220-Montbeliard*
+-221-Ferrette*
+-222-Pont-‡-Mousson*
+-223-Montfaucon (LCDA only)
 
 
