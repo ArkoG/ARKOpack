@@ -56,11 +56,11 @@ guiTypes = {
 		}
 
 		##### TOP PART.
-
+		###large
 		iconType =
 		{
 			name ="unitpanel_bg"
-			spriteType = "GFX_unitpanel_bg_top"
+			spriteType = "GFX_unitpanel_bg_top" 
 			position = { x= -3 y = 4 }
 			Orientation = "UPPER_LEFT"
 		}
@@ -269,7 +269,7 @@ guiTypes = {
 		}
 
 		##### TOP PART.
-
+		###short
 		iconType =
 		{
 			name ="unitpanel_bg"
@@ -439,16 +439,16 @@ guiTypes = {
 		fullScreen = no	
 
 
-		iconType =
+		iconType = ###HEADER
 		{
 			name ="multiselect_bg"
 			spriteType = "GFX_unitpanel_multi_bg_short"
-			position = { x= -2 y = 1 }
+			position = { x= -37 y = 1 }
 			Orientation = "UPPER_LEFT"
 		}
 		instantTextBoxType = {
 			name = "desc"
-			position = { x = 13	 y = 13 }
+			position = { x = 8	 y = 13 }
 			textureFile = ""
 			font = "vic_18"
 			borderSize = {x = 0 y = 0}
@@ -458,7 +458,7 @@ guiTypes = {
 		}
 		instantTextBoxType = {
 			name = "count"
-			position = { x = 95 y = 13 }
+			position = { x = 97 y = 13 }
 			textureFile = ""
 			font = "vic_18"
 			borderSize = {x = 0 y = 0}
@@ -470,7 +470,7 @@ guiTypes = {
 
 		guiButtonType = {
 			name = "dibandallbutton"
-			position = { x = 162 y = 11 }
+			position = { x = 167 y = 11 }
 			quadTextureSprite ="GFX_unitpanel_button_disband"
 			clicksound = generic_click_01
 			shortcut = "X"
@@ -478,7 +478,7 @@ guiTypes = {
 
 		guiButtonType = {
 				name = "mergebutton"
-				position = { x = 192 y = 9 }
+				position = { x = 197 y = 9 }
 				quadTextureSprite ="GFX_unitpanel_multi_merge"
 				clicksound = generic_click_01
 				priority_shortcut = "g"
@@ -487,14 +487,14 @@ guiTypes = {
 
 		guiButtonType = {
 				name = "reorganizebutton"
-				position = { x = 222 y = 9 }
+				position = { x = 227 y = 9 }
 				quadTextureSprite ="GFX_unitpanel_multi_reorg"
 				clicksound = generic_click_01
 				shortcut = "b"
 			}
 		guiButtonType = {
 				name = "close_all_button"
-				position = { x = 252 y = 9 }
+				position = { x = 257 y = 9 }
 				quadTextureSprite ="GFX_unitpanel_multi_close"
 		}
 	}
@@ -548,7 +548,7 @@ guiTypes = {
 	windowType = {
 		name = "single_unitpanel"
 		backGround=""
-		position = { x=0 y=228 }	
+		position = { x=0 y=232 }	
 		size = { x=400 y=100 }
 		moveable = 0
 		dontRender = ""
@@ -1341,7 +1341,7 @@ guiTypes = {
 	windowType = {
 		name = "reorg_window"
 		backGround=""
-		position = { x= 0 y= 228 }	
+		position = { x= 0 y= 258 }	
 		size = { x=400 y=100 }
 		moveable = 0
 		dontRender = ""
@@ -3187,27 +3187,28 @@ guiTypes = {
 
 	positionType = {
 		name = "unitlist_start"
-		position = { x = 0 y =160 }
+		position = { x = 0 y =175 } ###A +30x
 	}
 	
 	positionType = {
 		name = "unitlist_offset"
-		position = { x = 0 y =62 }
+		#position = { x = 0 y =62 }
+		position = { x = 0 y =61 }
 	}
 	
 	positionType = {
-		name = "right_unitlist_start"
-		position = { x = 700 y =-629 } # From bottom
+		name = "right_unitlist_start" #when besieging // for multiple unmergeable armies
+		position = { x = 0 y =-905 } # From bottom
 	}
 	
-	positionType = {
+	positionType = { ###A
 		name = "normal_multi_unitpanel"
-		position = { x=0 y= 129 }
+		position = { x=34 y= 145 }   #armees multiples TITRE/merger
 	}
 	
 	positionType = {
-		name = "right_multi_unitpanel"
-		position = { x = 700 y =-600 } # From bottom
+		name = "right_multi_unitpanel" #armees multiples TITRE/merger for unmergeable armies (hidden)
+		position = { x =34 y =-935 } # From bottom
 	}
 	
 	positionType = {
