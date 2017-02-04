@@ -7,6 +7,35 @@ CURRENT DEV/BETA : v2.6.x
 
 see included readme's for details
 
+--2017-01-xx DEV changelog---
+ARMOIRIES :
+-###-re-adds some reworked vanilla 3 colours CoA designs for Zoroastrian group (not save compatible)
+-(SWMH) redrawn title CoA for duchy level Bar/Basel
+-(SWMH) redrawn title CoA for county level Bar/Basel/Zollern/Kuenring/Mousson/Montbéliard
+
+INTERFACE :
+-added some embellishments to familial tree
+-added proper wooden borders to pagans' outliner
+-added unique design for muslims and pagans province view
+-fixed besieging army tab position (stuck to left border now)
+-added some fluff to unitpanels
+-fixed some religion dependant interface files not displaying correctly
+-various sneaky one pixel position adjusting here and there ;)
+-deleted some unecessary file files -either not required anymore or pure optimization- 
+-reworked crown focus icon (colourfull instead of greyish)
+-reworked garrison/levy bar background, adjusted its position where needed
+-new design for muslim siege tab (reworked the colour scheme) 
+-fixed some issues with province backgrounds
+-reworked tech progression bar graphics (uncomplete boxes have a faded colour that brightens on progression)
+-
+-
+-
+-
+-
+
+(rules view)
+(succession view)
+
 
 --2016-12-31 changelog--- 
 
