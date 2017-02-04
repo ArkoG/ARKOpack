@@ -15,11 +15,11 @@ guiTypes = {
 		
 		iconType = {
 			name ="bg_province"
-			spriteType = "GFX_province_bg_arkopack"
+			spriteType = "GFX_province_bg"
 			position = { x= 0 y = 0 }
 			Orientation = "UPPER_LEFT"
 		}
-
+#que les lignes
 		iconType = {
 			name ="bg_parchemin"
 			spriteType = "GFX_trade_post_bg_arko"
@@ -526,7 +526,7 @@ guiTypes = {
 		windowType = {
 			name = "siege_window"
 			backGround=""
-			position = { x=236 y=-345 }	
+			position = { x=216 y=-345 }	
 			size = { x=444 y=151 }
 			moveable = 0
 			dontRender = ""
@@ -550,7 +550,7 @@ guiTypes = {
 			iconType = 
 			{
 				name ="siege_bg"
-				spriteType = "GFX_combat_siege_bg_arkopack"
+				spriteType = "GFX_combat_siege_bg"
 				position = { x= 0 y = 0 }
 				Orientation = "UPPER_LEFT"
 			}
@@ -949,14 +949,14 @@ guiTypes = {
 			
 			iconType = {
 				name ="bg_province_extended"
-				spriteType = "GFX_province_bg_extended_arkopack"
+				spriteType = "GFX_province_bg_extended"
 				position = { x= 0 y = -401 }
 				Orientation = "UPPER_LEFT"
 			}
 ### 2.6	addition
 			iconType = {
 				name ="bg_province_extended_reapers"
-				spriteType = "GFX_province_bg_extended_arkopack"
+				spriteType = "GFX_province_bg_extended"
 				position = { x= 0 y = -401 }
 				Orientation = "UPPER_LEFT"
 			}
@@ -1945,53 +1945,53 @@ guiTypes = {
 		iconType = {
 			name ="progress_bg1" #garrison bar #background
 			spriteType = "GFX_levy_progress_bg"
-			position = { x= 16 y = 105 } #y+6
+			position = { x= 16 y = 107 } #y+6
 			Orientation = "UPPER_LEFT"
 		}
 		iconType = {
 			name ="progress_bg2" #levy bar #background
 			spriteType = "GFX_levy_progress_bg"
-			position = { x= 70 y = 105 } #y+6
+			position = { x= 70 y = 107 } #y+6
 			Orientation = "UPPER_LEFT"
 		}
 		iconType = { #garrison bar
 			name ="garrison_size"
-			spriteType = "GFX_levyprogress_1"
-			position = { x= 19 y = 109 } #y+6
+			spriteType = "GFX_levyprogress_1" #blue on black
+			position = { x= 20 y = 112 } #y+6
 			Orientation = "UPPER_LEFT"
 		}
 
 		iconType = {
-			name ="levy_size" #levy bar
-			spriteType = "GFX_levyprogress_3"
-			position = { x= 74 y = 109 } #y+6
+			name ="levy_size" #levy bar1
+			spriteType = "GFX_levyprogress_3" #black on blue
+			position = { x= 74 y = 112 } #y+6
 			Orientation = "UPPER_LEFT"
 		}
 
 		iconType = {
-			name ="ourlevy_size" #levy bar
-			spriteType = "GFX_levyprogress_2"
-			position = { x= 74 y = 109 } #y+6
+			name ="ourlevy_size" #levy bar2 
+			spriteType = "GFX_levyprogress_2" #yellow
+			position = { x= 74 y = 112 } #y+6
 			Orientation = "UPPER_LEFT"
 		}
 		
 		iconType = {
-			name = "garrison_icon" #garrison bar
+			name = "garrison_icon" # icon garrison near bar
 			spriteType = "GFX_combat_siege_end_garrison"
-			position = { x= 1 y = 100 } #y+7
+			position = { x= 1 y = 103 } #y+7
 			Orientation = "UPPER_LEFT"
 		}
 		iconType = { 
-			name = "levy_icon" #levy bar
+			name = "levy_icon" # icon levy near bar
 			spriteType = "GFX_combat_siege_end_levy"
-			position = { x= 52 y = 99 } #y+7
+			position = { x= 55 y = 102 } #y+7
 			Orientation = "UPPER_LEFT"
 		}
 		
 		OverlappingElementsBoxType = { #settlement modifier
 			name = "modifiers"
 			position = { x = 10 y = 78 } #ex y=66
-			size = { x = 70 y = 118 }
+			size = { x = 70 y = 140 }
 			format = left
 			spacing = 0
 			Orientation = "UPPER_LEFT"
@@ -2075,53 +2075,53 @@ guiTypes = {
 		iconType = {
 			name ="progress_bg1"
 			spriteType = "GFX_levy_progress_bg"
-			position = { x= 24 y = 118 }
+			position = { x= 24 y = 119 }
 			Orientation = "UPPER_LEFT"
 		}
 		iconType = {
 			name ="progress_bg2"
 			spriteType = "GFX_levy_progress_bg"
-			position = { x= 81 y = 118 }
+			position = { x= 81 y = 119 }
 			Orientation = "UPPER_LEFT"
 		}
 		iconType = {
 			name ="garrison_size"
 			spriteType = "GFX_levyprogress_1"
-			position = { x= 28 y = 123 }
+			position = { x= 28 y = 124 }
 			Orientation = "UPPER_LEFT"
 		}
 
 		iconType = {
 			name ="levy_size"
 			spriteType = "GFX_levyprogress_3"
-			position = { x= 85 y = 123 }
+			position = { x= 85 y = 124 }
 			Orientation = "UPPER_LEFT"
 		}
 
 		iconType = {
 			name ="ourlevy_size"
 			spriteType = "GFX_levyprogress_2"
-			position = { x= 85 y = 123 }
+			position = { x= 85 y = 124 }
 			Orientation = "UPPER_LEFT"
 		}
 		
 		iconType = {
 			name = "garrison_icon"
 			spriteType = "GFX_combat_siege_end_garrison"
-			position = { x= 9 y = 114 }
+			position = { x= 9 y = 115 }
 			Orientation = "UPPER_LEFT"
 		}
 		iconType = {
 			name = "levy_icon"
 			spriteType = "GFX_combat_siege_end_levy"
-			position = { x= 64 y = 113 }
+			position = { x= 66 y = 114 }
 			Orientation = "UPPER_LEFT"
 		}
 		
 		OverlappingElementsBoxType = {
 			name = "modifiers"
 			position = { x = 18 y = 86 }
-			size = { x = 70 y = 118 }
+			size = { x = 70 y = 140 }
 			format = left
 			spacing = 0
 			Orientation = "UPPER_LEFT"

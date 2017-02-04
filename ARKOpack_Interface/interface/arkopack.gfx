@@ -17,10 +17,10 @@ spriteTypes = {
 		name = "GFX_ironman_revolt_icone"
 		texturefile = "gfx\\interface\\ironman_revolt_icon.dds"
 	}
-	spriteType = {
-		name = "GFX_trade_post_bg_notbuilt_arko"
-		texturefile = "gfx\\interface\\trade_post_bg_notbuilt.dds"
-	}
+#	spriteType = {
+#		name = "GFX_trade_post_bg_notbuilt_arko"
+#		texturefile = "gfx\\interface\\trade_post_bg_notbuilt.dds"
+#	}
 	spriteType = {
 		name = "GFX_decadence_revolt_label"
 		texturefile = "gfx\\interface\\decadence_revolt_label.dds"
@@ -136,15 +136,21 @@ spriteTypes = {
 	}
 	
    ###PROVINCE VIEW
-	spriteType = {
-		name = "GFX_province_bg_arkopack"
-		texturefile = "gfx\\interface\\province_bg_arkopack.tga"
-	}  
-	spriteType = {
-		name = "GFX_province_bg_extended_arkopack"
-		texturefile = "gfx\\interface\\province_bg_extended_arkopack.tga"
+ 	spriteType = {
+		name = "GFX_province_bg_extended"
+		texturefile = "gfx\\interface\\province_bg_extended.tga"
 		transparencecheck = yes
-	}	
+	}
+   
+#	spriteType = {
+#		name = "GFX_province_bg_arkopack"
+#		texturefile = "gfx\\interface\\province_bg_arkopack.tga"
+#	}  
+#	spriteType = {
+#		name = "GFX_province_bg_extended_arkopack"
+#		texturefile = "gfx\\interface\\province_bg_extended_arkopack.tga"
+#		transparencecheck = yes
+#	}	
 	spriteType = {
 		name = "GFX_province_extend_arkopack"
 		texturefile = "gfx\\interface\\province_extend_button_arkopack.dds"
@@ -173,6 +179,11 @@ spriteTypes = {
 		name = "GFX_province_settlement_frame_turkishgfx" #mongolstyle
 		texturefile = "gfx\\interface\\province_settlement_frame_turkishgfx.tga"
 	}
+###RULES Tab
+	spriteType = {
+		name = "GFX_game_rules_divider_arkopack"
+		texturefile = "gfx/interface/rule_divider_arkopack.dds"
+	}
 	
 	###SIEGE VIEW
 	progressbartype = {
@@ -181,7 +192,7 @@ spriteTypes = {
 		colortwo = { 1.0 0.0 0.0 }
 		textureFile1 = "gfx\\interface\\combat_siege_morale1.dds"
 		textureFile2 = "gfx\\interface\\combat_siege_morale2.dds"
-		size = { x = 121 y = 20 }
+		size = { x = 121 y = 21 }
 		effectFile = "gfx/FX/progress.lua"
 	}
 	progressbartype = {
@@ -190,7 +201,7 @@ spriteTypes = {
 		colortwo = { 1.0 0.0 0.0 }
 		textureFile1 = "gfx\\interface\\combat_siege_morale3.dds"
 		textureFile2 = "gfx\\interface\\combat_siege_morale2.dds"
-		size = { x = 121 y = 20 }
+		size = { x = 121 y = 21 }
 		effectFile = "gfx/FX/progress.lua"
 	}
 	spriteType = {
@@ -211,11 +222,11 @@ spriteTypes = {
 		name = "GFX_province_toggle_siege_arkopack"
 		texturefile = "gfx\\interface\\province_toggle_siege_arkopack.dds"
 	}
-	spriteType = {
-		name = "GFX_combat_siege_bg_arkopack"	
-		texturefile = "gfx\\interface\\combat_siege_bg_arkopack.dds"
-		transparencecheck = yes
-	}
+#	spriteType = {
+#		name = "GFX_combat_siege_bg_arkopack"	
+#		texturefile = "gfx\\interface\\combat_siege_bg_arkopack.dds"
+#		transparencecheck = yes
+#	}
 	
 ###BUILD NEW VIEW
 	spriteType = {
@@ -427,5 +438,11 @@ spriteTypes = {
 		texturefile = "gfx\\event_pictures\\battle_scene_muslims.tga"
 		allwaystransparent = yes
 	}
-}
 
+
+###GENERAL STUFF
+	textSpriteType = {
+		name = "GFX_big_button_220_intense"
+		texturefile = "gfx\\interface\\big_button_220_intense.tga"
+	}
+}

@@ -213,7 +213,7 @@ guiTypes = {
 		guiButtonType = {
 			name ="prev_province"
 			quadTextureSprite = "GFX_buildview_prev"
-			position = { x= 13 y =120 }
+			position = { x= 13 y =121 }
 			shortcut = "<"
 			pdx_tooltip = "PREV_PROVINCE"
 			clicksound = generic_click_04
@@ -222,7 +222,7 @@ guiTypes = {
 		guiButtonType = {
 			name ="next_province"
 			quadTextureSprite = "GFX_buildview_next"
-			position = { x= 87 y = 120 }
+			position = { x= 87 y = 121 }
 			shortcut = ">"
 			pdx_tooltip = "NEXT_PROVINCE"
 			clicksound = generic_click_04
