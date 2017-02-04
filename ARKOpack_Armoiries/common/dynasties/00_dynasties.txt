@@ -22832,7 +22832,8 @@ used_for_random = no
 	culture ="maghreb_arabic"
 }
 1027002 = {
-	name="Ya'liyún"
+	name="Banu Ya'la"
+	#name="Ya'liyún"
 	culture ="maghreb_arabic"
 }
 1027003 = {
