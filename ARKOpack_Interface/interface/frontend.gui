@@ -430,7 +430,7 @@ guiTypes = {
 		iconType ={
 			name ="selected"
 			spriteType = "GFX_pick_era_selected_char"
-			position = { x= -16 y =-17 }
+			position = { x= -16 y =-20 }
 		}
 		guiButtonType = {
 			position = { x= -32 y = 31 }
@@ -441,7 +441,7 @@ guiTypes = {
 		guiButtonType = {
 			name ="portrait"
 			quadTextureSprite = "GFX_char_100"
-			position = { x= 0 y = 0 }
+			position = { x= 0 y = -3 }
 			Orientation = "UPPER_LEFT"
 			pdx_tooltip = "CHARACTER_TOOLTIP"
 			pdx_tooltip_delayed = "CHARACTER_TOOLTIP_DELAYED"
@@ -449,19 +449,19 @@ guiTypes = {
 		guiButtonType ={
 			name = "portrait_frame"
 			quadTextureSprite = "GFX_charframe_100"
-			position = { x= -8 y = -9 }
+			position = { x= -8 y = -12 }
 			Orientation = "UPPER_LEFT"
 		}
 		
 		iconType ={
 			name ="name_bg"
 			spriteType = "GFX_pick_era_portrait_banner"
-			position = { x= -30 y =80 }
+			position = { x= -30 y =87 }
 		}
 		
 		instantTextBoxType = {
 			name = "name"
-			position = { x=-4 y=95 }
+			position = { x=-4 y=102 }
 			font = "vic_18_black"
 			text = ""
 			maxWidth = 105
