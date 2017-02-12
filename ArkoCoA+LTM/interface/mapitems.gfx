@@ -15,7 +15,7 @@ objectTypes = {
 	}
 
 	EMFXActorType = {
-		name = "disease_gfx_smoke"
+		name = "disease_smoke"
 		actorfile = "gfx\models\Mapindicators\disease.xac"
 		
 		animation = {
