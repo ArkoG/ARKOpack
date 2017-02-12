@@ -455,7 +455,7 @@ guiTypes = {
 		
 		iconType = {
 			name ="buildview_not_active_icon"
-			spriteType = "GFX_buildview_not_active_icon"
+			spriteType = "GFX_buildview_not_active_icon_arkopack"
 #			position = { x= 397 y = 6 }
 			position = { x= -2 y = 0 }
 		}		

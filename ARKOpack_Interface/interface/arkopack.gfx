@@ -6,9 +6,6 @@ spriteTypes = {
 		name = "GFX_cancel_ambition_arkopack"
 		texturefile = "gfx\\interface\\cancel_ambition_arkopack.tga"
 	}
-
-	
-	
 	spriteType = {
 		name = "GFX_charview_goto_dynasty_vide"
 		texturefile = "gfx\\interface\\charview_goto_dynasty_vide.dds"
@@ -80,7 +77,7 @@ spriteTypes = {
 		size = { x = 53 y = 18 }
 		effectFile = "gfx/FX/progress.lua"
 	}
-    ###OUTLINER
+###OUTLINER
 	spriteType = {
 		name = "GFX_outliner_top"	
 		texturefile = "gfx\\interface\\outliner_top.tga"
@@ -135,7 +132,7 @@ spriteTypes = {
 		effectFile = "gfx/FX/progress.lua"
 	}
 	
-   ###PROVINCE VIEW
+###PROVINCE VIEW
  	spriteType = {
 		name = "GFX_province_bg_extended"
 		texturefile = "gfx\\interface\\province_bg_extended.tga"
@@ -183,9 +180,18 @@ spriteTypes = {
 	spriteType = {
 		name = "GFX_game_rules_divider_arkopack"
 		texturefile = "gfx/interface/rule_divider_arkopack.dds"
+		allwaystransparent = yes
+	}
+	spriteType = {
+		name = "GFX_game_rules_bg_button_overlay_arkopack1"
+		texturefile = "gfx/interface/rule_bg_button_overlay_arko1.dds"
+	}
+	spriteType = {
+		name = "GFX_game_rules_bg_button_overlay_arkopack2"
+		texturefile = "gfx/interface/rule_bg_button_overlay_arko2.dds"
 	}
 	
-	###SIEGE VIEW
+###SIEGE VIEW
 	progressbartype = {
 		name = "GFX_combat_siege_morale_att"
 		color = { 0.0 0.5 0.0 }
@@ -291,7 +297,7 @@ spriteTypes = {
 		clicksound = generic_click_04
 	}
 	
-### CHRONIQUE
+###CHRONIQUE
 	spriteType = {
 		name = "GFX_chronicle_label_ARKO"
 		texturefile = "gfx\\interface\\chronicle_divider_ARKO.dds"
@@ -438,7 +444,13 @@ spriteTypes = {
 		texturefile = "gfx\\event_pictures\\battle_scene_muslims.tga"
 		allwaystransparent = yes
 	}
-
+###BUILDVIEW
+	spriteType = {
+		name = "GFX_buildview_not_active_icon_arkopack"
+		texturefile = "gfx\\interface\\buildview_not_active_icon_arkopack.dds"
+		noOfFrames = 2
+		allwaystransparent = yes
+	}
 
 ###GENERAL STUFF
 	textSpriteType = {
