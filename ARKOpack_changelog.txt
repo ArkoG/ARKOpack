@@ -30,11 +30,8 @@ INTERFACE :
 -era_screen // character portrait position is adjusted so it is less by the name's banner 
 -endgame_screen // new design
 -build_building view // fixed a transparency issue
--
--
-
-(rules view)
-(succession view)
+-rules_view // new design displaying more rules at once
+-succession view // reworked design
 
 
 --2016-12-31 changelog--- 
