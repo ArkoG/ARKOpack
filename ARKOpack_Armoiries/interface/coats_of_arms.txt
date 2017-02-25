@@ -717,8 +717,8 @@ culture =
 }
 
 culture =
-{ #customizer
-	religion_group = "customizer"
+{ #christians
+	religion_group = "customizer_christian"
 
 	templates = { 
 		"coa_plain:1" 			#plain
@@ -827,5 +827,166 @@ culture =
 			random = yes
 		}
 		# WHEN ADDING NEW, ALWAYS ADD AT THE END !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!11111
+	}
+}
+
+culture =
+{ #muslim
+	religion_group = "customizer_muslim"
+
+	templates = { 
+		"coa_plain_muslim:1"
+		#"coa_party_per_fess:2"
+		#"coa_party_per_pale:2"
+		#"coa_party_per_cross:4"
+		#"coa_party_triangle:3"
+	}
+
+	color = {
+		{ 220 200 0 }	#0 		Or d'Orient
+		{ 20 20 20 } 	#1 		Sable
+		{ 100 150 250 } #2 		Bleu Céleste
+		{ 40 180 40 } 	#3 		Vert Sunnite
+		{ 20 20 20 }	#4 		Sable
+		{ 70 120 40 } 	#5 		Vert Shiite
+		{ 150 0 30 }	#6 		Rose
+		{ 150 0 30 } 	#7 		Sanguine
+		{ 200 80 0 }	#8 		Tanné
+		{ 0 86 250 }	#9 		Azur Céleste
+		{ 130 0 40 }	#10 	Mûre
+		{ 100 150 250 }		# 11	Bleu Céleste bis
+		{ 208 208 208 }		# 12	Argent
+	}
+	
+	rebel_colors = { 0 1 3 }
+	
+	banned_colors = 
+	{
+		{ 0 3 6 8 12 7 }			#0
+		{ 1 4 }						#1
+		{ 2 3 6 8 9 7 11 }			#2
+		{ 3 0 2 5 6 8 9 7 }			#3
+		{ 4 1 }						#4
+		{ 5 3 8 9 }					#5
+		{ 6 0  2 3 7 8 10 } 		#6
+		{ 7 6 8 9 10 }				#7
+		{ 8 0 2 3 5 6 7 }			#8
+		{ 9 2 3 5 7 6 }				#9	
+		{ 10 6 7 }					#10
+		{ 2 3 6 8 9 7 11 }			#11
+		{ 0 6 12 }					#12
+	}
+
+	emblem = {
+		file = "gfx\\coats_of_arms\\Arko_emblem_cust_MUSLIM.dds"
+		noOfFrames = 16
+	}
+
+	# WHEN ADDING NEW, ALWAYS ADD AT THE END
+	textures = {
+		texture = {
+			file = "gfx\\coats_of_arms\\Muslim_ARKOpack_Pattern.tga"
+			size = { x = 10 y = 5 }
+			noOfFrames = 49
+			color = 3
+			emblem = no
+		}
+		texture = {
+			file = "gfx\\coats_of_arms\\Muslim_ARKOpack_Titles.tga" #texture = 1 
+			size = { x = 10 y = 1 }
+			noOfFrames = 10
+			color = 0
+			emblem = no
+			#random = no # Do not use for random CoAs
+		}
+	}
+}
+
+culture =
+{ #DLC
+	religion_group = "customizer_dlcfanbois"
+
+	templates = { 
+		"coa_plain:1" 			#plain
+		"coa_party_per_fess:2" 	#
+		"coa_party_per_pale:2" 	#
+		"coa_party_per_cross:4" #écartelé
+		"coa_party_triangle:3" 	#
+	}
+
+	color = {
+		{ 250 190 0 }	#0 		Or (ex 250 148 0)
+		{ 220 220 220 } #1  	Argent
+		{ 0 90 150 } 	#2  	Azur
+		{ 170 0 10 } 	#3  	Gueules 
+		{ 20 110 20 } 	#4  	Sinople
+		{ 20 20 20 }	#5  	Sable
+		{ 120 5 120 }	#6  	Pourpre
+		#{ 200 80 0 }	#ex7	Tanné		
+		{ 250 190 0 }	#7		Or
+		{ 210 210 210 } #8  	Argent
+		{ 0 90 150 } 	#9  	Azur
+		{ 170 0 10 } 	#10  	Gueules 
+		#{ 20 20 20 }	#11  	Sable
+}
+
+	rebel_colors = { 3 5 7 }
+
+	banned_colors = 
+	{ 
+		{ 0 1 7 8 }			#0		
+		{ 0 1 7 8 }			#1		
+		{ 2 3 4 6 9 10 }	#2		
+		{ 2 3 4 6 9 10 }	#3		
+		{ 2 3 4 6 9 10 }	#4		
+		{ 5 }				#5		
+		{ 2 3 6 9 10 }		#6		
+		#{ 0 3 6 7 10 }		#ex7	
+		{ 0 1 7 8 }			#7		
+		{ 0 1 7 8 }			#8		
+		{ 2 3 4 6 9 10 }	#9		
+		{ 2 3 4 6 9 10 }	#10	
+		#{ 5 11 }			#11			
+	}
+	
+	emblem = {
+		file = "gfx\\coats_of_arms\\Arko_emblem_cust.tga"
+		noOfFrames = 48
+	}
+
+	# WHEN ADDING NEW, ALWAYS ADD AT THE END !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!11111
+	textures = {
+		texture = {
+			file = "gfx\\coats_of_arms\\dynasties.tga" #DLC1
+			size = { x = 16 y = 4 }
+			noOfFrames = 51
+			color = 0
+		}
+		texture = {
+			file = "gfx\\coats_of_arms\\dynasties2.tga" #DLC2
+			size = { x = 16 y = 4 }
+			noOfFrames = 50
+			color = 0
+			emblem = no
+		}
+		texture = {
+			file = "gfx\\coats_of_arms\\dynasties3.tga" #DLC3
+			size = { x = 16 y = 4 }
+			noOfFrames = 51
+			color = 0
+			emblem = no
+		}
+		texture = {
+			file = "gfx\\coats_of_arms\\dynasties4.tga" #DLC4
+			size = { x = 16 y = 4 }
+			noOfFrames = 52
+			color = 0
+		}
+		texture = {
+			file = "gfx\\coats_of_arms\\patricians.tga" #patricians
+			size = { x = 16 y = 2 }
+			noOfFrames = 25
+			color = 0
+		}
 	}
 }
