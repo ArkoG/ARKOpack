@@ -212,7 +212,7 @@ guiTypes = {
 		##### Ally Order button & list
 		guiButtonType = {
 			name = "take_province_order_button"
-			position = { x = 311 y = 29 }
+			position = { x = 259 y = 0 }
 			spriteType ="GFX_ally_order_button"
 			clicksound = generic_click_01
 			alwaystransparent = no
