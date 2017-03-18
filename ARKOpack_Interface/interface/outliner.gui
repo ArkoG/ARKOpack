@@ -220,7 +220,7 @@ guiTypes = {
 				textureFile = ""
 				font = "Arial12_black"
 				borderSize = {x = 0 y = 0}
-				text = "Stockholm"	
+				text = "UI_MISSING_TEXT"	
 				maxWidth = 139
 				maxHeight = 16
 				fixedsize = yes
@@ -239,7 +239,7 @@ guiTypes = {
 			textureFile = ""
 			font = "Arial12_black_bidouille"
 			borderSize = {x = 0 y = 0}
-			text = "1234"	
+			text = "UI_MISSING_TEXT"	
 			maxWidth = 40
 			maxHeight = 16
 			format = left
@@ -257,7 +257,7 @@ guiTypes = {
 			textureFile = ""
 			font = "Arial12_black_bidouille"
 			borderSize = {x = 0 y = 0}
-			text = "34"	
+			text = "UI_MISSING_TEXT"	
 			maxWidth = 40
 			maxHeight = 16
 			format = left
@@ -276,7 +276,7 @@ guiTypes = {
 			#font = "Arial12"
 			font = "Arial12_black_bidouille"
 			borderSize = {x = 0 y = 0}
-			text = "1234"	
+			text = "UI_MISSING_TEXT"	
 			maxWidth = 40
 			maxHeight = 16
 			Orientation = "UPPER_LEFT"
@@ -322,7 +322,7 @@ guiTypes = {
 				textureFile = ""
 				font = "Arial12_black"
 				borderSize = {x = 0 y = 0}
-				text = "Stockholm"	
+				text = "UI_MISSING_TEXT"	
 				maxWidth = 185
 				maxHeight = 16
 				fixedsize = yes
@@ -341,7 +341,7 @@ guiTypes = {
 			textureFile = ""
 			font = "Arial12_black_bidouille"
 			borderSize = {x = 0 y = 0}
-			text = "1234"	
+			text = "UI_MISSING_TEXT"	
 			maxWidth = 40
 			maxHeight = 16
 			format = left
@@ -359,7 +359,7 @@ guiTypes = {
 			textureFile = ""
 			font = "Arial12_black_bidouille"
 			borderSize = {x = 0 y = 0}
-			text = "34"	
+			text = "UI_MISSING_TEXT"	
 			maxWidth = 40
 			maxHeight = 16
 			format = left
@@ -630,7 +630,7 @@ guiTypes = {
 				textureFile = ""
 				font = "Arial12_bold_black"
 				borderSize = {x = 0 y = 0}
-				text = "Marshal"	
+				text = "UI_MISSING_TEXT"	
 				maxWidth = 150
 				maxHeight = 16
 
@@ -677,7 +677,7 @@ guiTypes = {
 				textureFile = ""
 				font = "Arial12_black"
 				borderSize = {x = 0 y = 0}
-				text = "Marshal"	
+				text = "UI_MISSING_TEXT"	
 				maxWidth = 280
 				maxHeight = 16
 

@@ -190,7 +190,7 @@ guiTypes = {
 			textureFile = ""
 			font = "vic_22_black"
 			borderSize = {x = 0 y = 0}
-			text = "322"
+			text = "UI_MISSING_TEXT"
 			maxWidth = 100
 			maxHeight = 20
 			format = centre
@@ -319,7 +319,7 @@ guiTypes = {
 			textureFile = ""
 			font = "vic_22_black"
 			borderSize = {x = 0 y = 0}
-			text = "Some random guy"
+			text = "UI_MISSING_TEXT"
 			maxWidth = 157
 			maxHeight = 20
 			format = centre
@@ -514,7 +514,7 @@ guiTypes = {
 			textureFile = ""
 			font = "vic_22"
 			borderSize = {x = 0 y = 0}
-			text = "Holy Roman Empire"
+			text = "UI_MISSING_TEXT"
 			maxWidth = 435
 			maxHeight = 20
 			format = centre
@@ -568,7 +568,7 @@ guiTypes = {
 			textureFile = ""
 			font = "vic_22_black"
 			borderSize = {x = 0 y = 0}
-			text = "322"
+			text = "UI_MISSING_TEXT"
 			maxWidth = 100
 			maxHeight = 20
 			format = centre
@@ -580,7 +580,7 @@ guiTypes = {
 		iconType = {
 			name = "dynatree_shield_deco"
 			spriteType = "GFX_realmtree_shield_bg"
-			position = { x= 13 y = 51 }
+			position = { x= 13 y = 51 }#arkopack
 			Orientation = "UPPER_LEFT"
 		}
 		iconType = {
@@ -599,6 +599,26 @@ guiTypes = {
 	
 	
 	### positions
+	
+	positionType = {
+		name = "DynastyTree_ZoomedInCharacterOffset"
+		position = { x=90 y=110 }
+	}
+	
+	positionType = {
+		name = "DynastyTree_ZoomedOutCharacterOffset"
+		position = { x=45 y=62 }
+	}
+	
+	positionType = {
+		name = "DynastyTree_ZoomedInBranchOffset"
+		position = { x=-90 y=-53}
+	}
+	
+	positionType = {
+		name = "DynastyTree_ZoomedOutBranchOffset"
+		position = { x=-90 y=-26}		
+	}
 	
 	positionType = {
 		name = "DynastyTree_dynasty_tree_start"
@@ -1224,7 +1244,7 @@ guiTypes = {
 			textureFile = ""
 			font = "Arial12"
 			borderSize = {x = 0 y = 0}
-			text = "-30"
+			text = "UI_MISSING_TEXT"
 			maxWidth = 40
 			maxHeight = 18
 			fixedsize = yes
@@ -1237,7 +1257,7 @@ guiTypes = {
 			textureFile = ""
 			font = "Arial12"
 			borderSize = {x = 0 y = 0}
-			text = "3.7"
+			text = "UI_MISSING_TEXT"
 			maxWidth = 40
 			maxHeight = 18
 			fixedsize = yes
@@ -1250,7 +1270,7 @@ guiTypes = {
 			textureFile = ""
 			font = "Arial12"
 			borderSize = {x = 0 y = 0}
-			text = "30"
+			text = "UI_MISSING_TEXT"
 			maxWidth = 40
 			maxHeight = 18
 			fixedsize = yes
@@ -1269,7 +1289,7 @@ guiTypes = {
 			textureFile = ""
 			font = "Arial12"
 			borderSize = {x = 0 y = 0}
-			text = "-30"
+			text = "UI_MISSING_TEXT"
 			maxWidth = 28
 			maxHeight = 18
 			fixedsize = yes
@@ -1288,7 +1308,7 @@ guiTypes = {
 			textureFile = ""
 			font = "Arial12"
 			borderSize = {x = 0 y = 0}
-			text = "-30"
+			text = "UI_MISSING_TEXT"
 			maxWidth = 28
 			maxHeight = 18
 			fixedsize = yes

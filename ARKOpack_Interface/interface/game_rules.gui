@@ -72,7 +72,7 @@ guiTypes = {
 					position = { x=-10 y=12 }
 					font = "vic_22_black"
 					borderSize = {x=0 y=0}
-					text = "IRONMAN_MODE"	
+					text = "UI_MISSING_TEXT"	
 					format = centre
 					maxWidth = 300
 					maxHeight = 50	
@@ -96,11 +96,69 @@ guiTypes = {
 				position = { x=-10 y=12 }
 				font = "vic_22_black"
 				borderSize = {x=0 y=0}
-				text = "ACHIEVEMENT_STATUS"	
+				text = "UI_MISSING_TEXT"	
 				format = centre
 				maxWidth = 296
 				maxHeight = 50	
 			}
+		}
+		guiButtonType =	{
+			name = "filter_button"
+			position = { x=179 y=104 }
+			buttonFont = "vic_18"
+			quadTextureSprite ="GFX_rule_filter_dropdown"	
+		}
+		instantTextBoxType = {
+			position = { x=180 y =111 }
+			name = "filter_button_text"
+			font = "vic_18"
+			borderSize = {x = 0 y = 0}	
+			maxWidth = 174
+			maxHeight = 20
+			fixedsize = yes
+			text = "RULE_GROUP_ALL"
+			orientation = "UPPER_LEFT"
+			format = centre
+		}
+		
+		guiButtonType =	{
+			name = "save_button"
+			position = { x = 400 y = 617}
+			buttonFont = "vic_18"
+			quadTextureSprite = "GFX_save_dropdown"	
+		}
+		
+		guiButtonType =	{
+			name = "load_button"
+			position = { x = 560 y = 617}
+			buttonFont = "vic_18"
+			quadTextureSprite = "GFX_save_dropdown"	
+		}
+		
+		instantTextBoxType = {
+			position = { x= 404 y = 623 }
+			name = "save_button_text"
+			font = "vic_18"
+			borderSize = {x = 0 y = 0}	
+			maxWidth = 72
+			maxHeight = 20
+			fixedsize = yes
+			text = "SAVE_RULES"
+			orientation = "UPPER_LEFT"
+			format = centre
+		}
+		
+		instantTextBoxType = {
+			position = { x = 561 y = 623 }
+			name = "load_button_text"
+			font = "vic_18"
+			borderSize = { x = 0 y = 0 }	
+			maxWidth = 72
+			maxHeight = 20
+			fixedsize = yes
+			text = "LOAD_RULES"
+			orientation = "UPPER_LEFT"
+			format = centre
 		}
 
 		listboxType = {
@@ -174,7 +232,6 @@ guiTypes = {
 			position = { x=86 y=315}
 			quadTextureSprite ="GFX_lobby_cust_reset"
 			pdx_tooltip = "GAME_RULES_RESET_VALUES"
-			pdx_tooltip_delayed = "GAME_RULES_RESET_VALUES_DESC"
 			clicksound = generic_click_04
 		}
 	}
@@ -222,9 +279,10 @@ guiTypes = {
 			font = "vic_22_black"
 			borderSize = {x=0 y=0}
 			format = centre
-			text = "ACHIEVEMENT_STATUS"	
+			text = "UI_MISSING_TEXT"
 			maxWidth = 450
 			maxHeight = 30	#one line only
+			fixedsize = yes#new V27
 		}
 		windowType = {
 			name = "option"
@@ -258,7 +316,7 @@ guiTypes = {
 					font = "vic_18"
 					borderSize = {x=0 y=0}
 					format = centre
-					text = "BOB DE MOOR 1234"	
+					text = "UI_MISSING_TEXT"	
 					maxWidth = 200
 					maxHeight = 30
 					orientation = "UPPER_LEFT"
@@ -276,7 +334,7 @@ guiTypes = {
 			font = "vic_18_black"
 			borderSize = {x=0 y=0}
 			format = centre
-			text = "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco."	
+			text = "UI_MISSING_TEXT"	
 			maxWidth = 420
 			maxHeight = 50
 		}

@@ -155,6 +155,8 @@ guiTypes = {
 				position = { x = 0 y = 0 }
 				Orientation = "UPPER_LEFT"
 			}
+			
+			# Diplomacy Education
 			guiButtonType =
 			{
 				name = "button_focus_ed_diplomacy"
@@ -168,19 +170,33 @@ guiTypes = {
 				spriteType = "GFX_focusview_selected_focus"
 				position = { x = 70 y = 257 }
 			}
+			OverlappingElementsBoxType = {
+				name = "ch_traits_focus_ed_diplomacy"
+				position = { x = 53 y = 320 }
+				size = { x=128 y=32 }
+			}
+			
+			# Martial Education
 			guiButtonType =
 			{
 				name = "button_focus_ed_martial"
 				quadTextureSprite = "GFX_focusicon_education_martial"
-				position = { x = 222 y = 273 }
+				position = { x = 222 y = 274 }
 				Orientation = "UPPER_LEFT"
 				clicksound = click_03
 			}
 			iconType = {
 				name ="selected_focus_ed_martial"
 				spriteType = "GFX_focusview_selected_focus"
-				position = { x = 205 y = 256 }
+				position = { x = 205 y = 257 }
 			}
+			OverlappingElementsBoxType = {
+				name = "ch_traits_focus_ed_martial"
+				position = { x = 187 y = 320 }
+				size = { x=128 y=32 }
+			}
+			
+			# Stewardship Education
 			guiButtonType =
 			{
 				name = "button_focus_ed_stewardship"
@@ -194,6 +210,13 @@ guiTypes = {
 				spriteType = "GFX_focusview_selected_focus"
 				position = { x = 137 y = 51 }
 			}
+			OverlappingElementsBoxType = {
+				name = "ch_traits_focus_ed_stewardship"
+				position = { x = 119 y = 114 }
+				size = { x=128 y=32 }
+			}
+			
+			# Intrigue Education
 			guiButtonType =
 			{
 				name = "button_focus_ed_intrigue"
@@ -207,6 +230,14 @@ guiTypes = {
 				spriteType = "GFX_focusview_selected_focus"
 				position = { x = 246 y = 129 }
 			}
+			OverlappingElementsBoxType = {
+				name = "ch_traits_focus_ed_intrigue"
+				position = { x = 223 y = 192 }
+				size = { x=100 y=32 }
+				format = right
+			}
+			
+			# Learning Education
 			guiButtonType =
 			{
 				name = "button_focus_ed_learning"
@@ -219,6 +250,11 @@ guiTypes = {
 				name ="selected_focus_ed_learning"
 				spriteType = "GFX_focusview_selected_focus"
 				position = { x = 29 y = 129 }
+			}
+			OverlappingElementsBoxType = {
+				name = "ch_traits_focus_ed_learning"
+				position = { x = 24 y = 192 }
+				size = { x=100 y=32 }
 			}
 		}
 		windowType = {
@@ -401,7 +437,7 @@ guiTypes = {
 			font = "vic_22"
 			borderSize = {x = 0 y = 0}
 			maxWidth = 285
-			text = "Scholarship"
+			text = "UI_MISSING_TEXT"
 			format = centre
 			fixedsize = yes
 		}

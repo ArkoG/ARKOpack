@@ -34,7 +34,7 @@ guiTypes = {
 				textureFile = ""
 				font = "vic_22"
 				borderSize = {x = 0 y = 0}
-				text = "Test"	
+				text = "UI_MISSING_TEXT"	
 				maxWidth = 330
 				maxHeight = 32
 				format = centre
@@ -47,7 +47,7 @@ guiTypes = {
 				textureFile = ""
 				font = "vic_22_black"
 				borderSize = {x = 0 y = 0}
-				text = "Long text here!"	
+				text = "UI_MISSING_TEXT"	
 				maxWidth = 330
 				maxHeight = 200	
 				format = centre
@@ -123,7 +123,7 @@ guiTypes = {
 				textureFile = ""
 				font = "vic_22"
 				borderSize = {x = 0 y = 0}
-				text = "Test"	
+				text = "UI_MISSING_TEXT"	
 				maxWidth = 400
 				maxHeight = 32
 				format = centre
@@ -136,7 +136,7 @@ guiTypes = {
 				textureFile = ""
 				font = "vic_22_black"
 				borderSize = {x = 0 y = 0}
-				text = "Long text here!"	
+				text = "UI_MISSING_TEXT"	
 				maxWidth = 410
 				maxHeight = 195	
 				format = centre
@@ -158,6 +158,92 @@ guiTypes = {
 		guiButtonType = {
 			name = "DeclineButton"
 			position = { x=85 y =237}
+			quadTextureSprite ="GFX_standard_button_148"
+			buttonText = "CANCEL"
+			buttonFont = "vic_18"
+			shortcut = "ESCAPE"
+			clicksound=generic_click_04
+		}
+	}
+
+	### DEFAULT CONFIRM
+	eu3dialogtype = {
+		name = "DefaultConfirm_Consideration"
+		backGround="Background"
+		position = { x=-250 y=-140 }
+		orientation="CENTER"
+		size = { x=500 y=300 }
+		moveable = 1
+		dontRender = ""
+		horizontalBorder= ""
+		verticalBorder= ""
+		fullScreen = no
+		
+		
+		guiButtonType = {
+			name = "Background"	
+			quadTextureSprite ="GFX_dialog_tile_bg"
+		}
+
+		iconType =
+		{
+			name ="message_band"
+			spriteType = "GFX_dialog_banner"
+			position = { x= 11 y = 32 }
+			Orientation = "UPPER_LEFT"
+		}		
+
+
+		instantTextBoxType = {
+			name = "Title"
+			position = { x = 50 y = 40 }
+			textureFile = ""
+			font = "vic_22"
+			borderSize = {x = 0 y = 0}
+			text = "UI_MISSING_TEXT"	
+			maxWidth = 400
+			maxHeight = 32
+			format = centre
+			fixedsize = yes
+		}
+		
+		instantTextBoxType = {
+			name = "Description"
+			position = { x = 40 y = 75 }
+			textureFile = ""
+			font = "vic_22_black"
+			borderSize = {x = 0 y = 0}
+			text = "UI_MISSING_TEXT"	
+			maxWidth = 410
+			maxHeight = 195	
+			format = centre
+		}
+		
+		guiButtonType = {
+			name = "AgreeButton"
+			position = { x=327 y =237}
+			quadTextureSprite ="GFX_standard_button_148"
+			buttonText = "OK"
+			buttonFont = "vic_18"
+			shortcut = "ENTER"
+			clicksound=generic_click_04
+		}
+
+		guiButtonType = {
+			name = "ConsiderationButton"
+			position = { x=178 y =237}
+			quadTextureSprite ="GFX_standard_button_148"
+			buttonText = "CONSIDERATION"
+			buttonFont = "vic_18"
+			shortcut = "SPACE"
+			clicksound=generic_click_04
+			pdx_tooltip = "CONSIDERATION_BUTTON_TOOLTIP"
+		}
+
+
+		guiButtonType = {
+			name = "DeclineButton"
+			position = { x=25 y =237}
 			quadTextureSprite ="GFX_standard_button_148"
 			buttonText = "CANCEL"
 			buttonFont = "vic_18"
@@ -198,7 +284,7 @@ guiTypes = {
 				textureFile = ""
 				font = "vic_22"
 				borderSize = {x = 0 y = 0}
-				text = "Test"	
+				text = "UI_MISSING_TEXT"	
 				maxWidth = 330
 				maxHeight = 32
 				format = centre
@@ -211,7 +297,7 @@ guiTypes = {
 				textureFile = ""
 				font = "vic_22_black"
 				borderSize = {x = 0 y = 0}
-				text = "Long text here!"	
+				text = "UI_MISSING_TEXT"	
 				maxWidth = 405
 				maxHeight = 250	
 				format = centre
@@ -230,6 +316,89 @@ guiTypes = {
 		guiButtonType = {
 			name = "DeclineButton"
 			position = { x=85 y =337}
+			quadTextureSprite ="GFX_standard_button_148"
+			buttonText = "CANCEL"
+			buttonFont = "vic_18"
+			shortcut = "ESCAPE"
+			clicksound=generic_click_04
+		}
+	}
+	
+	### BIG CONFIRM
+	eu3dialogtype = {
+		name = "BigConfirm_Consideration"
+		backGround="Background"
+		position = { x=-250 y=-190 }
+		orientation="CENTER"
+		size = { x=500 y=400 }
+		moveable = 1
+		dontRender = ""
+		horizontalBorder= ""
+		verticalBorder= ""
+		fullScreen = no
+		
+		guiButtonType = {
+			name = "Background"	
+			quadTextureSprite ="GFX_dialog_tile_bg"
+		}
+
+		iconType =
+		{
+			name ="message_band"
+			spriteType = "GFX_dialog_banner"
+			position = { x= 11 y = 32 }
+			Orientation = "UPPER_LEFT"
+		}		
+
+		instantTextBoxType = {
+				name = "Title"
+				position = { x = 85 y = 40 }
+				textureFile = ""
+				font = "vic_22"
+				borderSize = {x = 0 y = 0}
+				text = "UI_MISSING_TEXT"	
+				maxWidth = 330
+				maxHeight = 32
+				format = centre
+				fixedsize = yes
+		}
+		
+		instantTextBoxType = {
+				name = "Description"
+				position = { x = 40 y = 80 }
+				textureFile = ""
+				font = "vic_22_black"
+				borderSize = {x = 0 y = 0}
+				text = "UI_MISSING_TEXT"	
+				maxWidth = 405
+				maxHeight = 250	
+				format = centre
+		}
+		
+		guiButtonType = {
+			name = "AgreeButton"
+			position = { x=327 y =337}
+			quadTextureSprite ="GFX_standard_button_148"
+			buttonText = "OK"
+			buttonFont = "vic_18"
+			shortcut = "ENTER"
+			clicksound=generic_click_04
+		}
+
+		guiButtonType = {
+			name = "ConsiderationButton"
+			position = { x=178 y =337}
+			quadTextureSprite ="GFX_standard_button_148"
+			buttonText = "CONSIDERATION"
+			buttonFont = "vic_18"
+			shortcut = "SPACE"
+			clicksound=generic_click_04
+			pdx_tooltip = "CONSIDERATION_BUTTON_TOOLTIP"
+		}
+
+		guiButtonType = {
+			name = "DeclineButton"
+			position = { x=25 y =337}
 			quadTextureSprite ="GFX_standard_button_148"
 			buttonText = "CANCEL"
 			buttonFont = "vic_18"
@@ -286,10 +455,10 @@ guiTypes = {
 		instantTextBoxType = {
 			name = "Dynasty_label"
 			#position = { x = 300 y = 95 }
-			position = { x = 300 y = 90 }
+			position = { x = 300 y = 90 }#arkopack
 			textureFile = ""
 			#font = "vic_22_black"
-			font = "vic_36_black"
+			font = "vic_36_black"#arkopack
 			borderSize = {x = 0 y = 0}
 			text = "END_YOUR_SCORE"
 			maxWidth = 364
@@ -316,7 +485,7 @@ guiTypes = {
 			textureFile = ""
 			font = "vic_36_black"
 			borderSize = {x = 0 y = 0}
-			text = "99,999"
+			text = "UI_MISSING_TEXT"
 			maxWidth = 120
 			maxHeight = 40	
 			format = right
@@ -337,7 +506,7 @@ guiTypes = {
 			textureFile = ""
 			font = "decorative"
 			borderSize = {x = 0 y = 0}
-			text = "A"	
+			text = ""	
 			maxWidth = 75
 			maxHeight = 75
 			format = left
@@ -448,7 +617,7 @@ guiTypes = {
 			textureFile = ""
 			font = "vic_18_black"
 			borderSize = {x = 0 y = 0}
-			text = "99,999"
+			text = "UI_MISSING_TEXT"
 			maxWidth = 57
 			maxHeight = 18	
 			format = centre
@@ -467,7 +636,7 @@ guiTypes = {
 			textureFile = ""
 			font = "vic_18_black"
 			borderSize = {x = 0 y = 0}
-			text = "VON TESTSON"
+			text = "UI_MISSING_TEXT"
 			maxWidth = 221
 			maxHeight = 21
 			fixedsize = yes
@@ -640,14 +809,16 @@ guiTypes = {
 			name = "PreviousPage"
 			position = { x = 49 y = 628 }
 			quadTextureSprite = "GFX_chronicle_previous_page"
-			priority_shortcut = "<"
+			clicksound = turning_page
+			priority_shortcut = "<" #arkopack
 		}
 		
 		guiButtonType = {
 			name = "NextPage"
 			position = { x = 987 y = 628 }
 			quadTextureSprite = "GFX_chronicle_next_page"
-			priority_shortcut = ">"
+			clicksound = turning_page
+			priority_shortcut = ">" #arkopack
 		}
 	}
 	
@@ -675,7 +846,7 @@ guiTypes = {
 			textureFile = ""
 			font = "vic_18_black"
 			borderSize = { x = 0 y = 0 }
-			text = "14 January, 1137"	
+			text = "UI_MISSING_TEXT"	
 			maxWidth = 230
 			maxHeight = 20
 			format = centre
@@ -723,7 +894,7 @@ guiTypes = {
 			textureFile = ""
 			font = "decorative_color"
 			borderSize = { x = 0 y = 0 }
-			text = "A"	
+			text = ""	
 			maxWidth = 75
 			maxHeight = 75
 			format = left
@@ -830,7 +1001,7 @@ guiTypes = {
 			pdx_tooltip = "CHARACTER_TOOLTIP"
 			pdx_tooltip_delayed = "CHARACTER_TOOLTIP_DELAYED"
 		}
-
+		
 		guiButtonType =
 		{
 			name ="portrait_frame"
@@ -886,7 +1057,7 @@ guiTypes = {
 	}
 	positionType = {
 		name = "after_picture_offset"
-		position = { x = 0 y = 23 }
+		position = { x = 0 y = 23 } #arkopack
 	}
 	positionType = {
 		name = "after_portrait_offset"
@@ -926,7 +1097,7 @@ guiTypes = {
 				textureFile = ""
 				font = "vic_22"
 				borderSize = {x = 0 y = 0}
-				text = "Test"	
+				text = "UI_MISSING_TEXT"	
 				maxWidth = 330
 				maxHeight = 32
 				format = centre
@@ -939,7 +1110,7 @@ guiTypes = {
 				textureFile = ""
 				font = "vic_22_black"
 				borderSize = {x = 0 y = 0}
-				text = "Long text here!"	
+				text = "UI_MISSING_TEXT"	
 				maxWidth = 330
 				maxHeight = 200	
 				format = centre
@@ -992,7 +1163,7 @@ guiTypes = {
 				textureFile = ""
 				font = "vic_22"
 				borderSize = {x = 0 y = 0}
-				text = "Test"	
+				text = "UI_MISSING_TEXT"	
 				maxWidth = 330
 				maxHeight = 32
 				format = centre
@@ -1005,7 +1176,7 @@ guiTypes = {
 				textureFile = ""
 				font = "vic_22_black"
 				borderSize = {x = 0 y = 0}
-				text = "Long text here!"	
+				text = "UI_MISSING_TEXT"	
 				maxWidth = 330
 				maxHeight = 200	
 				format = centre
@@ -1070,7 +1241,7 @@ guiTypes = {
 				textureFile = ""
 				font = "vic_18_black"
 				borderSize = {x = 0 y = 0}
-				text = "Message from our King"	
+				text = "UI_MISSING_TEXT"	
 				maxWidth = 330
 				maxHeight = 20
 				fixedsize = yes
@@ -1084,7 +1255,7 @@ guiTypes = {
 				textureFile = ""
 				font = "vic_22"
 				borderSize = {x = 0 y = 0}
-				text = "Test"	
+				text = "UI_MISSING_TEXT"	
 				maxWidth = 330
 				maxHeight = 32
 				format = centre
@@ -1099,7 +1270,7 @@ guiTypes = {
 				textureFile = ""
 				font = "vic_22_black"
 				borderSize = {x = 0 y = 0}
-				text = "Line2"	
+				text = "UI_MISSING_TEXT"	
 				maxWidth = 350
 				maxHeight = 0	
 
@@ -1115,7 +1286,7 @@ guiTypes = {
 				textureFile = ""
 				font = "vic_22_black"
 				borderSize = {x = 0 y = 0}
-				text = "Line3"	
+				text = "UI_MISSING_TEXT"	
 				maxWidth = 350
 				maxHeight = 0	
 				
@@ -1131,7 +1302,7 @@ guiTypes = {
 				textureFile = ""
 				font = "vic_22_black"
 				borderSize = {x = 0 y = 0}
-				text = "Line4"	
+				text = "UI_MISSING_TEXT"	
 				maxWidth = 350
 				maxHeight = 0	
 
@@ -1146,7 +1317,7 @@ guiTypes = {
 				textureFile = ""
 				font = "vic_22_black"
 				borderSize = {x = 0 y = 0}
-				text = "Line5"	
+				text = "UI_MISSING_TEXT"	
 				maxWidth = 350
 				maxHeight = 0	
 
@@ -1161,7 +1332,7 @@ guiTypes = {
 				textureFile = ""
 				font = "vic_22_black"
 				borderSize = {x = 0 y = 0}
-				text = "Line6"	
+				text = "UI_MISSING_TEXT"	
 				maxWidth = 350
 				maxHeight = 0	
 
@@ -1248,7 +1419,7 @@ guiTypes = {
 			textureFile = ""
 			font = "vic_22"
 			borderSize = {x = 0 y = 0}
-			text = "Test"	
+			text = "UI_MISSING_TEXT"	
 			maxWidth = 330
 			maxHeight = 32
 			format = centre
@@ -1261,7 +1432,7 @@ guiTypes = {
 			textureFile = ""
 			font = "vic_22_black"
 			borderSize = {x = 0 y = 0}
-			text = "Long text here!"	
+			text = "UI_MISSING_TEXT"	
 			maxWidth = 405
 			maxHeight = 32	
 			format = centre
@@ -1373,7 +1544,7 @@ guiTypes = {
 			textureFile = ""
 			font = "vic_22"
 			borderSize = {x = 0 y = 0}
-			text = "Test"	
+			text = "UI_MISSING_TEXT"	
 			maxWidth = 330
 			maxHeight = 32
 			format = centre
@@ -1386,7 +1557,7 @@ guiTypes = {
 			textureFile = ""
 			font = "vic_22_black"
 			borderSize = {x = 0 y = 0}
-			text = "Long text here!"	
+			text = "UI_MISSING_TEXT"	
 			maxWidth = 405
 			maxHeight = 250	
 			format = left

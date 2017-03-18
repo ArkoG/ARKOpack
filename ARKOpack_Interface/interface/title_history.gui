@@ -111,7 +111,7 @@ guiTypes = {
 			borderSize = {x = 0 y = 0}	
 			maxWidth = 235
 			maxHeight = 40
-			text = "Hello world!"	
+			text = "UI_MISSING_TEXT"	
 			orientation = "UPPER_LEFT"
 			format = center
 		}

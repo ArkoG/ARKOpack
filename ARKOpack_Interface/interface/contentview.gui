@@ -142,7 +142,7 @@ guiTypes = {
 			borderSize = {x = 0 y = 0}	
 			maxWidth = 260
 			maxHeight = 18
-			text = "test"
+			text = "UI_MISSING_TEXT"
 			fixedsize = yes
 		}
 		

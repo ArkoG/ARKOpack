@@ -6,7 +6,7 @@ guiTypes = {
 		backGround=""
 		position = { x=0 y=0 }
 		size = { x=400 y=115 }
-		moveable = 1
+		moveable = 0
 		dontRender = ""
 		horizontalBorder= ""
 		verticalBorder= ""
@@ -60,7 +60,7 @@ guiTypes = {
 		iconType =
 		{
 			name ="unitpanel_bg"
-			spriteType = "GFX_unitpanel_bg_top" 
+			spriteType = "GFX_unitpanel_bg_top"
 			position = { x= -3 y = 4 }
 			Orientation = "UPPER_LEFT"
 		}
@@ -111,7 +111,7 @@ guiTypes = {
 			textureFile = ""
 			font = "vic_18"
 			borderSize = {x = 0 y = 0}
-			text = "Stenkils Army"	
+			text = "UI_MISSING_TEXT"	
 			maxWidth = 175
 			maxHeight = 20	
 			fixedsize = yes
@@ -123,7 +123,7 @@ guiTypes = {
 			textureFile = ""
 			font = "vic_18"
 			borderSize = {x = 0 y = 0}
-			text = "20,239"	
+			text = "UI_MISSING_TEXT"	
 			maxWidth = 60
 			maxHeight = 20	
 			fixedsize = yes
@@ -155,7 +155,47 @@ guiTypes = {
 			maxHeight = 20	
 			format = right
 		}
+		
+		##### Ally Order button & list
+		guiButtonType = {
+			name = "attach_order_button"
+			position = { x = 343 y = 37 }
+			spriteType ="GFX_ally_order_button"
+			clicksound = generic_click_01
+			alwaystransparent = no
+		}
 
+		windowType = {
+			name = "ally_order_window"
+			backGround =""
+			position = { x = 401 y = 5 }
+			size = { x = 188 y = 434  }
+			moveable = 0
+			dontRender = ""
+			horizontalBorder = "0"
+			verticalBorder = ""
+			fullScreen = no
+			
+			iconType = {
+				name ="ally_orders_window_bg"
+				spriteType = "GFX_ally_order_bg"
+				position = { x= 0 y = 0 }
+				Orientation = "UPPER_LEFT"
+			}
+
+			listboxType = {
+				name = "ally_order_member_list"
+				position = { x = 0 y = 15 }
+				backGround=""
+				size = { x= 360 y= 410 }
+				spacing = 0
+				scrollbartype = "standardlistbox_slider"
+				borderSize = {x = 0 y = 0}
+			}
+		}
+		
+		
+		
 		guiButtonType = {
 				name = "disbandbutton"
 				position = { x = 74 y = 39 }
@@ -325,7 +365,7 @@ guiTypes = {
 			textureFile = ""
 			font = "vic_18"
 			borderSize = {x = 0 y = 0}
-			text = "Stenkils Army"	
+			text = "UI_MISSING_TEXT"	
 			maxWidth = 202
 			maxHeight = 20	
 			fixedsize = yes
@@ -337,7 +377,7 @@ guiTypes = {
 			textureFile = ""
 			font = "vic_18"
 			borderSize = {x = 0 y = 0}
-			text = "20,239"	
+			text = "UI_MISSING_TEXT"	
 			maxWidth = 60
 			maxHeight = 20	
 			fixedsize = yes
@@ -439,38 +479,48 @@ guiTypes = {
 		fullScreen = no	
 
 
-		iconType = ###HEADER
+		iconType =
+		###HEADER
 		{
 			name ="multiselect_bg"
 			spriteType = "GFX_unitpanel_multi_bg_short"
-			position = { x= -37 y = 1 }
+			position = { x= -37 y = 1 }#arkopack
 			Orientation = "UPPER_LEFT"
 		}
 		instantTextBoxType = {
 			name = "desc"
-			position = { x = 8	 y = 13 }
+			position = { x = 8	 y = 13 }#arkopack
 			textureFile = ""
 			font = "vic_18"
 			borderSize = {x = 0 y = 0}
-			text = "14 Armies"	
+			text = "UI_MISSING_TEXT"	
 			maxWidth = 150
 			maxHeight = 20	
 		}
 		instantTextBoxType = {
 			name = "count"
-			position = { x = 97 y = 13 }
+			#position = { x = 95 y = 13 }vanilla 2.6
+			#position = { x = 75 y = 13 }vanilla 2.7
+			position = { x = 97 y = 13 }#arkopack
 			textureFile = ""
 			font = "vic_18"
 			borderSize = {x = 0 y = 0}
-			text = "14 Armies"	
+			text = "UI_MISSING_TEXT"	
 			maxWidth = 50
 			maxHeight = 20
 			format = right
 		}
-
+		
+		guiButtonType = {
+			name = "loadtoshipbutton"
+			position = { x = 132 y = 11 }
+			quadTextureSprite ="GFX_unitpanel_button_loadtoship"
+			clicksound = generic_click_01
+			shortcut = "V"
+		}
 		guiButtonType = {
 			name = "dibandallbutton"
-			position = { x = 167 y = 11 }
+			position = { x = 167 y = 11 }#arkopack
 			quadTextureSprite ="GFX_unitpanel_button_disband"
 			clicksound = generic_click_01
 			shortcut = "X"
@@ -478,7 +528,7 @@ guiTypes = {
 
 		guiButtonType = {
 				name = "mergebutton"
-				position = { x = 197 y = 9 }
+				position = { x = 197 y = 9 }#arkopack
 				quadTextureSprite ="GFX_unitpanel_multi_merge"
 				clicksound = generic_click_01
 				priority_shortcut = "g"
@@ -487,14 +537,14 @@ guiTypes = {
 
 		guiButtonType = {
 				name = "reorganizebutton"
-				position = { x = 227 y = 9 }
+				position = { x = 227 y = 9 }#arkopack
 				quadTextureSprite ="GFX_unitpanel_multi_reorg"
 				clicksound = generic_click_01
 				shortcut = "b"
 			}
 		guiButtonType = {
 				name = "close_all_button"
-				position = { x = 257 y = 9 }
+				position = { x = 257 y = 9 }#arkopack
 				quadTextureSprite ="GFX_unitpanel_multi_close"
 		}
 	}
@@ -548,7 +598,7 @@ guiTypes = {
 	windowType = {
 		name = "single_unitpanel"
 		backGround=""
-		position = { x=0 y=232 }	
+		position = { x=0 y=232 }#arkopack	
 		size = { x=400 y=100 }
 		moveable = 0
 		dontRender = ""
@@ -572,7 +622,7 @@ guiTypes = {
 			textureFile = ""
 			font = "vic_18"
 			borderSize = {x = 0 y = 0}
-			text = "2,457"	
+			text = "UI_MISSING_TEXT"	
 			maxWidth = 50
 			maxHeight = 20	
 			format = centre
@@ -583,7 +633,7 @@ guiTypes = {
 			textureFile = ""
 			font = "vic_18"
 			borderSize = {x = 0 y = 0}
-			text = "2,457"	
+			text = "UI_MISSING_TEXT"	
 			maxWidth = 50
 			maxHeight = 20	
 			format = centre
@@ -594,7 +644,7 @@ guiTypes = {
 			textureFile = ""
 			font = "vic_18"
 			borderSize = {x = 0 y = 0}
-			text = "2,457"	
+			text = "UI_MISSING_TEXT"	
 			maxWidth = 50
 			maxHeight = 20	
 			format = centre
@@ -605,7 +655,7 @@ guiTypes = {
 			textureFile = ""
 			font = "vic_18"
 			borderSize = {x = 0 y = 0}
-			text = "2,457"	
+			text = "UI_MISSING_TEXT"	
 			maxWidth = 50
 			maxHeight = 20	
 			format = centre
@@ -616,7 +666,7 @@ guiTypes = {
 			textureFile = ""
 			font = "vic_18"
 			borderSize = {x = 0 y = 0}
-			text = "2,457"	
+			text = "UI_MISSING_TEXT"	
 			maxWidth = 50
 			maxHeight = 20	
 			format = centre
@@ -627,7 +677,7 @@ guiTypes = {
 			textureFile = ""
 			font = "vic_18"
 			borderSize = {x = 0 y = 0}
-			text = "2,457"	
+			text = "UI_MISSING_TEXT"	
 			maxWidth = 50
 			maxHeight = 20	
 			format = centre
@@ -638,7 +688,7 @@ guiTypes = {
 			textureFile = ""
 			font = "vic_18"
 			borderSize = {x = 0 y = 0}
-			text = "2,457"	
+			text = "UI_MISSING_TEXT"	
 			maxWidth = 50
 			maxHeight = 20	
 			format = centre
@@ -709,7 +759,7 @@ guiTypes = {
 			textureFile = ""
 			font = "vic_18"
 			borderSize = {x = 0 y = 0}
-			text = "Stenkil"	
+			text = "UI_MISSING_TEXT"	
 			maxWidth = 125
 			maxHeight = 20	
 			format = centre
@@ -760,7 +810,7 @@ guiTypes = {
 			textureFile = ""
 			font = "vic_18"
 			borderSize = {x = 0 y = 0}
-			text = "14"	
+			text = "UI_MISSING_TEXT"	
 			maxWidth = 25
 			maxHeight = 20	
 			format = centre
@@ -771,7 +821,7 @@ guiTypes = {
 			textureFile = ""
 			font = "vic_18"
 			borderSize = {x = 0 y = 0}
-			text = "5"	
+			text = "UI_MISSING_TEXT"	
 			maxWidth = 32
 			maxHeight = 20	
 			format = centre
@@ -782,7 +832,7 @@ guiTypes = {
 			textureFile = ""
 			font = "vic_18"
 			borderSize = {x = 0 y = 0}
-			text = "4,319"	
+			text = "UI_MISSING_TEXT"	
 			maxWidth = 48
 			maxHeight = 20	
 			format = centre
@@ -801,7 +851,7 @@ guiTypes = {
 			textureFile = ""
 			font = "vic_18"
 			borderSize = {x = 0 y = 0}
-			text = "Stenkil"	
+			text = "UI_MISSING_TEXT"	
 			maxWidth = 125
 			maxHeight = 20	
 			format = centre
@@ -852,7 +902,7 @@ guiTypes = {
 			textureFile = ""
 			font = "vic_18"
 			borderSize = {x = 0 y = 0}
-			text = "14"	
+			text = "UI_MISSING_TEXT"	
 			maxWidth = 25
 			maxHeight = 20	
 			format = centre
@@ -863,7 +913,7 @@ guiTypes = {
 			textureFile = ""
 			font = "vic_18"
 			borderSize = {x = 0 y = 0}
-			text = "5"	
+			text = "UI_MISSING_TEXT"	
 			maxWidth = 32
 			maxHeight = 20	
 			format = centre
@@ -874,7 +924,7 @@ guiTypes = {
 			textureFile = ""
 			font = "vic_18"
 			borderSize = {x = 0 y = 0}
-			text = "4,319"	
+			text = "UI_MISSING_TEXT"	
 			maxWidth = 48
 			maxHeight = 20	
 			format = centre
@@ -894,7 +944,7 @@ guiTypes = {
 			textureFile = ""
 			font = "vic_18"
 			borderSize = {x = 0 y = 0}
-			text = "Stenkil"	
+			text = "UI_MISSING_TEXT"	
 			maxWidth = 125
 			maxHeight = 20	
 			format = centre
@@ -945,7 +995,7 @@ guiTypes = {
 			textureFile = ""
 			font = "vic_18"
 			borderSize = {x = 0 y = 0}
-			text = "14"	
+			text = "UI_MISSING_TEXT"	
 			maxWidth = 25
 			maxHeight = 20	
 			format = centre
@@ -956,7 +1006,7 @@ guiTypes = {
 			textureFile = ""
 			font = "vic_18"
 			borderSize = {x = 0 y = 0}
-			text = "5"	
+			text = "UI_MISSING_TEXT"	
 			maxWidth = 32
 			maxHeight = 20	
 			format = centre
@@ -967,7 +1017,7 @@ guiTypes = {
 			textureFile = ""
 			font = "vic_18"
 			borderSize = {x = 0 y = 0}
-			text = "4,319"	
+			text = "UI_MISSING_TEXT"	
 			maxWidth = 48
 			maxHeight = 20	
 			format = centre
@@ -1060,7 +1110,7 @@ guiTypes = {
 			textureFile = ""
 			font = "Arial12"
 			borderSize = {x = 4 y = 0}
-			text = "1,419"	
+			text = "UI_MISSING_TEXT"	
 			maxWidth = 50
 			maxHeight = 24
 			Orientation = "UPPER_LEFT"	
@@ -1093,7 +1143,7 @@ guiTypes = {
 			textureFile = ""
 			font = "Arial12"
 			borderSize = {x = 4 y = 0}
-			text = "1,419"	
+			text = "UI_MISSING_TEXT"	
 			maxWidth = 50
 			maxHeight = 24
 			Orientation = "UPPER_LEFT"	
@@ -1171,7 +1221,7 @@ guiTypes = {
 			textureFile = ""
 			font = "vic_18_black"
 			borderSize = {x = 0 y = 0}
-			text = "3,400"	
+			text = "UI_MISSING_TEXT"	
 			maxWidth = 80
 			maxHeight = 24
 			Orientation = "UPPER_LEFT"	
@@ -1242,7 +1292,7 @@ guiTypes = {
 			textureFile = ""
 			font = "vic_18_black"
 			borderSize = {x = 0 y = 0}
-			text = "3,400"	
+			text = "UI_MISSING_TEXT"	
 			maxWidth = 80
 			maxHeight = 24
 			Orientation = "UPPER_LEFT"	
@@ -1268,7 +1318,7 @@ guiTypes = {
 			textureFile = ""
 			font = "vic_18_black"
 			borderSize = {x = 0 y = 0}
-			text = "3,400"	
+			text = "UI_MISSING_TEXT"	
 			maxWidth = 80
 			maxHeight = 24
 			Orientation = "UPPER_LEFT"	
@@ -1308,7 +1358,7 @@ guiTypes = {
 			textureFile = ""
 			font = "vic_18"
 			borderSize = {x = 0 y = 0}
-			text = "Ships from Uppsala"	
+			text = "UI_MISSING_TEXT"	
 			maxWidth = 200
 			maxHeight = 24
 			fixedsize = yes
@@ -1328,7 +1378,7 @@ guiTypes = {
 			textureFile = ""
 			font = "vic_18"
 			borderSize = {x = 0 y = 0}
-			text = "3,400"	
+			text = "UI_MISSING_TEXT"	
 			maxWidth = 60
 			maxHeight = 24
 			Orientation = "UPPER_LEFT"	
@@ -1341,7 +1391,7 @@ guiTypes = {
 	windowType = {
 		name = "reorg_window"
 		backGround=""
-		position = { x= 0 y= 258 }	
+		position = { x= 0 y= 258 }#arkopack	
 		size = { x=400 y=100 }
 		moveable = 0
 		dontRender = ""
@@ -1365,7 +1415,7 @@ guiTypes = {
 			textureFile = ""
 			font = "vic_18"
 			borderSize = {x = 0 y = 0}
-			text = "2,457"	
+			text = "UI_MISSING_TEXT"	
 			maxWidth = 50
 			maxHeight = 20	
 			format = centre
@@ -1376,7 +1426,7 @@ guiTypes = {
 			textureFile = ""
 			font = "vic_18"
 			borderSize = {x = 0 y = 0}
-			text = "2,457"	
+			text = "UI_MISSING_TEXT"	
 			maxWidth = 50
 			maxHeight = 20	
 			format = centre
@@ -1387,7 +1437,7 @@ guiTypes = {
 			textureFile = ""
 			font = "vic_18"
 			borderSize = {x = 0 y = 0}
-			text = "2,457"	
+			text = "UI_MISSING_TEXT"	
 			maxWidth = 50
 			maxHeight = 20	
 			format = centre
@@ -1398,7 +1448,7 @@ guiTypes = {
 			textureFile = ""
 			font = "vic_18"
 			borderSize = {x = 0 y = 0}
-			text = "2,457"	
+			text = "UI_MISSING_TEXT"	
 			maxWidth = 50
 			maxHeight = 20	
 			format = centre
@@ -1409,7 +1459,7 @@ guiTypes = {
 			textureFile = ""
 			font = "vic_18"
 			borderSize = {x = 0 y = 0}
-			text = "2,457"	
+			text = "UI_MISSING_TEXT"	
 			maxWidth = 50
 			maxHeight = 20	
 			format = centre
@@ -1420,7 +1470,7 @@ guiTypes = {
 			textureFile = ""
 			font = "vic_18"
 			borderSize = {x = 0 y = 0}
-			text = "2,457"	
+			text = "UI_MISSING_TEXT"	
 			maxWidth = 50
 			maxHeight = 20	
 			format = centre
@@ -1431,7 +1481,7 @@ guiTypes = {
 			textureFile = ""
 			font = "vic_18"
 			borderSize = {x = 0 y = 0}
-			text = "2,457"	
+			text = "UI_MISSING_TEXT"	
 			maxWidth = 50
 			maxHeight = 20	
 			format = centre
@@ -1487,7 +1537,7 @@ guiTypes = {
 			textureFile = ""
 			font = "vic_18"
 			borderSize = {x = 0 y = 0}
-			text = "2,457"	
+			text = "UI_MISSING_TEXT"	
 			maxWidth = 50
 			maxHeight = 20	
 			format = centre
@@ -1498,7 +1548,7 @@ guiTypes = {
 			textureFile = ""
 			font = "vic_18"
 			borderSize = {x = 0 y = 0}
-			text = "2,457"	
+			text = "UI_MISSING_TEXT"	
 			maxWidth = 50
 			maxHeight = 20	
 			format = centre
@@ -1509,7 +1559,7 @@ guiTypes = {
 			textureFile = ""
 			font = "vic_18"
 			borderSize = {x = 0 y = 0}
-			text = "2,457"	
+			text = "UI_MISSING_TEXT"	
 			maxWidth = 50
 			maxHeight = 20	
 			format = centre
@@ -1520,7 +1570,7 @@ guiTypes = {
 			textureFile = ""
 			font = "vic_18"
 			borderSize = {x = 0 y = 0}
-			text = "2,457"	
+			text = "UI_MISSING_TEXT"	
 			maxWidth = 50
 			maxHeight = 20	
 			format = centre
@@ -1531,7 +1581,7 @@ guiTypes = {
 			textureFile = ""
 			font = "vic_18"
 			borderSize = {x = 0 y = 0}
-			text = "2,457"	
+			text = "UI_MISSING_TEXT"	
 			maxWidth = 50
 			maxHeight = 20	
 			format = centre
@@ -1542,7 +1592,7 @@ guiTypes = {
 			textureFile = ""
 			font = "vic_18"
 			borderSize = {x = 0 y = 0}
-			text = "2,457"	
+			text = "UI_MISSING_TEXT"	
 			maxWidth = 50
 			maxHeight = 20	
 			format = centre
@@ -1553,7 +1603,7 @@ guiTypes = {
 			textureFile = ""
 			font = "vic_18"
 			borderSize = {x = 0 y = 0}
-			text = "2,457"	
+			text = "UI_MISSING_TEXT"	
 			maxWidth = 50
 			maxHeight = 20	
 			format = centre
@@ -1673,7 +1723,7 @@ guiTypes = {
 			textureFile = ""
 			font = "vic_18_black"
 			borderSize = {x = 0 y =0}
-			text = "Uppsala regiment"	
+			text = "UI_MISSING_TEXT"	
 			maxWidth = 200
 			maxHeight = 20	
 			format = centre
@@ -1709,7 +1759,7 @@ guiTypes = {
 			textureFile = ""
 			font = "Arial12"
 			borderSize = {x = 0 y =0}
-			text = "17"	
+			text = "UI_MISSING_TEXT"	
 			maxWidth = 20
 			maxHeight = 20	
 			format = centre
@@ -1730,7 +1780,7 @@ guiTypes = {
 			textureFile = ""
 			font = "Arial12"
 			borderSize = {x = 0 y = 0}
-			text = "2,457"	
+			text = "UI_MISSING_TEXT"	
 			maxWidth = 48
 			maxHeight = 20	
 			format = centre
@@ -1741,7 +1791,7 @@ guiTypes = {
 			textureFile = ""
 			font = "Arial12"
 			borderSize = {x = 0 y = 0}
-			text = "2,457"	
+			text = "UI_MISSING_TEXT"	
 			maxWidth = 48
 			maxHeight = 20	
 			format = centre
@@ -1752,7 +1802,7 @@ guiTypes = {
 			textureFile = ""
 			font = "Arial12"
 			borderSize = {x = 0 y = 0}
-			text = "2,457"	
+			text = "UI_MISSING_TEXT"	
 			maxWidth = 48
 			maxHeight = 20	
 			format = centre
@@ -1763,7 +1813,7 @@ guiTypes = {
 			textureFile = ""
 			font = "Arial12"
 			borderSize = {x = 0 y = 0}
-			text = "2,457"	
+			text = "UI_MISSING_TEXT"	
 			maxWidth = 48
 			maxHeight = 20	
 			format = centre
@@ -1774,7 +1824,7 @@ guiTypes = {
 			textureFile = ""
 			font = "Arial12"
 			borderSize = {x = 0 y = 0}
-			text = "2,457"	
+			text = "UI_MISSING_TEXT"	
 			maxWidth = 48
 			maxHeight = 20	
 			format = centre
@@ -1785,7 +1835,7 @@ guiTypes = {
 			textureFile = ""
 			font = "Arial12"
 			borderSize = {x = 0 y = 0}
-			text = "2,457"	
+			text = "UI_MISSING_TEXT"	
 			maxWidth = 48
 			maxHeight = 20	
 			format = centre
@@ -1796,7 +1846,7 @@ guiTypes = {
 			textureFile = ""
 			font = "Arial12"
 			borderSize = {x = 0 y = 0}
-			text = "2,457"	
+			text = "UI_MISSING_TEXT"	
 			maxWidth = 48
 			maxHeight = 20	
 			format = centre
@@ -1878,7 +1928,7 @@ guiTypes = {
 			textureFile = ""
 			font = "vic_18_black"
 			borderSize = {x = 0 y =0}
-			text = "Uppsala regiment"	
+			text = "UI_MISSING_TEXT"	
 			maxWidth = 200
 			maxHeight = 20	
 			format = centre
@@ -1914,7 +1964,7 @@ guiTypes = {
 			textureFile = ""
 			font = "Arial12"
 			borderSize = {x = 0 y =0}
-			text = "17"	
+			text = "UI_MISSING_TEXT"	
 			maxWidth = 20
 			maxHeight = 20	
 			format = centre
@@ -1935,7 +1985,7 @@ guiTypes = {
 			textureFile = ""
 			font = "Arial12"
 			borderSize = {x = 0 y = 0}
-			text = "2,457"	
+			text = "UI_MISSING_TEXT"	
 			maxWidth = 48
 			maxHeight = 20	
 			format = centre
@@ -1946,7 +1996,7 @@ guiTypes = {
 			textureFile = ""
 			font = "Arial12"
 			borderSize = {x = 0 y = 0}
-			text = "2,457"	
+			text = "UI_MISSING_TEXT"	
 			maxWidth = 48
 			maxHeight = 20	
 			format = centre
@@ -1957,7 +2007,7 @@ guiTypes = {
 			textureFile = ""
 			font = "Arial12"
 			borderSize = {x = 0 y = 0}
-			text = "2,457"	
+			text = "UI_MISSING_TEXT"	
 			maxWidth = 48
 			maxHeight = 20	
 			format = centre
@@ -1968,7 +2018,7 @@ guiTypes = {
 			textureFile = ""
 			font = "Arial12"
 			borderSize = {x = 0 y = 0}
-			text = "2,457"	
+			text = "UI_MISSING_TEXT"	
 			maxWidth = 48
 			maxHeight = 20	
 			format = centre
@@ -1979,7 +2029,7 @@ guiTypes = {
 			textureFile = ""
 			font = "Arial12"
 			borderSize = {x = 0 y = 0}
-			text = "2,457"	
+			text = "UI_MISSING_TEXT"	
 			maxWidth = 48
 			maxHeight = 20	
 			format = centre
@@ -1990,7 +2040,7 @@ guiTypes = {
 			textureFile = ""
 			font = "Arial12"
 			borderSize = {x = 0 y = 0}
-			text = "2,457"	
+			text = "UI_MISSING_TEXT"	
 			maxWidth = 48
 			maxHeight = 20	
 			format = centre
@@ -2001,7 +2051,7 @@ guiTypes = {
 			textureFile = ""
 			font = "Arial12"
 			borderSize = {x = 0 y = 0}
-			text = "2,457"	
+			text = "UI_MISSING_TEXT"	
 			maxWidth = 48
 			maxHeight = 20	
 			format = centre
@@ -2057,7 +2107,7 @@ guiTypes = {
 	windowType = {
 		name = "flank_designer_window"
 		backGround="dummy_bg"
-		position = { x= 0 y= 233 }	
+		position = { x= 0 y= 227 }
 		size = { x=928 y=539 }
 		moveable = 0
 		dontRender = ""
@@ -2086,7 +2136,7 @@ guiTypes = {
 			textureFile = ""
 			font = "vic_18"
 			borderSize = {x = 0 y = 0}
-			text = "2,457"	
+			text = "UI_MISSING_TEXT"	
 			maxWidth = 50
 			maxHeight = 20	
 			format = centre
@@ -2097,7 +2147,7 @@ guiTypes = {
 			textureFile = ""
 			font = "vic_18"
 			borderSize = {x = 0 y = 0}
-			text = "2,457"	
+			text = "UI_MISSING_TEXT"	
 			maxWidth = 50
 			maxHeight = 20	
 			format = centre
@@ -2108,7 +2158,7 @@ guiTypes = {
 			textureFile = ""
 			font = "vic_18"
 			borderSize = {x = 0 y = 0}
-			text = "2,457"	
+			text = "UI_MISSING_TEXT"	
 			maxWidth = 50
 			maxHeight = 20	
 			format = centre
@@ -2119,7 +2169,7 @@ guiTypes = {
 			textureFile = ""
 			font = "vic_18"
 			borderSize = {x = 0 y = 0}
-			text = "2,457"	
+			text = "UI_MISSING_TEXT"	
 			maxWidth = 50
 			maxHeight = 20	
 			format = centre
@@ -2130,7 +2180,7 @@ guiTypes = {
 			textureFile = ""
 			font = "vic_18"
 			borderSize = {x = 0 y = 0}
-			text = "2,457"	
+			text = "UI_MISSING_TEXT"	
 			maxWidth = 50
 			maxHeight = 20	
 			format = centre
@@ -2141,7 +2191,7 @@ guiTypes = {
 			textureFile = ""
 			font = "vic_18"
 			borderSize = {x = 0 y = 0}
-			text = "2,457"	
+			text = "UI_MISSING_TEXT"	
 			maxWidth = 50
 			maxHeight = 20	
 			format = centre
@@ -2152,7 +2202,7 @@ guiTypes = {
 			textureFile = ""
 			font = "vic_18"
 			borderSize = {x = 0 y = 0}
-			text = "2,457"	
+			text = "UI_MISSING_TEXT"	
 			maxWidth = 50
 			maxHeight = 20	
 			format = centre
@@ -2267,7 +2317,7 @@ guiTypes = {
 			textureFile = ""
 			font = "vic_18"
 			borderSize = {x = 0 y = 0}
-			text = "Stenkil"	
+			text = "UI_MISSING_TEXT"	
 			maxWidth = 125
 			maxHeight = 20	
 			format = centre
@@ -2318,7 +2368,7 @@ guiTypes = {
 			textureFile = ""
 			font = "vic_18"
 			borderSize = {x = 0 y = 0}
-			text = "14"	
+			text = "UI_MISSING_TEXT"	
 			maxWidth = 25
 			maxHeight = 20	
 			format = centre
@@ -2329,7 +2379,7 @@ guiTypes = {
 			textureFile = ""
 			font = "vic_18"
 			borderSize = {x = 0 y = 0}
-			text = "5"	
+			text = "UI_MISSING_TEXT"	
 			maxWidth = 32
 			maxHeight = 20	
 			format = centre
@@ -2340,7 +2390,7 @@ guiTypes = {
 			textureFile = ""
 			font = "vic_18"
 			borderSize = {x = 0 y = 0}
-			text = "4,319"	
+			text = "UI_MISSING_TEXT"	
 			maxWidth = 48
 			maxHeight = 20	
 			format = centre
@@ -2358,7 +2408,7 @@ guiTypes = {
 			textureFile = ""
 			font = "vic_18"
 			borderSize = {x = 0 y = 0}
-			text = "Stenkil"	
+			text = "UI_MISSING_TEXT"	
 			maxWidth = 125
 			maxHeight = 20	
 			format = centre
@@ -2409,7 +2459,7 @@ guiTypes = {
 			textureFile = ""
 			font = "vic_18"
 			borderSize = {x = 0 y = 0}
-			text = "14"	
+			text = "UI_MISSING_TEXT"	
 			maxWidth = 25
 			maxHeight = 20	
 			format = centre
@@ -2420,7 +2470,7 @@ guiTypes = {
 			textureFile = ""
 			font = "vic_18"
 			borderSize = {x = 0 y = 0}
-			text = "5"	
+			text = "UI_MISSING_TEXT"	
 			maxWidth = 32
 			maxHeight = 20	
 			format = centre
@@ -2431,7 +2481,7 @@ guiTypes = {
 			textureFile = ""
 			font = "vic_18"
 			borderSize = {x = 0 y = 0}
-			text = "4,319"	
+			text = "UI_MISSING_TEXT"	
 			maxWidth = 48
 			maxHeight = 20	
 			format = centre
@@ -2450,7 +2500,7 @@ guiTypes = {
 			textureFile = ""
 			font = "vic_18"
 			borderSize = {x = 0 y = 0}
-			text = "Stenkil"	
+			text = "UI_MISSING_TEXT"	
 			maxWidth = 125
 			maxHeight = 20	
 			format = centre
@@ -2501,7 +2551,7 @@ guiTypes = {
 			textureFile = ""
 			font = "vic_18"
 			borderSize = {x = 0 y = 0}
-			text = "14"	
+			text = "UI_MISSING_TEXT"	
 			maxWidth = 25
 			maxHeight = 20	
 			format = centre
@@ -2512,7 +2562,7 @@ guiTypes = {
 			textureFile = ""
 			font = "vic_18"
 			borderSize = {x = 0 y = 0}
-			text = "5"	
+			text = "UI_MISSING_TEXT"	
 			maxWidth = 32
 			maxHeight = 20	
 			format = centre
@@ -2523,7 +2573,7 @@ guiTypes = {
 			textureFile = ""
 			font = "vic_18"
 			borderSize = {x = 0 y = 0}
-			text = "4,319"	
+			text = "UI_MISSING_TEXT"	
 			maxWidth = 48
 			maxHeight = 20	
 			format = centre
@@ -2536,7 +2586,7 @@ guiTypes = {
 			textureFile = ""
 			font = "Arial12"
 			borderSize = {x = 0 y = 0}
-			text = "2,457"	
+			text = "UI_MISSING_TEXT"	
 			maxWidth = 48
 			maxHeight = 20	
 			format = centre
@@ -2547,7 +2597,7 @@ guiTypes = {
 			textureFile = ""
 			font = "Arial12"
 			borderSize = {x = 0 y = 0}
-			text = "2,457"	
+			text = "UI_MISSING_TEXT"	
 			maxWidth = 48
 			maxHeight = 20	
 			format = centre
@@ -2558,7 +2608,7 @@ guiTypes = {
 			textureFile = ""
 			font = "Arial12"
 			borderSize = {x = 0 y = 0}
-			text = "2,457"	
+			text = "UI_MISSING_TEXT"	
 			maxWidth = 48
 			maxHeight = 20	
 			format = centre
@@ -2569,7 +2619,7 @@ guiTypes = {
 			textureFile = ""
 			font = "Arial12"
 			borderSize = {x = 0 y = 0}
-			text = "2,457"	
+			text = "UI_MISSING_TEXT"	
 			maxWidth = 48
 			maxHeight = 20	
 			format = centre
@@ -2580,7 +2630,7 @@ guiTypes = {
 			textureFile = ""
 			font = "Arial12"
 			borderSize = {x = 0 y = 0}
-			text = "2,457"	
+			text = "UI_MISSING_TEXT"	
 			maxWidth = 48
 			maxHeight = 20	
 			format = centre
@@ -2591,7 +2641,7 @@ guiTypes = {
 			textureFile = ""
 			font = "Arial12"
 			borderSize = {x = 0 y = 0}
-			text = "2,457"	
+			text = "UI_MISSING_TEXT"	
 			maxWidth = 48
 			maxHeight = 20	
 			format = centre
@@ -2602,7 +2652,7 @@ guiTypes = {
 			textureFile = ""
 			font = "Arial12"
 			borderSize = {x = 0 y = 0}
-			text = "2,457"	
+			text = "UI_MISSING_TEXT"	
 			maxWidth = 48
 			maxHeight = 20	
 			format = centre
@@ -2658,7 +2708,7 @@ guiTypes = {
 			textureFile = ""
 			font = "Arial12"
 			borderSize = {x = 0 y = 0}
-			text = "2,457"	
+			text = "UI_MISSING_TEXT"	
 			maxWidth = 48
 			maxHeight = 20	
 			format = centre
@@ -2669,7 +2719,7 @@ guiTypes = {
 			textureFile = ""
 			font = "Arial12"
 			borderSize = {x = 0 y = 0}
-			text = "2,457"	
+			text = "UI_MISSING_TEXT"	
 			maxWidth = 48
 			maxHeight = 20	
 			format = centre
@@ -2680,7 +2730,7 @@ guiTypes = {
 			textureFile = ""
 			font = "Arial12"
 			borderSize = {x = 0 y = 0}
-			text = "2,457"	
+			text = "UI_MISSING_TEXT"	
 			maxWidth = 48
 			maxHeight = 20	
 			format = centre
@@ -2691,7 +2741,7 @@ guiTypes = {
 			textureFile = ""
 			font = "Arial12"
 			borderSize = {x = 0 y = 0}
-			text = "2,457"	
+			text = "UI_MISSING_TEXT"	
 			maxWidth = 48
 			maxHeight = 20	
 			format = centre
@@ -2702,7 +2752,7 @@ guiTypes = {
 			textureFile = ""
 			font = "Arial12"
 			borderSize = {x = 0 y = 0}
-			text = "2,457"	
+			text = "UI_MISSING_TEXT"	
 			maxWidth = 48
 			maxHeight = 20	
 			format = centre
@@ -2713,7 +2763,7 @@ guiTypes = {
 			textureFile = ""
 			font = "Arial12"
 			borderSize = {x = 0 y = 0}
-			text = "2,457"	
+			text = "UI_MISSING_TEXT"	
 			maxWidth = 48
 			maxHeight = 20	
 			format = centre
@@ -2724,7 +2774,7 @@ guiTypes = {
 			textureFile = ""
 			font = "Arial12"
 			borderSize = {x = 0 y = 0}
-			text = "2,457"	
+			text = "UI_MISSING_TEXT"	
 			maxWidth = 48
 			maxHeight = 20	
 			format = centre
@@ -2780,7 +2830,7 @@ guiTypes = {
 			textureFile = ""
 			font = "Arial12"
 			borderSize = {x = 0 y = 0}
-			text = "2,457"	
+			text = "UI_MISSING_TEXT"	
 			maxWidth = 48
 			maxHeight = 20	
 			format = centre
@@ -2791,7 +2841,7 @@ guiTypes = {
 			textureFile = ""
 			font = "Arial12"
 			borderSize = {x = 0 y = 0}
-			text = "2,457"	
+			text = "UI_MISSING_TEXT"	
 			maxWidth = 48
 			maxHeight = 20	
 			format = centre
@@ -2802,7 +2852,7 @@ guiTypes = {
 			textureFile = ""
 			font = "Arial12"
 			borderSize = {x = 0 y = 0}
-			text = "2,457"	
+			text = "UI_MISSING_TEXT"	
 			maxWidth = 48
 			maxHeight = 20	
 			format = centre
@@ -2813,7 +2863,7 @@ guiTypes = {
 			textureFile = ""
 			font = "Arial12"
 			borderSize = {x = 0 y = 0}
-			text = "2,457"	
+			text = "UI_MISSING_TEXT"	
 			maxWidth = 48
 			maxHeight = 20	
 			format = centre
@@ -2824,7 +2874,7 @@ guiTypes = {
 			textureFile = ""
 			font = "Arial12"
 			borderSize = {x = 0 y = 0}
-			text = "2,457"	
+			text = "UI_MISSING_TEXT"	
 			maxWidth = 48
 			maxHeight = 20	
 			format = centre
@@ -2835,7 +2885,7 @@ guiTypes = {
 			textureFile = ""
 			font = "Arial12"
 			borderSize = {x = 0 y = 0}
-			text = "2,457"	
+			text = "UI_MISSING_TEXT"	
 			maxWidth = 48
 			maxHeight = 20	
 			format = centre
@@ -2846,7 +2896,7 @@ guiTypes = {
 			textureFile = ""
 			font = "Arial12"
 			borderSize = {x = 0 y = 0}
-			text = "2,457"	
+			text = "UI_MISSING_TEXT"	
 			maxWidth = 48
 			maxHeight = 20	
 			format = centre
@@ -2944,7 +2994,7 @@ guiTypes = {
 				textureFile = ""
 				font = "Arial12"
 				borderSize = {x = 0 y = 0}
-				text = "2,457"	
+				text = "UI_MISSING_TEXT"	
 				maxWidth = 48
 				maxHeight = 20	
 				format = centre
@@ -2955,7 +3005,7 @@ guiTypes = {
 				textureFile = ""
 				font = "Arial12"
 				borderSize = {x = 0 y = 0}
-				text = "2,457"	
+				text = "UI_MISSING_TEXT"	
 				maxWidth = 48
 				maxHeight = 20	
 				format = centre
@@ -2966,7 +3016,7 @@ guiTypes = {
 				textureFile = ""
 				font = "Arial12"
 				borderSize = {x = 0 y = 0}
-				text = "2,457"	
+				text = "UI_MISSING_TEXT"	
 				maxWidth = 48
 				maxHeight = 20	
 				format = centre
@@ -2977,7 +3027,7 @@ guiTypes = {
 				textureFile = ""
 				font = "Arial12"
 				borderSize = {x = 0 y = 0}
-				text = "2,457"	
+				text = "UI_MISSING_TEXT"	
 				maxWidth = 48
 				maxHeight = 20	
 				format = centre
@@ -2988,7 +3038,7 @@ guiTypes = {
 				textureFile = ""
 				font = "Arial12"
 				borderSize = {x = 0 y = 0}
-				text = "2,457"	
+				text = "UI_MISSING_TEXT"	
 				maxWidth = 48
 				maxHeight = 20	
 				format = centre
@@ -2999,7 +3049,7 @@ guiTypes = {
 				textureFile = ""
 				font = "Arial12"
 				borderSize = {x = 0 y = 0}
-				text = "2,457"	
+				text = "UI_MISSING_TEXT"	
 				maxWidth = 48
 				maxHeight = 20	
 				format = centre
@@ -3010,7 +3060,7 @@ guiTypes = {
 				textureFile = ""
 				font = "Arial12"
 				borderSize = {x = 0 y = 0}
-				text = "2,457"	
+				text = "UI_MISSING_TEXT"	
 				maxWidth = 48
 				maxHeight = 20	
 				format = centre
@@ -3124,7 +3174,7 @@ guiTypes = {
 			textureFile = ""
 			font = "vic_18_black"
 			borderSize = {x = 0 y =0}
-			text = "Uppsala regiment"	
+			text = "UI_MISSING_TEXT"	
 			maxWidth = 135
 			maxHeight = 20	
 			format = left
@@ -3163,7 +3213,7 @@ guiTypes = {
 			textureFile = ""
 			font = "Arial12"
 			borderSize = {x = 0 y =0}
-			text = "17"	
+			text = "UI_MISSING_TEXT"	
 			maxWidth = 20
 			maxHeight = 20	
 			format = centre

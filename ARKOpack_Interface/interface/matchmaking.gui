@@ -445,7 +445,7 @@ guiTypes = {
 			maxWidth = 120
 			maxHeight = 18			
 			font = "vic_18"
-			text = "1.0.2"
+			text = "UI_MISSING_TEXT"
 			fixedsize = yes
 			format = centre
 		}		
@@ -469,7 +469,7 @@ guiTypes = {
 			maxWidth = 157
 			maxHeight = 18			
 			font = "vic_18"
-			text = "Sengoku"
+			text = "UI_MISSING_TEXT"
 			fixedsize = yes
 			format = center
 		}		
@@ -522,7 +522,7 @@ guiTypes = {
 			maxWidth = 168
 			maxHeight = 22			
 			font = "vic_22"
-			text = "Player"
+			text = "UI_MISSING_TEXT"
 			fixedsize = yes			
 		}
 
@@ -533,7 +533,7 @@ guiTypes = {
 			maxWidth = 256
 			maxHeight = 18			
 			font = "vic_18"
-			text = "ONLINE"
+			text = "UI_MISSING_TEXT"
 			fixedsize = yes			
 		}		
 	}		

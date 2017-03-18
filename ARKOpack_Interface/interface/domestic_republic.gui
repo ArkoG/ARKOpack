@@ -67,16 +67,16 @@ guiTypes = {
 			
 			guiButtonType = {
 				name ="republic_shield"
-				quadTextureSprite = "GFX_shield_big"
-				position = { x= 10 y = 12 }
+				quadTextureSprite = "GFX_shield_big"#arkopack
+				position = { x= 10 y = 12 }#arkopack
 				Orientation = "UPPER_LEFT"
 			}
-#			iconType = {
-#				name = "republic_shield_crown_strip"
-#				spriteType = "GFX_shield_crown_strip_big"
-#				position = { x= 32 y = 35 }
-#				Orientation = "UPPER_LEFT"
-#			}
+			iconType = {
+				name = "republic_shield_crown_strip"
+				spriteType = "GFX_shield_crown_strip_medium"
+				position = { x= -9032 y = 35 }#made offscreen arkopack
+				Orientation = "UPPER_LEFT"
+			}
 			
 			instantTextBoxType = {
 				name = "republic_name"
@@ -112,7 +112,7 @@ guiTypes = {
 				textureFile = ""
 				font = "vic_18_black"
 				borderSize = {x = 0 y = 0}
-				text = "DOGE"
+				text = "UI_MISSING_TEXT"
 				maxWidth = 160
 				maxHeight = 20
 				fixedsize = yes
@@ -133,7 +133,7 @@ guiTypes = {
 				position = { x= 83 y = 97 }
 				Orientation = "UPPER_LEFT"
 			}
-			iconType = {
+			guiButtonType = {
 				name ="doge_portrait_status"
 				spriteType = "GFX_overlay_char_status_75"
 				position = { x= 93 y = 102 }
@@ -187,7 +187,7 @@ guiTypes = {
 				position = { x= 373 y = 97 }
 				Orientation = "UPPER_LEFT"
 			}
-			iconType = {
+			guiButtonType = {
 				name ="heir_portrait_status"
 				spriteType = "GFX_overlay_char_status_75"
 				position = { x= 383 y = 102 }
@@ -228,7 +228,7 @@ guiTypes = {
 				textureFile = ""
 				font = "vic_22"
 				borderSize = {x = 0 y = 0}
-				text = "0"
+				text = "UI_MISSING_TEXT"
 				maxWidth = 60
 				maxHeight = 24
 				fixedsize = yes
@@ -326,7 +326,7 @@ guiTypes = {
 			position = { x= 46 y = 25 }
 			Orientation = "UPPER_LEFT"
 		}
-		iconType = {
+		guiButtonType = {
 			name = "portrait_status"
 			spriteType = "GFX_overlay_char_status_50"
 			position = { x = 3 y = 25 }
@@ -351,7 +351,7 @@ guiTypes = {
 			textureFile = ""
 			font = "vic_18"
 			borderSize = { x = 0 y = 0 }
-			text = "0"
+			text = "UI_MISSING_TEXT"
 			maxWidth = 54
 			maxHeight = 20
 			format = right
@@ -371,7 +371,7 @@ guiTypes = {
 			textureFile = ""
 			font = "vic_18"
 			borderSize = { x = 0 y = 0 }
-			text = "1/10"
+			text = "UI_MISSING_TEXT"
 			maxWidth = 54
 			maxHeight = 20
 			format = right
@@ -411,14 +411,14 @@ guiTypes = {
 		
 		instantTextBoxType = {
 			name = "name"
-			position = { x = 2 y = 2 }
+			position = { x = 2 y = 2 }#arkopack
 			textureFile = ""
 			font = "vic_18"
 			borderSize = { x = 0 y = 0 }
-			text = "0"
-			maxWidth = 97
+			text = "UI_MISSING_TEXT"
+			maxWidth = 97#arkopack
 			maxHeight = 20
-			format = centre
+			format = centre#arkopack
 			fixedsize = yes
 		}
 
@@ -436,7 +436,7 @@ guiTypes = {
 			textureFile = ""
 			font = "vic_18"
 			borderSize = { x = 0 y = 0 }
-			text = "0"
+			text = "UI_MISSING_TEXT"
 			maxWidth = 50
 			maxHeight = 20
 			format = right

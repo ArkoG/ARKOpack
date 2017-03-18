@@ -115,7 +115,7 @@ guiTypes = {
 				textureFile = ""
 				font = "Arial12"
 				borderSize = {x = 0 y = 0}
-				text = "-30"
+				text = "UI_MISSING_TEXT"
 				maxWidth = 50
 				maxHeight = 18
 				fixedsize = yes
@@ -134,7 +134,7 @@ guiTypes = {
 				textureFile = ""
 				font = "Arial12"
 				borderSize = {x = 0 y = 0}
-				text = "-30"
+				text = "UI_MISSING_TEXT"
 				maxWidth = 50
 				maxHeight = 18
 				fixedsize = yes
@@ -182,7 +182,7 @@ guiTypes = {
 				position = { x= 130 y = 14 }
 				Orientation = "UPPER_LEFT"
 			}
-			iconType = {
+			guiButtonType = {
 				name ="liege_portrait_status"
 				spriteType = "GFX_overlay_char_status_50"
 				position = { x= 92 y = 3 }
@@ -912,7 +912,7 @@ guiTypes = {
 			textureFile = ""
 			font = "vic_18"
 			borderSize = {x = 0 y = 0}
-			text = "(14)"
+			text = "UI_MISSING_TEXT"
 			maxWidth = 84
 			maxHeight = 24
 			#format = center
@@ -940,7 +940,7 @@ guiTypes = {
 			textureFile = ""
 			font = "vic_18"
 			borderSize = {x = 0 y = 0}
-			text = "14"
+			text = "UI_MISSING_TEXT"
 			maxWidth = 84
 			maxHeight = 24
 			#format = center
@@ -968,7 +968,7 @@ guiTypes = {
 			textureFile = ""
 			font = "vic_18"
 			borderSize = {x = 0 y = 0}
-			text = "(14)"
+			text = "UI_MISSING_TEXT"
 			maxWidth = 84
 			maxHeight = 24
 			#format = center #ex left
@@ -996,7 +996,7 @@ guiTypes = {
 			textureFile = ""
 			font = "vic_18"
 			borderSize = {x = 0 y = 0}
-			text = "(14)"
+			text = "UI_MISSING_TEXT"
 			maxWidth = 84
 			maxHeight = 24
 			#format = center #ex left
@@ -1121,7 +1121,7 @@ guiTypes = {
 				position = { x=170 y = 18 }
 				Orientation = "UPPER_LEFT"
 			}
-			iconType = {
+			guiButtonType = {
 				name = "character_portrait_status"
 				spriteType = "GFX_overlay_char_status_150"
 				position = { x=85 y = -6 }
@@ -1253,7 +1253,7 @@ guiTypes = {
 				position = { x= 274 y = 59 }
 				Orientation = "UPPER_LEFT"
 			}
-			iconType = {
+			guiButtonType = {
 				name ="spouse_portrait_status"
 				spriteType = "GFX_overlay_char_status_100"
 				position = { x= 190 y = 59 }
@@ -1267,7 +1267,7 @@ guiTypes = {
 				textureFile = ""
 				font = "vic_22_black"
 				borderSize = {x = 0 y = 0}
-				text = "§WJulius Caesar"	
+				text = "UI_MISSING_TEXT"	
 				maxWidth = 355
 				maxHeight = 24	
 				fixedsize = yes
@@ -1279,7 +1279,7 @@ guiTypes = {
 				textureFile = ""
 				font = "vic_22_black"
 				borderSize = {x = 0 y = 0}
-				text = "42"
+				text = "UI_MISSING_TEXT"
 				maxWidth = 24
 				maxHeight = 24	
 				format = left
@@ -1312,7 +1312,7 @@ guiTypes = {
 				textureFile = ""
 				font = "vic_18_black"
 				borderSize = {x = 0 y = 0}
-				text = "100%"
+				text = "UI_MISSING_TEXT"
 				maxWidth = 60
 				maxHeight = 20
 				format = center
@@ -1324,7 +1324,7 @@ guiTypes = {
 				textureFile = ""
 				font = "vic_18_black"
 				borderSize = {x = 0 y = 0}
-				text = "af Stenkilsätten"
+				text = "UI_MISSING_TEXT"
 				fixedsize = yes
 				maxWidth = 130
 				maxHeight = 20	
@@ -1337,7 +1337,7 @@ guiTypes = {
 				textureFile = ""
 				font = "vic_18_black"
 				borderSize = {x = 0 y = 0}
-				text = "Swedish Catholic"
+				text = "UI_MISSING_TEXT"
 				fixedsize = yes
 				maxWidth = 85
 				maxHeight = 20	
@@ -1429,7 +1429,7 @@ guiTypes = {
 				textureFile = ""
 				font = "vic_18_black"
 				borderSize = {x = 0 y = 0}
-				text = "1/1"
+				text = "UI_MISSING_TEXT"
 				maxWidth = 60
 				maxHeight = 20	
 				format = right
@@ -1446,7 +1446,7 @@ guiTypes = {
 				textureFile = ""
 				font = "vic_18_black"
 				borderSize = {x = 0 y = 0}
-				text = "1/1"
+				text = "UI_MISSING_TEXT"
 				maxWidth = 60
 				maxHeight = 20	
 				format = right
@@ -1463,7 +1463,7 @@ guiTypes = {
 				textureFile = ""
 				font = "vic_18_black"
 				borderSize = {x = 0 y = 0}
-				text = "1/1"
+				text = "UI_MISSING_TEXT"
 				maxWidth = 60
 				maxHeight = 20	
 				format = right
@@ -1480,7 +1480,7 @@ guiTypes = {
 				textureFile = ""
 				font = "vic_18_black"
 				borderSize = {x = 0 y = 0}
-				text = "42"
+				text = "UI_MISSING_TEXT"
 				maxWidth = 60
 				maxHeight = 20	
 				format = right
@@ -1497,7 +1497,7 @@ guiTypes = {
 				textureFile = ""
 				font = "vic_18_black"
 				borderSize = {x = 0 y = 0}
-				text = "42"
+				text = "UI_MISSING_TEXT"
 				maxWidth = 60
 				maxHeight = 20	
 				format = right
@@ -1514,7 +1514,7 @@ guiTypes = {
 				textureFile = ""
 				font = "vic_18_black"
 				borderSize = {x = 0 y = 0}
-				text = "42"
+				text = "UI_MISSING_TEXT"
 				maxWidth = 60
 				maxHeight = 20	
 				format = right
@@ -1531,7 +1531,7 @@ guiTypes = {
 				textureFile = ""
 				font = "vic_18_black"
 				borderSize = {x = 0 y = 0}
-				text = "42"
+				text = "UI_MISSING_TEXT"
 				maxWidth = 60
 				maxHeight = 20	
 				format = right
@@ -1549,7 +1549,7 @@ guiTypes = {
 				textureFile = ""
 				font = "vic_18"
 				borderSize = {x = 0 y = 0}
-				text = "42"
+				text = "UI_MISSING_TEXT"
 				maxWidth = 20
 				maxHeight = 20	
 				format = right
@@ -1560,7 +1560,7 @@ guiTypes = {
 				textureFile = ""
 				font = "vic_18"
 				borderSize = {x = 0 y = 0}
-				text = "42"
+				text = "UI_MISSING_TEXT"
 				maxWidth = 20
 				maxHeight = 20
 				format = right
@@ -1577,7 +1577,7 @@ guiTypes = {
 				textureFile = ""
 				font = "vic_18"
 				borderSize = {x = 0 y = 0}
-				text = "14"
+				text = "UI_MISSING_TEXT"
 				maxWidth = 20
 				maxHeight = 20	
 				format = right
@@ -1588,7 +1588,7 @@ guiTypes = {
 				textureFile = ""
 				font = "vic_18"
 				borderSize = {x = 0 y = 0}
-				text = "(18)"
+				text = "UI_MISSING_TEXT"
 				maxWidth = 20
 				maxHeight = 20	
 				format = right
@@ -1605,7 +1605,7 @@ guiTypes = {
 				textureFile = ""
 				font = "vic_18"
 				borderSize = {x = 0 y = 0}
-				text = "42"
+				text = "UI_MISSING_TEXT"
 				maxWidth = 20
 				maxHeight = 20	
 				format = right
@@ -1616,7 +1616,7 @@ guiTypes = {
 				textureFile = ""
 				font = "vic_18"
 				borderSize = {x = 0 y = 0}
-				text = "42"
+				text = "UI_MISSING_TEXT"
 				maxWidth = 20
 				maxHeight = 20	
 				format = right
@@ -1633,7 +1633,7 @@ guiTypes = {
 				textureFile = ""
 				font = "vic_18"
 				borderSize = {x = 0 y = 0}
-				text = "42"
+				text = "UI_MISSING_TEXT"
 				maxWidth = 20
 				maxHeight = 20	
 				format = right
@@ -1644,7 +1644,7 @@ guiTypes = {
 				textureFile = ""
 				font = "vic_18"
 				borderSize = {x = 0 y = 0}
-				text = "42"
+				text = "UI_MISSING_TEXT"
 				maxWidth = 20
 				maxHeight = 20	
 				format = right
@@ -1661,7 +1661,7 @@ guiTypes = {
 				textureFile = ""
 				font = "vic_18"
 				borderSize = {x = 0 y = 0}
-				text = "42"
+				text = "UI_MISSING_TEXT"
 				maxWidth = 20
 				maxHeight = 20	
 				format = right
@@ -1672,7 +1672,7 @@ guiTypes = {
 				textureFile = ""
 				font = "vic_18"
 				borderSize = {x = 0 y = 0}
-				text = "42"
+				text = "UI_MISSING_TEXT"
 				maxWidth = 20
 				maxHeight = 20	
 				format = right
@@ -1680,19 +1680,6 @@ guiTypes = {
 			
 			
 			## overlapping boxes
-			
-#			instantTextBoxType = {
-#				name = "culture_label"
-#				position = { x = 175 y = 272 }
-#				textureFile = ""
-#				font = "vic_18_black"
-#				borderSize = {x = 0 y = 0}
-#				text = "Cultureee "
-#				fixedsize = yes
-#				maxWidth = 60
-#				maxHeight = 20	
-#				format = left
-#			}
 
 			iconType = {
 				name ="titles_label_bg"
@@ -1780,7 +1767,22 @@ guiTypes = {
 				#format = right
 				format = left
 				Orientation = "UPPER_LEFT"
+			}	
+			iconType = {
+				name ="icon_commandmodifier"
+				spriteType = "GFX_commandmodifier_icon"
+				position = { x= 19 y = 274 }
+				Orientation = "UPPER_LEFT"
+				#size 30x
 			}
+			guiButtonType = {
+				name ="button_treasury"
+				quadTextureSprite= "GFX_treasury_button"
+				position = { x = 22 y = 140 }
+				Orientation = "UPPER_LEFT"
+				pdx_tooltip = "TREASURY_BUTTON_TOOLTIP"
+				pdx_tooltip_delayed = "TREASURY_BUTTON_TOOLTIP_DELAYED"
+			}	
 			OverlappingElementsBoxType = {
 				name = "traits"
 				position = { x = 85 y = 245 }
@@ -1794,13 +1796,7 @@ guiTypes = {
 				size = { x = 74 y = 32 }
 				format = left
 			}
-			iconType = {
-				name ="icon_commandmodifier"
-				spriteType = "GFX_commandmodifier_icon"
-				position = { x= 19 y = 274 }
-				Orientation = "UPPER_LEFT"
-				#size 30x
-			}	
+
 			OverlappingElementsBoxType = {
 				name = "modifiers"
 				position = { x = 73 y = 276 }
@@ -1811,7 +1807,9 @@ guiTypes = {
 	
 		guiButtonType = {
 			name = "quick_plot_button"
-			position = { x=130 y=188 }
+			#position = { x=29 y=211 }#V27
+			#position = { x=29 y=177 }#V26
+			position = { x=130 y=188 }#arkopack 26
 			quadTextureSprite ="GFX_charview_quick_plot_button"
 			clicksound = generic_click_02
 		}
@@ -1884,7 +1882,7 @@ guiTypes = {
 			position = { x= 35 y = 0 }
 			Orientation = "UPPER_LEFT"
 		}
-		iconType = {
+		guiButtonType = {
 			name = "portrait_status"
 			spriteType = "GFX_overlay_char_status_50"
 			position = { x = -4 y = 0 }
@@ -1969,7 +1967,7 @@ guiTypes = {
 			position = { x= 47 y = -6 }
 			Orientation = "UPPER_LEFT"
 		}
-		iconType = {
+		guiButtonType = {
 			name = "portrait_status"
 			spriteType = "GFX_overlay_char_status_50"
 			position = { x = 6 y = -6 }
@@ -1996,7 +1994,7 @@ guiTypes = {
 				textureFile = ""
 				font = "vic_18_black"
 				borderSize = {x = 0 y = 0}
-				text = "Bosse II"
+				text = "UI_MISSING_TEXT"
 				maxWidth = 350
 				maxHeight = 20
 				fixedsize = yes
@@ -2030,7 +2028,7 @@ guiTypes = {
 				textureFile = ""
 				font = "Arial12_black"
 				borderSize = {x = 0 y = 0}
-				text = "Duke of Uppland"
+				text = "UI_MISSING_TEXT"
 				maxWidth = 170
 				maxHeight = 20
 				fixedsize = yes
@@ -2055,7 +2053,7 @@ guiTypes = {
 				textureFile = ""
 				font = "Arial12"
 				borderSize = {x = 0 y = 0}
-				text = "-30"
+				text = "UI_MISSING_TEXT"
 				maxWidth = 50
 				maxHeight = 18
 				fixedsize = yes
@@ -2075,7 +2073,7 @@ guiTypes = {
 			textureFile = ""
 			font = "vic_18_black"
 			borderSize = {x = 0 y = 0}
-			text = "-30"
+			text = "UI_MISSING_TEXT"
 			maxWidth = 40
 			maxHeight = 18
 			fixedsize = yes
@@ -2094,7 +2092,7 @@ guiTypes = {
 				textureFile = ""
 				font = "Arial12"
 				borderSize = {x = 0 y = 0}
-				text = "-30"
+				text = "UI_MISSING_TEXT"
 				maxWidth = 50
 				maxHeight = 18
 				fixedsize = yes
@@ -2114,6 +2112,13 @@ guiTypes = {
 		horizontalBorder = ""
 		verticalBorder = ""
 		fullScreen = no
+		
+		iconType = {
+			name ="trait_glow"
+			spriteType = "GFX_good_childhood_trait_glow"
+			position = { x= -5 y = -5 }
+			Orientation = "UPPER_LEFT"
+		}
 		
 		iconType = {
 			name ="trait_icon"
