@@ -2,7 +2,7 @@ guiTypes = {
 	windowType = {
 		name ="domestic_treasury_window"
 		backGround=""
-		position = { x=571 y=110 }	#arkopack
+		position = { x=585 y=159 }	#arkopack
 		size = { x=605 y=675 }
 		moveable = 0
 		dontRender = ""
