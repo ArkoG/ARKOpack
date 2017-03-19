@@ -70,26 +70,11 @@ guiTypes = {
 			fixedsize = yes
 			format = centre
 		}
-		
-		guiButtonType =	{
-			name = "current_shield"
-			position = { x = 32 y =95 }
-			quadTextureSprite ="GFX_shield_medium"	
-			Orientation = "UPPER_LEFT"
-		}
-		
-		iconType =
-		{
-			name ="current_shield_crown"
-			spriteType = "GFX_shield_crown_strip_medium"
-			position = { x= 44 y = 72 }
-			Orientation = "UPPER_LEFT"
-		}
 
 		iconType =
 		{
 			name ="vote_strip_bg"
-			spriteType = "GFX_vote_strip_bg"
+			spriteType = "GFX_vote_strip_bg_arkopack"
 			position = { x= 223 y = 82 }
 			Orientation = "UPPER_LEFT"
 		}
@@ -366,7 +351,7 @@ guiTypes = {
 				format = left
 				font = "vic_36_black"
 				borderSize = {x = 0 y = 0}
-				text = "Feudal Monarchy"
+				text = "UI_MISSING_TEXT"
 				maxWidth = 450
 				maxHeight = 20
 			}
@@ -376,7 +361,7 @@ guiTypes = {
 				format = left
 				font = "vic_36"
 				borderSize = {x = 0 y = 0}
-				text = "FLAVOR"
+				text = "UI_MISSING_TEXT"
 				maxWidth = 450
 				maxHeight = 20
 			}
@@ -388,7 +373,7 @@ guiTypes = {
 				format = left
 				font = "vic_18_black"
 				borderSize = {x = 0 y = 0}
-				text = "SUCCESSION_LAW"
+				text = "UI_MISSING_TEXT"
 				maxWidth = 450
 				maxHeight = 20
 			}
@@ -417,7 +402,7 @@ guiTypes = {
 				position = { x= 51 y = 16 }
 				Orientation = "UPPER_LEFT"
 			}
-			iconType = {
+			guiButtonType = {
 				name ="heir_portrait_status"
 				spriteType = "GFX_overlay_char_status_75"
 				position = { x= 61 y = 21 }
@@ -457,7 +442,7 @@ guiTypes = {
 				borderSize = {x = 0 y = 0}	
 				maxWidth = 20
 				maxHeight = 20
-				text = "32"	
+				text = "UI_MISSING_TEXT"	
 				format = centre
 				fixedsize = yes
 			}
@@ -581,7 +566,7 @@ guiTypes = {
 				name = "laws_listbox"
 				position = { x=17 y = 20 }
 				backGround=""
-				size = { x = 510 y = 341 }
+				size = { x = 496 y = 341 }
 				Orientation = "UPPER_LEFT"
 				spacing = 1
 				scrollbartype = "standardlistbox_slider"
@@ -637,7 +622,7 @@ guiTypes = {
 				name = "laws_listbox"
 				position = { x=17 y = 20 }
 				backGround=""
-				size = { x = 510 y = 341 }
+				size = { x = 496 y = 341 }
 				Orientation = "UPPER_LEFT"
 				spacing = 3
 				scrollbartype = "standardlistbox_slider"
@@ -693,7 +678,7 @@ guiTypes = {
 				name = "laws_listbox"
 				position = { x=100 y = 20 }
 				backGround=""
-				size = { x = 210 y = 450 }
+				size = { x = 496 y = 400 }
 				Orientation = "UPPER_LEFT"
 				spacing = 11
 				scrollbartype = "standardlistbox_slider"
@@ -822,7 +807,7 @@ guiTypes = {
 			borderSize = {x = 0 y = 0}	
 			maxWidth = 100
 			maxHeight = 20
-			text = "tAX"
+			text = "UI_MISSING_TEXT"
 			orientation = "UPPER_LEFT"
 			format = center
 			fixedsize = yes
@@ -841,7 +826,7 @@ guiTypes = {
 			borderSize = {x = 0 y = 0}	
 			maxWidth = 100
 			maxHeight = 20
-			text = "lEvY"	
+			text = "UI_MISSING_TEXT"	
 			orientation = "UPPER_LEFT"
 			format = center
 			fixedsize = yes
@@ -1104,7 +1089,7 @@ guiTypes = {
 		name = "realm_entry"
 		backGround =""
 		position = { x=0 y=0 }
-		size = { x=36 y=36 }
+		size = { x=42 y=42 }
 		moveable = 0
 		dontRender = ""
 		horizontalBorder = "0"
@@ -1154,7 +1139,7 @@ guiTypes = {
 			Orientation = "UPPER_LEFT"
 		}
 		
-		iconType = {
+		guiButtonType = {
 				name ="successor_portrait_status"
 				spriteType = "GFX_overlay_char_status_50"
 				position = { x= -2 y = -4 }
@@ -1181,11 +1166,17 @@ guiTypes = {
 			borderSize = {x = 0 y = 0}	
 			maxWidth = 20
 			maxHeight = 20
-			text = "32"	
+			text = "UI_MISSING_TEXT"	
 			format = centre
 			fixedsize = yes
 		}
 	}
 	
+	iconType =	{
+		name = "current_shield" # Used for the currently selected law title
+		position = { x= -6 y = -14 }
+		quadTextureSprite ="GFX_shield_medium"	
+		Orientation = "UPPER_LEFT"
+	}
 }
 		
