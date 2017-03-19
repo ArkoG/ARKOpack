@@ -435,14 +435,14 @@ guiTypes = {
 		
 		guiButtonType = {
 			name = "toggle_show_commanders_only"
-			position = { x = 68 y = 29 }
-			quadTextureSprite ="GFX_checkbox_honorifique"#arkopack see if still relevant
+			position = { x = 67 y = 29 }
+			quadTextureSprite ="GFX_checkbox_commandants"#arkopack
 #			quadTextureSprite ="GFX_checkbox_default" #V26&27
 		}
 		
 		instantTextBoxType = {
 			name = "toggle_show_commanders_only_text"
-			position = { x = 103 y = 37 }
+			position = { x = 102 y = 37 }
 			textureFile = ""
 			font = "vic_18"
 			text = "SHOW_COMMANDERS_ONLY"	
@@ -455,14 +455,14 @@ guiTypes = {
 		
 		guiButtonType = {
 			name = "toggle_auto_assign_commanders"
-			position = { x = 276 y = 29 }
-			quadTextureSprite ="GFX_checkbox_commandants"#arkopack see if still relevant
-#			quadTextureSprite ="GFX_checkbox_default" #V26&27
+			position = { x = 268 y = 33 }
+			#quadTextureSprite ="GFX_checkbox_commandants"#arkopack see if still relevant
+			quadTextureSprite ="GFX_checkbox_default" #V26&27
 		}
 		
 		instantTextBoxType = {
 			name = "toggle_auto_assign_commanders_text"
-			position = { x = 311 y = 37 }
+			position = { x = 294 y = 37 }
 			textureFile = ""
 			font = "vic_18"
 			text = "AUTO_ASSIGN_COMMANDERS"	
@@ -590,7 +590,7 @@ guiTypes = {
 		iconType = {
 			name ="icon_commandmodifier"
 			spriteType = "GFX_commandmodifier_icon"
-			position = { x= 133 y = 4 }
+			position = { x= 135 y = 4 }
 			Orientation = "UPPER_LEFT"
 		}
 		iconType = 
@@ -968,7 +968,7 @@ guiTypes = {
 		instantTextBoxType = {
 			name = "council_vote_text"
 			#position = { x = 40 y = -25 }#V27
-			position = { x = 43 y = -25 }#+3from vanilla
+			position = { x = 27 y = 13 }#+3from vanilla
 			maxWidth = 450
 			maxHeight = 25
 			textureFile = ""
@@ -1000,13 +1000,13 @@ guiTypes = {
 		guiButtonType =	{
 			name ="start_vote_button"
 			quadTextureSprite= "GFX_vote_for_icon"
-			position = { x=17 y = -32 }
+			position = { x=17 y = 6 }
 		}
 		
 		guiButtonType =	{
 			name ="end_consideration_button"
 			quadTextureSprite= "GFX_vote_against_icon"
-			position = { x=485 y = -32 }
+			position = { x=485 y = 6 }
 		}
 		
 		windowType = {
