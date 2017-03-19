@@ -44,7 +44,7 @@ guiTypes = {
 
 			instantTextBoxType = {
 				name = "regiment_count"
-				position = { x = 74  y = 8 }
+				position = { x = 54  y = 8 }
 				textureFile = ""
 				font = "vic_22"
 				borderSize = {x = 0 y = 0}
@@ -297,7 +297,7 @@ guiTypes = {
 
 			instantTextBoxType = {
 				name = "regiment_count"
-				position = { x = 74  y = 8 }
+				position = { x = 54  y = 8 }
 				textureFile = ""
 				font = "vic_22"
 				borderSize = {x = 0 y = 0}
@@ -501,7 +501,7 @@ guiTypes = {
 			name = "count"
 			#position = { x = 95 y = 13 }vanilla 2.6
 			#position = { x = 75 y = 13 }vanilla 2.7
-			position = { x = 97 y = 13 }#arkopack
+			position = { x = 82 y = 13 }#arkopack
 			textureFile = ""
 			font = "vic_18"
 			borderSize = {x = 0 y = 0}
