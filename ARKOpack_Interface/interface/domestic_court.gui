@@ -435,14 +435,14 @@ guiTypes = {
 		
 		guiButtonType = {
 			name = "toggle_show_commanders_only"
-			position = { x = 67 y = 29 }
+			position = { x = 66 y = 29 }
 			quadTextureSprite ="GFX_checkbox_commandants"#arkopack
 #			quadTextureSprite ="GFX_checkbox_default" #V26&27
 		}
 		
 		instantTextBoxType = {
 			name = "toggle_show_commanders_only_text"
-			position = { x = 102 y = 37 }
+			position = { x = 99 y = 37 }
 			textureFile = ""
 			font = "vic_18"
 			text = "SHOW_COMMANDERS_ONLY"	
@@ -952,12 +952,17 @@ guiTypes = {
 			fixedsize = yes
 		}
 
+		iconType =	{ #arkopack
+			name ="vote_strip_bg_reunion"
+			spriteType= "GFX_vote_strip_bg_reunion"
+			position = { x= 0 y = -4 }
+			Orientation = "UPPER_LEFT"
+		}
 		instantTextBoxType = {
 			name = "council_regency_text"
-			#position = { x = 43 y = 0 }#vanilla 26&27
-			position = { x = 43 y = 0 }#+3from vanilla
-			maxWidth = 450
-			maxHeight = 192
+			position = { x = 60 y = 0 }
+			maxWidth = 409
+			maxHeight = 70
 			textureFile = ""
 			font = "vic_22"
 			text = "UI_MISSING_TEXT"	
@@ -966,13 +971,12 @@ guiTypes = {
 			alwaystransparent = yes
 		}
 		instantTextBoxType = {
-			name = "council_vote_text"
-			#position = { x = 40 y = -25 }#V27
-			position = { x = 27 y = 13 }#+3from vanilla
-			maxWidth = 450
-			maxHeight = 25
+			name = "council_vote_text" #proposition de vote
+			position = { x = 0 y = 0 }
+			maxWidth = 528
+			maxHeight = 70
 			textureFile = ""
-			font = "vic_18"
+			font = "vic_22"
 			text = ""	
 			fixedsize = yes
 			format = center
@@ -998,15 +1002,15 @@ guiTypes = {
 
 		### VOTE STUFF
 		guiButtonType =	{
-			name ="start_vote_button"
+			name ="start_vote_button" #proposition de vote
 			quadTextureSprite= "GFX_vote_for_icon"
-			position = { x=17 y = 6 }
+			position = { x=27 y = 8 }
 		}
 		
 		guiButtonType =	{
 			name ="end_consideration_button"
 			quadTextureSprite= "GFX_vote_against_icon"
-			position = { x=485 y = 6 }
+			position = { x=475 y = 8 }
 		}
 		
 		windowType = {

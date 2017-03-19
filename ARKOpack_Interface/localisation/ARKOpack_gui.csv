@@ -41,5 +41,6 @@ COMBATS_INTERFACE_LABEL;§YLand Combat§!;§YBatailles§!;§YGefechte§!;§YWalki§!;§YC
 SAVE_RULES;Save Rules;Sauvegarder les règles;Regeln speichern;;Guardar reglas;;;;;;;;;x
 LOAD_RULES;Load Rules;Charger les règles;Regeln laden;;Cargar reglas;;;;;;;;;x
 SHOW_COMMANDERS_ONLY;Show Commanders Only;Ne voir que les commandants;Nur Befehlshaber anzeigen;;Mostrar solo comandantes;;;;;;;;;x
-COUNCIL_CONSIDERATION_LAW;The council is currently considering:\n $LAW|Y$;Le Conseil étudie la loi : \n"$LAW|Y$";Der Rat zieht derzeit Folgendes in Erwägung: $LAW|Y$;;El consejo está considerando una ley: $LAW|Y$.;;;;;;x
+COUNCIL_CONSIDERATION_LAW;The council is currently considering:\n$LAW|Y$;Le Conseil étudie la loi : \n$LAW|Y$;Der Rat zieht derzeit Folgendes in Erwägung: $LAW|Y$;;El consejo está considerando una ley: $LAW|Y$.;;;;;;x
+COUNCIL_VOTE_LAW;The council is currently voting on:\n$LAW|Y$;Le Conseil vote sur : \n$LAW|Y$;Der Rat stimmt derzeit über Folgendes ab: $LAW|Y$;;El consejo está votando en relación a $LAW|Y$.;;;;;;x
 #PLOTTERS_LABEL;Known Plots;Complots découverts;Verschwörungen;;Complots Conocidos;;;;;;;;;x
