@@ -74,7 +74,7 @@ guiTypes = {
 		iconType =
 		{
 			name ="vote_strip_bg"
-			spriteType = "GFX_vote_strip_bg"
+			spriteType = "GFX_vote_strip_bg_arkopack"
 			position = { x= 223 y = 82 }
 			Orientation = "UPPER_LEFT"
 		}
