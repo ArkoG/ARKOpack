@@ -50,6 +50,10 @@ spriteTypes = {
 		name = "GFX_domaine"
 		texturefile = "gfx\\interface\\province_bg_domaines.dds"
 	}
+	spriteType = {
+		name = "GFX_treasury_button_arkopack"
+		texturefile = "gfx\\interface\\inventory\\open_inventory_button_arkopack.dds"
+	}
 	progressbartype = {
 		name = "GFX_default_progress_arko" #anciennement pour trade post -big-
 		color = { 0.0 0.5 0.0 }
@@ -189,6 +193,11 @@ spriteTypes = {
 	spriteType = {
 		name = "GFX_game_rules_bg_button_overlay_arkopack2"
 		texturefile = "gfx/interface/rule_bg_button_overlay_arko2.dds"
+	}
+	spriteType = {
+		name = "GFX_rule_filter_dropdown_arkopack"
+		texturefile = "gfx\\interface\\rule_filter_dropdown.dds"
+		clicksound = generic_click_02
 	}
 	
 ###SIEGE VIEW
@@ -414,6 +423,10 @@ spriteTypes = {
 	spriteType = {
 		name = "GFX_charview_wikipedia_real"
 		texturefile = "gfx\\interface\\charview_goto_wiki_real.dds"
+	}
+	spriteType = {
+		name = "GFX_charview_wikipedia_sidebutton"
+		texturefile = "gfx\\interface\\charview_goto_wiki_sidebutton.dds"
 	}
 	spriteType = {
 		name = "GFX_religion_icon_strip_decorated"
