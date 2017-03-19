@@ -1,17 +1,21 @@
 MOD NAME : ARKOpack
 MOD/DATE/NAME VERSION : 
 standalone version : remember remember (this 17th of november)
-GAME VERSION COMPATIBILITY : v2.5.x v2.6.x for CoApack
-GAME VERSION COMPATIBILITY : v2.6.x for GUIpack
-CURRENT DEV/BETA : v2.6.x 
+GAME VERSION COMPATIBILITY : v2.5.x v2.6.x v2.7x for CoApack
+GAME VERSION COMPATIBILITY : v2.7.x for GUIpack
+CURRENT DEV/BETA : v2.7.x 
 
 see included readme's for details
 
---2017-01-xx DEV changelog---
+--2017-03-19 changelog---
+
 ARMOIRIES :
--###-re-adds some reworked vanilla 3 colours CoA designs for Zoroastrian group (not save compatible)
+-2.7 upgrade
+-re-adds some reworked vanilla 3 colours CoA designs for Zoroastrian group (not save compatible)
 -(SWMH) redrawn title CoA for duchy level Bar/Basel
 -(SWMH) redrawn title CoA for county level Bar/Basel/Zollern/Kuenring/Mousson/Montbéliard
+-customizer // adds a full set of customization for muslim under "Sayf al Islam" religion style
+-customizer // the coats of arms from the COA DLC are now available in the customizer under "DLC" religion style
 
 INTERFACE :
 -family_tree // added some embellishments
@@ -32,7 +36,11 @@ INTERFACE :
 -build_building view // fixed a transparency issue
 -rules_view // new design displaying more rules at once
 -succession view // reworked design
-
+-2.7 upgrade
+-main_view // fixed society topbar icon being too bright
+-rules_view // various improvments
+-council view // adjusted attributes colours
+-intrigue view // made intrigue purple banner less ugly
 
 --2016-12-31 changelog--- 
 
