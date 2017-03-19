@@ -6,6 +6,8 @@
 ################################
 
 # Corsica and Sardinia
+0 - PLACEHOLDER
+
 1 - Della Rocca, 101840
 2 - Logudoro/di Torres, 101850
 3 - Cervera, 8758
@@ -14,8 +16,8 @@
 # Liguria
 5 - Fieschi, ID 13028
 6 - Grimaldi, ID 13016
-7 - Embriaco, ID 230107
-8 - D'Oria, ID 13014
+7 - Embriaco, ID 23107
+8 - D'Oria, ID 13041
 9 - Spinola, ID 50
 10 - Ventimiglia, ID 67
 11 - di Caretto, ID 101824
@@ -61,7 +63,7 @@
 46 - Gradenigo, 13007
 47 - Montemerlo(they are most commonly called Transalgardi (their subbranch who took over was called "Capodilista". Capodilista mostly had a red goat on gold with a branch in the mouth though, but sometimes they used the old arms aswell), ID 8670
 48 - Crispo, ID 13023
-49 - Castropola, ID 7377
+#49 - Castropola, ID 7377
 50 - Tiepolo, ID 13006
 51 - Ghisi, ID 7218
 52 - Michele, ID 7235
@@ -72,7 +74,7 @@
 57 - Mastropiero, ID 13076
 58 - Cornaro, ID 13079
 59 - Flabanico, ID 13071
-60 - Faliero, ID 13045 or ID 514?
+60 - Faliero, ID 514
 61 - Dandolo, ID 13027
 62 - Contarini, ID 516
 63 - Morosini, ID 13070
@@ -91,11 +93,12 @@
 76 - Boccasini, ID 13056
 77 - Colleoni, 13017
 78 - Sommariva(aka Sommeripa), ID 101845
+79 - PLACEHOLDER
 
 # Po Valley
 80 - d'Este, ID 679
 81 - Pallavicini, ID 13002
-82 - Scotti, ID 3125
+82 - Scotti, ID 101844
 83 - di Maltraversi, ID 8708
 84 - Turchi, ID 8721. Its the arms of Giocoli from which they decended, I've been unable to track down a description of Turchi's own.
 85 - Cavalcabò, ID 101825
@@ -107,6 +110,7 @@
 91 - Rossi, ID 101841
 92 - Pico di Mirandola, ID 101834
 93 - Pio, ID 8724
+94 - PLACEHOLDER
 
 # Emilia
 95 - Guidotti, 8675
@@ -139,7 +143,7 @@
 119 - Cadolingi, 1042020
 120 - Gheradesca, 13031
 121 - Caetani 622
-122 - Alighieri, 104440
+122 - Alighieri, 10444007
 123 - Piccolomini, 515
 124 - Paganelli, ID 8786
 125 - Allucingolli, ID 8789

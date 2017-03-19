@@ -12,10 +12,12 @@ see included readme's for details
 ARMOIRIES :
 -2.7 upgrade
 -re-adds some reworked vanilla 3 colours CoA designs for Zoroastrian group (not save compatible)
--(SWMH) redrawn title CoA for duchy level Bar/Basel
--(SWMH) redrawn title CoA for county level Bar/Basel/Zollern/Kuenring/Mousson/Montbéliard
+-SWMH-only redrawn title CoA for duchy level Bar/Basel
+-SWMH-only redrawn title CoA for county level Bar/Basel/Zollern/Kuenring/Mousson/Montbéliard
 -customizer // adds a full set of customization for muslim under "Sayf al Islam" religion style
 -customizer // the coats of arms from the COA DLC are now available in the customizer under "DLC" religion style
+-SWMH-only adds about 180  new dynastic CoA for italian dynasties (credits to Aasmul)
+-adds 160 new dynastic CoA for italian dynasties (credits to Aasmul)
 
 INTERFACE :
 -family_tree // added some embellishments

@@ -6,7 +6,16 @@
 	name="Orsini"
 	culture="italian"
 	religion="catholic"
-	coat_of_arms = {	template = 0	layer = {	texture = 6	texture_internal = 17	emblem = 0	color = 0	color = 0	color = 0	}	}
+#	coat_of_arms = {	template = 0	layer = {	texture = 6	texture_internal = 17	emblem = 0	color = 0	color = 0	color = 0	}	}
+	coat_of_arms = {
+		template = 0	
+		layer = {	
+			texture = 16 #italian job	
+			texture_internal = 140	
+			emblem = 0	
+			color = 0	color = 0	color = 0
+			}
+	}
 }
 3 = {
 	name="de Villeneuve"
@@ -296,16 +305,25 @@
 	culture="italian"
 	religion="catholic"
 	
+#	coat_of_arms = {
+#		template = 0
+#		layer = {
+#			texture = 9
+#			texture_internal = 12
+#			emblem = 0
+#			color = 0
+#			color = 0
+#			color = 0
+#		}
+#	}
 	coat_of_arms = {
-		template = 0
-		layer = {
-			texture = 9
-			texture_internal = 12
-			emblem = 0
-			color = 0
-			color = 0
-			color = 0
-		}
+		template = 0	
+		layer = {	
+			texture = 16 #italian job	
+			texture_internal = 9	
+			emblem = 0	
+			color = 0	color = 0	color = 0
+			}
 	}
 }
 51 = {
@@ -395,19 +413,55 @@
 64 = {
 	name="Moncada"
 	culture ="italian"
+	coat_of_arms = {
+		template = 0	
+		layer = {	
+			texture = 16 #italian job	
+			texture_internal = 161	
+			emblem = 0	
+			color = 0	color = 0	color = 0
+			}
+	}
 }
 65 = {
-	name="di Chiaramonte"
+	name="di Chiaromonte"
 	culture="italian"
 	religion="catholic"
+	coat_of_arms = {
+		template = 0	
+		layer = {	
+			texture = 16 #italian job	
+			texture_internal = 155	
+			emblem = 0	
+			color = 0	color = 0	color = 0
+			}
+	}
 }
 66 = {
 	name="Palizzi"
 	culture ="italian"
+	coat_of_arms = {
+		template = 0	
+		layer = {	
+			texture = 16 #italian job	
+			texture_internal = 160	
+			emblem = 0	
+			color = 0	color = 0	color = 0
+			}
+	}
 }
 67 = {
 	name="Ventimiglia"
 	culture ="italian"
+	coat_of_arms = {
+		template = 0	
+		layer = {	
+			texture = 16 #italian job	
+			texture_internal = 10	
+			emblem = 0	
+			color = 0	color = 0	color = 0
+			}
+	}
 }
 68 = {
 	name="di Verona"
@@ -1126,6 +1180,15 @@
 	name="di Crivelli"
 	culture ="italian"
 	religion="catholic"
+	coat_of_arms = {
+		template = 0	
+		layer = {	
+			texture = 16 #italian job	
+			texture_internal = 34	
+			emblem = 0	
+			color = 0	color = 0	color = 0
+			}
+	}
 }
 157 = {
 	name="de Chypre"
@@ -1399,7 +1462,16 @@
 	name="Aleramici"
 	culture ="italian"
 	religion="catholic"
-	coat_of_arms = {	template = 0	layer = {	texture = 5	texture_internal = 45	emblem = 0	color = 0	color = 0	color = 0	}	religion="catholic"	}
+	#coat_of_arms = {	template = 0	layer = {	texture = 5	texture_internal = 45	emblem = 0	color = 0	color = 0	color = 0	}	religion="catholic"	}
+	coat_of_arms = {
+		template = 0	
+		layer = {	
+			texture = 16 #italian job	
+			texture_internal = 28	
+			emblem = 0	
+			color = 0	color = 0	color = 0
+			}
+	}
 }
 207 = {
 	name="von Plain"
@@ -1552,7 +1624,16 @@
 	name="Visconti"
 	culture ="italian"
 	religion="catholic"
-	coat_of_arms = {	template = 0	layer = {	texture = 5	texture_internal = 41	emblem = 0	color = 0	color = 0	color = 0	}	}
+	#coat_of_arms = {	template = 0	layer = {	texture = 5	texture_internal = 41	emblem = 0	color = 0	color = 0	color = 0	}	}
+	coat_of_arms = {
+		template = 0	
+		layer = {	
+			texture = 16 #italian job	
+			texture_internal = 31	
+			emblem = 0	
+			color = 0	color = 0	color = 0
+			}
+	}
 }
 235 = {
 	name="de Valpergue"
@@ -2997,43 +3078,79 @@
 	}
 }
 513 = {
-	name="Ordelaffo"
+	name="Ordelaffi"
 	culture ="italian"
+	coat_of_arms = {
+		template = 0	
+		layer = {	
+			texture = 16 #italian job	
+			texture_internal = 103	
+			emblem = 0	
+			color = 0	color = 0	color = 0
+			}
+	}
 }
 514 = {
 	name="Faliero"
 	culture ="italian"
 	
+#	coat_of_arms = {
+#		template = 0
+#		layer = {
+#			texture = 9
+#			texture_internal = 8
+#			emblem = 0
+#			color = 0
+#			color = 0
+#			color = 0
+#		}
+#	}
 	coat_of_arms = {
-		template = 0
-		layer = {
-			texture = 9
-			texture_internal = 8
-			emblem = 0
-			color = 0
-			color = 0
-			color = 0
-		}
+		template = 0	
+		layer = {	
+			texture = 16 #italian job	
+			texture_internal = 60	
+			emblem = 0	
+			color = 0	color = 0	color = 0
+			}
 	}
 }
 515 = {
-	name="Silvio"
+	name="Piccolomini"
 	culture ="italian"
+	coat_of_arms = {
+		template = 0	
+		layer = {	
+			texture = 16 #italian job	
+			texture_internal = 123	
+			emblem = 0	
+			color = 0	color = 0	color = 0
+			}
+	}
 }
 516 = {
 	name="Contarini"
 	culture ="italian"
 	
+#	coat_of_arms = {
+#		template = 0
+#		layer = {
+#			texture = 9
+#			texture_internal = 2
+#			emblem = 0
+#			color = 0
+#			color = 0
+#			color = 0
+#		}
+#	}
 	coat_of_arms = {
-		template = 0
-		layer = {
-			texture = 9
-			texture_internal = 2
-			emblem = 0
-			color = 0
-			color = 0
-			color = 0
-		}
+		template = 0	
+		layer = {	
+			texture = 16 #italian job	
+			texture_internal = 62	
+			emblem = 0	
+			color = 0	color = 0	color = 0
+			}
 	}
 }
 517 = {
@@ -3513,19 +3630,28 @@
 	culture ="italian"
 }
 622 = {
-	name="Gaetani"
+	name="Caetani"
 	culture ="italian"
 	
+#	coat_of_arms = {
+#		template = 0
+#		layer = {
+	#		texture = 9
+#			texture_internal = 1
+#			emblem = 0
+#			color = 0
+#			color = 0
+#			color = 0
+#		}
+#	}
 	coat_of_arms = {
-		template = 0
-		layer = {
-			texture = 9
-			texture_internal = 1
-			emblem = 0
-			color = 0
-			color = 0
-			color = 0
-		}
+		template = 0	
+		layer = {	
+			texture = 16 #italian job	
+			texture_internal = 121	
+			emblem = 0	
+			color = 0	color = 0	color = 0
+			}
 	}
 }
 623 = {
@@ -3840,15 +3966,13 @@
 	name="d'Este"
 	culture ="italian"
 	coat_of_arms = {
-		template = 0
-		layer = {
-			texture = 3 #DLC N°1
-			texture_internal = 17
-			emblem = 0
-			color = 0
-			color = 0
-			color = 0
-		}
+		template = 0	
+		layer = {	
+			texture = 16 #italian job	
+			texture_internal = 80	
+			emblem = 0	
+			color = 0	color = 0	color = 0
+			}
 	}
 }
 680 = {
@@ -7722,12 +7846,30 @@
 	culture ="basque"
 }
 7050 = {
-	name="de Lauria"
+	name="di Lauria"
 	culture ="italian"
+	coat_of_arms = {
+		template = 0	
+		layer = {	
+			texture = 16 #italian job	
+			texture_internal = 154	
+			emblem = 0	
+			color = 0	color = 0	color = 0
+			}
+	}
 }
 7051 = {
-	name = "de Tusculum"
+	name = "Tusculani"
 	culture ="italian"
+	coat_of_arms = {
+		template = 0	
+		layer = {	
+			texture = 16 #italian job	
+			texture_internal = 135	
+			emblem = 0	
+			color = 0	color = 0	color = 0
+			}
+	}
 }
 7052 = {
 	name = "de Provence" # House Bosonids House of Provence
@@ -8301,6 +8443,15 @@ used_for_random = no
 7212 = {
 	name = "de Candia"
 	culture ="italian"
+	coat_of_arms = {
+		template = 0	
+		layer = {	
+			texture = 16 #italian job	
+			texture_internal = 162	
+			emblem = 0	
+			color = 0	color = 0	color = 0
+			}
+	}
 }
 7213 = {
 	name = "Fimetta"
@@ -8317,6 +8468,15 @@ used_for_random = no
 7216 = {
 	name = "Gozzadini"
 	culture ="italian"
+	coat_of_arms = {
+		template = 0	
+		layer = {	
+			texture = 16 #italian job	
+			texture_internal = 109	
+			emblem = 0	
+			color = 0	color = 0	color = 0
+			}
+	}
 }
 7217 = {
 	name = "de Pecoriari"
@@ -8325,6 +8485,15 @@ used_for_random = no
 7218 = {
 	name = "Ghisi"
 	culture ="italian"
+	coat_of_arms = {
+		template = 0	
+		layer = {	
+			texture = 16 #italian job	
+			texture_internal = 51	
+			emblem = 0	
+			color = 0	color = 0	color = 0
+			}
+	}
 }
 7219 = {
 	name = "de Trith"
@@ -8400,18 +8569,54 @@ used_for_random = no
 7235 = {
 	name = "Michele"
 	culture ="italian"
+	coat_of_arms = {
+		template = 0	
+		layer = {	
+			texture = 16 #italian job	
+			texture_internal = 52	
+			emblem = 0	
+			color = 0	color = 0	color = 0
+			}
+	}
 }
 7236 = {
 	name = "Polani"
 	culture ="italian"
+	coat_of_arms = {
+		template = 0	
+		layer = {	
+			texture = 16 #italian job	
+			texture_internal = 53	
+			emblem = 0	
+			color = 0	color = 0	color = 0
+			}
+	}
 }
 7237 = {
 	name = "Zen"
 	culture ="italian"
+	coat_of_arms = {
+		template = 0	
+		layer = {	
+			texture = 16 #italian job	
+			texture_internal = 54	
+			emblem = 0	
+			color = 0	color = 0	color = 0
+			}
+	}
 }
 7238 = {
 	name = "Soranzo"
 	culture ="italian"
+	coat_of_arms = {
+		template = 0	
+		layer = {	
+			texture = 16 #italian job	
+			texture_internal = 55	
+			emblem = 0	
+			color = 0	color = 0	color = 0
+			}
+	}
 }
 7239 = {
 	name = "de Grimmingen"
@@ -8464,6 +8669,15 @@ used_for_random = no
 7250 = {
 	name="Tocco"
 	culture ="italian"
+	coat_of_arms = {
+		template = 0	
+		layer = {	
+			texture = 16 #italian job	
+			texture_internal = 152	
+			emblem = 0	
+			color = 0	color = 0	color = 0
+			}
+	}
 }
 7251 = {
 	name="di Licinardo"
@@ -8977,6 +9191,15 @@ used_for_random = no
 7377 = {
 	name="di Castropola"
 	culture ="italian"
+	coat_of_arms = {
+		template = 0	
+		layer = {	
+			texture = 16 #italian job	
+			texture_internal = 43
+			emblem = 0	
+			color = 0	color = 0	color = 0
+			}
+	}
 }
 7378 = {
 	name="Kán"
@@ -9502,10 +9725,28 @@ used_for_random = no
 8669 = {
 	name="di Biandrate"
 	culture ="italian"
+	coat_of_arms = {
+		template = 0	
+		layer = {	
+			texture = 16 #italian job	
+			texture_internal = 38	
+			emblem = 0	
+			color = 0	color = 0	color = 0
+			}
+	}
 }
 8670 = {
-	name="di Montemerlo"
+	name="Montemerlo"
 	culture ="italian"
+	coat_of_arms = {
+		template = 0	
+		layer = {	
+			texture = 16 #italian job	
+			texture_internal = 47
+			emblem = 0	
+			color = 0	color = 0	color = 0
+			}
+	}
 }
 8671 = {
 	name="Buzzacavani"
@@ -9522,10 +9763,28 @@ used_for_random = no
 8674 = {
 	name="Pepoli"
 	culture ="italian"
+	coat_of_arms = {
+		template = 0	
+		layer = {	
+			texture = 16 #italian job	
+			texture_internal = 107	
+			emblem = 0	
+			color = 0	color = 0	color = 0
+			}
+	}
 }
 8675 = {
 	name="di Guidoti"
 	culture ="italian"
+	coat_of_arms = {
+		template = 0	
+		layer = {	
+			texture = 16 #italian job	
+			texture_internal = 95	
+			emblem = 0	
+			color = 0	color = 0	color = 0
+			}
+	}
 }
 8676 = {
 	name="Boccadelli"
@@ -9534,6 +9793,15 @@ used_for_random = no
 8677 = {
 	name="Borri"
 	culture ="italian"
+	coat_of_arms = {
+		template = 0	
+		layer = {	
+			texture = 16 #italian job	
+			texture_internal = 39	
+			emblem = 0	
+			color = 0	color = 0	color = 0
+			}
+	}
 }
 8678 = {
 	name="Botticelli"
@@ -9542,6 +9810,15 @@ used_for_random = no
 8679 = {
 	name="Caccianemici"
 	culture ="italian"
+	coat_of_arms = {
+		template = 0	
+		layer = {	
+			texture = 16 #italian job	
+			texture_internal = 96	
+			emblem = 0	
+			color = 0	color = 0	color = 0
+			}
+	}
 }
 8680 = {
 	name="Cambiano"
@@ -9552,12 +9829,30 @@ used_for_random = no
 	culture = "frankish"
 }
 8682 = {
-	name="d'Aquino"
+	name="di Aquino"
 	culture ="italian"
+	coat_of_arms = {
+		template = 0	
+		layer = {	
+			texture = 16 #italian job	
+			texture_internal = 133	
+			emblem = 0	
+			color = 0	color = 0	color = 0
+			}
+	}
 }
 8683 = {
 	name="da Dovara"
 	culture ="italian"
+	coat_of_arms = {
+		template = 0	
+		layer = {	
+			texture = 16 #italian job	
+			texture_internal = 30	
+			emblem = 0	
+			color = 0	color = 0	color = 0
+			}
+	}
 }
 8684 = {
 	name="da Egna"
@@ -9566,6 +9861,15 @@ used_for_random = no
 8685 = {
 	name="de Alagón"
 	culture ="castillan"
+	coat_of_arms = {
+		template = 0	
+		layer = {	
+			texture = 16 #italian job	
+			texture_internal = 164	
+			emblem = 0	
+			color = 0	color = 0	color = 0
+			}
+	}
 }
 8686 = {
 	name="de Cicon"
@@ -9614,6 +9918,15 @@ used_for_random = no
 8697 = {
 	name="del Balzo"
 	culture ="italian"
+	coat_of_arms = {
+		template = 0	
+		layer = {	
+			texture = 16 #italian job	
+			texture_internal = 156
+			emblem = 0	
+			color = 0	color = 0	color = 0
+			}
+	}
 }
 8698 = {
 	name="di Agledo"
@@ -9626,6 +9939,15 @@ used_for_random = no
 8700 = {
 	name="di Barbiano"
 	culture ="italian"
+	coat_of_arms = {
+		template = 0	
+		layer = {	
+			texture = 16 #italian job	
+			texture_internal = 105	
+			emblem = 0	
+			color = 0	color = 0	color = 0
+			}
+	}
 }
 8701 = {
 	name="di Brayda"
@@ -9638,6 +9960,15 @@ used_for_random = no
 8703 = {
 	name="di Ceva"
 	culture ="italian"
+	coat_of_arms = {
+		template = 0	
+		layer = {	
+			texture = 16 #italian job	
+			texture_internal = 26	
+			emblem = 0	
+			color = 0	color = 0	color = 0
+			}
+	}
 }
 8704 = {
 	name="di Cosseria"
@@ -9652,12 +9983,30 @@ used_for_random = no
 	culture ="italian"
 }
 8707 = {
-	name="di L'Aquila"
+	name="L'Aquila"
 	culture ="italian"
+	coat_of_arms = {
+		template = 0	
+		layer = {	
+			texture = 16 #italian job	
+			texture_internal = 153	
+			emblem = 0	
+			color = 0	color = 0	color = 0
+			}
+	}
 }
 8708 = {
 	name="di Maltraversi"
 	culture ="italian"
+	coat_of_arms = {
+		template = 0	
+		layer = {	
+			texture = 16 #italian job	
+			texture_internal = 83	
+			emblem = 0	
+			color = 0	color = 0	color = 0
+			}
+	}
 }
 8709 = {
 	name="di Mansano"
@@ -9694,6 +10043,15 @@ used_for_random = no
 8717 = {
 	name="Guercio"
 	culture ="italian"
+	coat_of_arms = {
+		template = 0	
+		layer = {	
+			texture = 16 #italian job	
+			texture_internal = 14	
+			emblem = 0	
+			color = 0	color = 0	color = 0
+			}
+	}
 }
 8718 = {
 	name="Mandelli"
@@ -9702,6 +10060,15 @@ used_for_random = no
 8719 = {
 	name="Monticelli"
 	culture ="italian"
+	coat_of_arms = {
+		template = 0	
+		layer = {	
+			texture = 16 #italian job	
+			texture_internal = 158
+			emblem = 0	
+			color = 0	color = 0	color = 0
+			}
+	}
 }
 8720 = {
 	name="Navigajoso"
@@ -9710,6 +10077,15 @@ used_for_random = no
 8721 = {
 	name="Turchi"
 	culture ="italian"
+	coat_of_arms = {
+		template = 0	
+		layer = {	
+			texture = 16 #italian job	
+			texture_internal = 84	
+			emblem = 0	
+			color = 0	color = 0	color = 0
+			}
+	}
 }
 8722 = {
 	name="Pettiti"
@@ -9718,14 +10094,41 @@ used_for_random = no
 8723 = {
 	name="Pierleoni"
 	culture ="italian"
+	coat_of_arms = {
+		template = 0	
+		layer = {	
+			texture = 16 #italian job	
+			texture_internal = 131	
+			emblem = 0	
+			color = 0	color = 0	color = 0
+			}
+	}
 }
 8724 = {
 	name="Pio"
 	culture ="italian"
+	coat_of_arms = {
+		template = 0	
+		layer = {	
+			texture = 16 #italian job	
+			texture_internal = 93	
+			emblem = 0	
+			color = 0	color = 0	color = 0
+			}
+	}
 }
 8725 = {
 	name="Pirovano"
 	culture ="italian"
+	coat_of_arms = {
+		template = 0	
+		layer = {	
+			texture = 16 #italian job	
+			texture_internal = 111	
+			emblem = 0	
+			color = 0	color = 0	color = 0
+			}
+	}
 }
 8726 = {
 	name="Rangoni"
@@ -9742,6 +10145,15 @@ used_for_random = no
 8729 = {
 	name="Valperga"
 	culture ="italian"
+	coat_of_arms = {
+		template = 0	
+		layer = {	
+			texture = 16 #italian job	
+			texture_internal = 25	
+			emblem = 0	
+			color = 0	color = 0	color = 0
+			}
+	}
 }
 8730 = {
 	name="von Leibrechtskirchen"
@@ -9759,6 +10171,15 @@ used_for_random = no
 8733 = {
 	name="Zaccaria"
 	culture ="italian"
+	coat_of_arms = {
+		template = 0	
+		layer = {	
+			texture = 16 #italian job	
+			texture_internal = 15	
+			emblem = 0	
+			color = 0	color = 0	color = 0
+			}
+	}
 }
 8734 = {
 	name="Zorzi"
@@ -9871,6 +10292,15 @@ used_for_random = no
 8758 = {
 	name="de Cervera"
 	culture ="catalan"
+	coat_of_arms = {
+		template = 0	
+		layer = {	
+			texture = 16 #italian job	
+			texture_internal = 3	
+			emblem = 0	
+			color = 0	color = 0	color = 0
+			}
+	}
 }
 8759 = {
 	name="de Torroja"
@@ -9977,16 +10407,43 @@ used_for_random = no
 	culture ="italian"
 }
 8785 = {
-	name="di Castello"
+	name="Castelli"
 	culture ="italian"
+	coat_of_arms = {
+		template = 0	
+		layer = {	
+			texture = 16 #italian job	
+			texture_internal = 133
+			emblem = 0	
+			color = 0	color = 0	color = 0
+			}
+	}
 }
 8786 = {
 	name="Paganelli"
 	culture ="italian"
+	coat_of_arms = {
+		template = 0	
+		layer = {	
+			texture = 16 #italian job	
+			texture_internal = 124	
+			emblem = 0	
+			color = 0	color = 0	color = 0
+			}
+	}
 }
 8787 = {
-	name="della Suburra"
+	name="della Subrra"
 	culture ="italian"
+	coat_of_arms = {
+		template = 0	
+		layer = {	
+			texture = 16 #italian job	
+			texture_internal = 144	
+			emblem = 0	
+			color = 0	color = 0	color = 0
+			}
+	}
 }
 8788 = {
 	name="Breakspear"
@@ -9995,20 +10452,38 @@ used_for_random = no
 8789 = {
 	name="Allucingolli"
 	culture ="italian"
+	coat_of_arms = {
+		template = 0	
+		layer = {	
+			texture = 16 #italian job	
+			texture_internal = 125	
+			emblem = 0	
+			color = 0	color = 0	color = 0
+			}
+	}
 }
 8790 = {
 	name="di Conti"
 	culture ="italian"
- 	coat_of_arms = {
-		template = 0
-			layer = {
-			texture = 6
-			texture_internal = 11
-			emblem = 0
-			color = 0
-			color = 0
-			color = 0
-		}
+# 	coat_of_arms = {
+#		template = 0
+#			layer = {
+#			texture = 6
+#			texture_internal = 11
+#			emblem = 0
+#			color = 0
+#			color = 0
+#			color = 0
+#		}
+#	}
+	coat_of_arms = {
+		template = 0	
+		layer = {	
+			texture = 16 #italian job	
+			texture_internal = 134	
+			emblem = 0	
+			color = 0	color = 0	color = 0
+			}
 	}
 }
 8791 = {
@@ -10034,6 +10509,15 @@ used_for_random = no
 8796 = {
 	name="Angelerio"
 	culture ="italian"
+	coat_of_arms = {
+		template = 0	
+		layer = {	
+			texture = 16 #italian job	
+			texture_internal = 159	
+			emblem = 0	
+			color = 0	color = 0	color = 0
+			}
+	}
 }
 8797 = {
 	name="de Got"
@@ -11347,10 +11831,28 @@ used_for_random = no
 12243 = {
 	name= "di Aquino"
 	culture ="italian"
+	coat_of_arms = {
+		template = 0	
+		layer = {	
+			texture = 16 #italian job	
+			texture_internal = 132	
+			emblem = 0	
+			color = 0	color = 0	color = 0
+			}
+	}
 }
 12244 = {
 	name= "di Gaeta"
 	culture ="italian"
+	coat_of_arms = {
+		template = 0	
+		layer = {	
+			texture = 16 #italian job	
+			texture_internal = 150	
+			emblem = 0	
+			color = 0	color = 0	color = 0
+			}
+	}
 }
 12245 = {
 	name= "di Celano"
@@ -11893,51 +12395,159 @@ used_for_random = no
 13000 = {
 	name="Cybo"
 	culture ="italian"
+	coat_of_arms = {
+		template = 0	
+		layer = {	
+			texture = 16 #italian job	
+			texture_internal = 13	
+			emblem = 0	
+			color = 0	color = 0	color = 0
+			}
+	}
 }
 13001 = {
 	name="Boccanegra"
 	culture ="italian"
+	coat_of_arms = {
+		template = 0	
+		layer = {	
+			texture = 16 #italian job	
+			texture_internal = 16	
+			emblem = 0	
+			color = 0	color = 0	color = 0
+			}
+	}
 }
 13002 = {
 	name="Pallavicini"
 	culture ="italian"
-	coat_of_arms = {	template = 0	layer = {	texture = 5	texture_internal = 63	emblem = 0	color = 0	color = 0	color = 0	}	}
+	#coat_of_arms = {	template = 0	layer = {	texture = 5	texture_internal = 63	emblem = 0	color = 0	color = 0	color = 0	}	}
+	coat_of_arms = {
+		template = 0	
+		layer = {	
+			texture = 16 #italian job	
+			texture_internal = 81	
+			emblem = 0	
+			color = 0	color = 0	color = 0
+			}
+	}
 }
 13003 = {
 	name="Adorno"
 	culture ="italian"
+	coat_of_arms = {
+		template = 0	
+		layer = {	
+			texture = 16 #italian job	
+			texture_internal = 17	
+			emblem = 0	
+			color = 0	color = 0	color = 0
+			}
+	}
 }
 13004 = {
 	name="Campofregoso"
 	culture ="italian"
+	coat_of_arms = {
+		template = 0	
+		layer = {	
+			texture = 16 #italian job	
+			texture_internal = 18	
+			emblem = 0	
+			color = 0	color = 0	color = 0
+			}
+	}
 }
 13005 = {
 	name="Bentivoglio"
 	culture ="italian"
+	coat_of_arms = {
+		template = 0	
+		layer = {	
+			texture = 16 #italian job	
+			texture_internal = 108	
+			emblem = 0	
+			color = 0	color = 0	color = 0
+			}
+	}
 }
 13006 = {
 	name="Tiepolo"
 	culture ="italian"
+	coat_of_arms = {
+		template = 0	
+		layer = {	
+			texture = 16 #italian job	
+			texture_internal = 50	
+			emblem = 0	
+			color = 0	color = 0	color = 0
+			}
+	}
 }
 13007 = {
 	name="Gradenigo"
 	culture ="italian"
+	coat_of_arms = {
+		template = 0	
+		layer = {	
+			texture = 16 #italian job	
+			texture_internal = 46
+			emblem = 0	
+			color = 0	color = 0	color = 0
+			}
+	}
 }
 13008 = {
 	name="Borghese"
 	culture ="italian"
+	coat_of_arms = {
+		template = 0	
+		layer = {	
+			texture = 16 #italian job	
+			texture_internal = 126	
+			emblem = 0	
+			color = 0	color = 0	color = 0
+			}
+	}
 }
 13009 = {
 	name="Borromeo"
 	culture ="italian"
+	coat_of_arms = {
+		template = 0	
+		layer = {	
+			texture = 16 #italian job	
+			texture_internal = 41
+			emblem = 0	
+			color = 0	color = 0	color = 0
+			}
+	}
 }
 13010 = {
 	name="Giustiniano"
 	culture ="italian"
+	coat_of_arms = {
+		template = 0	
+		layer = {	
+			texture = 16 #italian job	
+			texture_internal = 22	
+			emblem = 0	
+			color = 0	color = 0	color = 0
+			}
+	}
 }
 13011 = {
 	name="Delfino"
 	culture ="italian"
+	coat_of_arms = {
+		template = 0	
+		layer = {	
+			texture = 16 #italian job	
+			texture_internal = 72	
+			emblem = 0	
+			color = 0	color = 0	color = 0
+			}
+	}
 }
 13012 = {
 	name="Capponi"
@@ -11946,34 +12556,79 @@ used_for_random = no
 13013 = {
 	name="Castracani"
 	culture ="italian"
+	coat_of_arms = {
+		template = 0	
+		layer = {	
+			texture = 16 #italian job	
+			texture_internal = 112	
+			emblem = 0	
+			color = 0	color = 0	color = 0
+			}
+	}
 }
 13014 = {
 	name="da Baggio"
 	culture ="italian"
+	coat_of_arms = {
+		template = 0	
+		layer = {	
+			texture = 16 #italian job	
+			texture_internal = 37	
+			emblem = 0	
+			color = 0	color = 0	color = 0
+			}
+	}
 }
 13015 = {
-	name="Cenci"
+	name="Cencii"
 	culture ="italian"
+	coat_of_arms = {
+		template = 0	
+		layer = {	
+			texture = 16 #italian job	
+			texture_internal = 137	
+			emblem = 0	
+			color = 0	color = 0	color = 0
+			}
+	}
 }
 13016 = {
 	name="Grimaldi"
 	culture ="italian"
 	
+#	coat_of_arms = {
+#		template = 0
+#		layer = {
+#			texture = 9
+#			texture_internal = 10
+#			emblem = 0
+#			color = 0
+#			color = 0
+#			color = 0
+#		}
+#	}
 	coat_of_arms = {
-		template = 0
-		layer = {
-			texture = 9
-			texture_internal = 10
-			emblem = 0
-			color = 0
-			color = 0
-			color = 0
-		}
+		template = 0	
+		layer = {	
+			texture = 16 #italian job	
+			texture_internal = 6	
+			emblem = 0	
+			color = 0	color = 0	color = 0
+			}
 	}
 }
 13017 = {
 	name="Colleoni"
 	culture ="italian"
+	coat_of_arms = {
+		template = 0	
+		layer = {	
+			texture = 16 #italian job	
+			texture_internal = 77	
+			emblem = 0	
+			color = 0	color = 0	color = 0
+			}
+	}
 }
 13018 = {
 	name="Colombo"
@@ -11982,6 +12637,15 @@ used_for_random = no
 13019 = {
 	name="Colonna"
 	culture ="italian"
+	coat_of_arms = {
+		template = 0	
+		layer = {	
+			texture = 16 #italian job	
+			texture_internal = 136
+			emblem = 0	
+			color = 0	color = 0	color = 0
+			}
+	}
 }
 13020 = {
 	name="Concini"
@@ -11994,6 +12658,15 @@ used_for_random = no
 13023 = {
 	name="Crispo"
 	culture ="italian"
+	coat_of_arms = {
+		template = 0	
+		layer = {	
+			texture = 16 #italian job	
+			texture_internal = 48
+			emblem = 0	
+			color = 0	color = 0	color = 0
+			}
+	}
 }
 13024 = {
 	name="da Carmagnola"
@@ -12002,7 +12675,16 @@ used_for_random = no
 13025 = {
 	name="da Romano"
 	culture ="italian"
-	coat_of_arms = {	template = 0	layer = {	texture = 5	texture_internal = 88	emblem = 0	color = 0	color = 0	color = 0	}	}
+	#coat_of_arms = {	template = 0	layer = {	texture = 5	texture_internal = 88	emblem = 0	color = 0	color = 0	color = 0	}	}
+	coat_of_arms = {
+		template = 0	
+		layer = {	
+			texture = 16 #italian job	
+			texture_internal = 42
+			emblem = 0	
+			color = 0	color = 0	color = 0
+			}
+	}
 }
 13026 = {
 	name="d'Appiano"
@@ -12024,70 +12706,142 @@ used_for_random = no
 	name="Dandolo"
 	culture ="italian"
 	
+#	coat_of_arms = {
+#		template = 0
+#		layer = {
+#			texture = 9
+#			texture_internal = 3
+#			emblem = 0
+#			color = 0
+#			color = 0
+#			color = 0
+#		}
+#	}
 	coat_of_arms = {
-		template = 0
-		layer = {
-			texture = 9
-			texture_internal = 3
-			emblem = 0
-			color = 0
-			color = 0
-			color = 0
-		}
+		template = 0	
+		layer = {	
+			texture = 16 #italian job	
+			texture_internal = 61
+			emblem = 0	
+			color = 0	color = 0	color = 0
+			}
 	}
 }
 13028 = {
 	name="Fieschi"
 	culture ="italian"
 	
+#	coat_of_arms = {
+#		template = 0
+#		layer = {
+#			texture = 6
+#			texture_internal = 14
+#			emblem = 0
+#			color = 0
+#			color = 0
+#			color = 0
+#		}
+#	}
 	coat_of_arms = {
-		template = 0
-		layer = {
-			texture = 6
-			texture_internal = 14
-			emblem = 0
-			color = 0
-			color = 0
-			color = 0
-		}
+		template = 0	
+		layer = {	
+			texture = 16 #italian job	
+			texture_internal = 5	
+			emblem = 0	
+			color = 0	color = 0	color = 0
+			}
 	}
 }
 13029 = {
 	name="Gattilusio"
 	culture ="italian"
+	coat_of_arms = {
+		template = 0	
+		layer = {	
+			texture = 16 #italian job	
+			texture_internal = 19	
+			emblem = 0	
+			color = 0	color = 0	color = 0
+			}
+	}
 }
 13030 = {
 	name="de Medici"
 	culture ="italian"
+	coat_of_arms = {
+		template = 0	
+		layer = {	
+			texture = 16 #italian job	
+			texture_internal = 114	
+			emblem = 0	
+			color = 0	color = 0	color = 0
+			}
+	}
 }
 13031 = {
-	name="della Gherardesca"
+	name="Gherardesca"
 	culture ="italian"
 	
+#	coat_of_arms = {
+#		template = 0
+#		layer = {
+#			texture = 9
+#			texture_internal = 5
+#			emblem = 0
+#			color = 0
+#			color = 0
+#			color = 0
+#		}
+#	}
 	coat_of_arms = {
-		template = 0
-		layer = {
-			texture = 9
-			texture_internal = 5
-			emblem = 0
-			color = 0
-			color = 0
-			color = 0
-		}
+		template = 0	
+		layer = {	
+			texture = 16 #italian job	
+			texture_internal = 120	
+			emblem = 0	
+			color = 0	color = 0	color = 0
+			}
 	}
 }
 13032 = {
 	name="della Scala"
 	culture ="italian"
-	coat_of_arms = {	template = 0	layer = {	texture = 5	texture_internal = 89	emblem = 0	color = 0	color = 0	color = 0	}	}
+	#coat_of_arms = {	template = 0	layer = {	texture = 5	texture_internal = 89	emblem = 0	color = 0	color = 0	color = 0	}	}
+	coat_of_arms = {
+		template = 0	
+		layer = {	
+			texture = 16 #italian job	
+			texture_internal = 44
+			emblem = 0	
+			color = 0	color = 0	color = 0
+			}
+	}
 }
 13033 = {
 	name="Bandinelli"
 	culture ="italian"
+	coat_of_arms = {
+		template = 0	
+		layer = {	
+			texture = 16 #italian job	
+			texture_internal = 127	
+			emblem = 0	
+			color = 0	color = 0	color = 0
+			}
+	}
 }
 13034 = {
 	name="Serra"
 	culture ="italian"
+	coat_of_arms = {
+		template = 0	
+		layer = {	
+			texture = 16 #italian job	
+			texture_internal = 20	
+			emblem = 0	
+			color = 0	color = 0	color = 0
+			}
+	}
 }
 13035 = {
 	name="Sfondrati"
@@ -12114,24 +12868,42 @@ used_for_random = no
 	culture ="italian"
 }
 13041 = {
-	name="Doria"
+	name="D'Oria"
 	culture ="italian"
 	
+#	coat_of_arms = {
+#		template = 0
+#		layer = {
+#			texture = 9
+#			texture_internal = 6
+#			emblem = 0
+#			color = 0
+#			color = 0
+#			color = 0
+#		}
+#	}
 	coat_of_arms = {
-		template = 0
-		layer = {
-			texture = 9
-			texture_internal = 6
-			emblem = 0
-			color = 0
-			color = 0
-			color = 0
-		}
+		template = 0	
+		layer = {	
+			texture = 16 #italian job	
+			texture_internal = 8	
+			emblem = 0	
+			color = 0	color = 0	color = 0
+			}
 	}
 }
 13042 = {
 	name="Papareschi"
 	culture ="italian"
+	coat_of_arms = {
+		template = 0	
+		layer = {	
+			texture = 16 #italian job	
+			texture_internal = 139	
+			emblem = 0	
+			color = 0	color = 0	color = 0
+			}
+	}
 }
 13043 = {
 	name="Crivelli"
@@ -12140,6 +12912,15 @@ used_for_random = no
 13044 = {
 	name="di Morra"
 	culture ="italian"
+	coat_of_arms = {
+		template = 0	
+		layer = {	
+			texture = 16 #italian job	
+			texture_internal = 143	
+			emblem = 0	
+			color = 0	color = 0	color = 0
+			}
+	}
 }
 13045 = {
 	name="Faliero"
@@ -12148,43 +12929,88 @@ used_for_random = no
 13046 = {
 	name="Scolari"
 	culture ="italian"
+	coat_of_arms = {
+		template = 0	
+		layer = {	
+			texture = 16 #italian job	
+			texture_internal = 147	
+			emblem = 0	
+			color = 0	color = 0	color = 0
+			}
+	}
 }
 13047 = {
 	name="Farnese"
 	culture ="italian"
+	coat_of_arms = {
+		template = 0	
+		layer = {	
+			texture = 16 #italian job	
+			texture_internal = 138	
+			emblem = 0	
+			color = 0	color = 0	color = 0
+			}
+	}
 }
 13048 = {
 	name="Bobone"
 	culture ="italian"
+	coat_of_arms = {
+		template = 0	
+		layer = {	
+			texture = 16 #italian job	
+			texture_internal = 141	
+			emblem = 0	
+			color = 0	color = 0	color = 0
+			}
+	}
 }
 13049 = {
 	name="Savelli"
 	culture ="italian"
+#	coat_of_arms = {
+#		template = 0
+#		layer = {
+#			texture = 6
+#			texture_internal = 12
+#			emblem = 0
+#			color = 0
+#			color = 0
+#			color = 0
+#		}
+#	}
 	coat_of_arms = {
-		template = 0
-		layer = {
-			texture = 6
-			texture_internal = 12
-			emblem = 0
-			color = 0
-			color = 0
-			color = 0
-		}
+		template = 0	
+		layer = {	
+			texture = 16 #italian job	
+			texture_internal = 130	
+			emblem = 0	
+			color = 0	color = 0	color = 0
+			}
 	}
 }
 13050 = {
 	name="di Castiglione"
 	culture ="italian"
+#	coat_of_arms = {
+#		template = 0
+#		layer = {
+#			texture = 6
+#			texture_internal = 13
+#			emblem = 0
+#			color = 0
+#			color = 0
+#			color = 0
+#		}
+#	}
 	coat_of_arms = {
-		template = 0
-		layer = {
-			texture = 6
-			texture_internal = 13
-			emblem = 0
-			color = 0
-			color = 0
-			color = 0
-		}
+		template = 0	
+		layer = {	
+			texture = 16 #italian job	
+			texture_internal = 35	
+			emblem = 0	
+			color = 0	color = 0	color = 0
+			}
 	}
 }
 13051 = {
@@ -12194,10 +13020,28 @@ used_for_random = no
 13052 = {
 	name="Gonzaga"
 	culture ="italian"
+	coat_of_arms = {
+		template = 0	
+		layer = {	
+			texture = 16 #italian job	
+			texture_internal = 90	
+			emblem = 0	
+			color = 0	color = 0	color = 0
+			}
+	}
 }
 13053 = {
 	name="Masci"
 	culture ="italian"
+	coat_of_arms = {
+		template = 0	
+		layer = {	
+			texture = 16 #italian job	
+			texture_internal = 146
+			emblem = 0	
+			color = 0	color = 0	color = 0
+			}
+	}
 }
 13054 = {
 	name="da Morrone"
@@ -12210,10 +13054,28 @@ used_for_random = no
 13056 = {
 	name="Boccasini"
 	culture ="italian"
+	coat_of_arms = {
+		template = 0	
+		layer = {	
+			texture = 16 #italian job	
+			texture_internal = 76	
+			emblem = 0	
+			color = 0	color = 0	color = 0
+			}
+	}
 }
 13057 = {
 	name="Prignano"
 	culture ="italian"
+	coat_of_arms = {
+		template = 0	
+		layer = {	
+			texture = 16 #italian job	
+			texture_internal = 142	
+			emblem = 0	
+			color = 0	color = 0	color = 0
+			}
+	}
 }
 13058 = {
 	name="Luzzatti"
@@ -12222,6 +13084,15 @@ used_for_random = no
 13059 = {
 	name="Malatesta"
 	culture ="italian"
+	coat_of_arms = {
+		template = 0	
+		layer = {	
+			texture = 16 #italian job	
+			texture_internal = 104	
+			emblem = 0	
+			color = 0	color = 0	color = 0
+			}
+	}
 }
 13060 = {
 	name="Mancini"
@@ -12242,10 +13113,28 @@ used_for_random = no
 13064 = {
 	name="da Correggio"
 	culture ="italian"
+	coat_of_arms = {
+		template = 0	
+		layer = {	
+			texture = 16 #italian job	
+			texture_internal = 97	
+			emblem = 0	
+			color = 0	color = 0	color = 0
+			}
+	}
 }
 13065 = {
 	name="Condulmer"
 	culture ="italian"
+	coat_of_arms = {
+		template = 0	
+		layer = {	
+			texture = 16 #italian job	
+			texture_internal = 75	
+			emblem = 0	
+			color = 0	color = 0	color = 0
+			}
+	}
 }
 13066 = {
 	name="Moneta"
@@ -12254,10 +13143,28 @@ used_for_random = no
 13067 = {
 	name="Parentucelli"
 	culture ="italian"
+	coat_of_arms = {
+		template = 0	
+		layer = {	
+			texture = 16 #italian job	
+			texture_internal = 23	
+			emblem = 0	
+			color = 0	color = 0	color = 0
+			}
+	}
 }
 13068 = {
 	name="Montefeltro"
 	culture ="italian"
+	coat_of_arms = {
+		template = 0	
+		layer = {	
+			texture = 16 #italian job	
+			texture_internal = 145
+			emblem = 0	
+			color = 0	color = 0	color = 0
+			}
+	}
 }
 13069 = {
 	name="di Murta"
@@ -12267,21 +13174,39 @@ used_for_random = no
 	name="Morosini"
 	culture ="italian"
 	
+#	coat_of_arms = {
+#		template = 0
+#		layer = {
+#			texture = 9
+#			texture_internal = 11
+#			emblem = 0
+#			color = 0
+#			color = 0
+#			color = 0
+#		}
+#	}
 	coat_of_arms = {
-		template = 0
-		layer = {
-			texture = 9
-			texture_internal = 11
-			emblem = 0
-			color = 0
-			color = 0
-			color = 0
-		}
+		template = 0	
+		layer = {	
+			texture = 16 #italian job	
+			texture_internal = 63	
+			emblem = 0	
+			color = 0	color = 0	color = 0
+			}
 	}
 }
 13071 = {
 	name="Flabanico"
 	culture ="italian"
+	coat_of_arms = {
+		template = 0	
+		layer = {	
+			texture = 16 #italian job	
+			texture_internal = 59	
+			emblem = 0	
+			color = 0	color = 0	color = 0
+			}
+	}
 }
 13072 = {
 	name="Valente"
@@ -12299,25 +13224,52 @@ used_for_random = no
 	name="Ziani"
 	culture ="italian"
 	
+#	coat_of_arms = {
+#		template = 0
+#		layer = {
+#			texture = 9
+#			texture_internal = 14
+#			emblem = 0
+#			color = 0
+#			color = 0
+#			color = 0
+#		}
+#	}
 	coat_of_arms = {
-		template = 0
-		layer = {
-			texture = 9
-			texture_internal = 14
-			emblem = 0
-			color = 0
-			color = 0
-			color = 0
-		}
+		template = 0	
+		layer = {	
+			texture = 16 #italian job	
+			texture_internal = 64	
+			emblem = 0	
+			color = 0	color = 0	color = 0
+			}
 	}
 }
 13076 = {
 	name="Mastropiero"
 	culture ="italian"
+	coat_of_arms = {
+		template = 0	
+		layer = {	
+			texture = 16 #italian job	
+			texture_internal = 57	
+			emblem = 0	
+			color = 0	color = 0	color = 0
+			}
+	}
 }
 13077 = {
 	name="Ruffo"
 	culture ="italian"
+	coat_of_arms = {
+		template = 0	
+		layer = {	
+			texture = 16 #italian job	
+			texture_internal = 151	
+			emblem = 0	
+			color = 0	color = 0	color = 0
+			}
+	}
 }
 13078 = {
 	name="Zenon"
@@ -12326,6 +13278,15 @@ used_for_random = no
 13079 = {
 	name="Cornaro"
 	culture ="italian"
+	coat_of_arms = {
+		template = 0	
+		layer = {	
+			texture = 16 #italian job	
+			texture_internal = 58	
+			emblem = 0	
+			color = 0	color = 0	color = 0
+			}
+	}
 }
 13080 = {
 	name="Segni"
@@ -12334,19 +13295,55 @@ used_for_random = no
 13081 = {
 	name="Sforza"
 	culture ="italian"
-	coat_of_arms = {	template = 0	layer = {	texture = 5	texture_internal = 40	emblem = 0	color = 0	color = 0	color = 0	}	}
+	#coat_of_arms = {	template = 0	layer = {	texture = 5	texture_internal = 40	emblem = 0	color = 0	color = 0	color = 0	}	}
+	coat_of_arms = {
+		template = 0	
+		layer = {	
+			texture = 16 #italian job	
+			texture_internal = 31	
+			emblem = 0	
+			color = 0	color = 0	color = 0
+			}
+	}
 }
 13082 = {
 	name="Foscaro"
 	culture ="italian"
+	coat_of_arms = {
+		template = 0	
+		layer = {	
+			texture = 16 #italian job	
+			texture_internal = 70	
+			emblem = 0	
+			color = 0	color = 0	color = 0
+			}
+	}
 }
 13083 = {
 	name="Steno"
 	culture ="italian"
+	coat_of_arms = {
+		template = 0	
+		layer = {	
+			texture = 16 #italian job	
+			texture_internal = 71	
+			emblem = 0	
+			color = 0	color = 0	color = 0
+			}
+	}
 }
 13084 = {
 	name="Strozzi"
 	culture ="italian"
+	coat_of_arms = {
+		template = 0	
+		layer = {	
+			texture = 16 #italian job	
+			texture_internal = 128	
+			emblem = 0	
+			color = 0	color = 0	color = 0
+			}
+	}
 }
 13085 = {
 	name="Sturzo"
@@ -12355,6 +13352,15 @@ used_for_random = no
 13086 = {
 	name="Taparelli"
 	culture ="italian"
+	coat_of_arms = {
+		template = 0	
+		layer = {	
+			texture = 16 #italian job	
+			texture_internal = 29	
+			emblem = 0	
+			color = 0	color = 0	color = 0
+			}
+	}
 }
 13087 = {
 	name="Tittoni"
@@ -13324,8 +14330,17 @@ used_for_random = no
 	culture ="greek"
 }
 20068 = {
-	name="de Chigi"
+	name="Chigi"
 	culture ="italian"
+	coat_of_arms = {
+		template = 0	
+		layer = {	
+			texture = 16 #italian job	
+			texture_internal = 129	
+			emblem = 0	
+			color = 0	color = 0	color = 0
+			}
+	}
 }
 20069 = {
 	name="de La Valette"
@@ -13908,16 +14923,25 @@ used_for_random = no
 	name="Embriaco"
 	culture ="italian"
 	
+#	coat_of_arms = {
+#		template = 0
+#		layer = {
+#			texture = 9
+#			texture_internal = 7
+#			emblem = 0
+#			color = 0
+#			color = 0
+#			color = 0
+#		}
+#	}
 	coat_of_arms = {
-		template = 0
-		layer = {
-			texture = 9
-			texture_internal = 7
-			emblem = 0
-			color = 0
-			color = 0
-			color = 0
-		}
+		template = 0	
+		layer = {	
+			texture = 16 #italian job	
+			texture_internal = 7	
+			emblem = 0	
+			color = 0	color = 0	color = 0
+			}
 	}
 }
 23108 = {
@@ -15269,6 +16293,15 @@ used_for_random = no
 100231 = {
 	name="de Saluces"
 	culture ="italian"
+	coat_of_arms = {
+		template = 0	
+		layer = {	
+			texture = 16 #italian job	
+			texture_internal = 27	
+			emblem = 0	
+			color = 0	color = 0	color = 0
+			}
+	}
 }
 100232 = {
 	name="de Monferrato"
@@ -20602,17 +21635,14 @@ used_for_random = no
 101556 = {
 	name="di Canossa"
 	culture ="italian"
-	
 	coat_of_arms = {
-		template = 0
-		layer = {
-			texture = 8 #DLC N°2
-			texture_internal = 45
-			emblem = 0
-			color = 0
-			color = 0
-			color = 0
-		}
+		template = 0	
+		layer = {	
+			texture = 16 #italian job	
+			texture_internal = 98	
+			emblem = 0	
+			color = 0	color = 0	color = 0
+			}
 	}
 }
 101557 = {
@@ -20639,7 +21669,16 @@ used_for_random = no
 101562 = {
 	name="Orseolo"
 	culture ="italian"
-	coat_of_arms = {	template = 0	layer = {	texture = 9	texture_internal = 29	emblem = 0	color = 0	color = 0	color = 0	}	}
+	#coat_of_arms = {	template = 0	layer = {	texture = 9	texture_internal = 29	emblem = 0	color = 0	color = 0	color = 0	}	}
+	coat_of_arms = {
+		template = 0	
+		layer = {	
+			texture = 16 #italian job	
+			texture_internal = 74	
+			emblem = 0	
+			color = 0	color = 0	color = 0
+			}
+	}
 }
 101563 = {
 	name="Örösur"
@@ -21378,6 +22417,15 @@ used_for_random = no
 101817 = {
 	name="Antelminelli"
 	culture ="italian"
+	coat_of_arms = {
+		template = 0	
+		layer = {	
+			texture = 16 #italian job	
+			texture_internal = 113	
+			emblem = 0	
+			color = 0	color = 0	color = 0
+			}
+	}
 }
 101818 = {
 	name="d'Attala"
@@ -21386,30 +22434,84 @@ used_for_random = no
 101819 = {
 	name="Beccaria"
 	culture ="italian"
+	coat_of_arms = {
+		template = 0	
+		layer = {	
+			texture = 16 #italian job	
+			texture_internal = 88	
+			emblem = 0	
+			color = 0	color = 0	color = 0
+			}
+	}
 }
 101820 = {
 	name="de Bonacolsi"
 	culture ="italian"
+	coat_of_arms = {
+		template = 0	
+		layer = {	
+			texture = 16 #italian job	
+			texture_internal = 89	
+			emblem = 0	
+			color = 0	color = 0	color = 0
+			}
+	}
 }
 101822 = {
 	name="da Cardano"
 	culture ="italian"
 }
 101823 = {
-	name="da Carrara"
+	name="Carraresi"
 	culture ="italian"
+	coat_of_arms = {
+		template = 0	
+		layer = {	
+			texture = 16 #italian job	
+			texture_internal = 45
+			emblem = 0	
+			color = 0	color = 0	color = 0
+			}
+	}
 }
 101824 = {
 	name="di Caretto"
 	culture ="italian"
+	coat_of_arms = {
+		template = 0	
+		layer = {	
+			texture = 16 #italian job	
+			texture_internal = 11	
+			emblem = 0	
+			color = 0	color = 0	color = 0
+			}
+	}
 }
 101825 = {
 	name="Cavalcabò"
 	culture ="italian"
+	coat_of_arms = {
+		template = 0	
+		layer = {	
+			texture = 16 #italian job	
+			texture_internal = 85
+			emblem = 0	
+			color = 0	color = 0	color = 0
+			}
+	}
 }
 101826 = {
 	name="della Faggiola"
 	culture ="italian"
+	coat_of_arms = {
+		template = 0	
+		layer = {	
+			texture = 16 #italian job	
+			texture_internal = 106	
+			emblem = 0	
+			color = 0	color = 0	color = 0
+			}
+	}
 }
 101827 = {
 	name="da Intimiano"
@@ -21418,14 +22520,41 @@ used_for_random = no
 101828 = {
 	name="Lancia"
 	culture ="italian"
+	coat_of_arms = {
+		template = 0	
+		layer = {	
+			texture = 16 #italian job	
+			texture_internal = 163	
+			emblem = 0	
+			color = 0	color = 0	color = 0
+			}
+	}
 }
 101829 = {
 	name="Loredano"
 	culture ="italian"
+	coat_of_arms = {
+		template = 0	
+		layer = {	
+			texture = 16 #italian job	
+			texture_internal = 66	
+			emblem = 0	
+			color = 0	color = 0	color = 0
+			}
+	}
 }
 101830 = {
 	name="di Malaspina"
 	culture ="italian"
+	coat_of_arms = {
+		template = 0	
+		layer = {	
+			texture = 16 #italian job	
+			texture_internal = 12	
+			emblem = 0	
+			color = 0	color = 0	color = 0
+			}
+	}
 }
 101831 = {
 	name="Malipiero"
@@ -21434,26 +22563,80 @@ used_for_random = no
 101832 = {
 	name="Maggi"
 	culture ="italian"
+	coat_of_arms = {
+		template = 0	
+		layer = {	
+			texture = 16 #italian job	
+			texture_internal = 36	
+			emblem = 0	
+			color = 0	color = 0	color = 0
+			}
+	}
 }
 101833 = {
 	name="Mocenigo"
 	culture ="italian"
+	coat_of_arms = {
+		template = 0	
+		layer = {	
+			texture = 16 #italian job	
+			texture_internal = 67	
+			emblem = 0	
+			color = 0	color = 0	color = 0
+			}
+	}
 }
 101834 = {
 	name="Pico di Mirandola"
 	culture ="italian"
+	coat_of_arms = {
+		template = 0	
+		layer = {	
+			texture = 16 #italian job	
+			texture_internal = 92	
+			emblem = 0	
+			color = 0	color = 0	color = 0
+			}
+	}
 }
 101835 = {
-	name="Polentano"
+	name="Polenta"
 	culture ="italian"
+	coat_of_arms = {
+		template = 0	
+		layer = {	
+			texture = 16 #italian job	
+			texture_internal = 102	
+			emblem = 0	
+			color = 0	color = 0	color = 0
+			}
+	}
 }
 101836 = {
 	name="da Ponte"
 	culture ="italian"
+	coat_of_arms = {
+		template = 0	
+		layer = {	
+			texture = 16 #italian job	
+			texture_internal = 68	
+			emblem = 0	
+			color = 0	color = 0	color = 0
+			}
+	}
 }
 101837 = {
 	name="da Promontorio"
 	culture ="italian"
+	coat_of_arms = {
+		template = 0	
+		layer = {	
+			texture = 16 #italian job	
+			texture_internal = 24	
+			emblem = 0	
+			color = 0	color = 0	color = 0
+			}
+	}
 }
 101838 = {
 	name="Rainalducci"
@@ -21466,30 +22649,93 @@ used_for_random = no
 101840 = {
 	name="della Rocca"
 	culture ="italian"
+	coat_of_arms = {
+		template = 0	
+		layer = {	
+			texture = 16 #italian job	
+			texture_internal = 1	
+			emblem = 0	
+			color = 0	color = 0	color = 0
+			}
+	}
 }
 101841 = {
 	name="Rossi"
 	culture ="italian"
+	coat_of_arms = {
+		template = 0	
+		layer = {	
+			texture = 16 #italian job	
+			texture_internal = 91	
+			emblem = 0	
+			color = 0	color = 0	color = 0
+			}
+	}
 }
 101842 = {
-	name="di San Bonifazio"
+	name="Sambonifacio"
 	culture ="italian"
+	coat_of_arms = {
+		template = 0	
+		layer = {	
+			texture = 16 #italian job	
+			texture_internal = 40
+			emblem = 0	
+			color = 0	color = 0	color = 0
+			}
+	}
 }
 101843 = {
 	name="de Sanseverino"
 	culture ="italian"
+	coat_of_arms = {
+		template = 0	
+		layer = {	
+			texture = 16 #italian job	
+			texture_internal = 157	
+			emblem = 0	
+			color = 0	color = 0	color = 0
+			}
+	}
 }
 101844 = {
-	name="Scoto"
+	name="Scotti"
 	culture ="italian"
+	coat_of_arms = {
+		template = 0	
+		layer = {	
+			texture = 16 #italian job	
+			texture_internal = 82	
+			emblem = 0	
+			color = 0	color = 0	color = 0
+			}
+	}
 }
 101845 = {
 	name="Sommariva"
 	culture ="italian"
+	coat_of_arms = {
+		template = 0	
+		layer = {	
+			texture = 16 #italian job	
+			texture_internal = 78	
+			emblem = 0	
+			color = 0	color = 0	color = 0
+			}
+	}
 }
 101846 = {
 	name="Terzi"
 	culture ="italian"
+	coat_of_arms = {
+		template = 0	
+		layer = {	
+			texture = 16 #italian job	
+			texture_internal = 87	
+			emblem = 0	
+			color = 0	color = 0	color = 0
+			}
+	}
 }
 101847 = {
 	name="Tizzone"
@@ -21498,18 +22744,54 @@ used_for_random = no
 101848 = {
 	name="Torelli"
 	culture ="italian"
+	coat_of_arms = {
+		template = 0	
+		layer = {	
+			texture = 16 #italian job	
+			texture_internal = 86	
+			emblem = 0	
+			color = 0	color = 0	color = 0
+			}
+	}
 }
 101849 = {
 	name="della Torre"
 	culture ="italian"
+	coat_of_arms = {
+		template = 0	
+		layer = {	
+			texture = 16 #italian job	
+			texture_internal = 33	
+			emblem = 0	
+			color = 0	color = 0	color = 0
+			}
+	}
 }
 101850 = {
 	name="di Torres"
 	culture ="italian"
+	coat_of_arms = {
+		template = 0	
+		layer = {	
+			texture = 16 #italian job	
+			texture_internal = 2	
+			emblem = 0	
+			color = 0	color = 0	color = 0
+			}
+	}
 }
 101851 = {
-	name="Traversari"
+	name="Traversi"
 	culture ="italian"
+	coat_of_arms = {
+		template = 0	
+		layer = {	
+			texture = 16 #italian job	
+			texture_internal = 101	
+			emblem = 0	
+			color = 0	color = 0	color = 0
+			}
+	}
 }
 101852 = {
 	name="di Valenti"
@@ -21530,6 +22812,15 @@ used_for_random = no
 101856 = {
 	name="Zoagli"
 	culture ="italian"
+	coat_of_arms = {
+		template = 0	
+		layer = {	
+			texture = 16 #italian job	
+			texture_internal = 21	
+			emblem = 0	
+			color = 0	color = 0	color = 0
+			}
+	}
 }
 101857 = {
 	name="de Redvers"
@@ -22339,17 +23630,14 @@ used_for_random = no
 102020 = {
 	name="Sanudo"
 	culture ="greek"
-	
 	coat_of_arms = {
-		template = 0
-		layer = {
-			texture = 8 #DLC N°2
-			texture_internal = 46
-			emblem = 0
-			color = 0
-			color = 0
-			color = 0
-		}
+		template = 0	
+		layer = {	
+			texture = 16 #italian job	
+			texture_internal = 56	
+			emblem = 0	
+			color = 0	color = 0	color = 0
+			}
 	}
 }
 102021 = {
@@ -23942,6 +25230,15 @@ used_for_random = no
 1042000 = {
 	name="Aldobrandeschi"
 	culture ="italian"
+	coat_of_arms = {
+		template = 0	
+		layer = {	
+			texture = 16 #italian job	
+			texture_internal = 116	
+			emblem = 0	
+			color = 0	color = 0	color = 0
+			}
+	}
 }
 1042003 = {
 	name="Calcinaia"
@@ -23966,14 +25263,41 @@ used_for_random = no
 1042009 = {
 	name="Panico"
 	culture ="italian"
+	coat_of_arms = {
+		template = 0	
+		layer = {	
+			texture = 16 #italian job	
+			texture_internal = 100	
+			emblem = 0	
+			color = 0	color = 0	color = 0
+			}
+	}
 }
 1042010 = {
 	name="Pannocchieschi"
 	culture ="italian"
+	coat_of_arms = {
+		template = 0	
+		layer = {	
+			texture = 16 #italian job	
+			texture_internal = 117	
+			emblem = 0	
+			color = 0	color = 0	color = 0
+			}
+	}
 }
 1042011 = {
-	name="Sasso"
+	name="Sessi"
 	culture ="italian"
+	coat_of_arms = {
+		template = 0	
+		layer = {	
+			texture = 16 #italian job	
+			texture_internal = 99	
+			emblem = 0	
+			color = 0	color = 0	color = 0
+			}
+	}
 }
 1042013 = {
 	name="Suvereto"
@@ -23983,16 +25307,25 @@ used_for_random = no
 	name="Visconti"
 	culture ="italian"
 	
+#	coat_of_arms = {
+#		template = 0
+#		layer = {
+#			texture = 9
+#			texture_internal = 13
+#			emblem = 0
+#			color = 0
+#			color = 0
+#			color = 0
+#		}
+#	}
 	coat_of_arms = {
-		template = 0
-		layer = {
-			texture = 9
-			texture_internal = 13
-			emblem = 0
-			color = 0
-			color = 0
-			color = 0
-		}
+		template = 0	
+		layer = {	
+			texture = 16 #italian job	
+			texture_internal = 4	
+			emblem = 0	
+			color = 0	color = 0	color = 0
+			}
 	}
 }
 1042015 = {
@@ -24002,14 +25335,41 @@ used_for_random = no
 1042017 = {
 	name="del Monte S. Maria"
 	culture ="italian"
+	coat_of_arms = {
+		template = 0	
+		layer = {	
+			texture = 16 #italian job	
+			texture_internal = 115	
+			emblem = 0	
+			color = 0	color = 0	color = 0
+			}
+	}
 }
 1042019 = {
-	name="di Berardeschi"
+	name="di Berardenghi"
 	culture ="italian"
+	coat_of_arms = {
+		template = 0	
+		layer = {	
+			texture = 16 #italian job	
+			texture_internal = 118
+			emblem = 0	
+			color = 0	color = 0	color = 0
+			}
+	}
 }
 1042020 = {
-	name="di Cadolingi"
+	name="Cadolingi"
 	culture ="italian"
+	coat_of_arms = {
+		template = 0	
+		layer = {	
+			texture = 16 #italian job	
+			texture_internal = 119	
+			emblem = 0	
+			color = 0	color = 0	color = 0
+			}
+	}
 }
 1042022 = {
 	name="di Campiglia"
@@ -24059,6 +25419,15 @@ used_for_random = no
 1042027 = {
 	name="Guidi"
 	culture ="italian"
+	coat_of_arms = {
+		template = 0	
+		layer = {	
+			texture = 16 #italian job	
+			texture_internal = 110	
+			emblem = 0	
+			color = 0	color = 0	color = 0
+			}
+	}
 }
 1042028 = {
 	name="Latreto"
@@ -24137,16 +25506,43 @@ used_for_random = no
 1042811 = {
 	name="Memmo"
 	culture ="italian"
+	coat_of_arms = {
+		template = 0	
+		layer = {	
+			texture = 16 #italian job	
+			texture_internal = 69	
+			emblem = 0	
+			color = 0	color = 0	color = 0
+			}
+	}
 }
 1042812 = {
 	name="Participazio"
 	culture ="italian"
-	coat_of_arms = {	template = 0	layer = {	texture = 9	texture_internal = 27	emblem = 0	color = 0	color = 0	color = 0	}	}
+	#coat_of_arms = {	template = 0	layer = {	texture = 9	texture_internal = 27	emblem = 0	color = 0	color = 0	color = 0	}	}
+	coat_of_arms = {
+		template = 0	
+		layer = {	
+			texture = 16 #italian job	
+			texture_internal = 73	
+			emblem = 0	
+			color = 0	color = 0	color = 0
+			}
+	}
 }
 1042813 = {
 	name="Candiano"
 	culture ="italian"
-	coat_of_arms = {	template = 0	layer = {	texture = 9	texture_internal = 28	emblem = 0	color = 0	color = 0	color = 0	}	}
+	#coat_of_arms = {	template = 0	layer = {	texture = 9	texture_internal = 28	emblem = 0	color = 0	color = 0	color = 0	}	}
+	coat_of_arms = {
+		template = 0	
+		layer = {	
+			texture = 16 #italian job	
+			texture_internal = 65	
+			emblem = 0	
+			color = 0	color = 0	color = 0
+			}
+	}
 }
 1029056 = {
 	name="Ovseti"
@@ -29723,9 +31119,18 @@ used_for_random = no
 }
 1044407=
 {
-	name="degli Alighieri"
+	name="Alighieri"
 	culture="italian"
 	religion="catholic"
+	coat_of_arms = {
+		template = 0	
+		layer = {	
+			texture = 16 #italian job	
+			texture_internal = 122	
+			emblem = 0	
+			color = 0	color = 0	color = 0
+			}
+	}
 }
 1044408=
 {
