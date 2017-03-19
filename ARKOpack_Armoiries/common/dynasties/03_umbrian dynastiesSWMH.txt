@@ -1,0 +1,79 @@
+# -*- ck2.dynasties -*-
+
+######################################
+#New Umbrian dynasties
+######################################
+#
+#
+######################################
+#Proper dynasties
+#Range 1000035151-1000035185
+######################################
+
+1000035151 = {
+name="di Capodimonte"
+ culture = umbrian
+}
+1000035152 = {
+name="di Porto"
+ culture = umbrian
+}
+1000035153 = {
+name="di San Pietro"
+ culture = umbrian
+}
+1000035154 = {
+name="di Torrette"
+ culture = umbrian
+}
+1000035155 = {
+name="Brancaleoni"
+ culture = umbrian
+}
+1000035156 = {
+name="di Carpegna"
+ culture = umbrian
+}
+1000035157 = {
+name="di Aprutio"
+ culture = umbrian
+}
+1000035158 = {
+name="di Chieti"
+ culture = umbrian
+}
+1000035159 = {
+name="Maumouzet"
+ culture = norman
+}
+1000035160 = {
+name="Scrocchiamuro"
+ culture = umbrian
+}
+1000035161 = {
+name="di Atri"
+ culture = umbrian
+}
+1000035162 = {
+name="di Palearia" # di Pagliara
+ culture = umbrian
+}
+1000035163 = {
+name="di Valva"
+ culture = umbrian
+}
+1000035164 = {
+name="Sansoneschi"
+ culture = umbrian
+}
+1000035165 = {
+name="Borelli"
+ culture = umbrian
+}
+1000035166 = {
+name="di Celano"
+ culture = umbrian
+}
+
+
+

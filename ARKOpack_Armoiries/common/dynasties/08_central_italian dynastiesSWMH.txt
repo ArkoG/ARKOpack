@@ -1,0 +1,267 @@
+# -*- ck2.dynasties -*-
+
+######################################
+#New laziale dynasties
+######################################
+#
+#
+######################################
+#Proper dynasties
+#Range 1000035361-1000035410
+######################################
+
+1000035361 = {
+name="Boncompagni"
+ culture = umbrian
+}
+1000035362 = {
+name="Ruspoli"
+ culture = laziale
+}
+1000035363 = {
+name="Caetani"
+ culture = laziale
+}
+1000035364 = {
+name="Albani"
+ culture = laziale 
+}
+1000035365 = {
+name="Barberini"
+ culture = laziale
+}
+1000035366 = {
+name="Borghese"
+ culture = laziale
+}
+1000035367 = {
+name="Cesarini"
+ culture = laziale
+}
+1000035368 = {
+name="Pamphili"
+ culture = laziale
+}
+1000035369 = {
+name="Farnese"
+ culture = laziale
+}
+1000035370 = {
+name="Mancini"
+ culture = laziale
+}
+1000035371 = {
+name="Mazzetti di Pietralata"
+ culture = laziale
+}
+1000035372 = {
+name="Torlonia"
+ culture = laziale 
+}
+1000035373 = {
+name="Turcii"
+ culture = laziale 
+}
+1000035374 = {
+name="Baglioni"
+ culture = laziale
+}
+1000035375 = {
+name="Trinci"
+ culture = laziale
+}
+1000035376 = {
+name="Acquaviva"
+ culture = umbrian
+}
+1000035377 = {
+name="Crollalanza"
+ culture = laziale 
+}
+1000035378 = {
+name="Da Montefeltro"
+ culture = umbrian
+}
+1000035379 = {
+name="Del Cassero"
+ culture = laziale
+}
+1000035380 = {
+name="Della Rovere"
+ culture = laziale
+}
+1000035381 = {
+name="Leopardi"
+ culture = laziale
+}
+1000035382 = {
+name="Gabrielli"
+ culture = umbrian
+}
+1000035383 = {
+name="Massimo"
+ culture = laziale
+}
+#1000035384 = {
+#name=""
+# culture = laziale
+#}
+1000035385 = {
+name="Berardi"
+ culture = umbrian
+}
+1000035386 = {
+name="Anguillara"
+ culture = laziale
+}
+1000035387 = {
+name="de Ceccano"
+ culture = laziale
+}
+1000035388 = {
+name="del Balzo"
+ culture = neapolitan
+}
+1000035389 = {
+name="Ottaviani"
+ culture = laziale
+}
+1000035390 = {
+name="Serlupi"
+ culture = laziale
+}
+1000035391 = {
+name="Valderetti"
+ culture = laziale
+}
+1000035392 = {
+name="Altieri"
+ culture = laziale
+}
+1000035393 = {
+name="Annibaldi"
+ culture = laziale
+}
+1000035394 = {
+name="Crescenzi"
+ culture = laziale
+}
+1000035395 = {
+name="Frangipane"
+ culture = laziale
+}
+1000035396 = {
+name="Mattei"
+ culture = laziale
+}
+1000035397 = {
+name="Da Buscareto"
+ culture = laziale
+}
+1000035398 = {
+name="della Genga"
+ culture = laziale
+}
+1000035399 = {
+name="Guiderocchi"
+ culture = laziale
+}
+1000035400 = {
+name="Ottoni"
+ culture = laziale
+}
+1000035401 = {
+name="Saladini"
+ culture = laziale
+}
+1000035402 = {
+name="Sgariglia"
+ culture = laziale
+}
+1000035403 = {
+name="Da Varano"
+ culture = umbrian
+}
+1000035404 = {
+name="Baschi"
+ culture = laziale
+}
+1000035405 = {
+name="Vitelli"
+ culture = laziale
+}
+1000035406 = {
+name="Baglioni"
+ culture = laziale
+}
+1000035407 = {
+name="di Fizdanza"
+ culture = laziale
+}
+#1000035408 = { # aka Stefaniati or Stephani Crescenzi
+#name="Cencii"
+# culture = laziale
+#}
+1000035409 = { 
+name="Ciccala"
+ culture = ligurian
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 17
+			texture_internal = 14
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	} 
+}
+1000035410 = { 
+name="Via Lata" #aka Teofilatti/Théophylactes
+ culture = laziale
+}
+1000035411 = { 
+name="Da Suponi"
+ culture = laziale
+}
+1000035412 = { 
+name="Roero"
+ culture = italian
+ 	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 17
+			texture_internal = 22
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}  
+}
+1000035413 = { 
+name="Turco"
+ culture = italian
+ 	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 17
+			texture_internal = 23
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}  
+}
+1000035414 = { 
+name="Postella"
+ culture = laziale
+}
+######################################
+#Generic dynasites
+#Range 1000035411-1000035430
+######################################
+
+

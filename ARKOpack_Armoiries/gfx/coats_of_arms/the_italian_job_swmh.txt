@@ -16,7 +16,7 @@
 # Liguria
 10 - Spino Fiori, 1000035002
 11 - Spino Secco, 1000035027
-12 - Da Mare/De Mari, 1000036007
+12 - Da Mare/De Mari, 1000035192
 13 - di Gavi, 1000035323
 14 - Ciccala, 1000035409
 15 - Riario, 1000035302
@@ -25,14 +25,14 @@
 # Camilla, 1000020287 ?
 
 # Piemonte
-20 -  Faletti,
+20 - Faletti, 1000035310
 21 - da Solaro, 1000035309
-23 - di Roero, 1000035412
-24 - Turco, 1000035413
-25 - Romagnano, 1000020088
-26 - Provana, 1000035762
-27 - Vialardi, 1000035763 
-28 - Isnardi, 1000035771
+22 - di Roero, 1000035412
+23 - Turco, 1000035413
+24 - Romagnano, 1000020088
+25 - Provana, 1000035762
+26 - Vialardi, 1000035763 
+27 - Isnardi, 1000035771
 
 # Lombardy
 30 - Trivulzio, 1000035313
@@ -50,7 +50,7 @@
 42 - Prealone, 1000020084
 43 - Avogadro, 1000035311
 44 - di Pombia, 1000035761
-45 - Tizzoni, 1000020087
+45 - Tizzoni, 1000020082
 
 # Verona and Veneto
 50 - dal Verme, 1000035729
@@ -61,7 +61,7 @@
 55 - Valaresso, 1000035290
 56 - Arneri, 1000035271
 57 - Dunio, 1000035230
-58 - Colloredo, 1000035232
+58 - Colloredo, 1000035242
 
 # Po Valley
 65 - Adelardi/Marcheselli, 1000035711

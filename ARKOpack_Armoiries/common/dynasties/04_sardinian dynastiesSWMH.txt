@@ -1,0 +1,74 @@
+# -*- ck2.dynasties -*-
+
+######################################
+#New sardinian dynasties
+######################################
+#
+#
+######################################
+#Proper dynasties
+#Range 1000035186-1000035220
+######################################
+1000035186 = {
+	name="Carroz"
+	culture ="catalan"
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 17
+			texture_internal = 5
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}	
+}
+1000035187 = {
+	name="di Sardegna"	
+	culture ="italian"
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 17
+			texture_internal = 1
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+1000035188 = {
+	name="d'Evoli"
+	culture ="neapolitan"
+}
+1000035189 = {
+	name="d'Sangineto"
+	culture ="neapolitan"
+}
+1000035190 = {
+	name="Pipino"
+	culture ="neapolitan"
+}
+1000035191 = {
+	name="Scalafani"
+	culture ="sicilian"
+}
+1000035192 = {
+	name="de Mari"	
+	culture ="ligurian"
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 17
+			texture_internal = 12
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+
+
