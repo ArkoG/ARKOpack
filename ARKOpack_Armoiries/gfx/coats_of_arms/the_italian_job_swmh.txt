@@ -1,0 +1,193 @@
+################################
+
+# Armoiries ArkoPack par ARKO
+# SWMH Italian arms by Aasmul
+
+################################
+
+# Stauffer and Minsetralis
+1 - di Sardinia, 1000035187
+2 - di Antiochia, 1000035489
+3 - von Annweiler, 1000020116
+
+# Sardinia and Corsica
+5 - Carroz, 1000035186
+
+# Liguria
+10 - Spino Fiori, 1000035002
+11 - Spino Secco, 1000035027
+12 - Da Mare/De Mari, 1000036007
+13 - di Gavi, 1000035323
+14 - Ciccala, 1000035409
+15 - Riario, 1000035302
+16 - Gentile, 1000035293
+17 - Lomellini, 1000035292
+# Camilla, 1000020287 ?
+
+# Piemonte
+20 -  Faletti,
+21 - da Solaro, 1000035309
+23 - di Roero, 1000035412
+24 - Turco, 1000035413
+25 - Romagnano, 1000020088
+26 - Provana, 1000035762
+27 - Vialardi, 1000035763 
+28 - Isnardi, 1000035771
+
+# Lombardy
+30 - Trivulzio, 1000035313
+31 - Pietrasanta, 1000020283
+32 - Aliprandi, 1000035743
+33 - Sacco/Sacchetti, 1000020099
+34 - da Mandello/Mandelli, 1000020096
+35 - Confalonieri, 1000020089
+36 - Martinengo, 1000035722
+37 - Gisalbertini, 1000064007
+38 - Corradidi, 1000020226
+39 - del Seprio, 1000035319
+40 - della Pusterla, 1000020083
+41 - da Lumpugnano, 1000035748
+42 - Prealone, 1000020084
+43 - Avogadro, 1000035311
+44 - di Pombia, 1000035761
+45 - Tizzoni, 1000020087
+
+# Verona and Veneto
+50 - dal Verme, 1000035729
+51 - Camposampiero, 1000035222
+52 - di Collalto, 1000035251
+53 - Ragogna, 1000035315
+54 - Strassoldo, 1000035314
+55 - Valaresso, 1000035290
+56 - Arneri, 1000035271
+57 - Dunio, 1000035230
+58 - Colloredo, 1000035232
+
+# Po Valley
+65 - Adelardi/Marcheselli, 1000035711
+66 - Da Cornazzano, 1000020078
+67 - Sanvitale, 1000020080
+68 - di Lomello, 1000035324
+69 - Ughonidi, 1000035320
+70 - Casaloldi, 1000035717
+
+# Emilia-Romagna
+75 - da Fogliano, 1000020071
+76 - da Montecuccoli, 1000020072
+77 - degli Onesti, 1000020101
+78 - Parcitadi, 1000020094 
+79 - Calboli, 1000020104
+80 - Pagani, 1000020109
+81 - Arrighi 1000020106
+82 - Alidosi, 1000020103
+83 - Mainardi, 1000020113
+84 - Manfredi, 1000035769
+85 - da Palude, 1000020004
+#Fantolini?, 1000020122
+#Malvicini/Malabocca?, 1000020102
+
+
+# Tuscany
+90 - di Gazzuolo/Guazzalotti, 1000020279 
+91 - Barbolani, 1000020092
+92 - di Sarteano/Peponi/Maneti, 1000020093
+93 - Chiusi/Montedoglio, 1000020227
+94 - Ubaldini, 1000020105
+95 - Cattani/Captani, 1000020228
+96 - Malavolti, 1000020229
+97 - Petrucci, 1000035021
+98 - Ardengheschi, 1000035051
+99 - Cacciaconti, 1000020007
+100 - Ugurgieri, 1000020008
+101 - Buondelmonti, 1000020230
+102 - Uberti, 1000035063
+103 - Gherardini, 1000035043
+104 - Amidei, 1000035007
+105 - Donati, 1000035079
+106 - Giandonati, 1000035068
+107 - dei Fifanti, 1000035041
+108 - Caponsacchi, 1000020296
+109 - Cavalcanti, 1000035067
+110 - Della Tosa, 1000020297
+111 - de Pazzi, 1000035011
+112 - Ubertini, 1000035065
+113 - Tarlati, 1000035070
+114 - Albizzi, 1000035078
+115 - Gangalandi, 1000020290
+116 - di Pocari, 1000020291
+117 - Poggi, 1000020292
+118 - Alberti, 1000020001
+119 - Capraia, 1000020293
+120 - Montemagno, 1000020291
+121 - Machiavelli, 1000035059
+122 - Cherchi, 1000035080
+123 - Guadagni, 1000035076
+124 - Lucchesi, 1000035073
+125 - Buonaparte, 1000035074
+126 - Guicciardini, 1000035010
+127 - Baglioni, 1000035071
+128 - Altoviti, 1000035072
+129 - Salvani, 1000035064
+130 - Tornaquinci/Tornabuoni, 1000035066
+131 - Montanini, 1000035061
+#Bonsignori, 1000020294 ?
+#Bostoli, 1000020298 ?
+#Maltanotte, 1000020288 ?
+#Bonfigliastri, 1000020289 ?
+#Dati, 1000020005 ?
+#Corvariesi/Fraolmi, 1000020000 ?
+
+# Lazio
+
+135 - Parenzi/Romano/Sercambi 1000020280
+136 - Crescenzi, 1000035394
+137 - Ottaviani, 1000035389
+138 - Frangipane, 1000035395
+139 - Anguillara, 1000035386
+140 - Ceccano, 1000035387
+141 - Mattei, ID 1000035396
+#di Supino, 1000035411 ?
+
+# Umbria, Abrizzi and Marche
+145 - da Varano, 1000035403
+146 - Gabrielli, 1000020090
+147 - di Marsciano, 1000035307
+148 - della Branca, 1000020295
+149 - Ottoni, 1000020091
+150 - Brancaleoni, 1000035155
+151 - Carpenga, 1000035156
+152 - degli Oddi, 1000020285
+153 - Dei Marsi, 1000035385
+154 - Valva/Pagliara/Paleria/Collepietro, 1000035162
+155 - di Sangro, 1000035162
+156 - Acquaviva, 1000035641
+157 - del Borgo, 1000035473
+158 - Artus, 1000035496
+
+# Naples
+160 - Carbone, 1000035483
+161 - di Capua, 1000035322
+162 - D'amico, 1000035512
+163 - di Saya/Saye, 1000035497
+164 - di Ajello/Aiello, 1000035493
+165 - Della Ratta, 1000035488
+166 - Cantelmo, 1000035652
+167 - Filangieri, 1000035658
+168 - di Gravina, 1000035514
+169 - Da Procida, 1000035499
+170 - Carafa, 1000035644
+171 - Pipino, 1000035190
+172 - d'eboli/d'evoli, 1000035188
+173 - d'Sangineto, 1000035189
+174 - Caracciolo del Sole, 1000035643
+# Francisio, 1000035484 ?
+
+# Sicily
+175 - d´Paternó, 1000035506
+176 - Zaragosa,/Saragosa/Siracusa, 1000035494
+177 - Scalafani, 1000035191
+178 - Gesualdo, 1000035667
+179 - Peralta, 1000035521
+180 - Abbate, 1000035550
+181 - Grifeo, 1000035532
+182 - d'Ocrea, 1000035551 
