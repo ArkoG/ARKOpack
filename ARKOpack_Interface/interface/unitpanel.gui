@@ -285,7 +285,7 @@ guiTypes = {
 
 			instantTextBoxType = {
 				name = "unit_count"
-				position = { x = 74  y = 33 }
+				position = { x = 34  y = 33 }
 				textureFile = ""
 				font = "vic_18"
 				borderSize = {x = 0 y = 0}
@@ -513,7 +513,7 @@ guiTypes = {
 		
 		guiButtonType = {
 			name = "loadtoshipbutton"
-			position = { x = 132 y = 11 }
+			position = { x = 137 y = 11 }
 			quadTextureSprite ="GFX_unitpanel_button_loadtoship"
 			clicksound = generic_click_01
 			shortcut = "V"
