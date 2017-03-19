@@ -60,7 +60,7 @@ guiTypes = {
 				name = "status_text"
 				moveable = 0
 				orientation = "CENTER"
-				position = { x=-97 y=47 }
+				position = { x=-95 y=47 }
 				iconType ={
 					name ="bg"
 					spriteType = "GFX_game_rules_banner"
@@ -69,7 +69,7 @@ guiTypes = {
 				}
 				instantTextBoxType = {
 					name ="text"
-					position = { x=-8 y=12 }
+					position = { x=-13 y=12 }
 					font = "vic_22_black"
 					borderSize = {x=0 y=0}
 					text = "UI_MISSING_TEXT"	
@@ -88,12 +88,12 @@ guiTypes = {
 			iconType ={
 				name ="bg"
 				spriteType = "GFX_game_rules_banner"
-				position = { x=0 y=0 }
+				position = { x=-1 y=0 }
 				orientation = "CENTER"
 			}
 			instantTextBoxType = {
 				name ="text"
-				position = { x=-10 y=12 }
+				position = { x=-11 y=12 }
 				font = "vic_22_black"
 				borderSize = {x=0 y=0}
 				text = "UI_MISSING_TEXT"	
@@ -104,12 +104,12 @@ guiTypes = {
 		}
 		guiButtonType =	{
 			name = "filter_button"
-			position = { x=156 y=110 }
+			position = { x=132 y=110 }
 			buttonFont = "vic_18"
 			quadTextureSprite ="GFX_rule_filter_dropdown_arkopack"	
 		}
 		instantTextBoxType = {
-			position = { x=157 y =117 }
+			position = { x=133 y =115 }
 			name = "filter_button_text"
 			font = "vic_18"
 			borderSize = {x = 0 y = 0}	
@@ -123,7 +123,7 @@ guiTypes = {
 		
 		guiButtonType =	{
 			name = "save_button"
-			position = { x = 702 y = 94}
+			position = { x = 726 y = 94}
 			buttonFont = "vic_18"
 			#quadTextureSprite = "GFX_save_dropdown"	
 			quadTextureSprite ="GFX_rule_filter_dropdown_arkopack"
@@ -131,14 +131,14 @@ guiTypes = {
 		
 		guiButtonType =	{
 			name = "load_button"
-			position = { x = 702 y = 125}
+			position = { x = 726 y = 125}
 			buttonFont = "vic_18"
 			#quadTextureSprite = "GFX_save_dropdown"	
 			quadTextureSprite ="GFX_rule_filter_dropdown_arkopack"
 		}
 		
 		instantTextBoxType = {
-			position = { x= 703 y = 101 }
+			position = { x= 727 y = 99 }
 			name = "save_button_text"
 			font = "vic_18"
 			borderSize = {x = 0 y = 0}	
@@ -151,7 +151,7 @@ guiTypes = {
 		}
 		
 		instantTextBoxType = {
-			position = { x = 703 y = 132 }
+			position = { x = 727 y = 130 }
 			name = "load_button_text"
 			font = "vic_18"
 			borderSize = { x = 0 y = 0 }	
