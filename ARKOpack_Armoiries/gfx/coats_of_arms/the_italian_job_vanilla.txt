@@ -1,0 +1,191 @@
+################################
+
+# Armoiries ArkoPack par ARKO
+# Vanilla Italian arms by Aasmul
+
+################################
+
+# Corsica and Sardinia
+1 - Della Rocca, 101840
+2 - Logudoro/di Torres, 101850
+3 - Cervera, 8758
+4 - Visconti, 1042014
+
+# Liguria
+5 - Fieschi, ID 13028
+6 - Grimaldi, ID 13016
+7 - Embriaco, ID 230107
+8 - D'Oria, ID 13014
+9 - Spinola, ID 50
+10 - Ventimiglia, ID 67
+11 - di Caretto, ID 101824
+12- di Malaspina, ID 101830
+13 - Cybo, ID 13000
+14 - Guercio(Guarco), ID 8717
+15 - Zaccaria, ID 8733 
+16 - Boccanegra, ID 13001
+17 - Adorno, ID 13003
+18 - Campofregosco, ID 13004
+19 - Gattilusio, ID 13029
+20 - Serra, ID 13034
+21 - Zoagli(Zovagli), ID 101856
+22 - Giustinani, ID 13010
+23 - Parentucelli, ID 13067
+24 - da Promontorio, 101837
+# Piemonte
+25 - Valperga, ID 8729
+26 - di Ceva, ID 8703
+27 - Saluces, ID 100231
+28 - Aleramerci, 206
+29 - Taparelli, ID 13086
+
+# Lombardy
+30 - da Dovara, 8683
+31 - Visconti, 234
+32 - Sforza, 13081
+33 - Della Torre, 101849
+34 - di Crivelli, 156
+35 - di Castiglione, 13050 already got arms in bishop pack
+36 - Maggi, ID 101832
+37 - Baggio, ID 13014
+38 - Biandrate, 8669
+39 - Borri, ID 8677
+
+# Verona and Veneto
+40 - Sambonifacio, 101842 
+41 - Borromeo, 13009
+42 - da Romano, 13025
+43 - Castropola, 7377
+44 - Della Scala, 13032
+45 - Carraresi, 101823
+46 - Gradenigo, 13007
+47 - Montemerlo(they are most commonly called Transalgardi (their subbranch who took over was called "Capodilista". Capodilista mostly had a red goat on gold with a branch in the mouth though, but sometimes they used the old arms aswell), ID 8670
+48 - Crispo, ID 13023
+49 - Castropola, ID 7377
+50 - Tiepolo, ID 13006
+51 - Ghisi, ID 7218
+52 - Michele, ID 7235
+53 - Polani, ID 7236
+54 - Zen, ID 7237
+55 - Soranzo, ID 7238
+56 - Sanudo, ID 102020
+57 - Mastropiero, ID 13076
+58 - Cornaro, ID 13079
+59 - Flabanico, ID 13071
+60 - Faliero, ID 13045 or ID 514?
+61 - Dandolo, ID 13027
+62 - Contarini, ID 516
+63 - Morosini, ID 13070
+64 - Ziani, ID 13075
+65 - Candiano, ID 1042813
+66 - Loredano, ID 101829
+67 - Mocenigo, ID 101833
+68 - da Ponte, ID 101836
+69 - Memmo, ID 1042811
+70 - Foscaro, ID 13082
+71 - Steno, ID 13083
+72 - Delfino, ID 13011
+73 - Participazio, ID 1042812
+74 - Orseolo, ID 101562
+75 - Condulmer, ID 13065
+76 - Boccasini, ID 13056
+77 - Colleoni, 13017
+78 - Sommariva(aka Sommeripa), ID 101845
+
+# Po Valley
+80 - d'Este, ID 679
+81 - Pallavicini, ID 13002
+82 - Scotti, ID 3125
+83 - di Maltraversi, ID 8708
+84 - Turchi, ID 8721. Its the arms of Giocoli from which they decended, I've been unable to track down a description of Turchi's own.
+85 - Cavalcabò, ID 101825
+86 - Torelli, ID 101848
+87 - Terzi, ID 101846
+88 - Beccaria, ID 101819
+89 - de Bonacolsi, ID 101820
+90 - Gonzaga, ID 13052
+91 - Rossi, ID 101841
+92 - Pico di Mirandola, ID 101834
+93 - Pio, ID 8724
+
+# Emilia
+95 - Guidotti, 8675
+96 - Caccianemici, 8679 
+97 - da Corregio, ID 13064
+98 - Canossa, ID 101556
+99 - Sessi, ID 1042011
+# Romagna
+100 - da Panigo/Panico, ID 1042009
+101 - Traversi, ID 101851
+102 - Polenta, ID 101835
+103 - Ordelaffi, ID 513
+104 - Malatesta, ID 13059
+105 - di Barbiano(aka Veltri), ID 8700
+106 - della Faggiola, ID 101826
+107 - Pepoli/Peppoli, ID 8674
+108 - Bentivoglio, ID 13005
+109 - Gozzadini, ID 7216
+
+# Tuscany
+110 - Guidi, 1042027
+111 - Pirovano, ID 8725
+112 - Castracani, ID 13013
+113 - Antelminelli, ID 101817
+114 - de Medici, 13030
+115 - Bourbon del Monte Santa Maria, 1042017
+116 - Aldobrandeschi, 1042000
+117 - Pannocchieschi, 1042010
+118 - Berardenghi, 1042019
+119 - Cadolingi, 1042020
+120 - Gheradesca, 13031
+121 - Caetani 622
+122 - Alighieri, 104440
+123 - Piccolomini, 515
+124 - Paganelli, ID 8786
+125 - Allucingolli, ID 8789
+126 - Borghese, ID 13008
+127 - Bandinelli, ID 13033
+128 - Strozzi, ID 13084
+129 - Chigi, ID 20068
+
+
+# Lazio
+130 - Savelli, ID 13049
+131 - Pierleoni, ID 8723
+132 - di Aquino, ID 8682, 12243
+133 - Castelli, ID 8785
+134 - di Conti, ID 8790 got arms in bishop pack
+135 - Tusculani, ID 7051
+136 - Colonna, ID 13019
+137 - Stefaniati/Cencii, 13015
+138 - Farnese, 13047
+139 - Papareshi, ID 13042
+140 - Orsini, ID 2
+141 - Bobone, ID 13048 
+142 - Prignano, ID 13057
+143 - di, Morra, 13044
+144 - della Subrra, ID 8787
+
+# Umbria, Marche and Abruzzi
+145 - Montefeltro, ID 13068
+146 - Masci, ID 13053
+147 - Scolari, ID 13046
+
+# Naples
+150 - di Gaeta, ID 12244
+151 - Ruffo, ID 13077
+152 - Tocco, ID 7250
+153 - l'Aquila, ID 8707
+154 - di Lauria, ID 7050
+155 - di Chiaromonte/Chiaramonte, ID 65
+156 - del Balzo, 8697
+157 - Sanseverino, 101843
+158 - Monticelli, 8719
+159 - Angelerio, ID 8796
+
+# Sicily
+160 - Palazzi, 66
+161 - Moncada, 64
+162 - de Candia, 7212
+163 - Lancia, 101828
+164 - de Alagón, 8685 
