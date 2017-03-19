@@ -38,3 +38,5 @@ MINOR_TITLES;Minor Titles;Titres mineurs;
 HT_SHOW_HONORARY_TITLES;Show Honorary Titles;Afficher les titres honorifiques;
 HT_SHOW_COMMANDERS;Show Commanders;Afficher les commandants;
 COMBATS_INTERFACE_LABEL;§YLand Combat§!;§YBatailles§!;§YGefechte§!;§YWalki§!;§YCombates§!;§YCombattimento terrestre§!;§YCsaták§!;§YPozemní boj§!;;;;;;x
+SAVE_RULES;Save Rules;Sauvegarder les règles;Regeln speichern;;Guardar reglas;;;;;;;;;x
+LOAD_RULES;Load Rules;Charger les règles;Regeln laden;;Cargar reglas;;;;;;;;;x
