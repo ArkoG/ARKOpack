@@ -5147,7 +5147,7 @@ guiTypes = {
 				{
 					name ="MNM_DLC"
 					spriteType = "GFX_dlc_icon_monks_and_mystics"
-					position = { x= 560 y = -218 }
+					position = { x= 559 y = -221 }
 					Orientation = "LOWER_LEFT"
 				}
 
