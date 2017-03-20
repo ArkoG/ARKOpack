@@ -186,3 +186,19 @@ name="Kalips"
 		}
 	}
 }
+1000053612 = {
+name="av Ranrike"
+ culture = norwegian
+}
+1000053613 = {
+name="av Bratsberg"
+ culture = norwegian
+}
+1000053614 = {
+name="av Dønna"
+ culture = norwegian
+}
+1000053615 = {
+name="av Tjøtta"
+ culture = norwegian
+}
