@@ -114,7 +114,7 @@
 113 - Tarlati, 1000035070
 114 - Albizzi, 1000035078
 115 - Gangalandi, 1000020290
-116 - di Pocari, 1000020291
+#116 - di Pocari, 1000020291
 117 - Poggi, 1000020292
 118 - Alberti, 1000020001
 119 - Capraia, 1000020293
@@ -159,7 +159,7 @@
 152 - degli Oddi, 1000020285
 153 - Dei Marsi, 1000035385
 154 - Valva/Pagliara/Paleria/Collepietro, 1000035162
-155 - di Sangro, 1000035162
+155 - di Sangro, 1000035665
 156 - Acquaviva, 1000035641
 157 - del Borgo, 1000035473
 158 - Artus, 1000035496
@@ -167,7 +167,7 @@
 # Naples
 160 - Carbone, 1000035483
 161 - di Capua, 1000035322
-162 - D'amico, 1000035512
+162 - D'amico, 1000035475
 163 - di Saya/Saye, 1000035497
 164 - di Ajello/Aiello, 1000035493
 165 - Della Ratta, 1000035488

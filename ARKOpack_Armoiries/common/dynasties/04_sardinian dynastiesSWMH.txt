@@ -42,18 +42,62 @@
 1000035188 = {
 	name="d'Evoli"
 	culture ="neapolitan"
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 17
+			texture_internal = 172
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}		
 }
 1000035189 = {
 	name="d'Sangineto"
 	culture ="neapolitan"
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 17
+			texture_internal = 173
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}		
 }
 1000035190 = {
 	name="Pipino"
 	culture ="neapolitan"
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 17
+			texture_internal = 171
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}	
 }
 1000035191 = {
 	name="Scalafani"
 	culture ="sicilian"
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 17
+			texture_internal = 177
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}		
 }
 1000035192 = {
 	name="de Mari"	

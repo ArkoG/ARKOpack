@@ -48,6 +48,17 @@ name="Acciaiuoli"
 1000035007 = {
 name="Amidei"
  culture = tuscan
+  	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 17
+			texture_internal = 104
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	} 
 }
 1000035008 = {
 name="Barberini"
@@ -64,6 +75,17 @@ name="Guicciardini"
 1000035011 = {
 name="de Pazzi"
  culture = tuscan
+  	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 17
+			texture_internal = 111
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}   
 }
 1000035012 = {
 name="Pucci"
@@ -104,6 +126,17 @@ name="Ottolini"
 1000035021 = {
 name="Petrucci"
  culture = tuscan
+  coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 17
+			texture_internal = 97
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	} 
 }
 1000035022 = {
 name="Caetani"
@@ -195,6 +228,17 @@ name="Tebaldi della Vitella"
 1000035041 = {
 name="Fifanti"
  culture = tuscan
+  	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 17
+			texture_internal = 107
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}  
 }
 1000035042 = {
 name="Filippi"
@@ -203,6 +247,17 @@ name="Filippi"
 1000035043 = {
 name="Gherardini"
  culture = tuscan
+  	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 17
+			texture_internal = 103
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}  
 }
 1000035044 = {
 name="Guadagni"
@@ -235,6 +290,17 @@ name="Upezzinghi"
 1000035051 = {
 name="Ardengheschi"
  culture = tuscan
+  coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 17
+			texture_internal = 98
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}  
 }
 1000035052 = {
 name="Bertoldi"
@@ -267,10 +333,32 @@ name="Barbolani di Montauto"
 1000035059 = {
 name="Machiavelli"
  culture = tuscan
+  	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 17
+			texture_internal = 121
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}   
 }
 1000035061 = {
 name="Montanini"
  culture = tuscan
+   	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 17
+			texture_internal = 131
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	} 
 }
 1000035062 = {
 name="Filippeschi"
@@ -279,58 +367,201 @@ name="Filippeschi"
 1000035063 = {
 name="Uberti"
  culture = tuscan
+  	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 17
+			texture_internal = 102
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	} 
 }
 1000035064 = {
 name="Salvani"
  culture = tuscan
+  	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 17
+			texture_internal = 129
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}  
 }
 1000035065 = {
 name="Ubertini"
  culture = tuscan
+  	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 17
+			texture_internal = 112
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	} 
 }
 1000035066 = {
 name="Tornaquinci"
  culture = tuscan
+  	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 17
+			texture_internal = 130
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}   
 }
 1000035067 = {
 name="Cavalcanti"
  culture = tuscan
+  	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 17
+			texture_internal = 109
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}   
 }
 1000035068 = {
 name="Giandonati"
  culture = tuscan
+  	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 17
+			texture_internal = 106
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}  
 }
-1000035069 = {
-name="Piccolomini"
- culture = tuscan
-}
+#1000035069 = {
+#name="Piccolomini"
+# culture = tuscan
+#}
 1000035070 = {
 name="Tarlati"
  culture = tuscan
+  	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 17
+			texture_internal = 113
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}  
 }
 1000035071 = {
 name="Baglioni"
  culture = tuscan
+  	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 17
+			texture_internal = 127
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}    
 }
 1000035072 = {
 name="Altoviti"
  culture = tuscan
+  	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 17
+			texture_internal = 128
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}    
 }
 1000035073 = {
 name="Lucchesi"
  culture = tuscan
+  	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 17
+			texture_internal = 124
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}    
 }
 1000035074 = {
 name="Buonaparte"
  culture = tuscan
+  	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 17
+			texture_internal = 125
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}    
 }
 1000035075 = {
 name="Guicciardini"
  culture = tuscan
+  	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 17
+			texture_internal = 126
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}    
 }
 1000035076 = {
 name="Guadagni"
  culture = tuscan
+  	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 17
+			texture_internal = 123
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}    
 }
 1000035077 = {
 name="Trenta"
@@ -339,14 +570,47 @@ name="Trenta"
 1000035078 = {
 name="Albizzi"
  culture = tuscan
+  	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 17
+			texture_internal = 114
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}  
 }
 1000035079 = {
 name="Donati"
  culture = tuscan
+  	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 17
+			texture_internal = 105
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}  
 }
 1000035080 = {
 name="Cherchi"
  culture = tuscan
+  	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 17
+			texture_internal = 122
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}   
 }
 1000020000 = { # aka Corvaresi
 name="Fraolmi"
@@ -355,15 +619,26 @@ name="Fraolmi"
 1000020001 = { 
 name="Alberti"
  culture = tuscan
+  	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 17
+			texture_internal = 118
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}  
 }
 #1000020002 = { 
 #name="" #
 # culture = tuscan
 #}
-1000020003 = { 
-name="Buondelmonti"
- culture = tuscan
-}
+#1000020003 = { 
+#name=""
+# culture = tuscan
+#}
 1000020004 = { 
 name="Da Palude"
  culture = italian
@@ -390,10 +665,32 @@ name="Dati"
 1000020007 = { 
 name="Cacciaconti"
  culture = tuscan
+  coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 17
+			texture_internal = 99
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}   
 }
 1000020008 = { 
 name="Ugurgieri"
  culture = tuscan
+  coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 17
+			texture_internal = 100
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}  
 }
 1000020275 = { 
 name="da Pirovano"
@@ -414,10 +711,32 @@ name="Suffredinghi"
 1000020279 = { 
 name="Guazzalotti" #
  culture = tuscan
+  	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 17
+			texture_internal = 90
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}	
 }
 1000020280 = { 
 name="Parenzi" # aka Romano
  culture = laziale
+   coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 17
+			texture_internal = 135
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
 }
 1000020281 = { 
 name="Asinelli"
@@ -449,6 +768,17 @@ name="da Bozzano"
 1000020285 = { 
 name="degli Oddi" #aka Olodini
  culture = umbrian
+  	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 17
+			texture_internal = 152
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}  
 }
 1000020286 = { 
 name="Malpigli"
@@ -469,18 +799,62 @@ name="Bonfigliastri"
 1000020290 = { 
 name="Gangalandi"
  culture = tuscan
+  	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 17
+			texture_internal = 115
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}   
 }
 1000020291 = { 
 name="Pocari"
  culture = tuscan
+  	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 17
+			texture_internal = 120
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}   
 }
 1000020292 = { 
 name="Poggi"
  culture = tuscan
+  	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 17
+			texture_internal = 117
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}   
 }
 1000020293 = { 
 name="di Capraia"
  culture = tuscan
+  	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 17
+			texture_internal = 119
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}   
 }
 1000020294 = { 
 name="Bonsignori"
@@ -489,14 +863,47 @@ name="Bonsignori"
 1000020295 = { 
 name="della Branca"
  culture = umbrian
+   	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 17
+			texture_internal = 148
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	} 
 }
 1000020296 = { 
 name="Caponsacchi"
  culture = tuscan
+  	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 17
+			texture_internal = 108
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}  
 }
 1000020297 = { 
 name="Della Tosa"
  culture = tuscan
+  	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 17
+			texture_internal = 110
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}  
 }
 1000020298 = { 
 name="Botoli"

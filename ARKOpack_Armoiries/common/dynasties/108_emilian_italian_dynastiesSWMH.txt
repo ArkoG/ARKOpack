@@ -180,18 +180,62 @@
 1000020090 = {
 	name="Gabrelli"
 	culture = italian
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 17
+			texture_internal = 146
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}	
 }
 1000020091 = {
 	name="Ottoni"
 	culture = italian
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 17
+			texture_internal = 149
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}	
 }
 1000020092 = {
 	name="Barbolani"
 	culture = italian
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 17
+			texture_internal = 91
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	} 	
 }
 1000020093 = {
 	name="di Sarteano"
 	culture = tuscan
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 17
+			texture_internal = 92
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}	
 }
 1000020094 = {
 	name="Parcitadi"

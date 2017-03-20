@@ -24,19 +24,41 @@ name="D'Angiò"
 1000035643 = {
 name="Caracciolo"
  culture = neapolitan
+   	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 17
+			texture_internal = 174
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	} 
 }
 1000035644 = {
 name="Carafa"
  culture = neapolitan
+   	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 17
+			texture_internal = 170
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	} 
 }
 1000035646 = {
 name="Sergi"
  culture = neapolitan
 }
-1000035647 = {
-name="Tocco"
- culture = neapolitan
-}
+#1000035647 = {
+#name="Tocco"
+# culture = neapolitan
+#}
 1000035648 = {
 name="di Andria"
  culture = neapolitan
@@ -56,6 +78,17 @@ name="Alagna"
 1000035652 = {
 name="Cantelmo"
  culture = neapolitan
+   	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 17
+			texture_internal = 166
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	} 
 }
 1000035653 = {
 name="Capano"
@@ -80,6 +113,17 @@ name="Dentice"
 1000035658 = {
 name="Filangieri"
  culture = neapolitan
+   	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 17
+			texture_internal = 167
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}  
 }
 1000035659 = {
 name="Pignatelli"
@@ -108,6 +152,17 @@ name="Della Marra"
 1000035665 = {
 name="Di Sangro"
  culture = umbrian
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 17
+			texture_internal = 155
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}  
 }
 1000035666 = {
 name="Fontanarosa"
@@ -116,6 +171,17 @@ name="Fontanarosa"
 1000035667 = {
 name="Gesualdo"
  culture = neapolitan
+    	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 17
+			texture_internal = 178
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}  
 }
 1000035668 = {
 name="Lancellotti"
@@ -140,6 +206,17 @@ name="Zurlo"
 1000035473 = {
 name="del Borgo"
  culture = neapolitan
+  	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 17
+			texture_internal = 157
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}  
 }
 1000035474 = {
 name="Castriota"
@@ -148,6 +225,17 @@ name="Castriota"
 1000035475 = {
 name="D'Amico"
  culture = neapolitan
+  	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 17
+			texture_internal = 162
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}   
 }
 1000035476 = {
 name="Dé Monti"
@@ -180,6 +268,17 @@ name="Borrello"
 1000035483 = {
 name="Carbone"
  culture = neapolitan
+  	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 17
+			texture_internal = 160
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}  
 }
 1000035484 = {
 name="Francisio"
@@ -200,6 +299,17 @@ name="da Rayza"
 1000035488 = {
 name="della Ratta" #  Rapta in catalan
  culture = neapolitan
+   	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 17
+			texture_internal = 165
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}  
 }
 1000035489 = {
 name="di Antiochia"
@@ -226,15 +336,37 @@ name="di Mahdia"
 }
 1000035492 = {
 name="Bonello"
- culture = sicilian
+ culture = sicilian 
 }
 1000035493 = {
 name="di Ajello"
  culture = sicilian
+  	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 17
+			texture_internal = 164
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}   
 }
 1000035494 = {
 name="Saragosa"
  culture = sicilian
+   	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 17
+			texture_internal = 176
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}  
 }
 1000035495 = {
 name="de Bullas"
@@ -243,10 +375,32 @@ name="de Bullas"
 1000035496 = {
 name="Artus"
  culture = frankish
+  	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 17
+			texture_internal = 158
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}  
 }
 1000035497 = {
 name="di Saya"
  culture = neapolitan
+   	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 17
+			texture_internal = 163
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	} 
 }
 1000035498 = {
 name="de Sarno"
@@ -255,4 +409,15 @@ name="de Sarno"
 1000035499 = {
 name="da Procida"
  culture = langobardish
+   	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 17
+			texture_internal = 169
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	} 
 }

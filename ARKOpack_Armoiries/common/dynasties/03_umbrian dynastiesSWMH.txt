@@ -29,10 +29,32 @@ name="di Torrette"
 1000035155 = {
 name="Brancaleoni"
  culture = umbrian
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 17
+			texture_internal = 150
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	} 
 }
 1000035156 = {
 name="di Carpegna"
  culture = umbrian
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 17
+			texture_internal = 151
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	} 
 }
 1000035157 = {
 name="di Aprutio"
@@ -57,6 +79,17 @@ name="di Atri"
 1000035162 = {
 name="di Palearia" # di Pagliara
  culture = umbrian
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 17
+			texture_internal = 154
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}  
 }
 1000035163 = {
 name="di Valva"

@@ -109,14 +109,47 @@ name="Massimo"
 1000035385 = {
 name="Berardi"
  culture = umbrian
+   coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 17
+			texture_internal = 153
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	} 
 }
 1000035386 = {
 name="Anguillara"
  culture = laziale
+   coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 17
+			texture_internal = 139
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	} 
 }
 1000035387 = {
 name="de Ceccano"
  culture = laziale
+   coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 17
+			texture_internal = 140
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	} 
 }
 1000035388 = {
 name="del Balzo"
@@ -125,6 +158,17 @@ name="del Balzo"
 1000035389 = {
 name="Ottaviani"
  culture = laziale
+ 	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 17
+			texture_internal = 137
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	} 
 }
 1000035390 = {
 name="Serlupi"
@@ -145,14 +189,47 @@ name="Annibaldi"
 1000035394 = {
 name="Crescenzi"
  culture = laziale
+ 	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 17
+			texture_internal = 136
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	} 
 }
 1000035395 = {
 name="Frangipane"
  culture = laziale
+ 	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 17
+			texture_internal = 138
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	} 
 }
 1000035396 = {
 name="Mattei"
  culture = laziale
+   coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 17
+			texture_internal = 141
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	} 
 }
 1000035397 = {
 name="Da Buscareto"
@@ -181,6 +258,17 @@ name="Sgariglia"
 1000035403 = {
 name="Da Varano"
  culture = umbrian
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 17
+			texture_internal = 145
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}  
 }
 1000035404 = {
 name="Baschi"
@@ -190,10 +278,10 @@ name="Baschi"
 name="Vitelli"
  culture = laziale
 }
-1000035406 = {
-name="Baglioni"
- culture = laziale
-}
+#1000035406 = {
+#name="Baglioni"
+# culture = laziale
+#}
 1000035407 = {
 name="di Fizdanza"
  culture = laziale

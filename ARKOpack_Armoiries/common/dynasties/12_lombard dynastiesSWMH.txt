@@ -416,6 +416,17 @@ name="Scarampi"
 1000035307 = {
 name="di Marsciano"
   culture = umbrian
+ 	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 17
+			texture_internal = 147
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}   
 }
 1000035308 = {
 name="Attoni"
@@ -526,6 +537,17 @@ name="di Marcaria"
 1000035322 = {
 name="di Capua" # conti di Altavilla
  culture = neapolitan
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 17
+			texture_internal = 161
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	} 
 }
 1000035323 = {
 name="di Gavi"
@@ -575,18 +597,62 @@ name="Corradidi"
 1000020227 = {
 name="di Chiusi"
  culture = tuscan
+  coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 17
+			texture_internal = 93
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}   
 }
 1000020228 = {
 name="Cattani"
  culture = tuscan
+  coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 17
+			texture_internal = 95
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	} 
 }
 1000020229 = {
 name="Malavolti"
  culture = tuscan
+  coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 17
+			texture_internal = 96
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}  
 }
 1000020230 = {
 name="Buondelmonti"
  culture = tuscan
+  coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 17
+			texture_internal = 101
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	} 
 }
 
 

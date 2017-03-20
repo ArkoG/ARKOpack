@@ -56,6 +56,17 @@ name="Calboli"
 1000020105= {
 name="Ubaldini"
  culture = tuscan
+  	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 17
+			texture_internal = 94
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	} 
 }
 1000020106= {
 name="Arrighi "
