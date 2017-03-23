@@ -3397,7 +3397,7 @@
 	culture ="bedouin_arabic"
 }
 569 = {
-	name="Banú Amir"
+	name="Banú 'Amir"
 	culture ="andalusian_arabic"
 }
 570 = {
@@ -3413,7 +3413,7 @@
 	culture ="andalusian_arabic"
 }
 573 = {
-	name="Banú-l-Aftas" #Aftasiyún Aftasides 
+	name="Banú l-Aftas" #Aftasiyún Aftasides 
 	culture ="andalusian_arabic"
 }
 574 = {
@@ -3465,7 +3465,7 @@
 	culture ="bedouin_arabic"
 }
 586 = {
-	name="Raziniyún"
+	name="Banú Razin"
 	culture ="andalusian_arabic"
 }
 587 = {
@@ -3517,7 +3517,7 @@
 	culture ="maghreb_arabic"
 }
 596 = {
-	name="Amiriyún"
+	name="al-'Amiri"
 	culture ="maghreb_arabic"
 }
 597 = {
@@ -3532,7 +3532,7 @@
 	culture ="levantine_arabic"
 }
 599 = {
-	name="Banú Hudd"
+	name="Banú Hud"
 	religion="sunni"
 	culture ="andalusian_arabic"
 }
@@ -21885,7 +21885,7 @@ used_for_random = no
 	culture = andalusian_arabic
 }
 101700 = {
-	name="Jizruniyún"
+	name="Banú Jizrún"
 	culture = maghreb_arabic
 }
 101701 = {
@@ -29675,7 +29675,7 @@ used_for_random = no
 
 1046029 = {
 
-	name="Yahsubiyún"
+	name="Banú Yahsúb"
 
 	culture="bedouin_arabic"
 
