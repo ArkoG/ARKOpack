@@ -11633,7 +11633,7 @@ used_for_random = no
 	culture ="andalusian_arabic"
 }
 12194 = {
-	name = "Banú 'l-Tujibi"
+	name = "Banú Tujibi"
 	culture ="andalusian_arabic"
 }
 12195 = {
@@ -21758,7 +21758,7 @@ used_for_random = no
 	culture ="maghreb_arabic"
 }
 101608 = {
-	name="Sumadiyún"
+	name="Banú Sumadih"
 	culture ="andalusian_arabic"
 }
 101609 = {
@@ -22863,7 +22863,7 @@ used_for_random = no
 	culture = turkish
 }
 101867 = {
-	name="Raziniyún"
+	name="Banú Razin"
 	culture = bedouin_arabic
 }
 101868 = {
@@ -26101,7 +26101,7 @@ used_for_random = no
 	culture ="andalusian_arabic"
 }
 12293 = {
-	name= "Qasid"
+	name= "Banú Qasi"
 	culture ="andalusian_arabic"
 }
 12294 = {
