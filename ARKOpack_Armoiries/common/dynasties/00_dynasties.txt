@@ -3401,7 +3401,7 @@
 	culture ="andalusian_arabic"
 }
 570 = {
-	name="Banú Dhi l-Nún" #Dhunnúniyún"
+	name="Banú Dhi 'l-Nún" #Dhunnúniyún"
 	culture ="andalusian_arabic"
 }
 571 = {
@@ -3413,7 +3413,7 @@
 	culture ="andalusian_arabic"
 }
 573 = {
-	name="Banú l-Aftas" #Aftasiyún Aftasides 
+	name="Banú 'l-Aftas" #Aftasiyún Aftasides 
 	culture ="andalusian_arabic"
 }
 574 = {
@@ -8780,7 +8780,7 @@ used_for_random = no
 	culture ="maghreb_arabic"
 }
 7275 = {
-	name="an-Nafzawiyyat"
+	name="al-Nafzâwiyya"
 	culture ="maghreb_arabic"
 }
 7276 = {
@@ -30669,7 +30669,7 @@ used_for_random = no
 	culture = maghreb_arabic
 }
 1048004 = {
-	name="Ifriniyún" #rulers of Tlemcen
+	name="Banú Ifran" #rulers of Tlemcen
 	culture = maghreb_arabic
 }
 1048005 = {
