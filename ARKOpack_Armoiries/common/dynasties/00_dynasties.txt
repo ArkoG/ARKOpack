@@ -4688,7 +4688,7 @@
 	culture = "persian"
 }
 812 = {
-	name="Saffariyán"
+	name="al-Saffâr"
 	culture = "persian"
 }
 813 = {
