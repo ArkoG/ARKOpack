@@ -26,10 +26,10 @@ spriteTypes = {
 		name = "GFX_trade_post_bg_arko"
 		texturefile = "gfx\\interface\\trade_post_bg.dds"
 	}
-	spriteType = {
-		name = "GFX_parchemin_arko"
-		texturefile = "gfx\\interface\\trade_post_bg_arko.dds"
-	}
+#	spriteType = {
+#		name = "GFX_parchemin_arko"
+#		texturefile = "gfx\\interface\\trade_post_bg_arko.dds"
+#	}
 	spriteType = {
 		name = "GFX_label_arko"
 		texturefile = "gfx\\interface\\label_arko.dds"
@@ -46,10 +46,10 @@ spriteTypes = {
 		name = "GFX_garrison_arko"
 		texturefile = "gfx\\interface\\garrison_arko.dds"
 	}
-	spriteType = {
-		name = "GFX_domaine"
-		texturefile = "gfx\\interface\\province_bg_domaines.dds"
-	}
+#	spriteType = {
+#		name = "GFX_domaine"
+#		texturefile = "gfx\\interface\\province_bg_domaines.dds"
+#	}
 	spriteType = {
 		name = "GFX_treasury_button_arkopack"
 		texturefile = "gfx\\interface\\inventory\\open_treasury_button_arkopack.dds"
@@ -101,13 +101,13 @@ spriteTypes = {
 		effectFile = "gfx/FX/buttonstate.lua"
 		norefcount = yes
 	}
-	spriteType = {
-		name = "GFX_outliner_court"	
-		texturefile = "gfx\\interface\\outliner_court.tga"
-		loadType = "INGAME"
-		effectFile = "gfx/FX/buttonstate.lua"
-		norefcount = yes
-	}
+#	spriteType = {
+#		name = "GFX_outliner_court"	
+#		texturefile = "gfx\\interface\\outliner_court.tga"
+#		loadType = "INGAME"
+#		effectFile = "gfx/FX/buttonstate.lua"
+#		norefcount = yes
+#	}
 	spriteType = {
 		name = "GFX_outliner_header"	
 		texturefile = "gfx\\interface\\outliner_header.tga"
@@ -272,10 +272,10 @@ spriteTypes = {
 		name = "GFX_law_arko_entry_bg"
 		texturefile = "gfx\\interface\\law_arko_entry_bg.dds"
 	}
-	spriteType = {
-		name = "GFX_council_status_bg_arko"
-		texturefile = "gfx\\interface\\council_status_bg_arko.dds"
-	}	
+#	spriteType = {
+#		name = "GFX_council_status_bg_arko"
+#		texturefile = "gfx\\interface\\council_status_bg_arko.dds"
+#	}	
 	
 	spriteType = {
 		name = "GFX_council_status_bg_button_arko"
@@ -393,16 +393,16 @@ spriteTypes = {
 		name = "GFX_religio_deco"
 		texturefile = "gfx\\interface\\religio_deco.tga"
 	}
-	spriteType = {
-		name = "GFX_charview_tab_arko1"
-		texturefile = "gfx\\interface\\charview_tab_arko1.dds"
-		noOfFrames = 2
-	}
-	spriteType = {
-		name = "GFX_charview_tab_arko2"
-		texturefile = "gfx\\interface\\charview_tab_arko2.dds"
-		noOfFrames = 2
-	}
+#	spriteType = {
+#		name = "GFX_charview_tab_arko1"
+#		texturefile = "gfx\\interface\\charview_tab_arko1.dds"
+#		noOfFrames = 2
+#	}
+#	spriteType = {
+#		name = "GFX_charview_tab_arko2"
+#		texturefile = "gfx\\interface\\charview_tab_arko2.dds"
+#		noOfFrames = 2
+#	}
 	spriteType = {
 		name = "GFX_lobby_tab_blue"
 		texturefile = "gfx\\interface\\lobby_tab_blue.dds"
