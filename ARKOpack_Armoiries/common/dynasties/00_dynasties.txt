@@ -3409,7 +3409,7 @@
 	culture ="andalusian_arabic"
 }
 572 = {
-	name="Tahiriyún"
+	name="Banú Tahir"
 	culture ="andalusian_arabic"
 }
 573 = {
