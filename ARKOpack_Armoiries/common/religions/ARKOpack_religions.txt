@@ -12,6 +12,8 @@ customizer_christian = { #for DLC customizer, not handy with Ruler Designer
 	
 	ai_convert_same_group = 2 # always try to convert
 	ai_convert_other_group = 2 # always try to convert
+
+	color = { 0.8 0.8 0.6 }
 	
 	# Names given only to Christian characters (base names)
 	male_names = {
@@ -119,6 +121,8 @@ customizer_dlcfanbois = { #for DLC customizer, not handy with Ruler Designer
 	
 	ai_convert_same_group = 2 # always try to convert
 	ai_convert_other_group = 2 # always try to convert
+	
+	color = { 0.8 0.8 0.6 }
 	
 	# Names given only to Christian characters (base names)
 	male_names = {

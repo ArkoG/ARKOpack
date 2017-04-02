@@ -25669,13 +25669,7 @@ used_for_random = no
 	name="Írakonungr"
 	culture ="norwegian"
 }
-1044404=
-{
-	name="Skjæran"
-	culture="norwegian"
-	religion="cathar"
-	used_for_random=no
-}
+
 1040006 = {
 	name="Síol Muireadaigh"
 	culture ="irish"
@@ -31093,12 +31087,12 @@ used_for_random = no
 	religion="hindu"
 	used_for_random=no
 }
-1044404=
-{
-	name="Khanzada"
-	culture="rajput"
-	religion="sunni"
-}
+#1044404= #vanilla duplicate ID
+#{
+#	name="Khanzada"
+#	culture="rajput"
+#	religion="sunni"
+#}
 1044405=
 {
 	name="Boccaccio"
@@ -31111,13 +31105,13 @@ used_for_random = no
 	culture="italian"
 	religion="catholic"
 }
-1044407=
+1044407= 
 {
 	name="Fibonacci"
 	culture="italian"
 	religion="catholic"
 }
-1044407=
+1044410=
 {
 	name="Alighieri"
 	culture="italian"
@@ -31143,6 +31137,7 @@ used_for_random = no
 	culture="visigothic"
 	religion="catholic"
 }
+
 1042185=
 {
 	name="Karluk"
@@ -32465,6 +32460,13 @@ used_for_random = no
 #			0 4 0 8 7 12 1 0 0 34 3 1 1 0 0 34 3 1 1 0 0 34 3 1 1 }
 #		religion="catholic"
 #	}
+	used_for_random=no
+}
+1053023=
+{
+	name="Skjæran"
+	culture="norwegian"
+	religion="cathar"
 	used_for_random=no
 }
 
