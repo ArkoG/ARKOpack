@@ -3405,7 +3405,7 @@
 	culture ="andalusian_arabic"
 }
 571 = {
-	name="Matiyyún"
+	name="Banú Matiyo"
 	culture ="andalusian_arabic"
 }
 572 = {
@@ -3417,7 +3417,7 @@
 	culture ="andalusian_arabic"
 }
 574 = {
-    name="Umariyún"
+    name="Banú Umar"
 	culture ="bedouin_arabic"
 }
 575 = {
@@ -3433,7 +3433,7 @@
 	culture ="levantine_arabic"
 }
 578 = {
-    name="Najadiyún"
+    name="Banú Najid"
 	culture ="bedouin_arabic"
 }
 579 = {
@@ -3453,7 +3453,7 @@
 	culture ="bedouin_arabic"
 }
 583 = {
-	name="Futohiyún" #of Mecca
+	name="al-Futúhi" #of Mecca
 	culture ="levantine_arabic"
 }
 584 = {
@@ -3473,15 +3473,15 @@
 	culture ="levantine_arabic"
 }
 588 = {
-	name="Mazyad"
-	culture ="levantine_arabic"
+	name="Banú Mazyad"
+	culture ="bedouin_arabic"
 }
 589 = {
 	name="al-Fatimiyyún"
 	culture ="maghreb_arabic"
 }
 590 = {
-	name="Sulaihiyún"
+	name="Banú Sulayh"
 	culture ="levantine_arabic"
 }
 591 = {
@@ -3501,7 +3501,7 @@
 	}
 }
 592 = {
-	name="Yaruqiyún"
+	name="Banú Yaruq"
 	culture ="levantine_arabic"
 }
 593 = {
@@ -3527,7 +3527,7 @@
 	forced_coa_religiongroup = "muslim"
 }
 598 = {
-	name="Mustazhiriyún"
+	name="Banú 'l-Mustazhir"
 	religion="sunni"
 	culture ="levantine_arabic"
 }
@@ -3537,16 +3537,16 @@
 	culture ="andalusian_arabic"
 }
 600 = {
-	name="Qaimiyún"
+	name="Banú Qaym"
 	religion="sunni"
 	culture ="levantine_arabic"
 }
 601 = {
-	name="Quadiriyún"
+	name="Banú 'l-Qadir"
 	culture ="egyptian_arabic"
 }
 602 = {
-	name="Taiyún"
+	name="al-Ta'i"
 	culture ="levantine_arabic"
 }
 603 = {
@@ -3578,7 +3578,7 @@
 	culture ="levantine_arabic"
 }
 610 = {
-	name="Yaminiyún" # Yamin-ud-Dawlah
+	name="Banú Yamin" # Yamin-ud-Dawlah
 	culture ="levantine_arabic"
 }
 611 = {
@@ -3586,8 +3586,8 @@
 	culture ="egyptian_arabic"
 }
 612 = {
-	name="Qutalmish"
-	culture ="bedouin_arabic"
+	name="Qutalmishlar"
+	culture ="turkish"
 }
 613 = {
 	name="Selçuklar"
@@ -11657,7 +11657,7 @@ used_for_random = no
 	culture ="andalusian_arabic"
 }
 12200 = {
-	name = "Abu-Bakriyún"
+	name = "Banú Tashfin" #given to the duplicate Almoravid Sïr b. Abu Bakr b. Tashfin; shouldn't really be given a separate dynasty, but alas it's there
 	culture ="maghreb_arabic"
 }
 12201 = {
@@ -11753,7 +11753,7 @@ used_for_random = no
 	culture ="andalusian_arabic"
 }
 12224 = {
-	name = "Qaturbiyún"
+	name = "al-Qurtubi"
 	culture ="andalusian_arabic"
 }
 12225 = {
@@ -18538,11 +18538,11 @@ used_for_random = no
 	culture = bedouin_arabic
 }
 100652 = {
-	name="Bistamiyún"
+	name="Banú Bistam"
 	culture = bedouin_arabic
 }
 100653 = {
-	name="Karkhiyún"
+	name="Banú Lam"
 	culture = bedouin_arabic
 }
 100654 = {
@@ -18683,7 +18683,7 @@ used_for_random = no
 	culture ="bedouin_arabic"
 }
 100688 = {
-	name="Miqadiyún"
+	name="Banú Miqadi"
 	culture = bedouin_arabic
 }
 100689 = {
@@ -18771,19 +18771,19 @@ used_for_random = no
 	culture = bedouin_arabic
 }
 100710 = {
-	name="Bichriyún"
+	name="al-Bishri"
 	culture = bedouin_arabic
 }
 100711 = {
-	name="Hafiziyún"
+	name="al-Hafiz"
 	culture = bedouin_arabic
 }
 100712 = {
-	name="Fakhouriyún"
+	name="al-Fakhuri"
 	culture = bedouin_arabic
 }
 100713 = {
-	name="Nawawiyún"
+	name="al-Nawawi"
 	culture = bedouin_arabic
 }
 100714 = {
@@ -18799,7 +18799,7 @@ used_for_random = no
 	culture = bedouin_arabic
 }
 100717 = {
-	name="Shehhiyún"
+	name="al-Shehhi"
 	culture = bedouin_arabic
 }
 100718 = {
@@ -18807,11 +18807,11 @@ used_for_random = no
 	culture = levantine_arabic
 }
 100719 = {
-	name="Elbaziyún"
+	name="Banú Elbaz"
 	culture = levantine_arabic
 }
 100720 = {
-	name="Abbariyún"
+	name="al-Abbar"
 	culture = levantine_arabic
 }
 100721 = {
@@ -18819,23 +18819,23 @@ used_for_random = no
 	culture = levantine_arabic
 }
 100722 = {
-	name="Shâmiyún"
+	name="al-Shâmi"
 	culture = levantine_arabic
 }
 100723 = {
-	name="Allawiyún"
+	name="Alawi"
 	culture = levantine_arabic
 }
 100724 = {
-	name="Aqiliyún"
+	name="Banú 'Aqil"
 	culture = levantine_arabic
 }
 100725 = {
-	name="Qahtaniyún"
+	name="al-Qahtani"
 	culture = levantine_arabic
 }
 100726 = {
-	name="Bahjatiyún"
+	name="Banú Bahjat"
 	culture = levantine_arabic
 }
 100727 = {
@@ -18859,7 +18859,7 @@ used_for_random = no
 	culture = levantine_arabic
 }
 100732 = {
-	name="Gheisariyún"
+	name="al-Qaysari"
 	culture = levantine_arabic
 }
 100733 = {
@@ -19067,7 +19067,7 @@ used_for_random = no
 	culture = levantine_arabic
 }
 100784 = {
-	name="Aqabiyún"
+	name="al-Aqabi"
 	culture = levantine_arabic
 }
 100785 = {
@@ -19163,7 +19163,7 @@ used_for_random = no
 	culture = maghreb_arabic
 }
 100808 = {
-	name="Safaviyún"
+	name="Safavi"
 	culture = maghreb_arabic
 }
 100809 = {
@@ -19183,11 +19183,11 @@ used_for_random = no
 	culture = maghreb_arabic
 }
 100813 = {
-	name="Sharîfiyún"
+	name="al-Sharîf"
 	culture = maghreb_arabic
 }
 100814 = {
-	name="Shehzadiyún"
+	name="Shehzad"
 	culture = maghreb_arabic
 }
 100815 = {
@@ -19195,11 +19195,11 @@ used_for_random = no
 	culture = maghreb_arabic
 }
 100816 = {
-	name="Táhiriyún"
+	name="Banú Táhir"
 	culture = maghreb_arabic
 }
 100817 = {
-	name="Talaliyún"
+	name="Banú Talal"
 	culture = maghreb_arabic
 }
 100818 = {
@@ -19291,7 +19291,7 @@ used_for_random = no
 	culture = maghreb_arabic
 }
 100840 = {
-	name="Nadîriyún"
+	name="Banú Nadîr"
 	culture = maghreb_arabic
 }
 100841 = {
@@ -19299,7 +19299,7 @@ used_for_random = no
 	culture = maghreb_arabic
 }
 100842 = {
-	name="Najîdiyún"
+	name="Banú Najîd"
 	culture = maghreb_arabic
 }
 100843 = {
@@ -30593,7 +30593,7 @@ used_for_random = no
 	culture = old_frankish
 }
 1042158 = {
-	name="Makkiyún"
+	name="al-Makki"
 	culture ="bedouin_arabic"
 }
 
