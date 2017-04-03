@@ -3517,7 +3517,7 @@
 	culture ="maghreb_arabic"
 }
 596 = {
-	name="al-'Amiri"
+	name="Banú 'Amir"
 	culture ="maghreb_arabic"
 }
 597 = {
@@ -25381,7 +25381,7 @@ used_for_random = no
 	culture = bedouin_arabic
 }
 1029035 = {
-	name="Kilabiyún"
+	name="Banú Kilab"
 	culture = bedouin_arabic
 }
 1029036 = {
@@ -25389,7 +25389,7 @@ used_for_random = no
 	culture = bedouin_arabic
 }
 1029037 = {
-	name="Kaabiyún"
+	name="Banú Kaab"
 	culture = bedouin_arabic
 }
 1029038 = {
