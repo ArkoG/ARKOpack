@@ -4908,19 +4908,19 @@
 	culture = kirghiz
 }
 855 = { # Fantasy
-	name = Ál-e-Bam
+	name = Bami
 	culture = "persian"
 }
 856 = { # Fantasy
-	name = Ál-e-Sirjani
+	name = Sirjani
 	culture = "persian"
 }
 857 = { # Fantasy
-    name = Ál-e-Furg
+    name = Furgi
 	culture = "persian"
 }
 858 = { # Fantasy
-	name = Ál-e-Yeldar
+	name = Yeldari
 	culture = baloch
 }
 859 = { # Fantasy
@@ -18462,7 +18462,7 @@ used_for_random = no
 	culture = "persian"
 }
 100633 = {
-	name="Tâheriyân"
+	name="Âl-e-Tâher"
 	culture = "persian"
 }
 100634 = {
@@ -18502,7 +18502,7 @@ used_for_random = no
 	culture = "persian"
 }
 100643 = {
-	name="Âl-e-Saffari"
+	name="Âl-e-Ya'qub"
 	culture = "persian"
 }
 100644 = {
@@ -18522,7 +18522,7 @@ used_for_random = no
 	culture = persian
 }
 100648 = {
-	name="Âl-e-Ajam"
+	name="Ajami"
 	culture = persian
 }
 100649 = {
@@ -18558,11 +18558,11 @@ used_for_random = no
 	culture = bedouin_arabic
 }
 100657 = {
-	name="Rumiyân"
+	name="Rumi"
 	culture = persian
 }
 100658 = {
-	name="Âl-e-Hamadan"
+	name="Hamadani"
 	culture = persian
 }
 100659 = {
@@ -18578,7 +18578,7 @@ used_for_random = no
 	culture = persian
 }
 100662 = {
-	name="Âl-e-Bukhari"
+	name="Bukhari"
 	culture = persian
 }
 100663 = {
@@ -18594,7 +18594,7 @@ used_for_random = no
 	culture = persian
 }
 100666 = {
-	name="Âl-e-Tus"
+	name="Tusi"
 	culture = persian
 }
 100667 = {
@@ -18606,11 +18606,11 @@ used_for_random = no
 	culture = persian
 }
 100669 = {
-	name="Âl-e-Biruni"
+	name="Biruni"
 	culture = persian
 }
 100670 = {
-	name="Maraghiyân"
+	name="Maraghi"
 	culture = persian
 }
 100671 = {
@@ -22847,7 +22847,7 @@ used_for_random = no
 	culture ="bedouin_arabic"
 }
 101863 = {
-	name="Saffariyún"
+	name="al-Saffâr"
 	culture = bedouin_arabic
 }
 101864 = {
@@ -22855,7 +22855,7 @@ used_for_random = no
 	culture = karluk
 }
 101865 = {
-	name="Âl-e-Gaznîn"
+	name="Gaznî"
 	culture = persian
 }
 101866 = {
@@ -24624,7 +24624,7 @@ used_for_random = no
 	forced_coa_religiongroup = "muslim"
 }
 1031103 = {
-	name="Âl-e-Qazwînî"
+	name="Qazwînî"
 	culture = persian
 	forced_coa_religiongroup = "muslim"
 }
@@ -24639,7 +24639,7 @@ used_for_random = no
 	forced_coa_religiongroup = "muslim"
 }
 1031106 = {
-	name="Âl-e-Hamadânî"
+	name="Hamadânî"
 	culture = persian
 	forced_coa_religiongroup = "muslim"
 }
@@ -24664,17 +24664,17 @@ used_for_random = no
 	forced_coa_religiongroup = "muslim"
 }
 1031111 = {
-	name="Âl-e-Amuli"
+	name="Amuli"
 	culture = persian
 	forced_coa_religiongroup = "muslim"
 }
 1031112 = {
-	name="Âl-e-Balkhî"
+	name="Balkhî"
 	culture = persian
 	forced_coa_religiongroup = "muslim"
 }
 1031113 = {
-	name="Âl-e-Bukhârî"
+	name="Bukhârî"
 	culture = persian
 	forced_coa_religiongroup = "muslim"
 }
@@ -24684,12 +24684,12 @@ used_for_random = no
 	forced_coa_religiongroup = "muslim"
 }
 1031115 = {
-	name="Âl-e-Abhari"
+	name="Abhari"
 	culture = persian
 	forced_coa_religiongroup = "muslim"
 }
 1031116 = {
-	name="Âl-e-Túsî"
+	name="Túsî"
 	culture = persian
 	forced_coa_religiongroup = "muslim"
 }
@@ -24699,7 +24699,7 @@ used_for_random = no
 	forced_coa_religiongroup = "muslim"
 }
 1031118 = {
-	name="Âl-e-Hamadânî"
+	name="Hamadânî"
 	culture = persian
 	forced_coa_religiongroup = "muslim"
 }
@@ -26085,11 +26085,11 @@ used_for_random = no
 	culture ="breton"
 }
 12289 = {
-	name= "A'idiyún"
+	name= "Banú A'id"
 	culture = "bedouin_arabic"
 }
 12290 = {
-	name= "Sajriyún"
+	name= "Banú Sajr"
 	culture = "bedouin_arabic"
 }
 12291 = {
@@ -26097,7 +26097,7 @@ used_for_random = no
 	culture ="andalusian_arabic"
 }
 12292 = {
-	name= "Hafsunid"
+	name= "Banú Hafs"
 	culture ="andalusian_arabic"
 }
 12293 = {
@@ -26180,11 +26180,11 @@ used_for_random = no
 	culture ="welsh"
 }
 12302 = {
-	name= "Nayihiyún"
+	name= "Banú Nayih"
 	culture ="bedouin_arabic"
 }
 12303 = {
-	name= "Musarriyún"
+	name= "Banú Musarra"
 	culture ="maghreb_arabic"
 }
 12304 = {
@@ -26267,7 +26267,7 @@ used_for_random = no
 	culture ="andalusian_arabic"
 }
 12306 = {
-	name= "Alkadiyún"
+	name= "Banú Alkada"
 	culture ="andalusian_arabic"
 }
 12307 = {
@@ -26283,7 +26283,7 @@ used_for_random = no
 	culture ="andalusian_arabic"
 }
 12310 = {
-	name= "Jalidiyún"
+	name= "Banú Jalid"
 	culture ="andalusian_arabic"
 }
 12311 = {
@@ -30299,12 +30299,12 @@ used_for_random = no
 }
 
 1042144 = {
-	name="Âl-e-Lad"
+	name="Ladi"
 	culture = "persian"
 }
 
 1042145 = {
-	name="Âl-e-Persepolis"
+	name="Âl-e-Jamshid"
 	culture = "persian"
 }
 1044366 = {
@@ -30598,12 +30598,12 @@ used_for_random = no
 }
 
 1042159 = {
-	name="Âl-e-Paveh"
+	name="Pavehi"
 	culture = kurdish
 }
 
 1042160 = {
-	name="Âl-e-Aligoodarz"
+	name="Aligoodarzi"
 	culture = "persian"
 }
 
@@ -30618,7 +30618,7 @@ used_for_random = no
 }
 
 1042163 = {
-	name="Ishaqiyân"
+	name="Âl-e-Ishaq"
 	culture = "persian"
 }
 1042164 = {
