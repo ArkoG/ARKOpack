@@ -4576,12 +4576,12 @@
 	culture = ugricbaltic
 }
 790 = {
-	name = "Ghaznavíyán"
+	name = "Ghaznaví"
 	culture = "turkish"
 	used_for_random = no
 }
 791 = {
-	name = "Ál-e-Shansab" #Ghuriyán Ghurides
+	name = "Shansabaní" #Ghuriyán Ghurides
 	culture = "persian"
 }
 792 = {
@@ -4680,11 +4680,11 @@
 	culture ="bedouin_arabic"
 }
 810 = {
-	name="Samaniyán"
+	name="Samaní"
 	culture = "persian"
 }
 811 = {
-	name="Ál-e-Taher" #Taheriyán Tahirid
+	name="Taherí" #Taheriyán Tahirid
 	culture = "persian"
 }
 812 = {
@@ -4908,23 +4908,23 @@
 	culture = kirghiz
 }
 855 = { # Fantasy
-	name = Bami
+	name = Bamí
 	culture = "persian"
 }
 856 = { # Fantasy
-	name = Sirjani
+	name = Sirjaní
 	culture = "persian"
 }
 857 = { # Fantasy
-    name = Furgi
+    name = Furgí
 	culture = "persian"
 }
 858 = { # Fantasy
-	name = Yeldari
+	name = Yeldarí
 	culture = baloch
 }
 859 = { # Fantasy
-	name = Feruxiyán
+	name = Feruxí
 	culture = baloch
 }
 860 = {
@@ -5701,7 +5701,7 @@
 	used_for_random = no
 }
 1056 = {
-	name = "al-Ukhaidhiri"
+	name = "Ukhaydhir"
 	culture ="bedouin_arabic"
 }
 1057 = {
@@ -8984,7 +8984,7 @@ used_for_random = no
 	culture = "frankish"
 }
 7326 = {
-	name="Hashimiyán"
+	name="Hashimí
 	culture = "persian"
 }
 7327 = {
@@ -8996,23 +8996,23 @@ used_for_random = no
 	culture = "turkish"
 }
 7329 = {
-	name="Burhaniyán"
+	name="Burhaní"
 	culture = "persian"
 }
 7330 = {
-	name="Ál-e-Kart" #Kartiyán Kartides
+	name="Kartí" #Kartiyán Kartides
 	culture = "persian"
 }
 7331 = {
-	name="Ál-e-Bavand" #Bavandiyán Bavandides
+	name="Bavandí" #Bavandiyán Bavandides
 	culture = "persian"
 }
 7332 = {
-	name="Ál-e-Baduspan"
+	name="Baduspaní"
 	culture = "persian"
 }
 7333 = {
-	name="Ál-e-Hazarasp"
+	name="Hazaraspí"
 	culture = kurdish
 }
 7334 = {
@@ -9032,19 +9032,19 @@ used_for_random = no
 	culture = "persian"
 }
 7338 = {
-	name="Nasriyán"
+	name="Nasrí"
 	culture = "persian"
 }
 7339 = {
-	name="Mihrabaniyán"
+	name="Mihrabaní"
 	culture = "persian"
 }
 7340 = {
-	name="Safaviyán"
+	name="Safaví"
 	culture = "persian"
 }
 7341 = {
-	name="Gilani"
+	name="Gilaní"
 	culture = "persian"
 }
 7342 = {
@@ -9282,11 +9282,11 @@ used_for_random = no
 	culture ="bohemian"
 }
 7510 = {
-	name="Faraviyán"
+	name="Faraví"
 	culture = "persian"
 }
 7511 = {
-	name="Karen" # Rulers of Gurgan
+	name="Karení" # Rulers of Gurgan
 	culture = "persian"
 	forced_coa_religiongroup = "zoroastrian_group"
 	
@@ -9308,7 +9308,7 @@ used_for_random = no
 	culture ="bedouin_arabic"
 }
 7513 = {
-	name="Âl-e-Justan" # Rulers of Daylam
+	name="Justaní" # Rulers of Daylam
 	culture = kurdish
 	forced_coa_religiongroup = "zoroastrian_group"
 }
@@ -18458,23 +18458,23 @@ used_for_random = no
 	culture = "turkish"
 }
 100632 = {
-	name="Kazeruni"
+	name="Kazeruní"
 	culture = "persian"
 }
 100633 = {
-	name="Âl-e-Tâher"
+	name="Tâherí"
 	culture = "persian"
 }
 100634 = {
-	name="Âl-e-Ummayya"
+	name="Ummayyí"
 	culture = "persian"
 }
 100635 = {
-	name="Samaniyân"
+	name="Samaní"
 	culture = "persian"
 }
 100636 = {
-	name="Muqanniyán"
+	name="Muqanní"
 	culture = "persian"
 }
 100637 = {
@@ -18482,7 +18482,7 @@ used_for_random = no
 	culture = "persian"
 }
 100638 = {
-	name="Khurramiyân"
+	name="Khurramí"
 	culture = "persian"
 }
 100639 = {
@@ -18490,39 +18490,39 @@ used_for_random = no
 	culture = "persian"
 }
 100640 = {
-	name="Âl-e-Maziar"
+	name="Maziarí"
 	culture = "persian"
 }
 100641 = {
-	name="Âl-e-Mardavij"
+	name="Mardavijí"
 	culture = "persian"
 }
 100642 = {
-	name="Âl-e-Ustadh"
+	name="Ustadhí"
 	culture = "persian"
 }
 100643 = {
-	name="Âl-e-Ya'qub"
+	name="Ya'qubí"
 	culture = "persian"
 }
 100644 = {
-	name="Âl-e-Laith" 
+	name="Laithí" 
 	culture = "persian"
 }
 100645 = {
-	name="Âl-e-Ferdows"
+	name="Ferdowsí"
 	culture = "persian"
 }
 100646 = {
-	name="Âl-e-Timur"
+	name="Timurí"
 	culture = persian
 }
 100647 = {
-	name="Âl-e-Hulagu"
+	name="Hulagí"
 	culture = persian
 }
 100648 = {
-	name="Ajami"
+	name="Ajamí"
 	culture = persian
 }
 100649 = {
@@ -18558,59 +18558,59 @@ used_for_random = no
 	culture = bedouin_arabic
 }
 100657 = {
-	name="Rumi"
+	name="Rumí"
 	culture = persian
 }
 100658 = {
-	name="Hamadani"
+	name="Hamadaní"
 	culture = persian
 }
 100659 = {
-	name="Âl-e-Parthi"
+	name="Parthí"
 	culture = persian
 }
 100660 = {
-	name="Âl-e-Kubra"
+	name="Kubra"
 	culture = persian
 }
 100661 = {
-	name="Âl-e-Naqshband"
+	name="Naqshbandí"
 	culture = persian
 }
 100662 = {
-	name="Bukhari"
+	name="Bukharí"
 	culture = persian
 }
 100663 = {
-	name="Âl-e-Hanifa"
+	name="Hanifí"
 	culture = persian
 }
 100664 = {
-	name="Âl-e-Khaldun"
+	name="Khalduní"
 	culture = persian
 }
 100665 = {
-	name="Âl-e-Dini"
+	name="Diní"
 	culture = persian
 }
 100666 = {
-	name="Tusi"
+	name="Tusí"
 	culture = persian
 }
 100667 = {
-	name="Âl-e-Shiraz"
+	name="Shirazí"
 	culture = "persian"
 }
 100668 = {
-	name="Âl-e-Khusraw"
+	name="Khusrawí"
 	culture = persian
 }
 100669 = {
-	name="Biruni"
+	name="Biruní"
 	culture = persian
 }
 100670 = {
-	name="Maraghi"
+	name="Maraghí"
 	culture = persian
 }
 100671 = {
@@ -18622,7 +18622,7 @@ used_for_random = no
 	culture ="armenian"
 }
 100673 = {
-	name="al-Muqaffa"
+	name="Muqaffí"
 	culture = "persian"
 }
 100674 = {
@@ -18670,7 +18670,7 @@ used_for_random = no
 	culture ="bedouin_arabic"
 }
 100685 = {
-	name="Aškânîân" #Arsacid
+	name="Aršakî" #Arsacid
 	culture = "persian"
 	forced_coa_religiongroup = "zoroastrian_group"
 }
@@ -21826,7 +21826,7 @@ used_for_random = no
 	culture ="levantine_arabic"
 }
 101686 = {
-	name="al-Marwani"
+	name="Marwaní"
 	culture = kurdish
 }
 101687 = {
@@ -21834,15 +21834,15 @@ used_for_random = no
 	culture = "turkish"
 }
 101688 = {
-	name="al-Annazi" #Annaziyán Annazides
+	name="Annazí" #Annaziyán Annazides
 	culture = kurdish
 }
 101689 = {
-	name="Ál-e-Ziyar" #Ziyariyán Ziyarides
+	name="Ziyarí" #Ziyariyán Ziyarides
 	culture = persian
 }
 101690 = {
-	name="Shabankarai"
+	name="Shabankaraí"
 	culture = kurdish
 }
 101691 = {
@@ -22002,11 +22002,11 @@ used_for_random = no
 	forced_coa_religiongroup = "muslim"
 	}
 101728 = {
-	name="Âl-e-Sabbâh"
+	name="e-Sabbâh"
 	culture = bedouin_arabic
 }
 101729 = {
-	name="Âl-e-Khayyâm"
+	name="Khayyâmí"
 	culture = persian
 }
 101730 = {
@@ -22867,7 +22867,7 @@ used_for_random = no
 	culture = bedouin_arabic
 }
 101868 = {
-	name="Rawwad"
+	name="Rawwadí"
 	culture = kurdish
 }
 101869 = {
@@ -22879,7 +22879,7 @@ used_for_random = no
 	culture = bedouin_arabic
 }
 101871 = {
-	name="Âl-e-Ka'usiya"
+	name="Ka'usí"
 	culture = persian
 }
 101872 = {
@@ -22887,7 +22887,7 @@ used_for_random = no
 	culture ="georgian"
 }
 101873 = {
-	name="Kesrani"
+	name="Kesraní"
 	culture = "persian"
 }
 101874 = {
@@ -24629,12 +24629,12 @@ used_for_random = no
 	forced_coa_religiongroup = "muslim"
 }
 1031104 = {
-	name="Âl-e-Juwaynî"
+	name="Juwaynî"
 	culture = persian
 	forced_coa_religiongroup = "muslim"
 }
 1031105 = {
-	name="Âl-e-Farîsî"
+	name="Farîsî"
 	culture = persian
 	forced_coa_religiongroup = "muslim"
 }
@@ -24659,12 +24659,12 @@ used_for_random = no
 	forced_coa_religiongroup = "muslim"
 }
 1031110 = {
-	name="Ganjaviyân"
+	name="Ganjaví"
 	culture = persian
 	forced_coa_religiongroup = "muslim"
 }
 1031111 = {
-	name="Amuli"
+	name="Amulí"
 	culture = persian
 	forced_coa_religiongroup = "muslim"
 }
@@ -24684,7 +24684,7 @@ used_for_random = no
 	forced_coa_religiongroup = "muslim"
 }
 1031115 = {
-	name="Abhari"
+	name="Abharí"
 	culture = persian
 	forced_coa_religiongroup = "muslim"
 }
@@ -24704,7 +24704,7 @@ used_for_random = no
 	forced_coa_religiongroup = "muslim"
 }
 1031119 = {
-	name="al-Shirazi"
+	name="Shirazí"
 	culture = persian
 	forced_coa_religiongroup = "muslim"
 }
@@ -24714,7 +24714,7 @@ used_for_random = no
 	forced_coa_religiongroup = "muslim"
 }
 1031121 = {
-	name="Gorgani"
+	name="Gorganí"
 	culture = persian
 	forced_coa_religiongroup = "muslim"
 }
@@ -24729,17 +24729,17 @@ used_for_random = no
 	forced_coa_religiongroup = "muslim"
 }
 1031124 = {
-	name="Mustawfi"
+	name="Mustawfí"
 	culture = persian
 	forced_coa_religiongroup = "muslim"
 }
 1031125 = {
-	name="Ansari"
+	name="Ansarí"
 	culture = persian
 	forced_coa_religiongroup = "muslim"
 }
 1031126 = {
-	name="al-Kashi"
+	name="Kashí"
 	culture = persian
 	forced_coa_religiongroup = "muslim"
 }
@@ -24749,17 +24749,17 @@ used_for_random = no
 	forced_coa_religiongroup = "muslim"
 }
 1031128 = {
-	name="Khayyám"
+	name="Khayyámí"
 	culture = persian
 	forced_coa_religiongroup = "muslim"
 }
 1031129 = {
-	name="Battuta"
+	name="Battutí"
 	culture = maghreb_arabic
 	forced_coa_religiongroup = "muslim"
 }
 1031130 = {
-	name="al-Razi"
+	name="al-Razí"
 	culture = persian
 	forced_coa_religiongroup = "muslim"
 }
@@ -24779,7 +24779,7 @@ used_for_random = no
 	forced_coa_religiongroup = "muslim"
 }
 1031134 = {
-	name="al-Jaldaki"
+	name="Jaldakí"
 	culture = persian
 	forced_coa_religiongroup = "muslim"
 }
@@ -24806,27 +24806,27 @@ used_for_random = no
 }
 
 1029006 = {
-	name="Ál-e-Dustak"
+	name="Dusta"
 	culture = kurdish
 }
 1029007 = {
-	name="Ál-e-Hadhaban"
+	name="Hadhabaní"
 	culture = kurdish
 }
 1029008 = {
-	name="Ál-e-Buya"
+	name="Buyí"
 	culture = kurdish
 }
 1029009 = {
-	name="Ál-e-Kakuya"
+	name="Kakuyí"
 	culture = kurdish
 }
 1029010 = {
-	name="al-Jafari"
+	name="Jafarí"
 	culture = kurdish
 }
 1029011 = {
-	name="Hasanwayhi"
+	name="Hasanuyí"
 	culture = kurdish
 }
 1029012 = {
@@ -24862,7 +24862,7 @@ used_for_random = no
 	culture ="armenian"
 }
 1029020 = {
-	name="Fadhilwayhi"
+	name="Fazluyi"
 	culture = kurdish
 }
 1029021 = {
@@ -24886,7 +24886,7 @@ used_for_random = no
 	culture ="armenian"
 }
 1029026 = {
-	name="Fadlunid"
+	name="Fadluní"
 	culture = "persian"
 }
 1029027 = {
@@ -26244,7 +26244,7 @@ used_for_random = no
 	culture ="armenian"
 }
 1029100 = {
-	name="Sassâniyân" #sassanides
+	name="Sasânî" #sassanides
 	culture = "persian"
 	forced_coa_religiongroup = "zoroastrian_group"
 }
@@ -26886,7 +26886,7 @@ used_for_random = no
 }
 
 1042070 = {
-	name="Mihran"
+	name="Mihraní"
 	culture = "persian"
 	forced_coa_religiongroup = "zoroastrian_group"
 }
@@ -27192,7 +27192,7 @@ used_for_random = no
 }
 
 1042062 = {
-	name="al-Sallari"
+	name="Sallarí"
 	culture = kurdish
 }
 
@@ -27330,7 +27330,7 @@ used_for_random = no
 	}
 }
 1043005 = {
-	name="al-Habbari"
+	name="Habbarí"
 	culture = "persian"
 	coat_of_arms=
 	{
@@ -28496,7 +28496,7 @@ used_for_random = no
 	culture = panjabi
 }
 1042102 = {
-	name="Âl-e-Ma'dan" # or Ma'danid
+	name="Ma'daní" # or Ma'danid
 	culture = baloch
 }
 1044033 = {
@@ -29536,7 +29536,7 @@ used_for_random = no
 }
 
 1042125 = {
-	name="Barmakiyân"
+	name="Barmakí"
 	culture = "persian"
 }
 
@@ -29546,22 +29546,22 @@ used_for_random = no
 }
 
 1042128 = {
-	name="al-Kermani"
+	name="Kermaní"
 	culture = kurdish
 }
 
 1042129 = {
-	name="Kurdistani"
+	name="Kurdistaní"
 	culture = kurdish
 }
 
 1042130 = {
-	name="al-Oromi"
+	name="Oromí"
 	culture = kurdish
 }
 
 1042131 = {
-	name="al-Kirkuki"
+	name="Kirkukí"
 	culture = kurdish
 }
 1042113 = {
@@ -29604,7 +29604,7 @@ used_for_random = no
 }
 
 1042112 = {
-	name="Âl-e-Afrigh"
+	name="Afrighí"
 	culture = "persian"
 }
 1042103 = {
@@ -30019,7 +30019,7 @@ used_for_random = no
 }
 1022361 = {
 
-	name="Marwaziyán"
+	name="Marwazí"
 
 	culture = "persian"
 
@@ -30035,7 +30035,7 @@ used_for_random = no
 
 1022363 = {
 
-	name="al-Murri"
+	name="Murrí"
 
 	culture = kurdish
 
@@ -30093,7 +30093,7 @@ used_for_random = no
 
 1042148 = {
 
-	name="Muqanniyán"
+	name="Muqanní"
 
 	culture = "persian"
 
@@ -30293,12 +30293,12 @@ used_for_random = no
 }
 
 1042144 = {
-	name="Ladi"
+	name="Ladí"
 	culture = "persian"
 }
 
 1042145 = {
-	name="Âl-e-Jamshid"
+	name="Jamshidí"
 	culture = "persian"
 }
 1044366 = {
@@ -30592,27 +30592,27 @@ used_for_random = no
 }
 
 1042159 = {
-	name="Pavehi"
+	name="Pavehí"
 	culture = kurdish
 }
 
 1042160 = {
-	name="Aligoodarzi"
+	name="Aligoodarzí"
 	culture = "persian"
 }
 
 1042161 = {
-	name="Khurramiyân"
+	name="Khurramí"
 	culture = "persian"
 }
 
 1042162 = {
-	name="Rawandi"
+	name="Rawandí"
 	culture = "persian"
 }
 
 1042163 = {
-	name="Âl-e-Ishaq"
+	name="Ishaqí"
 	culture = "persian"
 }
 1042164 = {
@@ -30748,12 +30748,12 @@ used_for_random = no
 	culture ="maghreb_arabic"
 }
 1042123 = {
-	name="Marwarrudhiyân"
+	name="Marwarrudhí"
 	culture = "persian"
 }
 
 1042126 = {
-	name="Âl-e-Azd"
+	name="Azdí"
 	culture = "persian"
 }
 
@@ -30768,7 +30768,7 @@ used_for_random = no
 }
 
 1042154 = {
-	name="Sijistani"
+	name="Sijistaní"
 	culture = "persian"
 }
 
@@ -31155,7 +31155,7 @@ used_for_random = no
 }
 
 1042188 = {
-	name="Soghdi"
+	name="Soghdí"
 	culture = "persian"
 }
 
@@ -32897,7 +32897,7 @@ used_for_random = no
    religion="catholic"
 }
 214020={
-	name="Dabuyid" 
+	name="Dabuyí" 
 	culture="persian"
 	religion="zoroastrian"
 }
