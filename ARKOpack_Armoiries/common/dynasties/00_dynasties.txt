@@ -8984,7 +8984,7 @@ used_for_random = no
 	culture = "frankish"
 }
 7326 = {
-	name="Hashimí
+	name="Hashimí"
 	culture = "persian"
 }
 7327 = {
@@ -9234,7 +9234,7 @@ used_for_random = no
 	culture ="andalusian_arabic"
 }
 7501 = {
-	name="Hammud"
+	name="al-Hammudi"
 	culture ="bedouin_arabic"
 }
 7502 = {
@@ -21758,7 +21758,7 @@ used_for_random = no
 	culture ="maghreb_arabic"
 }
 101608 = {
-	name="al-Sumadihi"
+	name="al-Sumadih"
 	culture ="andalusian_arabic"
 }
 101609 = {
