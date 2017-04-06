@@ -9140,7 +9140,7 @@ used_for_random = no
 	culture = "frankish"
 }
 7365 = {
-	name="Teginlar"
+	name="al-Tegini"
 	culture ="levantine_arabic"
 }
 7366 = {
