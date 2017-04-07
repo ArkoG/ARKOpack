@@ -34,11 +34,11 @@
 			emblem = 0	color = 0	color = 0	color = 0	}	}
 }
 5 = {
-	name="Kârawân"
+	name="Kárawán"
 	culture = "persian"
 }
 6 = {
-	name="Jorjani"
+	name="Jorjaní"
 	culture = "persian"
 }
 7 = {
@@ -990,7 +990,7 @@
 	}
 }
 139 = {
-	name = "al-Rasúli"  # Rasulid
+	name = "al-Rasúlí"  # Rasulid
 	culture="bedouin_arabic"
 	religion="sunni"
 }
@@ -3389,15 +3389,15 @@
 	culture ="andalusian_arabic"
 }
 567 = {
-	name="al-Húdi"
+	name="al-Húdí"
 	culture ="andalusian_arabic"
 }
 568 = {
-    name="al-Ahmadi"
+    name="al-Ahmadí"
 	culture ="bedouin_arabic"
 }
 569 = {
-	name="al-'Amiri"
+	name="al-'Amirí"
 	culture ="andalusian_arabic"
 }
 570 = {
@@ -3405,23 +3405,23 @@
 	culture ="andalusian_arabic"
 }
 571 = {
-	name="al-Matiyi"
+	name="al-Matiyí"
 	culture ="andalusian_arabic"
 }
 572 = {
-	name="al-Tahiri"
+	name="al-Tahirí"
 	culture ="andalusian_arabic"
 }
 573 = {
-	name="al-Aftasi" #Aftasiyún Aftasides 
+	name="al-Aftasí" #Aftasiyún Aftasides 
 	culture ="andalusian_arabic"
 }
 574 = {
-    name="al-Umari"
+    name="al-Umarí"
 	culture ="bedouin_arabic"
 }
 575 = {
-	name="al-Hammadi" #Hammadiyún Hammadides
+	name="al-Hammadí" #Hammadiyún Hammadides
 	culture ="maghreb_arabic"
 }
 576 = {
@@ -3429,15 +3429,15 @@
 	culture ="bedouin_arabic"
 }
 577 = {
-	name="al-Nasri"
+	name="al-Nasrí"
 	culture ="levantine_arabic"
 }
 578 = {
-    name="al-Najdi"
+    name="al-Najdí"
 	culture ="bedouin_arabic"
 }
 579 = {
-	name="al-Muayyadi"
+	name="al-Muayyadí"
 	culture ="levantine_arabic"
 }
 580 = {
@@ -3453,15 +3453,15 @@
 	culture ="bedouin_arabic"
 }
 583 = {
-	name="al-Futúhi" #of Mecca
+	name="al-Futúhí" #of Mecca
 	culture ="levantine_arabic"
 }
 584 = {
-    name="al-Shukri"
+    name="al-Shukrí"
 	culture ="levantine_arabic"
 }
 585 = {
-	name="al-Dinni"
+	name="al-Dinní"
 	culture ="bedouin_arabic"
 }
 586 = {
@@ -3477,7 +3477,7 @@
 	culture ="bedouin_arabic"
 }
 589 = {
-	name="al-Fatimi"
+	name="al-Fatimí"
 	culture ="maghreb_arabic"
 }
 590 = {
@@ -3501,64 +3501,64 @@
 	}
 }
 592 = {
-	name="al-Yaruqi"
+	name="al-Yaruqí"
 	culture ="levantine_arabic"
 }
 593 = {
-	name="al-Hammadi"
+	name="al-Hammadí"
 	culture ="egyptian_arabic"
 }
 594 = {
-	name="al-Abbádi"
+	name="al-Abbádí"
 	culture ="andalusian_arabic"
 }
 595 = {
-	name="al-Ziri"
+	name="al-Zirí"
 	culture ="maghreb_arabic"
 }
 596 = {
-	name="al-'Amiri"
+	name="al-'Amirí"
 	culture ="maghreb_arabic"
 }
 597 = {
-	name="al-Umayyi" #almohades
+	name="al-Umayyí" #almohades
 	culture ="egyptian_arabic"
 	religion="sunni"
 	forced_coa_religiongroup = "muslim"
 }
 598 = {
-	name="al-Mustazhiri"
+	name="al-Mustazhirí"
 	religion="sunni"
 	culture ="levantine_arabic"
 }
 599 = {
-	name="al-Hudi"
+	name="al-Hudí"
 	religion="sunni"
 	culture ="andalusian_arabic"
 }
 600 = {
-	name="al-Qaymi"
+	name="al-Qaymí"
 	religion="sunni"
 	culture ="levantine_arabic"
 }
 601 = {
-	name="al-Qadiri"
+	name="al-Qadirí"
 	culture ="egyptian_arabic"
 }
 602 = {
-	name="al-Ta'i"
+	name="al-Ta'í"
 	culture ="levantine_arabic"
 }
 603 = {
-	name="al-Ali" # Ala-ud-Dawlah
+	name="al-Alí" # Ala-ud-Dawlah
 	culture ="levantine_arabic"
 }
 604 = {
-	name="al-Zahiri" # Zahir-ud-Dawlah
+	name="al-Zahirí" # Zahir-ud-Dawlah
 	culture ="levantine_arabic"
 }
 605 = {
-	name="al-Jamali" # Jamal-ud-Dawlah
+	name="al-Jamalí" # Jamal-ud-Dawlah
 	culture ="levantine_arabic"
 }
 606 = {
@@ -3570,15 +3570,15 @@
 	culture ="levantine_arabic"
 }
 608 = {
-	name="al-Shihabi" # Shihab-ud-Dawlah
+	name="al-Shihabí" # Shihab-ud-Dawlah
 	culture ="levantine_arabic"
 }
 609 = {
-	name="al-Jalali" # Jalal-ud-Dawlah
+	name="al-Jalalí" # Jalal-ud-Dawlah
 	culture ="levantine_arabic"
 }
 610 = {
-	name="al-Yamini" # Yamin-ud-Dawlah
+	name="al-Yaminí" # Yamin-ud-Dawlah
 	culture ="levantine_arabic"
 }
 611 = {
@@ -4427,7 +4427,7 @@
 	}
 }
 762 = {
-	name="Bahri"
+	name="al-Bahrí"
 	culture ="egyptian_arabic"
 }
 763 = {
@@ -4585,11 +4585,11 @@
 	culture = "persian"
 }
 792 = {
-	name = "al-'Uyuni"
+	name = "al-'Uyuní"
 	culture ="bedouin_arabic"
 }
 793 = {
-	name = "al-Ammari"
+	name = "al-Ammarí"
 	culture ="maghreb_arabic"
 }
 794 = {
@@ -4664,23 +4664,23 @@
 	culture ="italian"
 }
 806 = {
-	name="al-Sawdani"
+	name="al-Sawdaní"
 	culture ="maghreb_arabic"
 }
 807 = {
-	name="al-Aghlabi"
+	name="al-Aghlabí"
 	culture ="maghreb_arabic"
 }
 808 = {
-	name="al-Rustami"
+	name="al-Rustamí"
 	culture ="maghreb_arabic"
 }
 809 = {
-	name="al-Dulafi"
+	name="al-Dulafí"
 	culture ="bedouin_arabic"
 }
 810 = {
-	name="Samaní"
+	name="Sámání"
 	culture = "persian"
 }
 811 = {
@@ -4688,7 +4688,7 @@
 	culture = "persian"
 }
 812 = {
-	name="al-Saffâr"
+	name="al-Saffár"
 	culture = "persian"
 }
 813 = {
@@ -4743,7 +4743,7 @@
 	culture ="irish"
 }
 820 = {
-	name = "al-Tuluni"
+	name = "al-Tuluní"
 	culture ="egyptian_arabic"
 }
 821 = {
@@ -4851,31 +4851,31 @@
 	culture = finnish
 }
 841 = {
-	name = "al-Berkani"
+	name = "al-Berkaní"
 	culture ="maghreb_arabic"
 }
 842 = {
-	name = "al-Mezwari"
+	name = "al-Mezwarí"
 	culture ="maghreb_arabic"
 }
 843 = {
-	name = "al-Firhuni"
+	name = "al-Firhuní"
 	culture ="maghreb_arabic"
 }
 844 = {
-	name = "al-Agduni"
+	name = "al-Agduní"
 	culture ="maghreb_arabic"
 }
 845 = {
-	name = "al-Tegami"
+	name = "al-Tegamí"
 	culture ="maghreb_arabic"
 }
 846 = {
-	name = "al-Isli"
+	name = "al-Islí"
 	culture ="maghreb_arabic"
 }
 847 = {
-	name = "al-Yabdasi"
+	name = "al-Yabdasí"
 	culture ="maghreb_arabic"
 }
 848 = {
@@ -8780,23 +8780,23 @@ used_for_random = no
 	culture ="maghreb_arabic"
 }
 7275 = {
-	name="al-Nafzâwiyya"
+	name="al-Nafzáwiyya"
 	culture ="maghreb_arabic"
 }
 7276 = {
-	name="al-Hafsi"
+	name="al-Hafsí"
 	culture ="maghreb_arabic"
 }
 7277 = {
-	name="al-Zayani"
+	name="al-Zayaní"
 	culture ="maghreb_arabic"
 }
 7278 = {
-	name="al-Aglabi"
+	name="al-Aglabí"
 	culture ="andalusian_arabic"
 }
 7279 = {
-	name="al-Hakami"
+	name="al-Hakamí"
 	culture ="andalusian_arabic"
 }
 7280 = {
@@ -8916,11 +8916,11 @@ used_for_random = no
 	culture ="italian"
 }
 7308 = {
-	name = "al-Usfuri"
+	name = "al-Usfurí"
 	culture ="bedouin_arabic"
 }
 7309 = {
-	name = "al-Jarwani"
+	name = "al-Jarwaní"
 	culture ="bedouin_arabic"
 }
 7310 = {
@@ -8956,7 +8956,7 @@ used_for_random = no
 	culture = "mongol"
 }
 7319 = {
-	name="as-Sa'di"
+	name="as-Sa'dí"
 	culture ="egyptian_arabic"
 }
 7320 = {
@@ -9012,7 +9012,7 @@ used_for_random = no
 	culture = "persian"
 }
 7333 = {
-	name="Hazaraspí"
+	name="Hazaraspî"
 	culture = kurdish
 }
 7334 = {
@@ -9056,7 +9056,7 @@ used_for_random = no
 	culture ="levantine_arabic"
 }
 7344 = {
-	name="Sulaymani"
+	name="Sulaymaní"
 	culture ="levantine_arabic"
 }
 7345 = {
@@ -9064,7 +9064,7 @@ used_for_random = no
 	culture = "turkish"
 }
 7346 = {
-	name="Abuqi"
+	name="Abuqí"
 	culture ="levantine_arabic"
 }
 7347 = {
@@ -9072,11 +9072,11 @@ used_for_random = no
 	culture = "turkish"
 }
 7348 = {
-	name="Bursaqi"
+	name="Bursaqí"
 	culture ="levantine_arabic"
 }
 7349 = {
-	name="Mahmudi"
+	name="Mahmudí"
 	culture ="levantine_arabic"
 }
 7350 = {
@@ -9140,15 +9140,15 @@ used_for_random = no
 	culture = "frankish"
 }
 7365 = {
-	name="al-Tegini"
+	name="al-Teginí"
 	culture ="levantine_arabic"
 }
 7366 = {
-	name="al-Kitami"
+	name="al-Kitamí"
 	culture ="levantine_arabic"
 }
 7367 = {
-	name="al-Masmudi"
+	name="al-Masmudí"
 	culture ="levantine_arabic"
 }
 7368 = {
@@ -9160,7 +9160,7 @@ used_for_random = no
 	culture = "turkish"
 }
 7370 = {
-	name="al-Ma'ani"
+	name="al-Ma'aní"
 	culture ="levantine_arabic"
 }
 7371 = {
@@ -9230,31 +9230,31 @@ used_for_random = no
 	}
 }
 7500 = {
-	name="al-Mozzaini"
+	name="al-Mozzainí"
 	culture ="andalusian_arabic"
 }
 7501 = {
-	name="al-Hammudi"
+	name="al-Hammudí"
 	culture ="bedouin_arabic"
 }
 7502 = {
-	name="al-Aznagi"
+	name="al-Aznagí"
 	culture ="maghreb_arabic"
 }
 7503 = {
-	name="al-Zurayi"
+	name="al-Zurayí"
 	culture ="bedouin_arabic"
 }
 7504 = {
-	name="al-Muazzami"
+	name="al-Muazzamí"
 	culture ="bedouin_arabic"
 }
 7505 = {
-	name="al-Hatimi"
+	name="al-Hatimí"
 	culture ="bedouin_arabic"
 }
 7506 = {
-	name="al-Qubaibi"
+	name="al-Qubaibí"
 	culture ="bedouin_arabic"
 }
 7507 = {
@@ -9304,7 +9304,7 @@ used_for_random = no
 	}
 }
 7512 = {
-	name="al-Zaydi" # Alavids, Rulers of Tabaristan
+	name="al-Zaydí" # Alavids, Rulers of Tabaristan
 	culture ="bedouin_arabic"
 }
 7513 = {
@@ -9340,19 +9340,19 @@ used_for_random = no
 	used_for_random = no
 }
 7517 = {
-	name="al-Turki"
+	name="al-Turkí"
 	culture = "turkish"
 }
 7518 = {
-	name="al-Hamdani"
+	name="al-Hamdaní"
 	culture ="levantine_arabic"
 }
 7519 = {
-	name="al-Sharabi"
+	name="al-Sharabí"
 	culture = "turkish"
 }
 7520 = {
-	name="al-Armani"
+	name="al-Armaní"
 	culture = "turkish"
 }
 7521 = {
@@ -11629,79 +11629,79 @@ used_for_random = no
 	culture ="andalusian_arabic"
 }
 12193 = {
-	name = "al-Tifilwiti"
+	name = "al-Tifilwití"
 	culture ="andalusian_arabic"
 }
 12194 = {
-	name = "al-Tujibi"
+	name = "al-Tujibí"
 	culture ="andalusian_arabic"
 }
 12195 = {
-	name = "al-Yahaffi"
+	name = "al-Yahaffí"
 	culture ="andalusian_arabic"
 }
 12196 = {
-	name = "al-Jyadi"
+	name = "al-Jyadí"
 	culture ="andalusian_arabic"
 }
 12197 = {
-	name = "al-Waziri"
+	name = "al-Wazirí"
 	culture ="andalusian_arabic"
 }
 12198 = {
-	name = "al-Yusufi"
+	name = "al-Yusufí"
 	culture ="andalusian_arabic"
 }
 12199 = {
-	name = "al-Isma'ili"
+	name = "al-Isma'ilí"
 	culture ="andalusian_arabic"
 }
 12200 = {
-	name = "al-Tashfini" #given to the duplicate Almoravid Sïr b. Abu Bakr b. Tashfin; shouldn't really be given a separate dynasty, but alas it's there
+	name = "al-Tashfiní" #given to the duplicate Almoravid Sïr b. Abu Bakr b. Tashfin; shouldn't really be given a separate dynasty, but alas it's there
 	culture ="maghreb_arabic"
 }
 12201 = {
-	name = "al-Ya'fari"
+	name = "al-Ya'farí"
 	culture ="andalusian_arabic"
 }
 12202 = {
-	name = "al-Lubbuni"
+	name = "al-Lubbuní"
 	culture ="andalusian_arabic"
 }
 12203 = {
-	name = "al-Wanuri"
+	name = "al-Wanurí"
 	culture ="maghreb_arabic"
 }
 12204 = {
-	name = "al-Ammari"
+	name = "al-Ammarí"
 	culture ="andalusian_arabic"
 }
 12205 = {
-	name = "al-Yasavi"
+	name = "al-Yasaví"
 	culture ="andalusian_arabic"
 }
 12206 = {
-	name = "al-Ali"
+	name = "al-Alí"
 	culture ="maghreb_arabic"
 }
 12207 = {
-	name = "al-Madini"
+	name = "al-Madiní"
 	culture ="maghreb_arabic"
 }
 12208 = {
-	name = "al-Rasiqi"
+	name = "al-Rasiqí"
 	culture ="andalusian_arabic"
 }
 12209 = {
-	name = "al-Iyadi"
+	name = "al-Iyadí"
 	culture ="andalusian_arabic"
 }
 12210 = {
-	name = "al-Ya'fari"
+	name = "al-Ya'farí"
 	culture ="andalusian_arabic"
 }
 12211 = {
-	name = "al-Mardanishi"
+	name = "al-Mardanishí"
 	culture ="andalusian_arabic"
 }
 12212 = {
@@ -11709,7 +11709,7 @@ used_for_random = no
 	culture ="andalusian_arabic"
 }
 12213 = {
-	name = "al-Mursiyi"
+	name = "al-Mursiyí"
 	culture ="andalusian_arabic"
 }
 12214 = {
@@ -11717,11 +11717,11 @@ used_for_random = no
 	culture ="andalusian_arabic"
 }
 12215 = {
-	name = "al-Fâtimi"
+	name = "al-Fátimí"
 	culture ="andalusian_arabic"
 }
 12216 = {
-	name = "al-Laridi"
+	name = "al-Laridí"
 	culture ="andalusian_arabic"
 }
 12217 = {
@@ -11729,15 +11729,15 @@ used_for_random = no
 	culture ="maghreb_arabic"
 }
 12218 = {
-	name = "al-Mansuri"
+	name = "al-Mansurí"
 	culture ="maghreb_arabic"
 }
 12219 = {
-	name = "al-Yazidi"
+	name = "al-Yazidí"
 	culture ="maghreb_arabic"
 }
 12220 = {
-	name = "al-Ishbili"
+	name = "al-Ishbilí"
 	culture ="andalusian_arabic"
 }
 12221 = {
@@ -11745,15 +11745,15 @@ used_for_random = no
 	culture ="maghreb_arabic"
 }
 12222 = {
-	name = "al-Ishaqi"
+	name = "al-Ishaqí"
 	culture ="maghreb_arabic"
 }
 12223 = {
-	name = "al-Qunki"
+	name = "al-Qunkí"
 	culture ="andalusian_arabic"
 }
 12224 = {
-	name = "al-Qurtubi"
+	name = "al-Qurtubí"
 	culture ="andalusian_arabic"
 }
 12225 = {
@@ -11761,15 +11761,15 @@ used_for_random = no
 	culture ="maghreb_arabic"
 }
 12226 = {
-	name = "al-Balansi"
+	name = "al-Balansí"
 	culture ="andalusian_arabic"
 }
 12227 = {
-	name = "al-Maymuni"
+	name = "al-Maymuní"
 	culture ="andalusian_arabic"
 }
 12228 = {
-	name = "al-Ramimi"
+	name = "al-Ramimí"
 	culture ="andalusian_arabic"
 }
 12229 = {
@@ -11777,23 +11777,23 @@ used_for_random = no
 	culture ="andalusian_arabic"
 }
 12230 = {
-	name = "al-Husayni"
+	name = "al-Husayní"
 	culture ="andalusian_arabic"
 }
 12231 = {
-	name = "al-Malaqi"
+	name = "al-Malaqí"
 	culture ="andalusian_arabic"
 }
 12232 = {
-	name = "al-Gharnati"
+	name = "al-Gharnatí"
 	culture ="andalusian_arabic"
 }
 12233 = {
-	name = "al-Bilali"
+	name = "al-Bilalí"
 	culture ="maghreb_arabic"
 }
 12234 = {
-	name = "al-Hishami"
+	name = "al-Hishamí"
 	culture ="andalusian_arabic"
 }
 12235 = {
@@ -11801,27 +11801,27 @@ used_for_random = no
 	culture = "frankish"
 }
 12236 = {
-	name= "al-Mankudi"
+	name= "al-Mankudí"
 	culture ="maghreb_arabic"
 }
 12237 = {
-	name= "al-Avethi"
+	name= "al-Avethí"
 	culture ="maghreb_arabic"
 }
 12238 = {
-	name= "al-Fadli"
+	name= "al-Fadlí"
 	culture ="maghreb_arabic"
 }
 12239 = {
-	name= "al-Nicmavi"
+	name= "al-Nicmaví"
 	culture ="maghreb_arabic"
 }
 12240 = {
-	name= "al-Kalbi"
+	name= "al-Kalbí"
 	culture ="maghreb_arabic"
 }
 12241 = {
-	name= "al-Mdini"
+	name= "al-Mdiní"
 	culture ="maghreb_arabic"
 }
 12242 = {
@@ -11935,11 +11935,11 @@ used_for_random = no
 	culture = "persian"
 }
 12275 = {
-	name= "al-Mahri"
+	name= "al-Mahrí"
 	culture ="bedouin_arabic"
 }
 12276 = {
-	name= "al-Dofhari"
+	name= "al-Dofharí"
 	culture ="bedouin_arabic"
 }
 12277 = {
@@ -11947,27 +11947,27 @@ used_for_random = no
 	culture ="bedouin_arabic"
 }
 12278 = {
-	name= "al-Zabi"
+	name= "al-Zabí"
 	culture ="bedouin_arabic"
 }
 12279 = {
-	name= "al-Jannabi"
+	name= "al-Jannabí"
 	culture ="bedouin_arabic"
 }
 12280 = {
-	name= "al-Halabani"
+	name= "al-Halabaní"
 	culture ="bedouin_arabic"
 }
 12281 = {
-	name= "al-Ha'ili"
+	name= "al-Ha'ilí"
 	culture ="bedouin_arabic"
 }
 12282 = {
-	name= "al-Rafhidi"
+	name= "al-Rafhidí"
 	culture ="bedouin_arabic"
 }
 12283 = {
-	name= "al-Hajri"
+	name= "al-Hajrí"
 	culture ="bedouin_arabic"
 }
 12400 = {
@@ -12337,7 +12337,7 @@ used_for_random = no
 	coat_of_arms = {	template = 0	layer = {	texture = 14	texture_internal = 75	emblem = 0	color = 0	color = 0	color = 0	}	}
 }
 12256 = {
-	name= "al-Utmani"
+	name= "al-Utmaní"
 	culture ="maghreb_arabic"
 }
 12257 = {
@@ -12345,35 +12345,35 @@ used_for_random = no
 	culture ="maghreb_arabic"
 }
 12258 = {
-	name= "al-Sabti"
+	name= "al-Sabtí"
 	culture ="maghreb_arabic"
 }
 12259 = {
-	name= "al-Tariqi"
+	name= "al-Tariqí"
 	culture ="maghreb_arabic"
 }
 12260 = {
-	name= "al-Jattabi"
+	name= "al-Jattabí"
 	culture ="andalusian_arabic"
 }
 12261 = {
-	name= "al-Mahfuzi"
+	name= "al-Mahfuzí"
 	culture ="andalusian_arabic"
 }
 12262 = {
-	name= "al-Ahlidi"
+	name= "al-Ahlidí"
 	culture ="andalusian_arabic"
 }
 12263 = {
-	name= "al-Zannuni"
+	name= "al-Zannuní"
 	culture ="andalusian_arabic"
 }
 12264 = {
-	name= "al-Mahdi"
+	name= "al-Mahdí"
 	culture ="andalusian_arabic"
 }
 12265 = {
-	name= "al-Sa'di"
+	name= "al-Sa'dí"
 	culture ="andalusian_arabic"
 }
 12266 = {
@@ -12381,11 +12381,11 @@ used_for_random = no
 	culture ="andalusian_arabic"
 }
 12267 = {
-	name= "al-Qadiri"
+	name= "al-Qadirí"
 	culture ="andalusian_arabic"
 }
 12268 = {
-	name= "al-Hamdini"
+	name= "al-Hamdiní"
 	culture ="andalusian_arabic"
 }
 12284 = {
@@ -14282,7 +14282,7 @@ used_for_random = no
 	culture = prussian
 }
 20056 = {
-	name="al-Tatiki"
+	name="al-Tatikí"
 	culture ="bedouin_arabic"
 }
 20057 = {
@@ -14983,7 +14983,7 @@ used_for_random = no
 	culture = "frankish"
 }
 24000 = {
-	name="al-Ayyubi"
+	name="al-Ayyubí"
 	culture = kurdish
 }
 25001 = {
@@ -15362,7 +15362,7 @@ used_for_random = no
 	coat_of_arms = {	template = 0	layer = {	texture = 5	texture_internal = 5	emblem = 0	color = 0	color = 0	color = 0	}	}
 }
 100000 = {
-	name="al-Ladeni"
+	name="al-Ladení"
 	culture ="maghreb_arabic"
 }
 100001 = {
@@ -18462,7 +18462,7 @@ used_for_random = no
 	culture = "persian"
 }
 100633 = {
-	name="Tâherí"
+	name="Táherí"
 	culture = "persian"
 }
 100634 = {
@@ -18526,35 +18526,35 @@ used_for_random = no
 	culture = persian
 }
 100649 = {
-	name="al-Basri"
+	name="al-Basrí"
 	culture = bedouin_arabic
 }
 100650 = {
-	name="al-Hallaji"
+	name="al-Hallají"
 	culture = bedouin_arabic
 }
 100651 = {
-	name="Baghdadi"
+	name="Baghdadí"
 	culture = bedouin_arabic
 }
 100652 = {
-	name="al-Bistami"
+	name="al-Bistamí"
 	culture = bedouin_arabic
 }
 100653 = {
-	name="al-Lami"
+	name="al-Lamí"
 	culture = bedouin_arabic
 }
 100654 = {
-	name="al-Qadiri"
+	name="al-Qadirí"
 	culture = bedouin_arabic
 }
 100655 = {
-	name="al-Jilani"
+	name="al-Jilaní"
 	culture = bedouin_arabic
 }
 100656 = {
-	name="al-Chishti"
+	name="al-Chishtí"
 	culture = bedouin_arabic
 }
 100657 = {
@@ -18662,15 +18662,15 @@ used_for_random = no
 	culture ="armenian"
 }
 100683 = {
-	name="al-Badri"
+	name="al-Badrí"
 	culture ="bedouin_arabic"
 }
 100684 = {
-	name="al-Kirdari"
+	name="al-Kirdarí"
 	culture ="bedouin_arabic"
 }
 100685 = {
-	name="Aršakî" #Arsacid
+	name="Aršakí" #Arsacid
 	culture = "persian"
 	forced_coa_religiongroup = "zoroastrian_group"
 }
@@ -18679,27 +18679,27 @@ used_for_random = no
 	culture = "persian"
 }
 100687 = {
-	name="al-Abedi"
+	name="al-Abedí"
 	culture ="bedouin_arabic"
 }
 100688 = {
-	name="al-Miqadi"
+	name="al-Miqadí"
 	culture = bedouin_arabic
 }
 100689 = {
-	name="al-Muniri"
+	name="al-Munirí"
 	culture = bedouin_arabic
 }
 100690 = {
-	name="al-Nabhani"
+	name="al-Nabhaní"
 	culture = bedouin_arabic
 }
 100691 = {
-	name="al-Nasiri"
+	name="al-Nasirí"
 	culture = bedouin_arabic
 }
 100692 = {
-	name="al-Nadjafi"
+	name="al-Nadjafí"
 	culture = bedouin_arabic
 }
 100693 = {
@@ -18707,7 +18707,7 @@ used_for_random = no
 	culture = bedouin_arabic
 }
 100694 = {
-	name="al-Ashhadi"
+	name="al-Ashhadí"
 	culture = bedouin_arabic
 }
 100695 = {
@@ -18715,19 +18715,19 @@ used_for_random = no
 	culture = bedouin_arabic
 }
 100696 = {
-	name="al-Kamali"
+	name="al-Kamalí"
 	culture = bedouin_arabic
 }
 100697 = {
-	name="al-Mosuli"
+	name="al-Mosulí"
 	culture ="bedouin_arabic"
 }
 100698 = {
-	name="al-Jazri"
+	name="al-Jazrí"
 	culture ="bedouin_arabic"
 }
 100699 = {
-	name="al-Husayni"
+	name="al-Husayní"
 	culture = bedouin_arabic
 }
 100700 = {
@@ -18763,15 +18763,15 @@ used_for_random = no
 	culture = "turkish"
 }
 100708 = {
-	name="al-Nasiri"
+	name="al-Nasirí"
 	culture = bedouin_arabic
 }
 100709 = {
-	name="al-Nasri"
+	name="al-Nasrí"
 	culture = bedouin_arabic
 }
 100710 = {
-	name="al-Bishri"
+	name="al-Bishrí"
 	culture = bedouin_arabic
 }
 100711 = {
@@ -18779,15 +18779,15 @@ used_for_random = no
 	culture = bedouin_arabic
 }
 100712 = {
-	name="al-Fakhuri"
+	name="al-Fakhurí"
 	culture = bedouin_arabic
 }
 100713 = {
-	name="al-Nawawi"
+	name="al-Nawawí"
 	culture = bedouin_arabic
 }
 100714 = {
-	name="al-Naderi"
+	name="al-Naderí"
 	culture = bedouin_arabic
 }
 100715 = {
@@ -18795,79 +18795,79 @@ used_for_random = no
 	culture = bedouin_arabic
 }
 100716 = {
-	name="al-Atrashi"
+	name="al-Atrashí"
 	culture = bedouin_arabic
 }
 100717 = {
-	name="al-Shehhi"
+	name="al-Shehhí"
 	culture = bedouin_arabic
 }
 100718 = {
-	name="al-Faruqi"
+	name="al-Faruqí"
 	culture = levantine_arabic
 }
 100719 = {
-	name="al-Elbazi"
+	name="al-Elbazí"
 	culture = levantine_arabic
 }
 100720 = {
-	name="al-Abbari"
+	name="al-Abbarí"
 	culture = levantine_arabic
 }
 100721 = {
-	name="al-Abbâsi"
+	name="al-Abbásí"
 	culture = levantine_arabic
 }
 100722 = {
-	name="al-Shâmi"
+	name="al-Shámí"
 	culture = levantine_arabic
 }
 100723 = {
-	name="Alawi"
+	name="Alawí"
 	culture = levantine_arabic
 }
 100724 = {
-	name="al-'Aqili"
+	name="al-'Aqilí"
 	culture = levantine_arabic
 }
 100725 = {
-	name="al-Qahtani"
+	name="al-Qahtaní"
 	culture = levantine_arabic
 }
 100726 = {
-	name="al-Bahjati"
+	name="al-Bahjatí"
 	culture = levantine_arabic
 }
 100727 = {
-	name="al-Bekkali"
+	name="al-Bekkalí"
 	culture = levantine_arabic
 }
 100728 = {
-	name="al-Baradi"
+	name="al-Baradí"
 	culture = levantine_arabic
 }
 100729 = {
-	name="al-Bseisi"
+	name="al-Bseisí"
 	culture = levantine_arabic
 }
 100730 = {
-	name="al-Fattai"
+	name="al-Fattaí"
 	culture = levantine_arabic
 }
 100731 = {
-	name="al-Fazili"
+	name="al-Fazilí"
 	culture = levantine_arabic
 }
 100732 = {
-	name="al-Qaysari"
+	name="al-Qaysarí"
 	culture = levantine_arabic
 }
 100733 = {
-	name="al-Hayeki"
+	name="al-Hayekí"
 	culture = levantine_arabic
 }
 100734 = {
-	name="al-Ibrâhîmi"
+	name="al-Ibráhímí"
 	culture = levantine_arabic
 }
 100735 = {
@@ -18999,11 +18999,11 @@ used_for_random = no
 	culture ="levantine_arabic"
 }
 100767 = {
-	name="Mahdi"
+	name="Mahdí"
 	culture ="levantine_arabic"
 }
 100768 = {
-	name="el-Khattab"
+	name="al-Khattabí"
 	culture ="levantine_arabic"
 }
 100769 = {
@@ -19011,7 +19011,7 @@ used_for_random = no
 	culture ="levantine_arabic"
 }
 100770 = {
-	name="Moosevi"
+	name="Mooseví"
 	culture ="levantine_arabic"
 }
 100771 = {
@@ -19019,47 +19019,47 @@ used_for_random = no
 	culture ="levantine_arabic"
 }
 100772 = {
-	name="al-Mustafi"
+	name="al-Mustafí"
 	culture ="levantine_arabic"
 }
 100773 = {
-	name="al-Nâderi"
+	name="al-Náderí"
 	culture ="levantine_arabic"
 }
 100774 = {
-	name="al-Nafti"
+	name="al-Naftí"
 	culture = levantine_arabic
 }
 100775 = {
-	name="al-Alami"
+	name="al-Alamí"
 	culture = levantine_arabic
 }
 100776 = {
-	name="al-Naghrili"
+	name="al-Naghrilí"
 	culture = levantine_arabic
 }
 100777 = {
-	name="al-Na'îmi"
+	name="al-Na'ímí"
 	culture = levantine_arabic
 }
 100778 = {
-	name="al-Nahhasi"
+	name="al-Nahhasí"
 	culture = levantine_arabic
 }
 100779 = {
-	name="Nimrî"
+	name="Nimrí"
 	culture = levantine_arabic
 }
 100780 = {
-	name="al-Himsî"
+	name="al-Himsí"
 	culture = levantine_arabic
 }
 100781 = {
-	name="al-Halîm"
+	name="al-Halím"
 	culture = levantine_arabic
 }
 100782 = {
-	name="al-Qaderî"
+	name="al-Qaderí"
 	culture = levantine_arabic
 }
 100783 = {
@@ -19067,27 +19067,27 @@ used_for_random = no
 	culture = levantine_arabic
 }
 100784 = {
-	name="al-Aqabi"
+	name="al-Aqabí"
 	culture = levantine_arabic
 }
 100785 = {
-	name="al-Jalali"
+	name="al-Jalalí"
 	culture = levantine_arabic
 }
 100786 = {
-	name="al-Jarrahi"
+	name="al-Jarrahí"
 	culture = levantine_arabic
 }
 100787 = {
-	name="al-Arishi"
+	name="al-Arishí"
 	culture = levantine_arabic
 }
 100788 = {
-	name="al-Jasemi"
+	name="al-Jasemí"
 	culture = levantine_arabic
 }
 100789 = {
-	name="al-Azizi"
+	name="al-Azizí"
 	culture = egyptian_arabic
 }
 100790 = {
@@ -19095,95 +19095,95 @@ used_for_random = no
 	culture = egyptian_arabic
 }
 100791 = {
-	name="al-Abazi"
+	name="al-Abazí"
 	culture = egyptian_arabic
 }
 100792 = {
-	name="al-Harari"
+	name="al-Hararí"
 	culture = egyptian_arabic
 }
 100793 = {
-	name="al-Bayoumi"
+	name="al-Bayoumí"
 	culture = egyptian_arabic
 }
 100794 = {
-	name="al-Bashandi"
+	name="al-Bashandí"
 	culture = egyptian_arabic
 }
 100795 = {
-	name="al-Bakhoumi"
+	name="al-Bakhoumí"
 	culture = egyptian_arabic
 }
 100796 = {
-	name="al-Bekhiti"
+	name="al-Bekhití"
 	culture = egyptian_arabic
 }
 100797 = {
-	name="al-Bahuri"
+	name="al-Bahurí"
 	culture = egyptian_arabic
 }
 100798 = {
-	name="al-Banoubi"
+	name="al-Banoubí"
 	culture = egyptian_arabic
 }
 100799 = {
-	name="al-Shenoudi"
+	name="al-Shenoudí"
 	culture = egyptian_arabic
 }
 100800 = {
-	name="al-Abusiri"
+	name="al-Abusirí"
 	culture = egyptian_arabic
 }
 100801 = {
-	name="al-Abuhairi"
+	name="al-Abuhairí"
 	culture = egyptian_arabic
 }
 100802 = {
-	name="al-Masrî"
+	name="al-Masrí"
 	culture = egyptian_arabic
 }
 100803 = {
-	name="al-Shâmî"
+	name="al-Shámí"
 	culture = egyptian_arabic
 }
 100804 = {
-	name="al-Abunebi"
+	name="al-Abunebí"
 	culture = egyptian_arabic
 }
 100805 = {
-	name="al-Ramzani"
+	name="al-Ramzaní"
 	culture = egyptian_arabic
 }
 100806 = {
-	name="al-Hannachi"
+	name="al-Hannachí"
 	culture = maghreb_arabic
 }
 100807 = {
-	name="al-Sabri"
+	name="al-Sabrí"
 	culture = maghreb_arabic
 }
 100808 = {
-	name="al-Safavi"
+	name="al-Safaví"
 	culture = maghreb_arabic
 }
 100809 = {
-	name="al-Sajjadi"
+	name="al-Sajjadí"
 	culture = maghreb_arabic
 }
 100810 = {
-	name="al-Saidi"
+	name="al-Saidí"
 	culture = maghreb_arabic
 }
 100811 = {
-	name="al-Sedki"
+	name="al-Sedkí"
 	culture = maghreb_arabic
 }
 100812 = {
-	name="al-Shakîli"
+	name="al-Shakílí"
 	culture = maghreb_arabic
 }
 100813 = {
-	name="al-Sharîf"
+	name="al-Sharíf"
 	culture = maghreb_arabic
 }
 100814 = {
@@ -19191,135 +19191,135 @@ used_for_random = no
 	culture = maghreb_arabic
 }
 100815 = {
-	name="al-Sidqî"
+	name="al-Sidqí"
 	culture = maghreb_arabic
 }
 100816 = {
-	name="al-Táhiri"
+	name="al-Táhirí"
 	culture = maghreb_arabic
 }
 100817 = {
-	name="al-Talali"
+	name="al-Talalí"
 	culture = maghreb_arabic
 }
 100818 = {
-	name="al-Medjerdî"
+	name="al-Medjerdí"
 	culture = maghreb_arabic
 }
 100819 = {
-	name="al-Tasnîmî"
+	name="al-Tasnímí"
 	culture = maghreb_arabic
 }
 100820 = {
-	name="al-Tayebî"
+	name="al-Tayebí"
 	culture = maghreb_arabic
 }
 100821 = {
-	name="al-Umari"
+	name="al-Umarí"
 	culture = maghreb_arabic
 }
 100822 = {
-	name="al-Wahîdi"
+	name="al-Wahídí"
 	culture = maghreb_arabic
 }
 100823 = {
-	name="al-Wahîdî"
+	name="al-Wahídí"
 	culture = maghreb_arabic
 }
 100824 = {
-	name="al-Walîdi"
+	name="al-Walídí"
 	culture = maghreb_arabic
 }
 100825 = {
-	name="al-Wazîri"
+	name="al-Wazírí"
 	culture = maghreb_arabic
 }
 100826 = {
-	name="al-Yaqubî"
+	name="al-Yaqubí"
 	culture = andalusian_arabic
 }
 100827 = {
-	name="al-Yassini"
+	name="al-Yassiní"
 	culture = andalusian_arabic
 }
 100828 = {
-	name="al-Younisi"
+	name="al-Younisí"
 	culture = maghreb_arabic
 }
 100829 = {
-	name="al-Zafari"
+	name="al-Zafarí"
 	culture = maghreb_arabic
 }
 100830 = {
-	name="al-Zâhiri"
+	name="al-Záhirí"
 	culture = maghreb_arabic
 }
 100831 = {
-	name="al-Zakari"
+	name="al-Zakarí"
 	culture = maghreb_arabic
 }
 100832 = {
-	name="al-Zakidi"
+	name="al-Zakidí"
 	culture = maghreb_arabic
 }
 100833 = {
-	name="al-Zaydi"
+	name="al-Zaydí"
 	culture = maghreb_arabic
 }
 100834 = {
-	name="al-Abdoiyi"
+	name="al-Abdoiyí"
 	culture = maghreb_arabic
 }
 100835 = {
-	name="al-Abidi"
+	name="al-Abidí"
 	culture = maghreb_arabic
 }
 100836 = {
-	name="al-Adili"
+	name="al-Adilí"
 	culture = maghreb_arabic
 }
 100837 = {
-	name="al-Balochi"
+	name="al-Balochí"
 	culture = baloch
 }
 100838 = {
-	name="al-Bakkali"
+	name="al-Bakkalí"
 	culture = maghreb_arabic
 }
 100839 = {
-	name="al-Mahmoudi"
+	name="al-Mahmoudí"
 	culture = maghreb_arabic
 }
 100840 = {
-	name="al-Nadîri"
+	name="al-Nadírí"
 	culture = maghreb_arabic
 }
 100841 = {
-	name="al-Nadvi"
+	name="al-Nadví"
 	culture = maghreb_arabic
 }
 100842 = {
-	name="al-Najîdi"
+	name="al-Najídí"
 	culture = maghreb_arabic
 }
 100843 = {
-	name="al-Naqvî"
+	name="al-Naqví"
 	culture = maghreb_arabic
 }
 100844 = {
-	name="al-Namjoiyi"
+	name="al-Namjoiyí"
 	culture = maghreb_arabic
 }
 100845 = {
-	name="al-Anwari"
+	name="al-Anwarí"
 	culture = maghreb_arabic
 }
 100846 = {
-	name="al-Fawziyi"
+	name="al-Fawziyí"
 	culture = maghreb_arabic
 }
 100847 = {
-	name="al-Nawfali"
+	name="al-Nawfalí"
 	culture = maghreb_arabic
 }
 100848 = {
@@ -19371,123 +19371,123 @@ used_for_random = no
 	culture = "persian"
 }
 101014 = {
-	name="al-Abbadi"
+	name="al-Abbadí"
 	culture ="maghreb_arabic"
 }
 101015 = {
-	name="al-Abbâsi"
+	name="al-Abbásí"
 	culture = maghreb_arabic
 }
 101016 = {
-	name="al-Abdeli"
+	name="al-Abdelí"
 	culture = levantine_arabic
 }
 101017 = {
-	name="al-Abduli"
+	name="al-Abdulí"
 	culture = levantine_arabic
 }
 101018 = {
-	name="al-Abdulli"
+	name="al-Abdullí"
 	culture = bedouin_arabic
 }
 101019 = {
-	name="al-Abolhassani"
+	name="al-Abolhassaní"
 	culture = andalusian_arabic
 }
 101020 = {
-	name="al-Ahmedi"
+	name="al-Ahmedí"
 	culture = bedouin_arabic
 }
 101021 = {
-	name="al-Alavi"
+	name="al-Alaví"
 	culture = levantine_arabic
 }
 101022 = {
-	name="al-Jabiri"
+	name="al-Jabirí"
 	culture = maghreb_arabic
 }
 101023 = {
-	name="al-Nasseri"
+	name="al-Nasserí"
 	culture = bedouin_arabic
 }
 101024 = {
-	name="al-Qasimi"
+	name="al-Qasimí"
 	culture = levantine_arabic
 }
 101025 = {
-	name="al-Rahmani"
+	name="al-Rahmaní"
 	culture = egyptian_arabic
 }
 101026 = {
-	name="al-Amini"
+	name="al-Aminí"
 	culture = andalusian_arabic
 }
 101027 = {
-	name="Armanjânî"
+	name="Armanjání"
 	culture = bedouin_arabic
 }
 101028 = {
-	name="al-Awadi"
+	name="al-Awadí"
 	culture = egyptian_arabic
 }
 101029 = {
-	name="al-Barî"
+	name="al-Barí"
 	culture = maghreb_arabic
 }
 101030 = {
-	name="al-Habîbi"
+	name="al-Habíbí"
 	culture = andalusian_arabic
 }
 101031 = {
-	name="al-Haddadi"
+	name="al-Haddadí"
 	culture = bedouin_arabic
 }
 101032 = {
-	name="al-Hamidi"
+	name="al-Hamidí"
 	culture = egyptian_arabic
 }
 101033 = {
-	name="al-Hanani"
+	name="al-Hananí"
 	culture = maghreb_arabic 
 }
 101034 = {
-	name="al-Hasani"
+	name="al-Hasaní"
 	culture = bedouin_arabic
 }
 101035 = {
-	name="al-Hussaini"
+	name="al-Hussainí"
 	culture = bedouin_arabic
 }
 101036 = {
-	name="al-Ibrâhîmi"
+	name="al-Ibráhímí"
 	culture = egyptian_arabic
 }
 101037 = {
-	name="Îsawî"
+	name="al-Ísawí"
 	culture = maghreb_arabic
 }
 101038 = {
-	name="al-Isma'îli"
+	name="al-Isma'ílí"
 	culture = andalusian_arabic
 }
 101039 = {
-	name="al-Khalîli"
+	name="al-Khalílí"
 	culture = bedouin_arabic
 }
 101040 = {
-	name="al-Khourî"
+	name="al-Khourí"
 	culture = egyptian_arabic
 }
 101041 = {
-	name="al-Mahmúdi"
+	name="al-Mahmúdí"
 	culture = maghreb_arabic
 }
 101042 = {
-	name="al-Maliki"
+	name="al-Malikí"
 	culture = bedouin_arabic
 }
 101043 = {
-	name="al-Mansúri"
+	name="al-Mansúrí"
 	culture = bedouin_arabic
 }
 101044 = {
@@ -19495,67 +19495,67 @@ used_for_random = no
 	culture = egyptian_arabic
 }
 101045 = {
-	name="al-Músawi"
+	name="al-Músawí"
 	culture = maghreb_arabic
 }
 101046 = {
-	name="al-Murati"
+	name="al-Muratí"
 	culture = andalusian_arabic
 }
 101047 = {
-	name="al-Mustafi"
+	name="al-Mustafí"
 	culture = maghreb_arabic
 }
 101048 = {
-	name="al-Najîbi"
+	name="al-Najíbí"
 	culture = egyptian_arabic
 }
 101049 = {
-	name="al-Najjari"
+	name="al-Najjarí"
 	culture = maghreb_arabic
 }
 101050 = {
-	name="al-Umari"
+	name="al-Umarí"
 	culture = andalusian_arabic
 }
 101051 = {
-	name="al-Qasimi"
+	name="al-Qasimí"
 	culture = bedouin_arabic
 }
 101052 = {
-	name="al-Salavi"
+	name="al-Salaví"
 	culture = egyptian_arabic
 }
 101053 = {
-	name="al-Salimi"
+	name="al-Salimí"
 	culture = maghreb_arabic
 }
 101054 = {
-	name="al-Salmani"
+	name="al-Salmaní"
 	culture = andalusian_arabic
 }
 101055 = {
-	name="al-Shahîni"
+	name="al-Shahíní"
 	culture = bedouin_arabic
 }
 101056 = {
-	name="al-Sharifi"
+	name="al-Sharifí"
 	culture = egyptian_arabic 
 }
 101057 = {
-	name="al-Sulaymani"
+	name="al-Sulaymaní"
 	culture = bedouin_arabic
 }
 101058 = {
-	name="al-Yasîni"
+	name="al-Yasíní"
 	culture = andalusian_arabic #WRONG CULTURE
 }
 101059 = {
-	name="al-Yousifi"
+	name="al-Yousifí"
 	culture = bedouin_arabic
 }
 101060 = {
-	name="al-Abouresi"
+	name="al-Abouresí"
 	culture = egyptian_arabic
 }
 101061 = {
@@ -20055,11 +20055,11 @@ used_for_random = no
 	culture ="armenian"
 }
 101167 = {
-	name="al-Fatami"
+	name="al-Fatamí"
 	culture ="maghreb_arabic"
 }
 101168 = {
-	name="al-Ayyubi"
+	name="al-Ayyubí"
 	culture ="maghreb_arabic"
 }
 101169 = {
@@ -21754,7 +21754,7 @@ used_for_random = no
 	culture = sephardi
 }
 101607 = {
-	name="al-Jahwâri"
+	name="al-Jahwárí"
 	culture ="maghreb_arabic"
 }
 101608 = {
@@ -21766,7 +21766,7 @@ used_for_random = no
 	culture ="italian"
 }
 101670 = {
-	name="al-Halwasi"
+	name="al-Halwasí"
 	culture ="bedouin_arabic"
 }
 101671 = {
@@ -21818,15 +21818,15 @@ used_for_random = no
 	culture ="greek"
 }
 101684 = {
-	name="al-Jamali"
+	name="al-Jamalí"
 	culture ="bedouin_arabic"
 }
 101685 = {
-	name="al-Mirdasi"
+	name="al-Mirdasí"
 	culture ="levantine_arabic"
 }
 101686 = {
-	name="Marwaní"
+	name="Marwanî"
 	culture = kurdish
 }
 101687 = {
@@ -21834,15 +21834,15 @@ used_for_random = no
 	culture = "turkish"
 }
 101688 = {
-	name="Annazí" #Annaziyán Annazides
+	name="Annâzî" #Annaziyán Annazides
 	culture = kurdish
 }
 101689 = {
-	name="Ziyarí" #Ziyariyán Ziyarides
+	name="Ziyárí" #Ziyariyán Ziyarides
 	culture = persian
 }
 101690 = {
-	name="Shabankaraí"
+	name="Shabankaraî"
 	culture = kurdish
 }
 101691 = {
@@ -21881,7 +21881,7 @@ used_for_random = no
 	culture ="georgian"
 }
 101699 = {
-	name="al-Galbuni"
+	name="al-Galbuní"
 	culture = andalusian_arabic
 }
 101700 = {
@@ -21996,17 +21996,17 @@ used_for_random = no
 	culture ="greek"
 }
 101727 = {
-	name="al-Abbâsi" #Abbasid
+	name="al-Abbásí" #Abbasid
 	culture ="bedouin_arabic"
 	coat_of_arms = {	template = 0	layer = {	texture = 1		texture_internal = 3	emblem = 0	color = 0	color = 0	color = 0	}	religion=sunni}
 	forced_coa_religiongroup = "muslim"
 	}
 101728 = {
-	name="e-Sabbâh"
+	name="e-Sabbáh"
 	culture = bedouin_arabic
 }
 101729 = {
-	name="Khayyâmí"
+	name="Khayyámí"
 	culture = persian
 }
 101730 = {
@@ -22014,11 +22014,11 @@ used_for_random = no
 	culture = turkish
 }
 101731 = {
-	name="Hilâl"
+	name="Hilál"
 	culture = bedouin_arabic
 }
 101732 = {
-	name="Marîn"
+	name="Marín"
 	culture = maghreb_arabic
 }
 101733 = {
@@ -22847,7 +22847,7 @@ used_for_random = no
 	culture ="bedouin_arabic"
 }
 101863 = {
-	name="al-Saffâr"
+	name="al-Saffár"
 	culture = bedouin_arabic
 }
 101864 = {
@@ -22855,7 +22855,7 @@ used_for_random = no
 	culture = karluk
 }
 101865 = {
-	name="Gaznî"
+	name="Gazní"
 	culture = persian
 }
 101866 = {
@@ -22867,15 +22867,15 @@ used_for_random = no
 	culture = bedouin_arabic
 }
 101868 = {
-	name="Rawwadí"
+	name="Rawwadî"
 	culture = kurdish
 }
 101869 = {
-	name="al-Shaddâdi"
+	name="al-Shaddádí"
 	culture = levantine_arabic
 }
 101870 = {
-	name="al-Musâfiri"
+	name="al-Musáfirí"
 	culture = bedouin_arabic
 }
 101871 = {
@@ -22905,7 +22905,7 @@ used_for_random = no
 	culture = "turkish"
 }
 101877 = {
-	name="al-Ghanîya"
+	name="al-Ghaníya"
 	culture ="maghreb_arabic"
 }
 101878 = {
@@ -23022,7 +23022,7 @@ used_for_random = no
 	culture = "norman"
 }
 101904 = {
-	name="Banû al-Ahmar" #
+	name="al-Ahmarí" #
 	culture ="andalusian_arabic"
 	coat_of_arms = {	template = 0	layer = {	texture = 1	texture_internal = 7	emblem = 0	color = 0	color = 0	color = 0	}	religion=sunni	}
 }
@@ -23063,11 +23063,11 @@ used_for_random = no
 	culture = "mongol"
 }
 101914 = {
-	name="al-Jalayari"
+	name="al-Jalayarí"
 	culture ="maghreb_arabic"
 }
 101915 = {
-	name="al-Muzaffari"
+	name="al-Muzaffarí"
 	culture ="andalusian_arabic"
 }
 101916 = {
@@ -24125,15 +24125,15 @@ used_for_random = no
 	culture ="maghreb_arabic"
 }
 1027003 = {
-	name="Miknâs"
+	name="Miknás"
 	culture = "maghreb_arabic"
 }
 1027004 = {
-	name="al-Snasseni"
+	name="al-Snassení"
 	culture = "maghreb_arabic"
 }
 1027005 = {
-	name="al-Zuwawi"
+	name="al-Zuwawí"
 	culture = "maghreb_arabic"
 }
 1027006 = {
@@ -24145,15 +24145,15 @@ used_for_random = no
 	culture = "maghreb_arabic"
 }
 1027008 = {
-	name="Kutâma"
+	name="Kutáma"
 	culture = "maghreb_arabic"
 }
 1027009 = {
-	name="Lemdîyya"
+	name="Lemdíyya"
 	culture = "maghreb_arabic"
 }
 1027010 = {
-	name="Khurâsâna"
+	name="Khurásána"
 	culture = "maghreb_arabic" #apparently
 }
 1027011 = {
@@ -24161,15 +24161,15 @@ used_for_random = no
 	culture = "bedouin_arabic"
 }
 1027012 = {
-	name="al-Tudjini"
+	name="al-Tudjiní"
 	culture = "maghreb_arabic"
 }
 1027013 = {
-	name="al-Wardi"
+	name="al-Wardí"
 	culture = "bedouin_arabic"
 }
 1027014 = {
-	name="al-Seddouki"
+	name="al-Seddoukí"
 	culture = "maghreb_arabic"
 }
 1027015 = {
@@ -24190,15 +24190,15 @@ used_for_random = no
 }
 
 1027019 = {
-	name="al-Azfavi"
+	name="al-Azfaví"
 	culture ="maghreb_arabic"
 }
 1027020 = {
-	name="al-Hamdani"
+	name="al-Hamdaní"
 	culture ="maghreb_arabic"
 }
 1027021 = {
-	name="al-Thabiti"
+	name="al-Thabití"
 	culture ="maghreb_arabic"
 }
 1027022 = {
@@ -24319,19 +24319,19 @@ used_for_random = no
 	culture = "russian"
 }
 1029119 = {
-	name="al-Kaysi"
+	name="al-Kaysí"
 	culture ="levantine_arabic"
 }
 1029120 = {
-	name="al-Marwani"
+	name="al-Marwaní"
 	culture ="levantine_arabic"
 }
 1029121 = {
-	name="al-Damyani"
+	name="al-Damyaní"
 	culture ="levantine_arabic"
 }
 1029122 = {
-	name="al-Barduni"
+	name="al-Barduní"
 	culture ="levantine_arabic"
 }
 1029123 = {
@@ -24339,7 +24339,7 @@ used_for_random = no
 	culture ="levantine_arabic"
 }
 1029124 = {
-	name="al-Yazidi"
+	name="al-Yazidí"
 	culture ="levantine_arabic"
 }
 1030000 = {
@@ -24609,12 +24609,12 @@ used_for_random = no
 	used_for_random=no
 }
 1031100 = {
-	name="al-Ghazâlî"
+	name="al-Ghazálí"
 	culture = persian
 	forced_coa_religiongroup = "muslim"
 }
 1031101 = {
-	name="al-Idrîsî"
+	name="al-Idrísí"
 	culture = maghreb_arabic
 	forced_coa_religiongroup = "muslim"
 }
@@ -24624,37 +24624,37 @@ used_for_random = no
 	forced_coa_religiongroup = "muslim"
 }
 1031103 = {
-	name="Qazwînî"
+	name="Qazwíní"
 	culture = persian
 	forced_coa_religiongroup = "muslim"
 }
 1031104 = {
-	name="Juwaynî"
+	name="Juwayní"
 	culture = persian
 	forced_coa_religiongroup = "muslim"
 }
 1031105 = {
-	name="Farîsî"
+	name="Farísí"
 	culture = persian
 	forced_coa_religiongroup = "muslim"
 }
 1031106 = {
-	name="Hamadânî"
+	name="Hamadání"
 	culture = persian
 	forced_coa_religiongroup = "muslim"
 }
 1031107 = {
-	name="al-Nâfis"
+	name="al-Náfis"
 	culture = levantine_arabic
 	forced_coa_religiongroup = "muslim"
 }
 1031108 = {
-	name="al-Baghdâdi"
+	name="al-Baghdádí"
 	culture = levantine_arabic
 	forced_coa_religiongroup = "muslim"
 }
 1031109 = {
-	name="al-Bajjahî"
+	name="al-Bajjahí"
 	culture = andalusian_arabic
 	forced_coa_religiongroup = "muslim"
 }
@@ -24669,17 +24669,17 @@ used_for_random = no
 	forced_coa_religiongroup = "muslim"
 }
 1031112 = {
-	name="Balkhî"
+	name="Balkhí"
 	culture = persian
 	forced_coa_religiongroup = "muslim"
 }
 1031113 = {
-	name="Bukhârî"
+	name="Bukhárí"
 	culture = persian
 	forced_coa_religiongroup = "muslim"
 }
 1031114 = {
-	name="Suhrawardî"
+	name="Suhrawardí"
 	culture = persian
 	forced_coa_religiongroup = "muslim"
 }
@@ -24689,7 +24689,7 @@ used_for_random = no
 	forced_coa_religiongroup = "muslim"
 }
 1031116 = {
-	name="Túsî"
+	name="Túsí"
 	culture = persian
 	forced_coa_religiongroup = "muslim"
 }
@@ -24699,7 +24699,7 @@ used_for_random = no
 	forced_coa_religiongroup = "muslim"
 }
 1031118 = {
-	name="Hamadânî"
+	name="Hamadání"
 	culture = persian
 	forced_coa_religiongroup = "muslim"
 }
@@ -24719,7 +24719,7 @@ used_for_random = no
 	forced_coa_religiongroup = "muslim"
 }
 1031122 = {
-	name="al-Suri"
+	name="al-Surí"
 	culture = levantine_arabic
 	forced_coa_religiongroup = "muslim"
 }
@@ -24810,11 +24810,11 @@ used_for_random = no
 	culture = kurdish
 }
 1029007 = {
-	name="Hadhabaní"
+	name="Hadhabanî"
 	culture = kurdish
 }
 1029008 = {
-	name="Buyí"
+	name="Buyî"
 	culture = kurdish
 }
 1029009 = {
@@ -24822,35 +24822,35 @@ used_for_random = no
 	culture = kurdish
 }
 1029010 = {
-	name="Jafarí"
+	name="Jafarî"
 	culture = kurdish
 }
 1029011 = {
-	name="Hasanuyí"
+	name="Hasanuyî"
 	culture = kurdish
 }
 1029012 = {
-	name="Daisami"
+	name="Daisamî"
 	culture = kurdish
 }
 1029013 = {
-	name="Bitlisi"
+	name="Bitlisî"
 	culture = kurdish
 }
 1029014 = {
-	name="Ardalani"
+	name="Ardalanî"
 	culture = kurdish
 }
 1029015 = {
-	name="Kayusi"
+	name="Kayusî"
 	culture = kurdish
 }
 1029016 = {
-	name="Sadakiyani"
+	name="Sadakiyanî"
 	culture = kurdish
 }
 1029017 = {
-	name="Rozeguiti"
+	name="Rozeguitî"
 	culture = kurdish
 }
 1029018 = {
@@ -24862,15 +24862,15 @@ used_for_random = no
 	culture ="armenian"
 }
 1029020 = {
-	name="Fazluyi"
+	name="Fazluyî"
 	culture = kurdish
 }
 1029021 = {
-	name="Ayyari"
+	name="Ayyarî"
 	culture = kurdish
 }
 1029022 = {
-	name="Narsei"
+	name="Narseî"
 	culture = kurdish
 }
 1029023 = {
@@ -25040,7 +25040,7 @@ used_for_random = no
 }
 
 1029029 = {
-	name="Shaddadi"
+	name="Shaddadî"
 	culture = kurdish
 }
 
@@ -25385,7 +25385,7 @@ used_for_random = no
 	culture = bedouin_arabic
 }
 1029036 = {
-	name="al-Numayri"
+	name="al-Numayrí"
 	culture = bedouin_arabic
 }
 1029037 = {
@@ -25393,11 +25393,11 @@ used_for_random = no
 	culture = bedouin_arabic
 }
 1029038 = {
-	name="al-Jabri"
+	name="al-Jabrí"
 	culture = bedouin_arabic
 }
 1029055 = {
-	name="al-Adârisa" #Idrisid
+	name="al-Adárisa" #Idrisid
 	culture ="maghreb_arabic"
 }
 1042023 = {
@@ -25698,7 +25698,7 @@ used_for_random = no
 }
 
 1029093 = {
-	name="al-Hafsi"
+	name="al-Hafsí"
 	culture ="andalusian_arabic"
 }
 1029094 = {
@@ -26079,27 +26079,27 @@ used_for_random = no
 	culture ="breton"
 }
 12289 = {
-	name= "al-A'idi"
+	name= "al-A'idí"
 	culture = "bedouin_arabic"
 }
 12290 = {
-	name= "al-Sajri"
+	name= "al-Sajrí"
 	culture = "bedouin_arabic"
 }
 12291 = {
-	name= "al-Amrusi"
+	name= "al-Amrusí"
 	culture ="andalusian_arabic"
 }
 12292 = {
-	name= "al-Hafsi"
+	name= "al-Hafsí"
 	culture ="andalusian_arabic"
 }
 12293 = {
-	name= "al-Qasi"
+	name= "al-Qasí"
 	culture ="andalusian_arabic"
 }
 12294 = {
-	name= "al-Salimi"
+	name= "al-Salimí"
 	culture ="andalusian_arabic"
 }
 12295 = {
@@ -26114,7 +26114,7 @@ used_for_random = no
 	culture ="bedouin_arabic"
 }
 12297 = {
-	name= "al-Hayyuni"
+	name= "al-Hayyuní"
 	culture ="andalusian_arabic"
 }
 12298 = {
@@ -26138,15 +26138,15 @@ used_for_random = no
 	culture ="basque"
 }
 12299 = {
-	name= "al-Qutami"
+	name= "al-Qutamí"
 	culture ="andalusian_arabic"
 }
 12300 = {
-	name= "al-Jarrazi"
+	name= "al-Jarrazí"
 	culture ="andalusian_arabic"
 }
 12301 = {
-	name= "al-Burruni"
+	name= "al-Burruní"
 	culture ="andalusian_arabic"
 }
 1029129 = {
@@ -26174,15 +26174,15 @@ used_for_random = no
 	culture ="welsh"
 }
 12302 = {
-	name= "al-Nayihi"
+	name= "al-Nayihí"
 	culture ="bedouin_arabic"
 }
 12303 = {
-	name= "al-Musarri"
+	name= "al-Musarrí"
 	culture ="maghreb_arabic"
 }
 12304 = {
-	name= "al-Zuhri"
+	name= "al-Zuhrí"
 	culture ="andalusian_arabic"
 }
 9550 = {
@@ -26244,7 +26244,7 @@ used_for_random = no
 	culture ="armenian"
 }
 1029100 = {
-	name="Sasânî" #sassanides
+	name="Sasání" #sassanides
 	culture = "persian"
 	forced_coa_religiongroup = "zoroastrian_group"
 }
@@ -26257,7 +26257,7 @@ used_for_random = no
 	culture ="georgian"
 }
 12305 = {
-	name= "al-Marwani"
+	name= "al-Marwaní"
 	culture ="andalusian_arabic"
 }
 12306 = {
@@ -26265,23 +26265,23 @@ used_for_random = no
 	culture ="andalusian_arabic"
 }
 12307 = {
-	name= "al-Balawi"
+	name= "al-Balawí"
 	culture ="andalusian_arabic"
 }
 12308 = {
-	name= "al-Aslami"
+	name= "al-Aslamí"
 	culture ="bedouin_arabic"
 }
 12309 = {
-	name= "al-Namiri"
+	name= "al-Namirí"
 	culture ="andalusian_arabic"
 }
 12310 = {
-	name= "al-Jalidi"
+	name= "al-Jalidí"
 	culture ="andalusian_arabic"
 }
 12311 = {
-	name= "al-Ubbi"
+	name= "al-Ubbí"
 	culture ="andalusian_arabic"
 }
 9559 = {
@@ -26717,7 +26717,7 @@ used_for_random = no
 }
 
 12312 = {
-	name= "al-Quti"
+	name= "al-Qutí"
 	culture ="andalusian_arabic"
 }
 12313 = {
@@ -26736,7 +26736,7 @@ used_for_random = no
 
 }
 12315 = {
-	name= "al-Galindi"
+	name= "al-Galindí"
 	culture ="andalusian_arabic"
 }
 1042050 = {
@@ -26794,7 +26794,7 @@ used_for_random = no
 }
 
 9575 = {
-	name="al-Salihi"
+	name="al-Salihí"
 	culture ="maghreb_arabic"
 }
 
@@ -27192,7 +27192,7 @@ used_for_random = no
 }
 
 1042062 = {
-	name="Sallarí"
+	name="Sallarî"
 	culture = kurdish
 }
 
@@ -29039,35 +29039,35 @@ used_for_random = no
 	culture ="bolghar"
 }
 1046000 = {
-	name="al-Nadiri"
+	name="al-Nadirí"
 	culture=bedouin_arabic
 }
 1046001 = {
-	name="al-Nusayri"
+	name="al-Nusayrí"
 	culture=bedouin_arabic
 }
 1046002 = {
-	name="al-Suleymani"
+	name="al-Suleymaní"
 	culture=bedouin_arabic
 }
 1046003 = {
-	name="al-Hakami"
+	name="al-Hakamí"
 	culture=bedouin_arabic
 }
 1046004 = {
-	name="al-Saadi"
+	name="al-Saadí"
 	culture=bedouin_arabic
 }
 1046005 = {
-	name="al-Arabi"
+	name="al-Arabí"
 	culture=bedouin_arabic
 }
 1046006 = {
-	name="al-Ruayni"
+	name="al-Ruayní"
 	culture=bedouin_arabic
 }
 1046007 = {
-	name="al-Madini"
+	name="al-Madiní"
 	culture=bedouin_arabic
 }
 1046008 = {
@@ -29546,39 +29546,39 @@ used_for_random = no
 }
 
 1042128 = {
-	name="Kermaní"
+	name="Kermanî"
 	culture = kurdish
 }
 
 1042129 = {
-	name="Kurdistaní"
+	name="Kurdistanî"
 	culture = kurdish
 }
 
 1042130 = {
-	name="Oromí"
+	name="Oromî"
 	culture = kurdish
 }
 
 1042131 = {
-	name="Kirkukí"
+	name="Kirkukî"
 	culture = kurdish
 }
 1042113 = {
-	name="al-Kilabi"
+	name="al-Kilabí"
 	culture = bedouin_arabic
 }
 
 1042114 = {
-	name="al-Kufi"
+	name="al-Kufí"
 	culture = bedouin_arabic
 }
 1042115 = {
-	name="al-Ibrahimi"
+	name="al-Ibrahimí"
 	culture = bedouin_arabic
 }
 1042116 = {
-	name="al-Kalbi"
+	name="al-Kalbí"
 	culture = bedouin_arabic
 }
 1042117 = {
@@ -29632,13 +29632,13 @@ used_for_random = no
 }
 
 1042108 = {
-	name="Kunduzi" 
+	name="Kunduzí" 
 	culture = afghan
 }
 
 1042109 = {
 
-	name="Bamiyani" 
+	name="Bamiyaní" 
  
 	culture = "afghan"
 
@@ -29654,14 +29654,14 @@ used_for_random = no
 
 1046027 = {
 
-	name="Nefudidi"
+	name="Nefudidí"
 
 	culture="bedouin_arabic"
 
 }
 
 1046028 = {
-	name="al-Djazairi"
+	name="al-Djazairí"
 
 	culture="maghreb_arabic"
 
@@ -29669,24 +29669,24 @@ used_for_random = no
 
 1046029 = {
 
-	name="al-Yahsúbi"
+	name="al-Yahsúbí"
 
 	culture="bedouin_arabic"
 
 }
 
 1046020 = {
-	name="al-Karimi"
+	name="al-Karimí"
 	culture="maghreb_arabic"
 }
 
 1046021 = {
-	name="al-Fezzi"
+	name="al-Fezzí"
 	culture=maghreb_arabic
 }
 
 1046022 = {
-	name="al-Atlasi"
+	name="al-Atlasí"
 	culture=maghreb_arabic
 }
 
@@ -29696,7 +29696,7 @@ used_for_random = no
 }
 
 1046024 = {
-	name="al-Qashi"
+	name="al-Qashí"
 	culture=bedouin_arabic
 }
 
@@ -29707,7 +29707,7 @@ used_for_random = no
 
 1046026 = {
 
-	name="al-Petri"
+	name="al-Petrí"
 
 	culture=bedouin_arabic
 
@@ -29763,7 +29763,7 @@ used_for_random = no
 
 1042133 = {
 
-	name="al-Midhhalbi"
+	name="al-Midhhalbí"
 
 	culture ="bedouin_arabic"
 
@@ -29772,7 +29772,7 @@ used_for_random = no
 
 1042134 = {
 
-	name="Jiskani"
+	name="Jiskaní"
 
 	culture = baloch
 
@@ -29781,7 +29781,7 @@ used_for_random = no
 
 1042135 = {
 
-	name="Kalmati"
+	name="Kalmatí"
 
 	culture = baloch
 
@@ -29790,7 +29790,7 @@ used_for_random = no
 
 1042136 = {
 
-	name="Mugheri"
+	name="Mugherí"
 
 	culture = baloch
 
@@ -29799,7 +29799,7 @@ used_for_random = no
 
 1042137 = {
 
-	name="al-Amrubi"
+	name="al-Amrubí"
 
 	culture ="bedouin_arabic"
 
@@ -29946,7 +29946,7 @@ used_for_random = no
 
 1042111 = {
 
-	name="Kaikani"
+	name="Kaikaní"
  
 	culture = afghan
 
@@ -29955,7 +29955,7 @@ used_for_random = no
 
 1042132 = {
 	
-	name="Uqi"
+	name="Uqí"
 
 	culture = "persian"
 
@@ -29964,7 +29964,7 @@ used_for_random = no
 
 1042146 = {
 
-	name="Nutkani"
+	name="Nutkaní"
 
 	culture = baloch
 
@@ -29996,7 +29996,7 @@ used_for_random = no
 
 1022358 = {
 
-	name="al-Kindi"
+	name="al-Kindí"
 
 	culture ="bedouin_arabic"
 
@@ -30004,7 +30004,7 @@ used_for_random = no
 
 1022359 = {
 
-	name="al-Hajuri"
+	name="al-Hajurí"
 
 	culture ="bedouin_arabic"
 
@@ -30012,7 +30012,7 @@ used_for_random = no
 
 1022360 = {
 
-	name="al-Subai"
+	name="al-Subaí"
 
 	culture ="levantine_arabic"
 
@@ -30027,7 +30027,7 @@ used_for_random = no
 
 1022362 = {
 
-	name="al-Armani"
+	name="al-Armaní"
 
 	culture ="levantine_arabic"
 
@@ -30035,7 +30035,7 @@ used_for_random = no
 
 1022363 = {
 
-	name="Murrí"
+	name="Murrî"
 
 	culture = kurdish
 
@@ -30043,7 +30043,7 @@ used_for_random = no
 
 1022364 = {
 
-	name="al-Harashi"
+	name="al-Harashí"
 
 	culture ="bedouin_arabic"
 
@@ -30051,7 +30051,7 @@ used_for_random = no
 
 1022365 = {
 
-	name="al-Addaui"
+	name="al-Addauí"
 
 	culture ="levantine_arabic"
 
@@ -30067,7 +30067,7 @@ used_for_random = no
 
 1022367 = {
 
-	name="al-Hadari"
+	name="al-Hadarí"
 
 	culture ="levantine_arabic"
 
@@ -30084,7 +30084,7 @@ used_for_random = no
 
 1042147 = {
 
-	name="Bajani"
+	name="Bajaní"
 
 	culture ="bedouin_arabic"
 
@@ -30111,7 +30111,7 @@ used_for_random = no
 
 1042150 = {
 
-	name="al-Hunabi"
+	name="al-Hunabí"
 
 	culture ="bedouin_arabic"
 
@@ -30231,7 +30231,7 @@ used_for_random = no
 
 1046014 = {
 
-	name="al-Yusufi"
+	name="al-Yusufí"
 
 	culture=andalusian_arabic
 
@@ -30239,7 +30239,7 @@ used_for_random = no
 
 1046015 = {
 
-	name="al-Abdelrahmani"
+	name="al-Abdelrahmaní"
 
 	culture=andalusian_arabic
 
@@ -30247,7 +30247,7 @@ used_for_random = no
 
 1046016 = {
 
-	name="al-Qutalani"
+	name="al-Qutalaní"
 
 	culture=andalusian_arabic
 
@@ -30278,12 +30278,12 @@ used_for_random = no
 	culture = old_saxon
 }
 1042141 = {
-	name="Kamrani"
+	name="Kamraní"
 	culture = pahlavi
 }
 
 1042142 = {
-	name="Tamimi"
+	name="Tamimí"
 	culture = bedouin_arabic
 }
 
@@ -30587,12 +30587,12 @@ used_for_random = no
 	culture = old_frankish
 }
 1042158 = {
-	name="al-Makki"
+	name="al-Makkí"
 	culture ="bedouin_arabic"
 }
 
 1042159 = {
-	name="Pavehí"
+	name="Pavehî"
 	culture = kurdish
 }
 
@@ -30616,17 +30616,17 @@ used_for_random = no
 	culture = "persian"
 }
 1042164 = {
-	name="al-Yufiri"
+	name="al-Yufirí"
 	culture ="bedouin_arabic"
 }
 
 1042165 = {
-	name="al-Ziyadi"
+	name="al-Ziyadí"
 	culture ="bedouin_arabic"
 }
 
 1042166 = {
-	name="al-Hashi"
+	name="al-Hashí"
 	culture ="bedouin_arabic"
 }
 
@@ -30636,30 +30636,30 @@ used_for_random = no
 }
 
 1042168 = {
-	name="al-Modhari"
+	name="al-Modharí"
 	culture ="bedouin_arabic"
 }
 
 1042169 = {
-	name="al-Kathiri"
+	name="al-Kathirí"
 	culture ="bedouin_arabic"
 }
 
 1042170 = {
-	name="al-Arwadi"
+	name="al-Arwadí"
 	culture ="bedouin_arabic"
 }
 1048001 = {
-	name="al-Muhallabi" # 
+	name="al-Muhallabí" # 
 	culture ="bedouin_arabic"
 }
 
 1048002 = {
-	name="al-Tujibi" # Egyptian Tujibids
+	name="al-Tujibí" # Egyptian Tujibids
 	culture = egyptian_arabic
 }
 1048003 = {
-	name="Malzuzi" # Ibadi rebel
+	name="Malzuzí" # Ibadi rebel
 	culture = maghreb_arabic
 }
 1048004 = {
@@ -30671,7 +30671,7 @@ used_for_random = no
 	culture = maghreb_arabic
 }
 1048006 = {
-	name="al-Azimi"
+	name="al-Azimí"
 	culture = maghreb_arabic
 }
 1048007 = {
@@ -30679,15 +30679,15 @@ used_for_random = no
 	culture = maghreb_arabic
 }
 1048008 = {
-	name="al-Kamali"
+	name="al-Kamalí"
 	culture = maghreb_arabic
 }
 1048009 = {
-	name="al-Rahmani"
+	name="al-Rahmaní"
 	culture = maghreb_arabic
 }
 1048010 = {
-	name="al-Hamadi"
+	name="al-Hamadí"
 	culture = maghreb_arabic
 }
 1048011 = {
@@ -30695,7 +30695,7 @@ used_for_random = no
 	culture = maghreb_arabic
 }
 1048012 = {
-	name="al-Mahtari"
+	name="al-Mahtarí"
 	culture = maghreb_arabic
 }
 1042171 = {
@@ -30734,12 +30734,12 @@ used_for_random = no
 }
 
 1042178 = {
-	name="Idjili"
+	name="Idjilí"
 	culture ="maghreb_arabic"
 }
 
 1042179 = {
-	name="Cabaoni"
+	name="Cabaoní"
 	culture ="maghreb_arabic"
 }
 
@@ -30758,7 +30758,7 @@ used_for_random = no
 }
 
 1042152 = {
-	name="al-Dabbi"
+	name="al-Dabbí"
 	culture ="bedouin_arabic"
 }
 
@@ -30782,7 +30782,7 @@ used_for_random = no
 	culture ="saxon"
 }
 1042181 = {
-	name="Azd-Umani" # Azd branch
+	name="Azd-Umaní" # Azd branch
 	culture = bedouin_arabic
 }
 
@@ -30792,12 +30792,12 @@ used_for_random = no
 }
 
 1042183 = {
-	name="al-Nabhani" 
+	name="al-Nabhaní" 
 	culture = bedouin_arabic
 }
 
 1042184 = {
-	name="Azd-Dabidi" # Azd branch
+	name="Azd-Dabidí" # Azd branch
 	culture = bedouin_arabic
 }
 1046036 = {
@@ -31954,7 +31954,7 @@ used_for_random = no
 	religion="manichean"
 }
 1051142 = {
-	name="al-Bahili"
+	name="al-Bahilí"
 	culture="bedouin_arabic"
 	religion="sunni"
 }
@@ -32213,7 +32213,7 @@ used_for_random = no
 	religion="manichean"
 }
 1042139 = {
-	name="al-Hamzahbi"
+	name="al-Hamzahbí"
 	culture ="bedouin_arabic"
 	religion = "sunni"
 }
