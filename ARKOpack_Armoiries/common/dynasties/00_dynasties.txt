@@ -27655,7 +27655,7 @@ used_for_random = no
 	culture = rajput
 }
 12334 = {
-	name= "Bahmaniyân"
+	name= "Bahmaní"
 	culture = afghan
 }
 1022237 = {
