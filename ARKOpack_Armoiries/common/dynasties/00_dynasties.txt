@@ -4427,7 +4427,7 @@
 	}
 }
 762 = {
-	name="al-Bahrí"
+	name="al-Bahri"
 	culture ="egyptian_arabic"
 }
 763 = {
@@ -8767,7 +8767,7 @@ used_for_random = no
 	forced_coa_religiongroup = "muslim"
 }
 7272 = {
-	name="Jashnakirlar"
+	name="al-Jashnakir"
 	culture = "turkish"
 	forced_coa_religiongroup = "muslim"
 }
@@ -31752,12 +31752,12 @@ used_for_random = no
 	religion="tengri_pagan"
 }
 1051106 = {
-	name="koray"
+	name="Koray"
 	culture="turkish"
 	religion="tengri_pagan"
 }
 1051107 = {
-	name="korkmaz"
+	name="Korkmaz"
 	culture="turkish"
 	religion="tengri_pagan"
 }
