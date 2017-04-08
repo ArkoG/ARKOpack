@@ -3263,8 +3263,8 @@
 542 = {
 	name="Merohingi" #of Tours ?
 	culture = "frankish"
-	religion="catholic"
-	used_for_random = no
+#	religion="catholic"
+#	used_for_random = no
 }
 543 = {
 	name="Carolui" #of Paris
@@ -31087,12 +31087,12 @@ used_for_random = no
 	religion="hindu"
 	used_for_random=no
 }
-#1044404= #vanilla duplicate ID
-#{
-#	name="Khanzada"
-#	culture="rajput"
-#	religion="sunni"
-#}
+1044404= #vanilla duplicate ID
+{
+	name="Khanzada"
+	culture="rajput"
+	religion="sunni"
+}
 1044405=
 {
 	name="Boccaccio"
