@@ -31096,7 +31096,7 @@ used_for_random = no
 	religion="hindu"
 	used_for_random=no
 }
-1044404= #vanilla duplicate ID
+1044404=
 {
 	name="Khanzada"
 	culture="rajput"
