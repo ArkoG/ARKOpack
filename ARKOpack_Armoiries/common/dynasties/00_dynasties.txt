@@ -4182,7 +4182,7 @@
 	culture = "frankish"
 }
 717 = {
-	name="Bar-Sur-Seine"
+	name="de Barrum" #bar sur seine
 	culture = "frankish"
 }
 718 = {
@@ -4242,11 +4242,11 @@
 	coat_of_arms = {	template = 0	layer = {	texture = 5	texture_internal = 17	emblem = 0	color = 0	color = 0	color = 0	}	}
 }
 728 = {
-	name="de Montignac"
+	name="de Montinhac"
 	culture ="occitan"
 }
 729 = {
-	name="de Limoges"
+	name="de Limòtges"
 	culture ="occitan"
 	coat_of_arms = {	template = 0	layer = {	texture = 5	texture_internal = 26	emblem = 0	color = 0	color = 0	color = 0	}	}
 }
@@ -4263,7 +4263,7 @@
 	culture ="german"
 }
 733 = {
-	name="d'Auvergne"
+	name="de Auvèrnhe"
 	culture ="occitan"
 	coat_of_arms = {	template = 0	layer = {	texture = 5	texture_internal = 22	emblem = 0	color = 0	color = 0	color = 0	}	}
 }
@@ -4731,7 +4731,7 @@
 	culture ="welsh"
 }
 817 = {
-	name="of Brittany"
+	name="de Breizh"
 	culture ="breton"
 }
 818 = {
@@ -7094,7 +7094,7 @@
 	culture = "frankish"
 }
 5014 = {
-	name="de Chalencon"
+	name="de Chalençon"
 	culture = "frankish"
 }
 5015 = {
@@ -7123,7 +7123,7 @@
 }
 5021 = {
 	name="de Quatrebarbes"
-	culture ="occitan"
+	culture ="frankish"
 }
 5022 = {
 	name="de Menthon"
@@ -7150,7 +7150,7 @@
 	culture = "frankish"
 }
 5028 = {
-	name="de la Panouse"
+	name="de La Panosa"
 	culture ="occitan"
 }
 5029 = {
@@ -7162,7 +7162,7 @@
 	culture = "frankish"
 }
 5031 = {
-	name="de Lévezou"
+	name="de Leveson"
 	culture ="occitan"
 }
 5032 = {
@@ -26716,8 +26716,8 @@ used_for_random = no
 	culture = finnish
 }
 9571 = {
-	name="d'Auvèrnhe"
-	culture ="occitan"
+	name="d'Auvergne"
+	culture ="frankish"
 }
 
 9572 = {
