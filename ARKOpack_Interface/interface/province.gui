@@ -221,8 +221,9 @@ guiTypes = {
 		windowType = {
 			name = "province_ally_order_window"
 			backGround =""
-			position = { x = 344 y = 71 }
-			size = { x = 188 y = 434  }
+			position = { x = 683 y = 2 }
+			#size = { x = 188 y = 434  } #y 392 au lieu 428
+			size = { x = 188 y = 392  } #y 392 au lieu 428
 			moveable = 0
 			dontRender = ""
 			horizontalBorder = "0"
@@ -238,9 +239,11 @@ guiTypes = {
 
 			listboxType = {
 				name = "ally_order_member_list"
-				position = { x = 0 y = 15 }
+				#position = { x = 0 y = 15 }
+				position = { x = 0 y = 15 } #arkopack
 				backGround=""
-				size = { x= 360 y= 410 }
+				#size = { x= 360 y= 410 }
+				size = { x= 360 y= 380 } #arkopack
 				spacing = 0
 				scrollbartype = "standardlistbox_slider"
 				borderSize = {x = 0 y = 0}
