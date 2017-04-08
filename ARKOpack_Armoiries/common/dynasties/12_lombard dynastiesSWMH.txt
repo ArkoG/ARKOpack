@@ -150,10 +150,10 @@ name="Lucini"
 name="Rusca"
  culture = italian
 }
-#1000035738 = {
-#name=""
-# culture = italian
-#}
+1000035738 = {
+name="Zoppo"
+ culture = italian
+}
 1000035739 = {
 name="Andreasi"
  culture = italian

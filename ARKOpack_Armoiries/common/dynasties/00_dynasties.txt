@@ -10133,6 +10133,15 @@ used_for_random = no
 8726 = {
 	name="Rangoni"
 	culture ="italian"
+	coat_of_arms = {
+		template = 0	
+		layer = {	
+			texture = 16 #italian job	
+			texture_internal = 94	
+			emblem = 0	
+			color = 0	color = 0	color = 0
+			}
+	}
 }
 8727 = {
 	name="Sasudo"
