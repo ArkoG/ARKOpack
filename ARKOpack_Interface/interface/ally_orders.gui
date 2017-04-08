@@ -47,7 +47,7 @@ guiTypes = {
 		guiButtonType = {
 			name ="ally_portrait_frame"
 			quadTextureSprite = "GFX_charframe_50"
-			position = { x= 2 y = -5 }
+			position = { x= 2 y = -4 }
 			Orientation = "UPPER_LEFT"
 		}
 		
@@ -118,7 +118,7 @@ guiTypes = {
 		guiButtonType = {
 			name ="ally_portrait"
 			quadTextureSprite = "GFX_char_50"
-			position = { x = 4 y = 13 }
+			position = { x = 5 y = 13 }
 			pdx_tooltip = "CHARACTER_TOOLTIP"
 			pdx_tooltip_delayed = "CHARACTER_TOOLTIP_DELAYED"
 		}

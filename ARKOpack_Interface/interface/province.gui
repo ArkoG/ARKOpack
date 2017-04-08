@@ -221,7 +221,7 @@ guiTypes = {
 		windowType = {
 			name = "province_ally_order_window"
 			backGround =""
-			position = { x = 683 y = 2 }
+			position = { x = 682 y = 2 }
 			#size = { x = 188 y = 434  } #y 392 au lieu 428
 			size = { x = 188 y = 392  } #y 392 au lieu 428
 			moveable = 0
