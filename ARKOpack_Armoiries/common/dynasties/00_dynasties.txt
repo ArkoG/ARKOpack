@@ -30559,7 +30559,7 @@ used_for_random = no
 	culture ="occitan"
 }
 1044113 = {
-	name="Burgunding"
+	name="de Burgondia"
 	culture ="occitan"
 }
 1044114 = {
@@ -30567,7 +30567,7 @@ used_for_random = no
 	culture ="occitan"
 }
 1044115 = {
-	name="Abbonide"
+	name="de Viennoise"
 	culture ="occitan"
 }
 1044116 = {
@@ -30583,7 +30583,7 @@ used_for_random = no
 	culture ="visigothic"
 }
 1044119 = {
-	name="Hugonid"
+	name="de Maine"
 	culture = old_frankish
 }
 1042158 = {
@@ -30699,22 +30699,22 @@ used_for_random = no
 	culture = maghreb_arabic
 }
 1042171 = {
-	name="of Zarma"
+	name="Zarma"
 	culture = manden
 }
 
 1042172 = {
-	name="of Gurma"
+	name="Gurma"
 	culture = manden
 }
 
 1042173 = {
-	name="of Djenne"
+	name="Djenne"
 	culture = manden
 }
 
 1042174 = {
-	name="of Bambuk"
+	name="Bambuk"
 	culture = manden
 }
 
@@ -30825,7 +30825,7 @@ used_for_random = no
 	culture ="saxon"
 }
 1044101 = {
-	name="Hugonid"
+	name="de Maine"
 	culture = old_frankish
 }
 1044102 = {
@@ -30841,7 +30841,7 @@ used_for_random = no
 	culture = old_frankish
 }
 9300 = {
-	name="Riculflide"
+	name="Riculfide"
 	culture = old_frankish
 }
 9615 = {
@@ -30869,7 +30869,7 @@ used_for_random = no
 	culture = old_frankish
 }
 9308 = {
-	name="Adalberts"
+	name="Adalbertide"
 	culture = old_frankish
 }
 9309 = {
