@@ -621,12 +621,12 @@
 	culture = "frankish"
 }
 96 = {
-	name="de Guyenne"
+	name="de Guiana"
 	religion="catholic"
 	culture ="occitan"
 }
 97 = {
-	name="de Bergerac"
+	name="de Berguerac"
 	religion="catholic"
 	culture ="occitan"
 }
@@ -636,7 +636,7 @@
 	coat_of_arms = {	template = 0	layer = {	texture = 5	texture_internal = 46	emblem = 0	color = 0	color = 0	color = 0	}	}
 }
 99 = {
-	name="de L'isle Jourdain"
+	name="de l'Isla de Baish"
 	culture ="occitan"
 	religion="catholic"
 }
@@ -1445,7 +1445,7 @@
 	culture ="italian"
 }
 203 = {
-	name="d'Arborea"
+	name="di Arborea"
 	culture ="italian"
 	religion="catholic"
 }
@@ -1480,7 +1480,7 @@
 	coat_of_arms = {	template = 0	layer = {	texture = 14	texture_internal = 112	emblem = 0	color = 0	color = 0	color = 0	}	}
 }
 208 = {
-	name="Lunéville"
+	name="de Lunéville"
 	culture = "frankish"
 }
 209 = {
@@ -1617,7 +1617,7 @@
 }
 233 = {
 	name="de Poitiers-Valentinois"
-	culture ="occitan"
+	culture ="frankish"
 	religion="catholic"
 }
 234 = {
@@ -1976,21 +1976,21 @@
 	culture ="breton"
 }
 310 = {
-	name="de Vitré"
+	name="de Gwitreg" #de Vitré
 	culture ="breton"
 }
 311 = {
-	name="de Cornouaille"
+	name="de Kernev"
 	culture ="breton"
 	coat_of_arms = {	template = 0	layer = {	texture = 5	texture_internal = 92	emblem = 0	color = 0	color = 0	color = 0	}	}
 }
 312 = {
-	name="de Rohan"
+	name="de Rohan" #de Roch'an ?
 	culture ="breton"
 	coat_of_arms = {	template = 0	layer = {	texture = 5	texture_internal = 83	emblem = 0	color = 0	color = 0	color = 0	}	}
 }
 313 = {
-	name="de Porhoët"
+	name="de Pourc'hoad" #Porhoët
 	culture ="breton"
 }
 314 = {
@@ -2013,7 +2013,7 @@
 }
 318 = {
 	name="de Châtellerault"
-	culture ="occitan"
+	culture ="frankish"
 }
 319 = {
 	name="de Laval"
@@ -2041,8 +2041,8 @@
 	culture = "frankish"
 }
 325 = {
-	name="de Fezensac"
-	culture = "frankish"
+	name="de Fesensac"
+	culture = "occitan"
 }
 326 = {
 	name="de Brézé"
@@ -2053,7 +2053,7 @@
 	culture = "frankish"
 }
 327 = {
-	name="de Rancon"
+	name="de Rancom"
 	culture ="occitan"
 }
 329 = {
@@ -2106,7 +2106,7 @@
 	culture = "frankish"
 }
 341 = {
-	name="de St. Hilary"
+	name="de Saint-Hilary"
 	culture = "frankish"
 }
 342 = {
@@ -2225,7 +2225,7 @@
 	culture ="saxon"
 }
 367 = {
-	name="Nicolay"
+	name="Nicolay" #no clue
 	culture = "frankish"
 }
 368 = {
@@ -2233,7 +2233,7 @@
 	culture = "norman"
 }
 369 = {
-	name="de Salmur"
+	name="de Saumur" #Salmur
 	culture = "frankish"
 }
 370 = {
@@ -2517,7 +2517,7 @@
 	coat_of_arms = {	template = 0	layer = {	texture = 14	texture_internal = 196	emblem = 0	color = 0	color = 0	color = 0	}	}
 }
 428 = {
-	name="d'Alsace"
+	name="d'Alsace" #d'Argentré maybe ?
 	culture = "frankish"
 }
 429 = {
@@ -3876,7 +3876,7 @@
 }
 659 = {
 	name="Litpolden"
-	culture = "frankish"
+	culture = "frankish" #frankish ??
 }
 660 = {
 	name="du Maine"
@@ -3929,7 +3929,7 @@
 	coat_of_arms = {	template = 0	layer = {	texture = 5		texture_internal = 87	emblem = 0	color = 0	color = 0	color = 0	}	}
 }
 671 = {
-	name="Hainaut"
+	name="von Hainaut"
 	culture ="german"
 }
 672 = {
@@ -4237,7 +4237,7 @@
 	culture = "frankish"
 }
 727 = {
-	name="de Toulouse"
+	name="de Tolosa"
 	culture ="occitan"
 	coat_of_arms = {	template = 0	layer = {	texture = 5	texture_internal = 17	emblem = 0	color = 0	color = 0	color = 0	}	}
 }
@@ -16235,7 +16235,7 @@ used_for_random = no
 	culture ="occitan"
 }
 100214 = {
-	name="de Toulouse"
+	name="de Tolosa"
 	culture ="occitan"
 }
 100215 = {
@@ -16280,11 +16280,11 @@ used_for_random = no
 }
 100226 = {
 	name="de Charolais"
-	culture ="occitan"
+	culture ="frankish"
 }
 100227 = {
 	name="de Lyon" #maison de Lyon
-	culture ="occitan"
+	culture ="frankish"
 	coat_of_arms = {	template = 0	layer = {	texture = 5	texture_internal = 12	emblem = 0	color = 0	color = 0	color = 0	}	}
 }
 100228 = {
@@ -23498,7 +23498,7 @@ used_for_random = no
 	culture ="georgian"
 }
 200060 = {
-	name="St. Genes"
+	name="de Saint Genès"
 	culture = "frankish"
 }
 200061 = {
@@ -23581,7 +23581,7 @@ used_for_random = no
 	culture = "frankish"
 }
 102005 = {
-	name="Vienne"
+	name="de Vienne"
 	culture = "frankish"
 }
 102006 = {
@@ -23601,8 +23601,8 @@ used_for_random = no
 	culture = "frankish"
 }
 102010 = {
-	name="de Lautrec"
-	culture = "frankish"
+	name="de Lautrèc"
+	culture = "occitan"
 }
 102011 = {
 	name="d'Amboise"
@@ -23625,7 +23625,7 @@ used_for_random = no
 	culture = "swedish"
 }
 102016 = {
-	name="Saint-Menehould"
+	name="de Saint-Menehould"
 	culture = "frankish"
 }
 102017 = {
@@ -23723,7 +23723,7 @@ used_for_random = no
 }
 1020102 = {
 	name = "de Montjoie"
-	culture=german
+	culture="frankish"
 }
 1020103 = {
 	name = "de Dunstanville"
@@ -23742,15 +23742,15 @@ used_for_random = no
 }
 1020110 = {
 	name = "de Barbosa"
-	culture=portuguese
+	culture="portuguese"
 }
 1020111 = {
 	name = "de Ribadouro"
-	culture=portuguese
+	culture="portuguese"
 }
 1020112 = {
 	name = "de Vasconcelos"
-	culture=portuguese
+	culture="portuguese"
 }
 1020113 = {
 	name = "de Lumiares"
@@ -23978,7 +23978,7 @@ used_for_random = no
 	culture= frankish
 }
 1023006 = {
-	name= "of Syria"
+	name= "de Syrie"
 	culture= frankish
 }
 1023007 = {
@@ -25342,7 +25342,7 @@ used_for_random = no
 	culture ="italian"
 }
 1042017 = {
-	name="del Monte S. Maria"
+	name="del Monte Santa Maria"
 	culture ="italian"
 	coat_of_arms = {
 		template = 0	
@@ -25455,7 +25455,7 @@ used_for_random = no
 	culture ="italian"
 }
 1042032 = {
-	name="S. Cassiano"
+	name="San Cassiano"
 	culture ="italian"
 }
 1042033 = {
@@ -26063,12 +26063,12 @@ used_for_random = no
 	culture ="breton"
 }
 1029102 = {
-	name="de Poher"
+	name="de Poc'hêr" #Poher
 	culture ="breton"
 	coat_of_arms = {	template = 0	layer = {	texture = 5		texture_internal = 100	emblem = 0	color = 0	color = 0	color = 0	}	}
 }
 1029103 = {
-	name="de Rieux"
+	name="de Reoz"
 	culture ="breton"
 }
 1029039 = {
@@ -26716,7 +26716,7 @@ used_for_random = no
 	culture = finnish
 }
 9571 = {
-	name="d'Auvergne"
+	name="d'Auvèrnhe"
 	culture ="occitan"
 }
 
@@ -29084,7 +29084,7 @@ used_for_random = no
 	culture=basque
 }
 1046009 = {
-	name="de Pamplona"
+	name="de Iruñea"
 	culture=basque
 }
 1046010 = {
@@ -29833,7 +29833,7 @@ used_for_random = no
 
 1044099 = {
 
-	name="Hetanide"
+	name="Hetanide" #no clue what is it supposed to mean
 
 	culture = old_frankish
 
@@ -29841,7 +29841,7 @@ used_for_random = no
 
 1044100 = {
 
-	name="Emichide"
+	name="Emichide" #no clue what is it supposed to mean
 
 	culture = old_frankish
 
@@ -30576,7 +30576,7 @@ used_for_random = no
 	culture ="occitan"
 }
 1044115 = {
-	name="de Viennoise"
+	name="de Vièna"
 	culture ="occitan"
 }
 1044116 = {
@@ -30588,7 +30588,7 @@ used_for_random = no
 	culture = old_frankish
 }
 1044118 = {
-	name="Begonid"
+	name="Begonid" #no clue F***
 	culture ="visigothic"
 }
 1044119 = {
@@ -30838,19 +30838,19 @@ used_for_random = no
 	culture = old_frankish
 }
 1044102 = {
-	name="Dodonide"
+	name="Dodonide" #to change
 	culture = old_frankish
 }
 1044103 = {
-	name="Theodnide"
+	name="Theodnide" #to change
 	culture = old_frankish
 }
 1044104 = {
-	name="Charibertide"
+	name="Haribertide" #to change
 	culture = old_frankish
 }
 9300 = {
-	name="Riculfide"
+	name="Riculfide" #to change
 	culture = old_frankish
 }
 9615 = {
@@ -30926,7 +30926,7 @@ used_for_random = no
 	culture=old_frankish
 }
 9320 = {
-	name="de Transjuranie"
+	name="de Transjurania"
 	culture=old_frankish
 }
 9321 = {
@@ -30986,11 +30986,11 @@ used_for_random = no
 	culture=old_frankish
 }
 1044120 = {
-	name="Morgannid"
+	name="Morgannide"
 	culture = old_frankish
 }
 1044121 = {
-	name="Hucberting"
+	name="Hucbertide"
 	culture = old_frankish
 }
 1044122 = {
