@@ -81,7 +81,7 @@
 	culture = "mongol"
 }
 13 = {
-	name="Fyodyorov"
+	name="Fedorov"
 	culture="russian"
 	religion="orthodox"
 }
@@ -3006,7 +3006,7 @@
 	}
 }
 503 = {
-	name="Izyaslavich"
+	name="Izyaslavsky"
 	culture = "russian"
 }
 504 = {
@@ -18064,7 +18064,7 @@ used_for_random = no
 	culture = cuman
 }
 100546 = {
-	name="of Terebovl"
+	name="Terebovlyansky"
 	culture = "russian"
 }
 100547 = {
@@ -18095,7 +18095,7 @@ used_for_random = no
 	culture = "russian"
 }
 100551 = {
-	name="Lvov"
+	name="Lvovsky"
 	culture = "russian"
 }
 100552 = {
