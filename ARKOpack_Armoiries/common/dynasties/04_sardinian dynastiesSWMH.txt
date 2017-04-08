@@ -114,5 +114,12 @@
 		}
 	}
 }
-
+1000035193 = {
+	name="di Tarsia"	
+	culture ="sicilian"
+}
+1000035194 = {
+	name="di Manopello"	
+	culture ="neapolitan"
+}
 
