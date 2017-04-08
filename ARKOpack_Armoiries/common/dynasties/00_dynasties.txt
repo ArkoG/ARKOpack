@@ -81,7 +81,7 @@
 	culture = "mongol"
 }
 13 = {
-	name="Fyodyorov"
+	name="Fedorov"
 	culture="russian"
 	religion="orthodox"
 }
@@ -3006,7 +3006,7 @@
 	}
 }
 503 = {
-	name="Izyaslavich"
+	name="Izyaslavsky"
 	culture = "russian"
 }
 504 = {
@@ -4427,7 +4427,7 @@
 	}
 }
 762 = {
-	name="al-Bahrí"
+	name="al-Bahri"
 	culture ="egyptian_arabic"
 }
 763 = {
@@ -8767,7 +8767,7 @@ used_for_random = no
 	forced_coa_religiongroup = "muslim"
 }
 7272 = {
-	name="Jashnakirlar"
+	name="al-Jashnakir"
 	culture = "turkish"
 	forced_coa_religiongroup = "muslim"
 }
@@ -18064,7 +18064,7 @@ used_for_random = no
 	culture = cuman
 }
 100546 = {
-	name="of Terebovl"
+	name="Terebovlyansky"
 	culture = "russian"
 }
 100547 = {
@@ -18095,7 +18095,7 @@ used_for_random = no
 	culture = "russian"
 }
 100551 = {
-	name="Lvov"
+	name="Lvovsky"
 	culture = "russian"
 }
 100552 = {
@@ -31752,12 +31752,12 @@ used_for_random = no
 	religion="tengri_pagan"
 }
 1051106 = {
-	name="koray"
+	name="Koray"
 	culture="turkish"
 	religion="tengri_pagan"
 }
 1051107 = {
-	name="korkmaz"
+	name="Korkmaz"
 	culture="turkish"
 	religion="tengri_pagan"
 }
