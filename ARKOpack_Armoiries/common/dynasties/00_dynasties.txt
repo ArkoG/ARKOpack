@@ -1712,11 +1712,11 @@
 	coat_of_arms = {	template = 0	layer = {	texture = 14	texture_internal = 24	emblem = 0	color = 0	color = 0	color = 0	}	}
 }
 249 = {
-	name="Jankovský z Vlašimi"
+	name="z Wlassimie" #Jankovský z Vlašimi
 	culture ="bohemian"
 }
 250 = {
-	name="Berka z Dubé"
+	name="z Dubé" # Berka
 	culture ="bohemian"
 }
 251 = {
@@ -3018,7 +3018,7 @@
 	culture ="hungarian"
 }
 506 = {
-	name="Premyslovci"
+	name="Premyslovci" # aka Premyslovci/Premyslids , to be adjusted later, forum thread one needs adjustment aswell formwise to fit into game terms
 	culture ="bohemian"
 	coat_of_arms = {
 		template = 0
@@ -9262,7 +9262,7 @@ used_for_random = no
 	culture = "persian"
 }
 7508 = {
-	name="Mojmírid"
+	name="Mojmírid" # to be adjusted but the one in forum thread needs some aswell form wise.
 	culture ="bohemian"
 	
 	coat_of_arms = {
@@ -9278,7 +9278,7 @@ used_for_random = no
 	}
 }
 7509 = {
-	name="z Nitrava"
+	name="z Nitrawy" # z Nitrava
 	culture ="bohemian"
 }
 7510 = {
@@ -11041,15 +11041,15 @@ used_for_random = no
 	culture ="catalan"
 }
 10100 = {
-	name="Benesovic"
+	name="z Benessowa" # Benesovic
 	culture ="bohemian"
 }
 10101 = {
-	name="Drslavic"
+	name="z Rizmberka" # Drslavic
 	culture ="bohemian"
 }
 10102 = {
-	name="Hrabisic"
+	name="z Rizmburka" # Hrabisic
 	culture ="bohemian"
 }
 10103 = {
@@ -11057,31 +11057,31 @@ used_for_random = no
 	culture ="bohemian"
 }
 10104 = {
-	name="Markvartic"
+	name="z Brzezna" # Markvartic
 	culture ="bohemian"
 }
 10105 = {
-	name="Ronovec"
+	name="z Tuhanie" # Ronovec
 	culture ="bohemian"
 }
 10106 = {
-	name="Vítkovec"
+	name="z Prczicz" # Vítkovec
 	culture ="bohemian"
 }
 10107 = {
-	name="Vršovic"
+	name="z Wrssowicz" # Vršovic
 	culture ="bohemian"
 }
 10108 = {
-	name="Zerotín"
+	name="ze Zierotina" # Zerotín
 	culture ="bohemian"
 }
 10109 = {
-	name="Vratislavovec"
+	name="z Mitrowicz" # Vratislavovec
 	culture="bohemian"
 }
 10110 = {
-	name="Opavský Przemyslovec"
+	name="Opawský" # Opavský Przemyslovec
 	culture="bohemian"
 }
 10111 = {
@@ -12305,20 +12305,20 @@ used_for_random = no
 	culture ="german"
 }
 12472 = {
-	name="Kaunitz"
-	culture ="german"
+	name="z Kúnicz" # Kaunitz
+	culture ="bohemian" # changed from german
 }
 12473 = {
-	name="von Rosenberg"
-	culture ="german"
+	name="Rozemberka" # von Rosenberg
+	culture ="bohemian" # changed from german
 }
 12474 = {
-	name="von Sternberg"
+	name="z Ssternberkav" # on Sternberg
 	culture ="bohemian"
 }
 12475 = {
-	name="von Waldenstein"
-	culture ="german"
+	name=" z Waldssteina" # von Waldenstein
+	culture ="bohemian" # changed from german
 }
 12476 = {
 	name="von Hohenzollern"
@@ -12332,8 +12332,8 @@ used_for_random = no
 	coat_of_arms = {	template = 0	layer = {	texture = 14		texture_internal = 117	emblem = 0	color = 0	color = 0	color = 0	}	}
 }
 12478 = {
-	name="von Pernstein"
-	culture ="german"
+	name="z Pernssteina" # von Pernstein
+	culture ="bohemian" # changed from german
 }
 12479 = {
 	name="von Monheim"
@@ -17221,7 +17221,7 @@ used_for_random = no
 	culture ="german"
 }
 100362 = {
-	name="Bavor ze Strakonic" #of Cheb
+	name="ze Strakonicz" #Bavor ze Strakonic/of Cheb
 	culture ="bohemian"
 }
 100364 = {
@@ -17611,11 +17611,11 @@ used_for_random = no
 	coat_of_arms = {	template = 0	layer = {	texture = 14	texture_internal = 145	emblem = 0	color = 0	color = 0	color = 0	}	}
 }
 100436 = {
-	name="Czernín"
+	name="z Chudenicz" # Czernín
 	culture ="bohemian"
 }
 100438 = {
-	name="von Harrach"
+	name="z Harrachu" # von Harrach
 	culture ="bohemian"
 }
 100442 = {
@@ -26845,7 +26845,7 @@ used_for_random = no
 	coat_of_arms = {	template = 0	layer = {	texture = 14	texture_internal = 48	emblem = 0	color = 0	color = 0	color = 0	}	}
 }
 9588 = {
-	name="Slavník"
+	name="z Libicz" # Slavník
 	culture ="bohemian"
 }
 9589 = {
