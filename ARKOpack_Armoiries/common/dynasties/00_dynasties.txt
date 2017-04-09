@@ -10625,7 +10625,7 @@ used_for_random = no
 	culture = "lithuanian"
 }
 9117 = {
-	name="of Žemaiteje"
+	name="Žemaitis"
 	culture = "lithuanian"
 }
 9118 = {
