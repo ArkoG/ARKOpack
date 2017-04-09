@@ -3,41 +3,40 @@ MOD/DATE/NAME VERSION : 2017-04-04
 standalone version : 2017-04-04
 GAME VERSION COMPATIBILITY : v2.5.x v2.6.x v2.7x for COApack
 GAME VERSION COMPATIBILITY : v2.7.1 for GUIpack
-CURRENT DEV/BETA : v2.7.x 
+CURRENT DEV/BETA : v2.7.1 
 
 see included readme's for details
 
 ARMOIRIES :
-
 Major :
--(2.7.1 upgrade)
+-2.7.1 upgrade
 
 Minor :
 -muslim dynastic names improvments by Ese Khan
+-various dynastic names changes (occitan and frankish mostly)
 
 Fixes :
 -fixed baronial CoA for Cluny on vanilla map
--various minor file errors
+-various minor files errors
+-various dynastic fixes for Italian job by Aasmul
 
 INTERFACE :
 Major :
--(2.7.1 upgrade)
--
+-2.7.1 upgrade
 
 Minor :
 -various gfx // Improved crown focus icon
 
 Fixes :
 -various minor file errors
-
+-charview // fixes relation tab for indian and muslim interface
 
 
 --2017-03-20 for CK2 2.7.0x changelog---
 
 ARMOIRIES :
-
 Major :
--2.7 upgrade
+-2.7.0 upgrade
 -customizer // adds a full set of customization for muslim under "Sayf al Islam" religion style
 -SWMH-only adds about 180  new dynastic CoA for italian dynasties (credits to Aasmul)
 -adds 160 new dynastic CoA for italian dynasties (credits to Aasmul)
@@ -53,7 +52,7 @@ Fixes :
 
 INTERFACE :
 Major :
--2.7 upgrade
+-2.7.0 upgrade
 -endgame_screen // new design
 -rules_view // new design displaying more rules at once
 -succession view // reworked design
