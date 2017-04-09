@@ -1,38 +1,38 @@
 MOD NAME : ARKOpack
-MOD/DATE/NAME VERSION : 2017-03-20 
-standalone version : 2017-03-20
-GAME VERSION COMPATIBILITY : v2.5.x v2.6.x v2.7x for CoApack
-GAME VERSION COMPATIBILITY : v2.7.x for GUIpack
+MOD/DATE/NAME VERSION : 2017-04-04 
+standalone version : 2017-04-04
+GAME VERSION COMPATIBILITY : v2.5.x v2.6.x v2.7x for COApack
+GAME VERSION COMPATIBILITY : v2.7.1 for GUIpack
 CURRENT DEV/BETA : v2.7.x 
 
 see included readme's for details
 
---currrent DEV build changelog---
-
 ARMOIRIES :
 
 Major :
--
+-(2.7.1 upgrade)
 
 Minor :
--
+-muslim dynastic names improvments by Ese Khan
 
 Fixes :
--fixed b_cluny CoA being wrong on vanilla map
+-fixed baronial CoA for Cluny on vanilla map
+-various minor file errors
 
 INTERFACE :
-
 Major :
+-(2.7.1 upgrade)
 -
 
 Minor :
--improved the crown_focus icon 
+-various gfx // Improved crown focus icon
 
 Fixes :
--
+-various minor file errors
 
 
---2017-03-20 changelog---
+
+--2017-03-20 for CK2 2.7.0x changelog---
 
 ARMOIRIES :
 
