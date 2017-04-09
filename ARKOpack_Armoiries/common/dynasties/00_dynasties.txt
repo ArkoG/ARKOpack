@@ -3397,7 +3397,7 @@
 	culture ="bedouin_arabic"
 }
 569 = {
-	name="al-'Amirí"
+	name="al-'Ámirí"
 	culture ="andalusian_arabic"
 }
 570 = {
@@ -3469,7 +3469,7 @@
 	culture ="andalusian_arabic"
 }
 587 = {
-	name="Mazyad"
+	name="al-Mazyadí"
 	culture ="levantine_arabic"
 }
 588 = {
@@ -3477,7 +3477,7 @@
 	culture ="bedouin_arabic"
 }
 589 = {
-	name="al-Fatimí"
+	name="al-Fátimí"
 	culture ="maghreb_arabic"
 }
 590 = {
@@ -3517,7 +3517,7 @@
 	culture ="maghreb_arabic"
 }
 596 = {
-	name="al-'Amirí"
+	name="al-'Ámirí"
 	culture ="maghreb_arabic"
 }
 597 = {
@@ -9056,7 +9056,7 @@ used_for_random = no
 	culture ="levantine_arabic"
 }
 7344 = {
-	name="Sulaymaní"
+	name="Sulaymání"
 	culture ="levantine_arabic"
 }
 7345 = {
@@ -9072,11 +9072,11 @@ used_for_random = no
 	culture = "turkish"
 }
 7348 = {
-	name="Bursaqí"
+	name="al-Bursaqí"
 	culture ="levantine_arabic"
 }
 7349 = {
-	name="Mahmudí"
+	name="al-Mahmudí"
 	culture ="levantine_arabic"
 }
 7350 = {
@@ -19552,7 +19552,7 @@ used_for_random = no
 	culture = egyptian_arabic 
 }
 101057 = {
-	name="al-Sulaymaní"
+	name="al-Sulaymání"
 	culture = bedouin_arabic
 }
 101058 = {
@@ -24166,7 +24166,7 @@ used_for_random = no
 	culture = "maghreb_arabic" #apparently
 }
 1027011 = {
-	name="Riyah"
+	name="Riyáh"
 	culture = "bedouin_arabic"
 }
 1027012 = {
@@ -24190,11 +24190,11 @@ used_for_random = no
 	culture = "maghreb_arabic"
 }
 1027017 = {
-	name="Zoghba"
+	name="Zughba"
 	culture = "bedouin_arabic"
 }
 1027018 = {
-	name="Athbej"
+	name="Athbaj"
 	culture = "bedouin_arabic"
 }
 
@@ -25386,11 +25386,11 @@ used_for_random = no
 }
 
 1029034 = {
-	name="'Amir"
+	name="'Ámir"
 	culture = bedouin_arabic
 }
 1029035 = {
-	name="Kilab"
+	name="Kiláb"
 	culture = bedouin_arabic
 }
 1029036 = {
@@ -29540,7 +29540,7 @@ used_for_random = no
     culture = assamese
 }
 1042122 = {
-	name="Tamim"
+	name="Tamím"
 	culture ="bedouin_arabic"
 }
 
@@ -30292,7 +30292,7 @@ used_for_random = no
 }
 
 1042142 = {
-	name="Tamimí"
+	name="al-Tamímí"
 	culture = bedouin_arabic
 }
 
@@ -30672,7 +30672,7 @@ used_for_random = no
 	culture = maghreb_arabic
 }
 1048004 = {
-	name="Ifran" #rulers of Tlemcen
+	name="Ífran" #rulers of Tlemcen
 	culture = maghreb_arabic
 }
 1048005 = {
@@ -30791,7 +30791,7 @@ used_for_random = no
 	culture ="saxon"
 }
 1042181 = {
-	name="Azd-Umaní" # Azd branch
+	name="al-Azdí al-Umání" # Azd branch
 	culture = bedouin_arabic
 }
 
@@ -30806,7 +30806,7 @@ used_for_random = no
 }
 
 1042184 = {
-	name="Azd-Dabidí" # Azd branch
+	name="al-Azdí al-Dabidí" # Azd branch
 	culture = bedouin_arabic
 }
 1046036 = {
