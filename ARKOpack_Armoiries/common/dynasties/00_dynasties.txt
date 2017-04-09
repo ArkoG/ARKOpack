@@ -22860,7 +22860,7 @@ used_for_random = no
 	culture = bedouin_arabic
 }
 101864 = {
-	name="Qorokhanilar"
+	name="Qarakhanilar"
 	culture = karluk
 }
 101865 = {
@@ -31149,7 +31149,7 @@ used_for_random = no
 
 1042185=
 {
-	name="Karluk"
+	name="Qarluq"
 	culture = karluk
 }
 
@@ -31159,7 +31159,7 @@ used_for_random = no
 }
 
 1042187 = {
-	name="Yagma"
+	name="Yaghma"
 	culture = karluk
 }
 
@@ -31169,13 +31169,14 @@ used_for_random = no
 }
 
 1042189 = {
-	name="Karakhanilar"
+	name="Oghraq"
 	culture = karluk
 }
 
 1042190 = {
-	name="Uyghur"
-	culture = kirghiz # uyghur
+	name="Yaghlaqar"
+	culture="uyghur"
+	religion="tengri_pagan"
 }
 
 1042191 = {
