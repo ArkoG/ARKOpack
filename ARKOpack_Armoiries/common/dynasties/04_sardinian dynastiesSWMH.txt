@@ -122,4 +122,31 @@
 	name="di Manopello"	
 	culture ="neapolitan"
 }
-
+1000035195 = {
+	name="di Stazziona"	
+	culture ="italian"
+}
+1000035196 = {
+	name="di Martesana"	
+	culture ="italian"
+}
+1000035197 = {
+	name="Manfredinghi"	
+	culture ="italian"
+}
+1000035198 = {
+	name="Leonidi"	
+	culture ="italian"
+}
+1000035199 = {
+	name="Sigifredi"	
+	culture ="italian"
+}
+1000035200 = {
+	name="Supponidi"	
+	culture ="italian"
+}
+1000035201 = {
+	name="d'Anghiera"	
+	culture ="italian"
+}
