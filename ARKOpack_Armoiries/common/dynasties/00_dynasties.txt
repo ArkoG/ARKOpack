@@ -4743,7 +4743,7 @@
 	culture ="irish"
 }
 820 = {
-	name = "al-Tuluní"
+	name = "al-Túlúní"
 	culture ="egyptian_arabic"
 }
 821 = {
@@ -9044,7 +9044,7 @@ used_for_random = no
 	culture = "persian"
 }
 7341 = {
-	name="Gilaní"
+	name="Gilání"
 	culture = "persian"
 }
 7342 = {
@@ -29613,7 +29613,7 @@ used_for_random = no
 }
 
 1042112 = {
-	name="Afrighí"
+	name="Afríghí"
 	culture = "persian"
 }
 1042103 = {
