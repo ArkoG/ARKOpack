@@ -150,3 +150,22 @@
 	name="d'Anghiera"	
 	culture ="italian"
 }
+1000035202 = {
+	name="Pietro-Conti"	
+	culture ="venetian"
+}
+1000035203 = {
+	name="Papafava"	
+	culture ="venetian"
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 17
+			texture_internal = 59
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
