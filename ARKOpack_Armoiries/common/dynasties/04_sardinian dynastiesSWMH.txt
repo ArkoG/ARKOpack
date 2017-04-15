@@ -169,3 +169,82 @@
 		}
 	}
 }
+1000035204 = {
+	name="de'Conti"	
+	culture ="venetian"
+}
+1000035205 = {
+	name="da Lozzo"	
+	culture ="venetian"
+}
+1000035206 = {
+	name="Arzignani"	
+	culture ="venetian"
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 17
+			texture_internal = 60
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+1000035207 = {
+	name="di Ganzera"	
+	culture ="venetian"
+}
+1000035208 = {
+	name="Malacapelli"	
+	culture ="venetian"
+}
+1000035209 = {
+	name="da Baone"	
+	culture ="venetian"
+}
+1000035210 = {
+	name="Schinelli"	
+	culture ="venetian"
+}
+1000035211 = {
+	name="di Castelnouvo"	
+	culture ="venetian"
+}
+1000035212 = {
+	name="Bontraversi"	
+	culture ="venetian"
+}
+1000035213 = {
+	name="Scrovegni"	
+	culture ="venetian"
+}
+1000035214 = {
+	name="Gaya"	
+	culture ="sardinian"
+}
+1000035215 = {
+	name="Gnecco"	
+	culture ="sardinian"
+}
+1000035216 = {
+	name="Incani"	
+	culture ="sardinian"
+}
+1000035217 = {
+	name="Lado"	
+	culture ="sardinian"
+}
+1000035218 = {
+	name="Uras"	
+	culture ="sardinian"
+}
+1000035219 = {
+	name="Matzeu"	
+	culture ="sardinian"
+}
+1000035220 = {
+	name="Angioy"	
+	culture ="sardinian"
+}
