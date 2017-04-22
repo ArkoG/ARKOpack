@@ -19,6 +19,7 @@ Fixes :
 -fixed baronial CoA for Cluny on vanilla map
 -various minor files errors
 -various dynastic fixes for Italian job by Aasmul
+-fixed d'Enghien dynastic CoA not being assigned at all
 
 INTERFACE :
 Major :
@@ -26,10 +27,11 @@ Major :
 
 Minor :
 -various gfx // Improved crown focus icon
+-character view // increased a bit the space given to display the character modifier icons
 
 Fixes :
 -various minor file errors
--charview // fixes relation tab for indian and muslim interface
+-character view // fixes relation tab for indian and muslim interface
 
 
 --2017-03-20 for CK2 2.7.0x changelog---
