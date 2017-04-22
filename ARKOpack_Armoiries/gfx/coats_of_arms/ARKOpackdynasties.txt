@@ -120,7 +120,7 @@ Dynasties :
 106-de Savoie
 107-van Geldern
 108-von Genf
-109-d'Enghein
+109-d'Enghien
 110-Villehardouin
 111-*
 112-de Boulogne
