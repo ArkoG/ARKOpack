@@ -1813,8 +1813,8 @@ guiTypes = {
 
 			OverlappingElementsBoxType = {
 				name = "modifiers"
-				position = { x = 73 y = 276 }
-				size = { x=120 y=32 }
+				position = { x = 50 y = 276 }
+				size = { x=143 y=32 }
 				format = right
 			}
 		}
