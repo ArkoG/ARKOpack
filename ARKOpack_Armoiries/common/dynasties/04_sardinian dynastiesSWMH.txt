@@ -147,7 +147,7 @@
 	culture ="italian"
 }
 1000035201 = {
-	name="d'Anghiera"	
+	name="d'Sumarigo"	
 	culture ="italian"
 }
 1000035202 = {
