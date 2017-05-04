@@ -1751,7 +1751,7 @@ guiTypes = {
 	iconType = { #position inside prov extension
 		name ="province_terrain_non_reapers_pos"
 		spriteType = "GFX_province_terrain_mountain"
-		position = { x = 23 y = -684 }
+		position = { x = -9923 y = -684 }
 	}
 ##
 	
