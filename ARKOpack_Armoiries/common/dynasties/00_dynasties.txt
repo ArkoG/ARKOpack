@@ -4684,7 +4684,7 @@
 	culture = "persian"
 }
 811 = {
-	name="Taherí" #Taheriyán Tahirid
+	name="Táherí" #Taheriyán Tahirid
 	culture = "persian"
 }
 812 = {
@@ -22877,7 +22877,7 @@ used_for_random = no
 	culture = bedouin_arabic
 }
 101868 = {
-	name="Rawwadî"
+	name="Rawwâdî"
 	culture = kurdish
 }
 101869 = {
@@ -25050,7 +25050,7 @@ used_for_random = no
 }
 
 1029029 = {
-	name="Shaddadî"
+	name="Shaddâdî"
 	culture = kurdish
 }
 
