@@ -30792,12 +30792,12 @@ used_for_random = no
 	culture ="saxon"
 }
 1042181 = {
-	name="al-Azdí al-Umání" # Azd branch
+	name="Azd 'Umán" # Azd branch
 	culture = bedouin_arabic
 }
 
 1042182 = {
-	name="Yahmad" # Azd branch
+	name="al-Yahmadí" # Azd 'Umán branch
 	culture = bedouin_arabic
 }
 
@@ -30807,7 +30807,7 @@ used_for_random = no
 }
 
 1042184 = {
-	name="al-Azdí al-Dabidí" # Azd branch
+	name="al-Huddání" # Azd 'Umán branch in the "Dhu Zabi" area
 	culture = bedouin_arabic
 }
 1046036 = {
