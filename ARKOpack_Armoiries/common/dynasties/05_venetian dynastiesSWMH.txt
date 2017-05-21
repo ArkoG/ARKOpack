@@ -34,7 +34,7 @@ name="Barbarigo"
  culture = venetian
 }
 1000035224 = {
-name="Bembo"
+name="Picavara"
  culture = venetian
 }
 1000035225 = {
@@ -54,7 +54,7 @@ name="Barbaro"
  culture = venetian
 }
 1000035229 = {
-name="Contarini"
+name="Transalgardi"
  culture = venetian
 }
 1000035230 = {
@@ -77,7 +77,7 @@ name="Loredan"
  culture = venetian
 }
 1000035232 = {
-name="Colloredo"
+name="Capodilista"
  culture = venetian
 }
 1000035233 = {
