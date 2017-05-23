@@ -4059,7 +4059,7 @@
 	culture ="scottish"
 }
 697 = {
-	name="Osenevich"
+	name="Osenogli"
 	culture = cuman
 }
 698 = {
@@ -18116,19 +18116,19 @@ used_for_random = no
 	culture = "russian"
 }
 100556 = {
-	name="Kunev"
+	name="Berküti"
 	culture = cuman
 }
 100557 = {
-	name="Kumanov"
+	name="Mingüzogli"
 	culture = cuman
 }
 100558 = {
-	name="Folban"
+	name="Orungqu"
 	culture = cuman
 }
 100559 = {
-	name="Vallani"
+	name="Yugur"
 	culture = cuman
 }
 100560 = {
@@ -18140,11 +18140,11 @@ used_for_random = no
 	culture ="greek"
 }
 100563 = {
-	name="Qoun"
+	name="Peçene"
 	culture = cuman
 }
 100564 = {
-	name="Polovtsy"
+	name="Qul-opa"
 	culture = cuman
 }
 100565 = {
@@ -25754,23 +25754,23 @@ used_for_random = no
 }
 
 1042045 = {
-	name="Andjogli"
+	name="Ençogli"
 	culture = cuman
 }
 1042046 = {
-	name="Durut"
+	name="Dörüt"
 	culture = cuman
 }
 1042047 = {
-	name="Kochoba"
+	name="Küçoba"
 	culture = cuman
 }
 1042048 = {
-	name="Toksoba"
+	name="Toqsoba"
 	culture = cuman
 }
 1042049 = {
-	name="Urosoba"
+	name="Urus-oba"
 	culture = cuman
 }
 1042807 = {
