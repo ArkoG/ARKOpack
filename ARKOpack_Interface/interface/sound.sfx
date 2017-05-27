@@ -102,7 +102,7 @@ factions_view =
 dynasty_tree = 
 {
 	file = "dynastytree.wav"
-	volume = 30
+	volume = 90
 	on_demand = yes
 }
 
