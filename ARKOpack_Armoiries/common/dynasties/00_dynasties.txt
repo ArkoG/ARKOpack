@@ -8972,7 +8972,7 @@ used_for_random = no
 	culture ="egyptian_arabic"
 }
 7323 = {
-	name="al-Askar"
+	name="al-Ashkar"
 	culture = cuman
 }
 7324 = {
