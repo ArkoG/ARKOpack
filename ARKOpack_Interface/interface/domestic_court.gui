@@ -300,7 +300,7 @@ guiTypes = {
 			font = "vic_18"
 			borderSize = {x = 0 y = 0}
 			text = "UI_MISSING_TEXT"	
-			maxWidth = 250
+			maxWidth = 350
 			maxHeight = 20
 			format = left
 			fixedsize = yes

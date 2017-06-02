@@ -1248,7 +1248,7 @@ guiTypes = {
 			position = { x= 0 y = 0 }
 			Orientation = "UPPER_LEFT"
 		}
-		smoothListboxType = 
+		listboxType = 
 			{
 			name ="left_list"
 			position = { x = 30 y = 33 }
@@ -1260,7 +1260,7 @@ guiTypes = {
 			borderSize = {x = 0 y = 0}
 		}
 		
-		smoothListboxType = 
+		listboxType = 
 		{
 			name = "right_list"
 			position = { x = 438 y = 33 }
@@ -1382,6 +1382,80 @@ guiTypes = {
 			maxWidth = 60
 			maxHeight = 24
 			Orientation = "UPPER_LEFT"	
+		}
+		
+		guiButtonType = {
+			name ="transferbutton"
+			quadTextureSprite = "GFX_unitpanel_right"
+			position = { x= 320 y = 5 }
+			Orientation = "UPPER_LEFT"
+			clicksound = generic_click_04
+		}
+	}
+	
+	windowType = {
+		name = "navy_list_entry_right"
+		backGround=""
+		position = { x=0 y=0 }	
+		size = { x=400 y=32 }
+		moveable = 0
+		dontRender = ""
+		horizontalBorder= ""
+		verticalBorder= ""
+		fullScreen = no
+
+		guiButtonType = {
+			name = "background"
+			position = { x = 0 y = 0 }
+			quadTextureSprite ="GFX_unitpanel_reorg_entry_navy_bg"
+		}		
+
+		guiButtonType = {
+			name ="ship_shield"
+			quadTextureSprite = "GFX_shield_small"
+			position = { x= 19 y = 2 }
+			Orientation = "UPPER_LEFT"
+		}
+		
+		instantTextBoxType = {
+			name = "ship_name"
+			position = { x = 52 y = 8 }
+			format = left
+			textureFile = ""
+			font = "vic_18"
+			borderSize = {x = 0 y = 0}
+			text = "UI_MISSING_TEXT"	
+			maxWidth = 200
+			maxHeight = 24
+			fixedsize = yes
+			Orientation = "UPPER_LEFT"	
+		}
+		iconType =
+		{
+			name ="ship_icon"
+			spriteType = "GFX_unitpanel_unitstrip_small"
+			position = { x= 288 y = 0 }
+			Orientation = "UPPER_LEFT"
+		}
+		instantTextBoxType = {
+			name = "ship_amount"
+			position = { x = 225 y = 8 }
+			format = right
+			textureFile = ""
+			font = "vic_18"
+			borderSize = {x = 0 y = 0}
+			text = "UI_MISSING_TEXT"	
+			maxWidth = 60
+			maxHeight = 24
+			Orientation = "UPPER_LEFT"	
+		}
+		
+		guiButtonType = {
+			name ="transferbutton"
+			quadTextureSprite = "GFX_unitpanel_left"
+			position = { x= 1 y = 5 }
+			Orientation = "UPPER_LEFT"
+			clicksound = generic_click_04
 		}
 	}
 
@@ -1665,7 +1739,7 @@ guiTypes = {
 			}
 		
 		### listboxes
-		smoothListboxType = 
+		listboxType = 
 			{
 			name ="left_list"
 			position = { x = 10 y = 80 }
@@ -1677,7 +1751,7 @@ guiTypes = {
 			borderSize = {x = 0 y = 0}
 		}
 
-		smoothListboxType = 
+		listboxType = 
 			{
 			name ="right_list"
 			position = { x = 418 y = 80 }
@@ -1771,6 +1845,13 @@ guiTypes = {
 			position = { x = 319 y = 7 }
 			quadTextureSprite ="GFX_unitpanel_button_disband"
 			clicksound = generic_click_01
+		}
+		
+		guiButtonType = {
+			name = "transferbutton"
+			position = { x = 345 y = 7 }
+			quadTextureSprite ="GFX_unitpanel_right"
+			clicksound = generic_click_04
 		}
 			
 		### units
@@ -1976,6 +2057,13 @@ guiTypes = {
 			position = { x = 12 y = 7 }
 			quadTextureSprite ="GFX_unitpanel_button_disband"
 			clicksound = generic_click_01
+		}
+		
+		guiButtonType = {
+			name = "transferbutton"
+			position = { x = -2 y = 7 }
+			quadTextureSprite ="GFX_unitpanel_left"
+			clicksound = generic_click_04
 		}
 			
 		### units

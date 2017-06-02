@@ -137,6 +137,17 @@ name="Crotta"
 1000035734 = {
 name="Suardi"
  culture = italian
+ 	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 17
+			texture_internal = 46
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}  
 }
 1000035735 = {
 name="Avogadro"
@@ -150,10 +161,21 @@ name="Lucini"
 name="Rusca"
  culture = italian
 }
-#1000035738 = {
-#name=""
-# culture = italian
-#}
+1000035738 = {
+name="del Zoppo"
+ culture = italian
+ 	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 17
+			texture_internal = 47
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}  
+}
 1000035739 = {
 name="Andreasi"
  culture = italian
