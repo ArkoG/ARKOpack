@@ -24317,7 +24317,7 @@ used_for_random = no
 	culture = "russian"
 }
 1029116 = {
-	name="Kryvich"
+	name="Krivich"
 	culture = "russian"
 }
 1029117 = {
@@ -27102,7 +27102,7 @@ used_for_random = no
 	culture ="norse"
 }
 1029167 = {
-	name="Tyvercy"
+	name="Tivertsy"
 	culture = "russian"
 }
 1042817 = {
@@ -31452,7 +31452,7 @@ used_for_random = no
 	culture = severian
 }
 1045032 = {
-	name = "Drevl"
+	name = "Drevlyansky"
 	culture = severian
 }
 1045033 = {
