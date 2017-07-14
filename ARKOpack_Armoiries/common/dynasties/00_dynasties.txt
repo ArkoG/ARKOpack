@@ -22897,7 +22897,7 @@ used_for_random = no
 	culture ="georgian"
 }
 101873 = {
-	name="Kesraní"
+	name="Kasrání"
 	culture = "persian"
 }
 101874 = {
