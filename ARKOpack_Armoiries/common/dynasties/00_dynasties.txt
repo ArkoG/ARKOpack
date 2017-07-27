@@ -4581,7 +4581,7 @@
 	used_for_random = no
 }
 791 = {
-	name = "Shansabaní" #Ghuriyán Ghurides
+	name = "Shansabání" #Ghuriyán Ghurides
 	culture = "persian"
 }
 792 = {
