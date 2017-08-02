@@ -28159,7 +28159,7 @@ used_for_random = no
 }
 
 1040222 = {
-	name="Ghanzi"
+	name="Ghazni"
 	culture = "turkish"
 }
 
