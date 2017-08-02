@@ -24828,7 +24828,7 @@ used_for_random = no
 	culture = kurdish
 }
 1029009 = {
-	name="Kakuyí"
+	name="Kákúyí"
 	culture = kurdish
 }
 1029010 = {
