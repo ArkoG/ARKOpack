@@ -31573,13 +31573,13 @@ used_for_random = no
 	religion="catholic"
 }
 214009 = {
-	name="Kara-Khitai"
+	name="Yelü"
 	culture="khitan"
 	religion="buddhist"
 	used_for_random=no
 }
 214010 = {
-	name="Xiaokhitai"
+	name="Xiao"
 	culture="khitan"
 	religion="buddhist"
 	used_for_random=no
