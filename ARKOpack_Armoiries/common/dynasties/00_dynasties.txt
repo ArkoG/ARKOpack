@@ -8996,7 +8996,7 @@ used_for_random = no
 	culture = "turkish"
 }
 7329 = {
-	name="Burhaní"
+	name="Burhání"
 	culture = "persian"
 }
 7330 = {
