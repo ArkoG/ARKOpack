@@ -18588,7 +18588,7 @@ used_for_random = no
 	culture = persian
 }
 100662 = {
-	name="Bukharí"
+	name="Bukhárí"
 	culture = persian
 }
 100663 = {
