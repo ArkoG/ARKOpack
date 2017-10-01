@@ -12,7 +12,7 @@ culture =
 
 	color = {
 		{ 250 190 0 }	#0 		Or (ex 250 148 0)
-		{ 220 220 220 } #1  	Argent
+		{ 230 230 230 } #1  	Argent
 		{ 0 90 150 } 	#2  	Azur
 		{ 170 0 10 } 	#3  	Gueules 
 		{ 20 110 20 } 	#4  	Sinople
