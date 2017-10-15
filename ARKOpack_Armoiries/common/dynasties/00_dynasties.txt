@@ -3481,7 +3481,7 @@
 	culture ="maghreb_arabic"
 }
 590 = {
-	name="Sulayh"
+	name="al-Sulayhí"
 	culture ="levantine_arabic"
 }
 591 = {
