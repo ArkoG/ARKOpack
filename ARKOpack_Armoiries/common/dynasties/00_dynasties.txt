@@ -9036,7 +9036,7 @@ used_for_random = no
 	culture = "persian"
 }
 7339 = {
-	name="Mihrabaní"
+	name="Mihrabání"
 	culture = "persian"
 }
 7340 = {
@@ -9060,7 +9060,7 @@ used_for_random = no
 	culture ="levantine_arabic"
 }
 7345 = {
-	name="Gauhar Ayin"
+	name="Gauhar Â'în"
 	culture = "turkish"
 }
 7346 = {
