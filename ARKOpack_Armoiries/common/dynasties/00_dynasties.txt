@@ -3521,7 +3521,7 @@
 	culture ="maghreb_arabic"
 }
 597 = {
-	name="al-Umayyí" #almohades
+	name="al-'Umawí" #Umayyads
 	culture ="egyptian_arabic"
 	religion="sunni"
 	forced_coa_religiongroup = "muslim"
@@ -9100,7 +9100,7 @@ used_for_random = no
 	culture = "turkish"
 }
 7355 = {
-	name="Saqawa"
+	name="Saqawlar"
 	culture = "turkish"
 }
 7356 = {
@@ -23073,12 +23073,12 @@ used_for_random = no
 	culture = "mongol"
 }
 101914 = {
-	name="al-Jalayarí"
-	culture ="maghreb_arabic"
+	name="Jalayirid"
+	culture ="mongol"
 }
 101915 = {
 	name="al-Muzaffarí"
-	culture ="andalusian_arabic"
+	culture ="persian"
 }
 101916 = {
 	name="Toluid"
