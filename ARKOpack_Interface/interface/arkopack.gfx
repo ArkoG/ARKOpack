@@ -446,12 +446,12 @@ spriteTypes = {
 		texturefile = "gfx\\interface\\charview_label_bg_alt.dds"
 		allwaystransparent = yes
 	}
-	spriteType = {
-		name = "GFX_overlay_char_favor_indicator_arkopack"
-		texturefile = "gfx\\interface\\favor_indicator_arkopack.dds"
-		transparencecheck = yes
-		norefcount = yes
-	}
+#	spriteType = {
+#		name = "GFX_overlay_char_favor_indicator_arkopack"
+#		texturefile = "gfx\\interface\\favor_indicator_arkopack.dds"
+#		transparencecheck = yes
+#		norefcount = yes
+#	}
 	spriteType = {
 		name = "GFX_overlay_char_favor_indicator_small_arkopack"
 		texturefile = "gfx\\interface\\favor_indicator_small_arkopack.dds"
