@@ -95,7 +95,14 @@ name="Riario"
 name="Lascaris di Ventimiglia"
  culture = ligurian
 }
-
+1000035342 = {
+name="de lo Cavo"
+ culture = ligurian
+}
+1000035343 = {
+name="Morisco"
+ culture = ligurian
+}
 
 
 

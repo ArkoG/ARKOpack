@@ -1,13 +1,16 @@
+# -*- ck2.dynasties -*-
+
 ######################################
 #New pommeranian dynasties
 ######################################
-#Vendish, Oborite nobility from Mecklenburg
-#
 ######################################
-#Proper dynasties
+#Vendish dynasties
 #Range 1000035781-1000035800
+#Range 1000100400 - 1000100449
 ######################################
-
+######################################
+#Vendish, Oborite nobility from Mecklenburg
+#######
 1000035781 = {
 name="Barnekow"
  culture = pommeranian
@@ -181,6 +184,8 @@ name="Krakewitz"
 		}
 	}
 }
+
+
 ######################
 #Tribes
 ######################
@@ -188,6 +193,7 @@ name="Krakewitz"
 name="Velunzani"
  culture = pommeranian
 }
+
 1000100401 = {
 name="Licicaviki"
  culture = pommeranian

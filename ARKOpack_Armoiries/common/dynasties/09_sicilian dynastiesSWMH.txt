@@ -10,10 +10,10 @@
 #Range 1000035501-1000035550
 ######################################
 
-#1000035501 = {
-#name="Alagona"
-# culture = sicilian
-#}
+1000035501 = {
+name="Alagona"
+ culture = sicilian
+}
 1000035502 = {
 name="Mosca"
  culture = sicilian
