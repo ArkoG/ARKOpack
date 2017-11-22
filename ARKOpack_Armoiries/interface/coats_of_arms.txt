@@ -479,6 +479,7 @@ culture = {
 	religion = {
 		"tengri_pagan_reformed"
 		"tengri_pagan"
+		"bon"
 	}
 	
 	templates = { 
@@ -664,9 +665,12 @@ culture =
 	}
 }
 
-culture = 
-{
-	religion_group = "indian_group"
+culture = {
+	religion = {
+		"buddhist"
+		"hindu"
+		"jain"
+	}
 	
 	templates = { 
 		"coa_plain_indian:1"
@@ -729,6 +733,13 @@ culture =
 			noOfFrames = 36
 			color = 3
 			emblem = no
+		}
+		texture = {
+			file = "gfx\\coats_of_arms\\dynasties4_indian.tga"
+			size = { x = 2 y = 1 }
+			noOfFrames = 2
+			color = 0
+			random = no # Do not use for random CoAs
 		}
 	}
 }
@@ -1004,6 +1015,78 @@ culture =
 			size = { x = 16 y = 2 }
 			noOfFrames = 25
 			color = 0
+		}
+	}
+}
+
+culture = {
+	religion = {
+		"taoist"
+	}
+	
+	templates = { 
+		"coa_plain_indian:1"
+	}
+
+	color = {
+		{ 250 190 0 }	#0 		Or (ex 250 148 0)
+		{ 230 230 230 } #1  	Argent
+		{ 0 90 150 } 	#2  	Azur
+		{ 170 0 10 } 	#3  	Gueules 
+		{ 20 110 20 } 	#4  	Sinople
+		{ 20 20 20 }	#5  	Sable
+		{ 120 5 120 }	#6  	Pourpre
+		#{ 200 80 0 }	#ex7	Tanné		
+		{ 250 190 0 }	#7		Or
+		{ 210 210 210 } #8  	Argent
+		{ 0 90 150 } 	#9  	Azur
+		{ 170 0 10 } 	#10  	Gueules 
+		#{ 20 20 20 }	#11  	Sable
+	}
+
+	rebel_colors = { 7 3 5 }
+
+	banned_colors = 
+	{ 
+		{ 0 1 7 8 }			#0		
+		{ 0 1 7 8 }			#1		
+		{ 2 3 4 6 9 10 }	#2		
+		{ 2 3 4 6 9 10 }	#3		
+		{ 2 3 4 6 9 10 }	#4		
+		{ 5 }				#5		
+		{ 2 3 6 9 10 }		#6		
+		#{ 0 3 6 7 10 }		#ex7	
+		{ 0 1 7 8 }			#7		
+		{ 0 1 7 8 }			#8		
+		{ 2 3 4 6 9 10 }	#9		
+		{ 2 3 4 6 9 10 }	#10	
+		#{ 5 11 }			#11			
+	}
+
+	emblem = {
+		file = "gfx\\coats_of_arms\\emblem_muslim.dds"
+		noOfFrames = 1
+	}
+
+	# WHEN ADDING NEW, ALWAYS ADD AT THE END
+	textures = {
+		texture = {
+			file = "gfx\\coats_of_arms\\pattern_china.tga"
+			size = { x = 10 y = 10 }
+			#size = { x = 10 y = 3 }
+			#noOfFrames = 26
+			noOfFrames = 20
+			color = 3
+			emblem = no
+		}
+		texture = {
+			file = "gfx\\coats_of_arms\\pattern2_china.tga"
+			size = { x = 10 y = 1 }
+			#size = { x = 10 y = 3 }
+			#noOfFrames = 26
+			noOfFrames = 10
+			color = 3
+			emblem = no
 		}
 	}
 }
