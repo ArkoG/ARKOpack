@@ -3481,7 +3481,7 @@
 	culture ="maghreb_arabic"
 }
 590 = {
-	name="Sulayh"
+	name="al-Sulayhí"
 	culture ="levantine_arabic"
 }
 591 = {
@@ -3521,7 +3521,7 @@
 	culture ="maghreb_arabic"
 }
 597 = {
-	name="al-Umayyí" #almohades
+	name="al-'Umawí" #Umayyads
 	culture ="egyptian_arabic"
 	religion="sunni"
 	forced_coa_religiongroup = "muslim"
@@ -4586,9 +4586,8 @@
 	culture = "turkish"
 	used_for_random = no
 }
-791=
-{
-	name = "Shansabaní" #Ghuriyán Ghurides
+791 = {
+	name = "Shansabání" #Ghuriyán Ghurides
 	culture = "persian"
 }
 792=
@@ -9173,7 +9172,7 @@ used_for_random = no
 	culture ="egyptian_arabic"
 }
 7323 = {
-	name="al-Askar"
+	name="al-Ashkar"
 	culture = cuman
 }
 7324 = {
@@ -9197,7 +9196,7 @@ used_for_random = no
 	culture = "turkish"
 }
 7329 = {
-	name="Burhaní"
+	name="Burhání"
 	culture = "persian"
 }
 7330 = {
@@ -9237,7 +9236,7 @@ used_for_random = no
 	culture = "persian"
 }
 7339 = {
-	name="Mihrabaní"
+	name="Mihrabání"
 	culture = "persian"
 }
 7340 = {
@@ -9261,7 +9260,7 @@ used_for_random = no
 	culture ="levantine_arabic"
 }
 7345 = {
-	name="Gauhar Ayin"
+	name="Gauhar Â'în"
 	culture = "turkish"
 }
 7346 = {
@@ -9301,7 +9300,7 @@ used_for_random = no
 	culture = "turkish"
 }
 7355 = {
-	name="Saqawa"
+	name="Saqawlar"
 	culture = "turkish"
 }
 7356 = {
@@ -19094,7 +19093,7 @@ used_for_random = no
 	culture = persian
 }
 100662 = {
-	name="Bukharí"
+	name="Bukhárí"
 	culture = persian
 }
 100663 = {
@@ -23414,7 +23413,7 @@ used_for_random = no
 	culture ="georgian"
 }
 101873 = {
-	name="Kesraní"
+	name="Kasrání"
 	culture = "persian"
 }
 101874 = {
@@ -23590,12 +23589,12 @@ used_for_random = no
 	culture = "mongol"
 }
 101914 = {
-	name="al-Jalayarí"
-	culture ="maghreb_arabic"
+	name="Jalayirid"
+	culture ="mongol"
 }
 101915 = {
 	name="al-Muzaffarí"
-	culture ="andalusian_arabic"
+	culture ="persian"
 }
 101916 = {
 	name="Toluid"
@@ -24834,7 +24833,7 @@ used_for_random = no
 	culture = "russian"
 }
 1029116 = {
-	name="Kryvich"
+	name="Krivich"
 	culture = "russian"
 }
 1029117 = {
@@ -25349,7 +25348,7 @@ used_for_random = no
 	culture = kurdish
 }
 1029009 = {
-	name="Kakuyí"
+	name="Kákúyí"
 	culture = kurdish
 }
 1029010 = {
@@ -27646,7 +27645,7 @@ used_for_random = no
 	culture ="norse"
 }
 1029167 = {
-	name="Tyvercy"
+	name="Tivertsy"
 	culture = "russian"
 }
 1042817 = {
@@ -28703,7 +28702,7 @@ used_for_random = no
 }
 
 1040222 = {
-	name="Ghanzi"
+	name="Ghazni"
 	culture = "turkish"
 }
 
@@ -31995,7 +31994,7 @@ used_for_random = no
 	culture = severian
 }
 1045032 = {
-	name = "Drevl"
+	name = "Drevlyansky"
 	culture = severian
 }
 1045033 = {
@@ -32116,13 +32115,13 @@ used_for_random = no
 	religion="catholic"
 }
 214009 = {
-	name="Kara-Khitai"
+	name="Yelü"
 	culture="khitan"
 	religion="buddhist"
 	used_for_random=no
 }
 214010 = {
-	name="Xiaokhitai"
+	name="Xiao"
 	culture="khitan"
 	religion="buddhist"
 	used_for_random=no
