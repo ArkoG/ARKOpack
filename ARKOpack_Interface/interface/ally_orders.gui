@@ -21,11 +21,24 @@ guiTypes = {
 			name = "ally_name"
 			position = { x = 67 y = 10 }
 			maxHeight = 55
+			maxWidth = 158
 			font = "vic_22_black"
 			format = left
 			fixedsize = yes
 			alwaystransparent = yes
 		}
+		
+		instantTextBoxType = {
+			name = "ally_strength"
+			position = { x = 225 y = 10 }
+			maxHeight = 55
+			maxWidth = 60
+			font = "vic_22_black"
+			format = right
+			fixedsize = yes
+			alwaystransparent = yes
+		}
+		
 		instantTextBoxType = {
 			name = "order_name"
 			position = { x = 67 y = 30 }

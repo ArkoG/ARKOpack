@@ -767,4 +767,51 @@ guiTypes = {
 			pdx_tooltip_delayed = "CHARACTER_TOOLTIP_DELAYED"
 		}
 	}
+	
+	### OUTLINER Court Entry
+	windowType = 
+	{
+		name = "outliner_rally_point_entry"
+		backGround=""
+		position = { x=0 y=0 }	
+		size = { x=276 y=16 }
+		moveable = 0
+		dontRender = ""
+		horizontalBorder= ""
+		verticalBorder= ""
+		fullScreen = no	
+
+		guiButtonType = {
+			name = "outliner_standard"
+			position = { x=0 y =0 }
+			quadTextureSprite ="GFX_outliner_standard"	
+		}
+
+		instantTextBoxType = {
+			name = "entry_text"
+			position = { x = 18 y = 2 }
+			textureFile = ""
+			font = "Arial12"
+			borderSize = {x = 0 y = 0}
+			text = ""	
+			maxWidth = 240
+			maxHeight = 16
+
+			format = right
+			fixedsize = yes
+		}
+		
+		instantTextBoxType = {
+				name = "info_text"
+				position = { x = 18 y = 2 }
+				textureFile = ""
+				font = "Arial12"
+				borderSize = {x = 0 y = 0}
+				text = "UI_MISSING_TEXT"	
+				maxWidth = 240
+				maxHeight = 16
+
+				format = left
+		}
+	}
 }

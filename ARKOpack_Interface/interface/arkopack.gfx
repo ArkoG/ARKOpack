@@ -167,19 +167,19 @@ spriteTypes = {
 		texturefile = "gfx\\interface\\buildview_fort_icon_arkopack.dds"
 	}	
 	
-	#additional culturegfx missing from vanilla
-	spriteType = {
-		name = "GFX_province_settlement_frame_indiangfx" #indianstyle
-		texturefile = "gfx\\interface\\province_settlement_frame_indiangfx.tga"
-	}
-	spriteType = {
-		name = "GFX_province_settlement_frame_southindiangfx" #indianstyle
-		texturefile = "gfx\\interface\\province_settlement_frame_southindiangfx.tga"
-	}
-	spriteType = {
-		name = "GFX_province_settlement_frame_turkishgfx" #mongolstyle
-		texturefile = "gfx\\interface\\province_settlement_frame_turkishgfx.tga"
-	}
+#	#additional culturegfx missing from vanilla
+#	spriteType = {
+#		name = "GFX_province_settlement_frame_indiangfx" #indianstyle
+#		texturefile = "gfx\\interface\\province_settlement_frame_indiangfx.tga"
+#	}
+#	spriteType = {
+#		name = "GFX_province_settlement_frame_southindiangfx" #indianstyle
+#		texturefile = "gfx\\interface\\province_settlement_frame_southindiangfx.tga"
+#	}
+#	spriteType = {
+#		name = "GFX_province_settlement_frame_turkishgfx" #mongolstyle
+#		texturefile = "gfx\\interface\\province_settlement_frame_turkishgfx.tga"
+#	}
 ###RULES Tab
 	spriteType = {
 		name = "GFX_game_rules_divider_arkopack"

@@ -915,7 +915,7 @@ guiTypes = {
 			textureFile = ""
 			font = "vic_22"
 			borderSize = {x = 0 y = 0}
-			text = "NEW_DLC_AVAILABLE"	
+			text = ""	
 			maxWidth = 350
 			maxHeight = 24	
 			Orientation = "UPPER_LEFT"
@@ -1068,15 +1068,6 @@ guiTypes = {
 					clicksound = menu_click
 				}
 
-				guiButtonType = 
-				{
-					name = "nudge_button"
-					position = { x = 465 y = -57 }
-					quadTextureSprite ="nudge_icon"
-					#buttonText = "Nudge"
-					#buttonFont = "vic_22"
-					clicksound = menu_click
-				}				
 			}
 			
 
@@ -5150,7 +5141,15 @@ guiTypes = {
 					position = { x= 559 y = -221 }
 					Orientation = "LOWER_LEFT"
 				}
-
+				
+				iconType = 
+				{
+					name ="JD_DLC"
+					spriteType = "GFX_dlc_icon_jade_dragon"
+					position = { x= 605 y = -221 }
+					Orientation = "LOWER_LEFT"
+				}
+				
 				editBoxType = 
 				{
 					position = { x = -3 y = -41 }
@@ -5337,7 +5336,7 @@ guiTypes = {
 			font = "vic_18"
 			borderSize = {x = 0 y = 0}
 			text = "UI_MISSING_TEXT"	
-			maxWidth = 180
+			maxWidth = 150
 			maxHeight = 20
 			fixedsize = yes
 			allwaystransparent = yes

@@ -1192,6 +1192,12 @@ guiTypes = {
 				quadTextureSprite ="GFX_charview_arrange_marriage"	
 				clicksound = generic_click_04
 			}
+			guiButtonType = {
+				name = "toggle_marriage_ai"
+				position = { x=220 y=157 }
+				quadTextureSprite ="GFX_checkbox_default"	
+				clicksound = generic_click_04
+			}
 #			guiButtonType = {
 #				name = "toggle_interest"
 #				position = { x=503 y=-63 }

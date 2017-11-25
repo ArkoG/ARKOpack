@@ -972,7 +972,7 @@ guiTypes = {
 			pdx_tooltip_delayed = "CHARACTER_TOOLTIP_DELAYED"
 		}
 		guiButtonType = {
-			name ="spouce_frame"
+			name ="spouce_portrait_frame"
 			quadTextureSprite = "GFX_charframe_34"
 			position = { x= 31 y = -24 }
 			Orientation = "UPPER_LEFT"
