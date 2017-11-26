@@ -1133,12 +1133,12 @@ guiTypes = {
 			iconType = {
 				name ="opinion_bg_big"
 				spriteType = "GFX_opinion_bg_big"
-				position = { x= 180 y = 165 } #x-9
+				position = { x= 179 y = 165 } #x-9
 				Orientation = "UPPER_LEFT"
 			}
 			instantTextBoxType = {
 				name = "opinion_text"
-				position = { x = 179 y = 171 } #x-9
+				position = { x = 178 y = 171 } #x-9
 				textureFile = ""
 				font = "vic_18"
 				borderSize = {x = 0 y = 0}
@@ -1194,7 +1194,7 @@ guiTypes = {
 			}
 			guiButtonType = {
 				name = "toggle_marriage_ai"
-				position = { x=220 y=157 }
+				position = { x=219 y=167 }
 				quadTextureSprite ="GFX_checkbox_default"	
 				clicksound = generic_click_04
 			}
