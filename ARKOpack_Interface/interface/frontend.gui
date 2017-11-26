@@ -1027,15 +1027,7 @@ guiTypes = {
 					clicksound = quit
 				}
 				
-				guiButtonType = 
-				{
-					name = "nudge_button"
-					position = { x = 465 y = -57 }
-					quadTextureSprite ="twitter"
-					#buttonText = "NUDGE"
-					#buttonFont = "vic_22"
-					clicksound = menu_click
-				}
+
 				
 				guiButtonType = 
 				{
@@ -1067,7 +1059,15 @@ guiTypes = {
 					quadTextureSprite ="twitter"	
 					clicksound = menu_click
 				}
-
+				guiButtonType = 
+				{
+					name = "nudge_button"
+					position = { x = 465 y = -57 }
+					quadTextureSprite ="nudge_icon"
+					#buttonText = "NUDGE"
+					#buttonFont = "vic_22"
+					clicksound = menu_click
+				}
 			}
 			
 
