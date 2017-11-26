@@ -592,7 +592,7 @@ guiTypes = {
 			{
 				name ="siege_shield"
 				quadTextureSprite = "GFX_shield_medium2"
-				position = { x= 156 y = 28 }
+				position = { x= 155 y = 28 }
 				Orientation = "UPPER_LEFT"
 			}
 			instantTextBoxType = {
@@ -809,7 +809,7 @@ guiTypes = {
 			iconType = {
 				name ="to_few_men"
 				spriteType = "GFX_icon_siege_tofewmen_arko"
-				position = { x= 267 y = 54 }
+				position = { x= 131 y = 32 }
 				Orientation = "UPPER_LEFT"
 			}
 
@@ -817,19 +817,19 @@ guiTypes = {
 
 			guiButtonType =	{
 				name = "assault"
-				position = {x= 267 y = 54 }
+				position = {x= 193 y = 32 }
 				quadTextureSprite ="GFX_siege_assault_button"	
 				Orientation = "UPPER_LEFT"
 				clicksound = generic_click_02
 				shortcut = "c"
 			}
 
-			iconType = {
-				name ="the_wall"
-				spriteType = "GFX_buildview_fort_icon_arkopack"
-				position = { x= 306 y = 65 }
-				Orientation = "UPPER_LEFT"
-			}
+#			iconType = {
+#				name ="the_wall" #WALL
+#				spriteType = "GFX_buildview_fort_icon_arkopack"
+#				position = { x= 270 y = 60 }
+#				Orientation = "UPPER_LEFT"
+#			}
 			
 			### defenders
 			
@@ -955,16 +955,16 @@ guiTypes = {
 			
 			iconType = {
 				name ="fort_icon"
-				spriteType ="GFX_buildview_fort_icon"
+				spriteType ="GFX_buildview_fort_icon_arkopack"
 				#position = { x = 303 y = 30 }
-				position = { x = -8503 y = 30 }
+				position = { x= 270 y = 60 }
 				Orientation = "UPPER_LEFT"
 			}
 			
-			instantTextBoxType = {
+			instantTextBoxType = { #WALL value
 				name = "fort_level_text"
 				#position = { x = 282 y = 50 }
-				position = { x = 303 y = 56 }
+				position = { x = 304 y = 66 }
 				textureFile = ""
 				font = "vic_18"
 				borderSize = {x = 0 y = 0}
