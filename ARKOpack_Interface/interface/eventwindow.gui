@@ -1461,7 +1461,7 @@ guiTypes = {
 		}
 		iconType =
 		{
-			name ="Background_2"
+			name ="event_bg"
 			spriteType = "GFX_event_normal_bg"
 			position = { x= 0 y = 0 }
 			Orientation = "UPPER_LEFT"
