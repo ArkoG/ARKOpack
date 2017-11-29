@@ -1573,24 +1573,24 @@ culture = {
 
 	# WHEN ADDING NEW, ALWAYS ADD AT THE END
 	textures = {
-		texture = {
+		texture = { #texture = 0
 			file = "gfx\\coats_of_arms\\pattern_china.tga"
 			size = { x = 10 y = 3 }
 			noOfFrames = 28
 			color = 3
 			emblem = no
 		}
-		texture = {
+		texture = { #texture = 1
 			file = "gfx\\coats_of_arms\\Arkopack_china.tga"
 			size = { x = 10 y = 10 }
 			noOfFrames = 30
 			color = 2
 			emblem = no
 		}
-		texture = {
+		texture = { #texture = 2
 			file = "gfx\\coats_of_arms\\Arkopack_china_dyn.tga"
 			size = { x = 10 y = 10 }
-			noOfFrames = 30
+			noOfFrames = 50
 			color = 2
 			emblem = no
 			#random = no # Do not use for random CoAs

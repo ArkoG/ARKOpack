@@ -1,0 +1,218 @@
+# -*- ck2.dynasties -*-
+
+#Han dynasties
+#Dynasties: 1000102425 - 1000102449 (stolen from 97_liao_dynasties)
+#	    1000054525 - 1000054549 (stolen from 102_khotanese_dynasties)
+#	    1000020550 - 1000020599 
+
+1000102425 = {
+	name="Ts'ieu" #Zhao
+	culture = han
+		coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 2
+			texture_internal = 0
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+1000102426 = {
+	name="Tsien" #Qian
+	culture = han
+}
+1000102427 = {
+	name="Sun" #Sun
+	culture = han
+}
+1000102428 = {
+	name="Li" #Li
+	culture = han
+}
+1000102429 = {
+	name="Chiu" #Zhou
+	culture = han
+}
+1000102430 = {
+	name = "Ngo" #Wu
+	culture = han
+}
+1000102431 = {
+	name = "Ts'ieng" #Zheng
+	culture = han
+}
+1000102432 = {
+	name = "Wang" #Wang
+	culture = han
+}
+1000102433 = {
+	name = "Bêng" #Feng
+	culture = han
+}
+1000102434 = {
+	name = "Chên" #Chen
+	culture = han
+}
+1000102435 = {
+	name = "Chu" #Chu
+	culture = han
+}
+1000102436 = {
+	name = "H'uei" #Wei
+	culture = han
+}
+1000102437 = {
+	name = "Tsing" #Jiang
+	culture = han
+}
+1000102438 = {
+	name = "Shim" #Shen
+	culture = han
+}
+1000102439 = {
+	name = "Han" #Han
+	culture = han
+}
+1000102440 = {
+	name = "Yang" #Yang
+	culture = han
+}
+1000102441 = {
+	name = "Ts'üeh" #Zhu
+	culture = han
+}
+1000102442 = {
+	name = "Ch'in" #Qin
+	culture = han
+}
+1000102443 = {
+	name = "Yu" #You
+	culture = han
+}
+1000102444 = {
+	name = "Hü" #Xu
+	culture = han
+}
+1000102445 = {
+	name = "Ha" #He
+	culture = han
+}
+1000102446 = {
+	name = "Lü" #Lü
+	culture = han
+}
+1000102447 = {
+	name = "Shê" #Shi
+	culture = han
+}
+1000102448 = {
+	name = "Ts'ing" #Chang
+	culture = han
+}
+1000102449 = {
+	name = "K'ung" #Kong
+	culture = han
+}
+1000054525 = {
+	name = "Ts'ao" #Cao
+	culture = han
+}
+1000054526 = {
+	name = "Ngim" #Yan
+	culture = han
+}
+1000054527 = {
+	name = "Hua" #Hua
+	culture = han
+}
+1000054528 = {
+	name = "Kim" #Jin
+	culture = han
+}
+1000054529 = {
+	name = "Ngui" #Wei
+	culture = han
+}
+1000054530 = {
+	name = "Tao" #Tao
+	culture = han
+}
+1000054531 = {
+	name = "Kêng" #Jiang
+	culture = han
+}
+1000054532 = {
+	name = "Ts'ek" #Qi
+	culture = han
+}
+1000054533 = {
+	name = "Tsia" #Xie
+	culture = han
+}
+1000054534 = {
+	name = "Ju" #Zou
+	culture = han
+}
+1000054535 = {
+	name = "Yüeh" #Yu
+	culture = han
+}
+1000054536 = {
+	name = "Pêk" #Bai
+	culture = han
+}
+1000054537 = {
+	name = "Chui" #Shui
+	culture = han
+}
+1000054538 = {
+	name = "Tou" #Dou
+	culture = han
+}
+1000054539 = {
+	name = "Ching" #Zhang
+	culture = han
+}
+1000054540 = {
+	name = "Hun" #Yun
+	culture = han
+}
+1000054541 = {
+	name = "Suo" #Su
+	culture = han
+}
+1000054542 = {
+	name = "P'uan" #Pan
+	culture = han
+}
+1000054543 = {
+	name = "Kat" #Ge
+	culture = han
+}
+1000054544 = {
+	name = "Hei" #Xi
+	culture = han
+}
+1000054545 = {
+	name = "Pêm" #Fan
+	culture = han
+}
+1000054546 = {
+	name = "Pêng" #Peng
+	culture = han
+}
+10000545347 = {
+	name = "Lang" #Lang
+	culture = han
+}
+1000054548 = {
+	name = "Luo" #Lu
+	culture = han
+}
+1000054549 = {
+	name = "Hui" #Wei
+	culture = han
+}
