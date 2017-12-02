@@ -1575,15 +1575,15 @@ culture = {
 	textures = {
 		texture = { #texture = 0
 			file = "gfx\\coats_of_arms\\pattern_china.tga"
-			size = { x = 10 y = 3 }
-			noOfFrames = 28
+			size = { x = 10 y = 10 }
+			noOfFrames = 52
 			color = 3
 			emblem = no
 		}
 		texture = { #texture = 1
 			file = "gfx\\coats_of_arms\\Arkopack_china.tga"
 			size = { x = 10 y = 10 }
-			noOfFrames = 30
+			noOfFrames = 14
 			color = 2
 			emblem = no
 		}
@@ -1593,7 +1593,7 @@ culture = {
 			noOfFrames = 50
 			color = 2
 			emblem = no
-			#random = no # Do not use for random CoAs
+			random = no # Do not use for random CoAs
 		}
 	}
 }
