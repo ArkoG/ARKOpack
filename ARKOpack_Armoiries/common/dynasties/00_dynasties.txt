@@ -3483,6 +3483,7 @@
 590 = {
 	name="al-Sulayhí"
 	culture ="levantine_arabic"
+	religion="shiite"
 }
 591 = {
 	name="Dulo"
@@ -35119,28 +35120,28 @@ used_for_random = no
 	religion="jewish"
 }
 
-1059024={
+1053300={
 	name = "Ding"
 	culture = han
 	religion = taoist
 }
-1059025={
-	name = "Xigu"
+1053301={
+	name = "Yang"
 	culture = han
 	religion = taoist
 }
-1059026={
+1053302={
 	name = "Jia"
 	culture = han
 	religion = taoist
 }
-1059027={
+1053303={
 	name = "Ju"
 	culture = han
 	religion = taoist
 }
-1059028={
-	name = "Riyou"
+1053304={
+	name = "Yang"
 	culture = han
 	religion = taoist
 }
@@ -35982,6 +35983,48 @@ used_for_random = no
 	name="Nge"
 	culture="bodpa"
 	religion="bon"
+}
+### Yemeni Dynasties
+
+1051211 = {
+	name="al-Zawayhi"
+	culture="bedouin_arabic"
+	religion="shiite"
+}
+1051212 = {
+	name="al-Mufaddal"
+	culture="bedouin_arabic"
+	religion="shiite"
+}
+1051213 = {
+	name="Banu Naja?"
+	culture="ethiopian"
+	religion="shiite"
+}
+1051214 = {
+	name="Banu Zurai"
+	culture="bedouin_arabic"
+	religion="shiite"
+}
+1051215 = {
+	name="Bannu Man"
+	culture="bedouin_arabic"
+	religion="sunni"
+}
+1051216 = {
+	name="Bani Mahdi"
+	culture="bedouin_arabic"
+	religion="shiite"
+}
+1051217 = {
+	name="al-Hatimí"
+	culture="bedouin_arabic"
+	religion="shiite"
+}
+1051218 = {
+	name="al-Sulaymani"
+	culture="bedouin_arabic"
+	religion="shiite"
 }
 ##############
 
