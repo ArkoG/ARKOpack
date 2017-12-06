@@ -1427,7 +1427,7 @@ guiTypes = {
 		instantTextBoxType = 
 		{
 			name = "CountdownText"
-			position = { x = 20 y = 415 }
+			position = { x = 50 y = 255 }
 			textureFile = ""
 			font = "vic_18_black"
 			borderSize = {x = 0 y = 0}
