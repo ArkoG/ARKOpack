@@ -68,8 +68,8 @@ culture =
 		}
 		texture = { #texture = 2 avec charge.
 			file = "gfx\\coats_of_arms\\ARKOpack_Pattern_2C_light.tga"
-			size = { x = 7 y = 2 }
-			noOfFrames = 14
+			size = { x = 10 y = 10 }
+			noOfFrames = 99
 			#emblem = yes
 			color = 2
 		}
