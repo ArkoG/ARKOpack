@@ -104,7 +104,7 @@ guiTypes = {
 
 			guiButtonType = {
 				name = "close_button"	
-				position = {x = 72 y = 343 }
+				position = {x = 72 y = 386 }
 				quadTextureSprite ="GFX_standard_button_112"
 				buttonText = "CLOSE"
 				buttonFont = "vic_18"
@@ -774,7 +774,7 @@ guiTypes = {
 		name = "outliner_rally_point_entry"
 		backGround=""
 		position = { x=0 y=0 }	
-		size = { x=276 y=16 }
+		size = { x=317 y=16 }
 		moveable = 0
 		dontRender = ""
 		horizontalBorder= ""
@@ -789,9 +789,9 @@ guiTypes = {
 
 		instantTextBoxType = {
 			name = "entry_text"
-			position = { x = 18 y = 2 }
+			position = { x = 63 y = 2 }
 			textureFile = ""
-			font = "Arial12"
+			font = "Arial12_black"
 			borderSize = {x = 0 y = 0}
 			text = ""	
 			maxWidth = 240
@@ -803,9 +803,9 @@ guiTypes = {
 		
 		instantTextBoxType = {
 				name = "info_text"
-				position = { x = 18 y = 2 }
+				position = { x = 32 y = 2 }
 				textureFile = ""
-				font = "Arial12"
+				font = "Arial12_black"
 				borderSize = {x = 0 y = 0}
 				text = "UI_MISSING_TEXT"	
 				maxWidth = 240
