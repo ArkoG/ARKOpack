@@ -55,7 +55,7 @@ culture =
 		texture = { #texture = 0
 			file = "gfx\\coats_of_arms\\ARKOpack_Pattern_3C.tga"
 			size = { x = 10 y = 4 } #x=nombre d'images sur une ligne // y=nombre d'image dans une colonne
-			noOfFrames = 35
+			noOfFrames = 40
 			emblem = no
 			color = 3 
 		}
@@ -70,6 +70,7 @@ culture =
 			file = "gfx\\coats_of_arms\\ARKOpack_Pattern_2C_light.tga"
 			size = { x = 10 y = 10 }
 			noOfFrames = 99
+			emblem = no
 			#emblem = yes
 			color = 2
 		}
@@ -153,7 +154,7 @@ culture =
 			emblem = no
 			random = no # Do not use for random CoAs
 		}
-		texture = {
+		texture = { #texture = 13
 			file = "gfx\\coats_of_arms\\dynasties3.tga" #texture = 13 DLC3
 			size = { x = 16 y = 4 }
 			noOfFrames = 51
@@ -161,7 +162,7 @@ culture =
 			emblem = no
 			random = no # Do not use for random CoAs
 		}
-		texture = {
+		texture = { #texture = 14
 			file = "gfx\\coats_of_arms\\ze_germans_vanilla_dynasties.tga" #texture = 14 Coa for german swmh families by Aasmul
 			size = { x = 5 y = 47 }
 			noOfFrames = 235
@@ -169,7 +170,7 @@ culture =
 			emblem = no
 			random = no # Do not use for random CoAs
 		}
-		texture = {
+		texture = { #texture = 15
 			file = "gfx\\coats_of_arms\\ARKOback_in_the_UK_dynasties.tga" #texture = 15 Coa for England
 			size = { x = 10 y = 10 }
 			noOfFrames = 100
@@ -178,7 +179,7 @@ culture =
 			random = no # Do not use for random CoAs
 		}
 		
-		texture = {
+		texture = { #texture = 16
 			file = "gfx\\coats_of_arms\\the_italian_job_vanilla_dynasties.tga" #texture = 16 Italian job
 			size = { x = 5 y = 33 }
 			noOfFrames = 165
@@ -186,7 +187,7 @@ culture =
 			emblem = no
 			random = no # Do not use for random CoAs
 		}		
-		texture = {
+		texture = { #texture = 17
 			file = "gfx\\coats_of_arms\\the_italian_job_swmh_dynasties.tga" #texture = 17 Italian job
 			size = { x = 5 y = 37 }
 			noOfFrames = 185
@@ -1533,37 +1534,24 @@ culture = {
 
 	color = {
 		{ 250 190 0 }	#0 		Or (ex 250 148 0)
-		{ 230 230 230 } #1  	Argent
-		{ 0 90 150 } 	#2  	Azur
-		{ 170 0 10 } 	#3  	Gueules 
-		{ 20 110 20 } 	#4  	Sinople
-		{ 20 20 20 }	#5  	Sable
-		{ 120 5 120 }	#6  	Pourpre
-		#{ 200 80 0 }	#ex7	Tanné		
-		{ 250 190 0 }	#7		Or
-		{ 210 210 210 } #8  	Argent
-		{ 0 90 150 } 	#9  	Azur
-		{ 170 0 10 } 	#10  	Gueules 
-		#{ 20 20 20 }	#11  	Sable
+		{ 240 240 240 } #1  	Blanc
+		{ 0 80 170 } 	#2  	Bleu du nord
+		{ 150 0 30 } 	#3  	De sang 
+		{ 70 120 40 }	#4  	Vert
+		{ 10 10 10 }	#5  	Noir noir
+
 	}
 
-	rebel_colors = { 7 3 5 }
+	rebel_colors = { 1 3 5 }
 
 	banned_colors = 
 	{ 
-		{ 0 1 7 8 }			#0		
-		{ 0 1 7 8 }			#1		
-		{ 2 3 4 6 9 10 }	#2		
-		{ 2 3 4 6 9 10 }	#3		
-		{ 2 3 4 6 9 10 }	#4		
-		{ 5 }				#5		
-		{ 2 3 6 9 10 }		#6		
-		#{ 0 3 6 7 10 }		#ex7	
-		{ 0 1 7 8 }			#7		
-		{ 0 1 7 8 }			#8		
-		{ 2 3 4 6 9 10 }	#9		
-		{ 2 3 4 6 9 10 }	#10	
-		#{ 5 11 }			#11			
+		{ 0 1 }		#0		
+		{ 0 1 }		#1		
+		{ 2 3 4 }	#2		
+		{ 2 3 4 }	#3		
+		{ 2 3 4 }	#4		
+		{ 5 }		#5		
 	}
 
 	emblem = {
