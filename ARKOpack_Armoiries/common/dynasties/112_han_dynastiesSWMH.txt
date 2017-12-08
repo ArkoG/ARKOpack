@@ -5,6 +5,20 @@
 #	    1000054525 - 1000054549 (stolen from 102_khotanese_dynasties)
 #	    1000020550 - 1000020599 
 
+
+#coat_of_arms= {
+#		data= { 
+#			0 #composition/template 
+#			5 #index de texture/texture ID
+#			0 #élément en superposition/emblem
+#			13 #index interne à la texture/texture internal
+#			0 #couleur 1/colour 1
+#			0 #couleur 2/colour 2
+#			0 #couleur 3/colour 3
+#			}
+#		religion="catholic" #blason seulement actif pour cette religion, sinon random
+#	}
+
 1000102425 = {
 	name="Ts'ieu" #Zhao
 	culture = han
@@ -14,205 +28,744 @@
 			texture = 2
 			texture_internal = 0
 			emblem = 0
-			color = 0
-			color = 0
-			color = 0
+			color = 2 #blue
+			color = 0 #yellow
+			color = 0 #unused
 		}
 	}
 }
 1000102426 = {
 	name="Tsien" #Qian
 	culture = han
+		coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 2
+			texture_internal = 1
+			emblem = 0
+			color = 3 #blood
+			color = 1 #white
+			color = 0
+		}
+	}
 }
 1000102427 = {
 	name="Sun" #Sun
 	culture = han
+		coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 2
+			texture_internal = 2
+			emblem = 0
+			color = 4 #green
+			color = 0
+			color = 0
+		}
+	}
 }
 1000102428 = {
 	name="Li" #Li
 	culture = han
+		coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 2
+			texture_internal = 3
+			emblem = 0
+			color = 5
+			color = 1
+			color = 0
+		}
+	}
 }
 1000102429 = {
 	name="Chiu" #Zhou
 	culture = han
+		coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 2
+			texture_internal = 4
+			emblem = 0
+			color = 2
+			color = 0
+			color = 0
+		}
+	}
 }
 1000102430 = {
 	name = "Ngo" #Wu
 	culture = han
+		coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 2
+			texture_internal = 5
+			emblem = 0
+			color = 3
+			color = 1
+			color = 0
+		}
+	}
 }
 1000102431 = {
 	name = "Ts'ieng" #Zheng
 	culture = han
+		coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 2
+			texture_internal = 6
+			emblem = 0
+			color = 4
+			color = 1
+			color = 0
+		}
+	}
 }
 1000102432 = {
 	name = "Wang" #Wang
 	culture = han
+		coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 2
+			texture_internal = 7
+			emblem = 0
+			color = 2
+			color = 0
+			color = 0
+		}
+	}
 }
 1000102433 = {
 	name = "Bêng" #Feng
 	culture = han
+		coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 2
+			texture_internal = 8
+			emblem = 0
+			color = 3
+			color = 1
+			color = 0
+		}
+	}
 }
 1000102434 = {
 	name = "Chên" #Chen
 	culture = han
+		coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 2
+			texture_internal = 9
+			emblem = 0
+			color = 4
+			color = 0
+			color = 0
+		}
+	}
 }
 1000102435 = {
 	name = "Chu" #Chu
 	culture = han
+		coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 2
+			texture_internal = 10
+			emblem = 0
+			color = 2
+			color = 1
+			color = 0
+		}
+	}
 }
 1000102436 = {
 	name = "H'uei" #Wei
 	culture = han
+		coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 2
+			texture_internal = 11
+			emblem = 0
+			color = 3
+			color = 0
+			color = 0
+		}
+	}
 }
 1000102437 = {
 	name = "Tsing" #Jiang
 	culture = han
+		coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 2
+			texture_internal = 12
+			emblem = 0
+			color = 4
+			color = 1
+			color = 0
+		}
+	}
 }
 1000102438 = {
 	name = "Shim" #Shen
 	culture = han
+		coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 2
+			texture_internal = 13
+			emblem = 0
+			color = 2
+			color = 1
+			color = 0
+		}
+	}
 }
 1000102439 = {
 	name = "Han" #Han
 	culture = han
+		coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 2
+			texture_internal = 14
+			emblem = 0
+			color = 3
+			color = 0
+			color = 0
+		}
+	}
 }
 1000102440 = {
 	name = "Yang" #Yang
 	culture = han
+		coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 2
+			texture_internal = 15
+			emblem = 0
+			color = 4
+			color = 1
+			color = 0
+		}
+	}
 }
 1000102441 = {
 	name = "Ts'üeh" #Zhu
 	culture = han
+		coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 2
+			texture_internal = 16
+			emblem = 0
+			color = 2
+			color = 0
+			color = 0
+		}
+	}
 }
 1000102442 = {
 	name = "Ch'in" #Qin
 	culture = han
+		coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 2
+			texture_internal = 17
+			emblem = 0
+			color = 3
+			color = 1
+			color = 0
+		}
+	}
 }
 1000102443 = {
 	name = "Yu" #You
 	culture = han
+		coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 2
+			texture_internal = 18
+			emblem = 0
+			color = 4
+			color = 0
+			color = 0
+		}
+	}
 }
 1000102444 = {
 	name = "Hü" #Xu
 	culture = han
+		coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 2
+			texture_internal = 19
+			emblem = 0
+			color = 2
+			color = 1
+			color = 0
+		}
+	}
 }
 1000102445 = {
 	name = "Ha" #He
 	culture = han
+		coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 2
+			texture_internal = 20
+			emblem = 0
+			color = 3
+			color = 0
+			color = 0
+		}
+	}
 }
 1000102446 = {
 	name = "Lü" #Lü
 	culture = han
+		coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 2
+			texture_internal = 21
+			emblem = 0
+			color = 4
+			color = 1
+			color = 0
+		}
+	}
 }
 1000102447 = {
 	name = "Shê" #Shi
 	culture = han
+		coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 2
+			texture_internal = 22
+			emblem = 0
+			color = 2
+			color = 0
+			color = 0
+		}
+	}
 }
 1000102448 = {
 	name = "Ts'ing" #Chang
 	culture = han
+		coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 2
+			texture_internal = 23
+			emblem = 0
+			color = 3
+			color = 1
+			color = 0
+		}
+	}
 }
 1000102449 = {
 	name = "K'ung" #Kong
 	culture = han
+		coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 2
+			texture_internal = 24
+			emblem = 0
+			color = 4
+			color = 1
+			color = 0
+		}
+	}
 }
 1000054525 = {
 	name = "Ts'ao" #Cao
 	culture = han
+		coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 2
+			texture_internal = 25
+			emblem = 0
+			color = 3
+			color = 0
+			color = 0
+		}
+	}
 }
 1000054526 = {
 	name = "Ngim" #Yan
 	culture = han
+		coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 2
+			texture_internal = 26
+			emblem = 0
+			color = 4
+			color = 1
+			color = 0
+		}
+	}
 }
 1000054527 = {
 	name = "Hua" #Hua
 	culture = han
+		coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 2
+			texture_internal = 27
+			emblem = 0
+			color = 3
+			color = 0
+			color = 0
+		}
+	}
 }
 1000054528 = {
 	name = "Kim" #Jin
 	culture = han
+		coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 2
+			texture_internal = 28
+			emblem = 0
+			color = 4
+			color = 1
+			color = 0
+		}
+	}
 }
 1000054529 = {
 	name = "Ngui" #Wei
 	culture = han
+		coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 2
+			texture_internal = 29
+			emblem = 0
+			color = 2
+			color = 0
+			color = 0
+		}
+	}
 }
 1000054530 = {
 	name = "Tao" #Tao
 	culture = han
+		coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 2
+			texture_internal = 30
+			emblem = 0
+			color = 3
+			color = 1
+			color = 0
+		}
+	}
 }
 1000054531 = {
 	name = "Kêng" #Jiang
 	culture = han
+		coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 2
+			texture_internal =31
+			emblem = 0
+			color = 3
+			color = 0
+			color = 0
+		}
+	}
 }
 1000054532 = {
 	name = "Ts'ek" #Qi
 	culture = han
+		coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 2
+			texture_internal = 32
+			emblem = 0
+			color = 4
+			color = 1
+			color = 0
+		}
+	}
 }
 1000054533 = {
 	name = "Tsia" #Xie
 	culture = han
+		coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 2
+			texture_internal = 33
+			emblem = 0
+			color = 2
+			color = 0
+			color = 0
+		}
+	}
 }
 1000054534 = {
 	name = "Ju" #Zou
 	culture = han
+		coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 2
+			texture_internal = 34
+			emblem = 0
+			color = 3
+			color = 1
+			color = 0
+		}
+	}
 }
 1000054535 = {
 	name = "Yüeh" #Yu
 	culture = han
+		coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 2
+			texture_internal = 35
+			emblem = 0
+			color = 4
+			color = 0
+			color = 0
+		}
+	}
 }
 1000054536 = {
 	name = "Pêk" #Bai
 	culture = han
+		coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 2
+			texture_internal = 36
+			emblem = 0
+			color = 2
+			color = 1
+			color = 0
+		}
+	}
 }
 1000054537 = {
 	name = "Chui" #Shui
 	culture = han
+		coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 2
+			texture_internal = 37
+			emblem = 0
+			color = 3
+			color = 0
+			color = 0
+		}
+	}
 }
 1000054538 = {
 	name = "Tou" #Dou
 	culture = han
+		coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 2
+			texture_internal = 38
+			emblem = 0
+			color = 4
+			color = 1
+			color = 0
+		}
+	}
 }
 1000054539 = {
 	name = "Ching" #Zhang
 	culture = han
+		coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 2
+			texture_internal = 39
+			emblem = 0
+			color = 2
+			color = 0
+			color = 0
+		}
+	}
 }
 1000054540 = {
 	name = "Hun" #Yun
 	culture = han
+		coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 2
+			texture_internal = 40
+			emblem = 0
+			color = 3
+			color = 1
+			color = 0
+		}
+	}
 }
 1000054541 = {
 	name = "Suo" #Su
 	culture = han
+		coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 2
+			texture_internal = 41
+			emblem = 0
+			color = 4
+			color = 0
+			color = 0
+		}
+	}
 }
 1000054542 = {
 	name = "P'uan" #Pan
 	culture = han
+		coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 2
+			texture_internal = 42
+			emblem = 0
+			color = 2
+			color = 1
+			color = 0
+		}
+	}
 }
 1000054543 = {
 	name = "Kat" #Ge
 	culture = han
+		coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 2
+			texture_internal = 43
+			emblem = 0
+			color = 3
+			color = 0
+			color = 0
+		}
+	}
 }
 1000054544 = {
 	name = "Hei" #Xi
 	culture = han
+		coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 2
+			texture_internal = 44
+			emblem = 0
+			color = 4
+			color = 1
+			color = 0
+		}
+	}
 }
 1000054545 = {
 	name = "Pêm" #Fan
 	culture = han
+		coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 2
+			texture_internal = 45
+			emblem = 0
+			color = 2
+			color = 0
+			color = 0
+		}
+	}
 }
 1000054546 = {
 	name = "Pêng" #Peng
 	culture = han
+		coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 2
+			texture_internal = 46
+			emblem = 0
+			color = 3
+			color = 1
+			color = 0
+		}
+	}
 }
 1000054547 = {
 	name = "Lang" #Lang
 	culture = han
+		coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 2
+			texture_internal = 47
+			emblem = 0
+			color = 4
+			color = 0
+			color = 0
+		}
+	}
 }
 1000054548 = {
 	name = "Luo" #Lu
 	culture = han
+		coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 2
+			texture_internal = 48
+			emblem = 0
+			color = 2
+			color = 1
+			color = 0
+		}
+	}
 }
 1000054549 = {
 	name = "Hui" #Wei
 	culture = han
+		coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 2
+			texture_internal = 49
+			emblem = 0
+			color = 3
+			color = 0
+			color = 0
+		}
+	}
 }
