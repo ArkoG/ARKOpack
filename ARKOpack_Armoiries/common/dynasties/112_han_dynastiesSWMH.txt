@@ -37,6 +37,7 @@
 1000102426 = {
 	name="Tsien" #Qian
 	culture = han
+	religion="taoist"
 		coat_of_arms = {
 		template = 0
 		layer = {
