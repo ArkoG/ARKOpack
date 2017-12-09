@@ -296,5 +296,6 @@ Others (programmed from patterns)
 03-Marshal 			#ID 101709 	#coat_of_arms = {	template = 0	layer = {	texture = 15	texture_internal = 3	emblem = 0	color = 0	color = 0	color = 0	}	}
 04-de Mandeville	#ID    344 	#coat_of_arms = {	template = 0	layer = {	texture = 15	texture_internal = 4	emblem = 0	color = 0	color = 0	color = 0	}	}
 05-Bigod 			#ID    346	#coat_of_arms = {	template = 0	layer = {	texture = 15	texture_internal = 5	emblem = 0	color = 0	color = 0	color = 0	}	}
+06-Montfort		#ID1000036013	#coat_of_arms = {	template = 0	layer = {	texture = 15	texture_internal = 6	emblem = 0	color = 0	color = 0	color = 0	}	}
 
 
