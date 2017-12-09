@@ -1,3 +1,16 @@
+#coat_of_arms= {
+#		data= { 
+#			0 #composition/template 
+#			5 #index de texture/texture ID
+#			0 #élément en superposition/emblem
+#			13 #index interne à la texture/texture internal
+#			0 #couleur 1/colour 1
+#			0 #couleur 2/colour 2
+#			0 #couleur 3/colour 3
+#			}
+#		religion="catholic" #blason seulement actif pour cette religion, sinon random
+#	}
+
 1 = {
 	name="Gårdske"
 	culture = "swedish"
@@ -36054,4 +36067,19 @@ used_for_random = no
 	name="Annabaldi" #
 	culture ="italian"
 	coat_of_arms = {	template = 0	layer = {	texture = 5	texture_internal = 53	emblem = 0	color = 0	color = 0	color = 0	}	}
+}
+1000036013 = { 
+	name="Montfort"
+	culture = "frankish"
+	coat_of_arms = {
+		template = 0
+		layer = {	
+			texture = 15	
+			texture_internal = 6	
+			emblem = 0	
+			color = 0	
+			color = 0	
+			color = 0
+		}
+	}
 }
