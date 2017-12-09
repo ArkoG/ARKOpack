@@ -2173,7 +2173,7 @@ guiTypes = {
 			#spriteType = "GFX_shield_crown_strip_small"
 			spriteType = "GFX_shield_crown_strip_medium2"
 			#position = { x= 6 y = -12 }
-			position = { x= 10 y = -18 }
+			position = { x= 11 y = -18 }
 			Orientation = "UPPER_LEFT"
 		}
 		iconType ={
