@@ -173,7 +173,7 @@ culture =
 		texture = { #texture = 15
 			file = "gfx\\coats_of_arms\\ARKOback_in_the_UK_dynasties.tga" #texture = 15 Coa for England
 			size = { x = 10 y = 10 }
-			noOfFrames = 100
+			noOfFrames = 7
 			color = 0
 			emblem = no
 			random = no # Do not use for random CoAs
@@ -1564,14 +1564,14 @@ culture = {
 		texture = { #texture = 0
 			file = "gfx\\coats_of_arms\\pattern_china.tga"
 			size = { x = 10 y = 10 }
-			noOfFrames = 52
+			noOfFrames = 100
 			color = 3
 			emblem = no
 		}
 		texture = { #texture = 1
 			file = "gfx\\coats_of_arms\\Arkopack_china.tga"
 			size = { x = 10 y = 10 }
-			noOfFrames = 14
+			noOfFrames = 1
 			color = 2
 			emblem = no
 		}
