@@ -1,0 +1,437 @@
+MOD NAME : ARKOpack
+MOD/DATE/NAME VERSION : 2017-12-09 
+standalone version : 2017-12-09
+GAME VERSION COMPATIBILITY : none for COApack
+GAME VERSION COMPATIBILITY : none for GUIpack
+CURRENT DEV/BETA : v2.8.1 
+
+Please that to keep IRONMAN compatility for the GUIpack, you need to delete that file from the mod :
+\\\Documents\Paradox Interactive\Crusader Kings II\MOD\ARKOpack_Interface\history\characters\zz_ARKOpack_startup.txt
+
+see included readme's for details
+
+--2017-12-09 for CK2 2.8.1 changelog---
+
+ARMOIRIES :
+Major :
+-2.8.1 upgrade
+-specific sets of random CoA for Finnic pagans, Slavic pagans, Baltic pagan (so they won't used anymore Norse specific stuff)
+
+Minor :
+-some dynastic names improvments by ese-khan
+-updated some colours for random coats of arms
+-made army banners CoA-shaped for christian world
+-some new France flags (Valois, Orleans, Vexin, Paris and such, based on de France/Capetian lillies)
+-adds a new CoA frame for chinese stuff (taoist)
+-old flags cleanup
+-stole some CoA from SWMH and vice-versa
+-redrew some others CoA (Ireland, Aquitaine, Normandy, China...)
+-various addition for christian random coa (a few templates and emblems for now - more to come later on)
+-adds some CoA template for taoists
+-some few improved versions of coa templates for random CoA
+
+Fixes :
+-nothing specific here
+
+INTERFACE :
+Major :
+-2.8.1 upgrade
+-new event type available (you can see a preview here : https://forum.paradoxplaza.com/forum/index.php?threads/mod-arkopack-armoiries-interface.603251/page-81#post-23599428 )
+
+Minor :
+-some improvments and new stuff around in religion icons background in character sheet
+-on-map land tradeposts are les enORMOUS
+-fixed vanilla rally point icons being too shiny in an out of place way
+
+Fixes :
+-various graphical and positions tweaks
+-wrong favor icon used and fixing its positions
+-long events options are now displayed correctly
+-character modifiers zone size in character view
+-fixed vanilla uglyness and misalignements in realm view
+-indian military view oddities
+-claim coa frames dimensions were a bit off
+-off-map power window having a too short to display long chima empire names
+
+
+--2017-03-20 for CK2 2.7.1x changelog---
+
+ARMOIRIES :
+Major :
+-2.7.1 upgrade
+
+Minor :
+-muslim dynastic names improvments by Ese Khan
+-various dynastic names changes (occitan and frankish mostly)
+
+Fixes :
+-fixed baronial CoA for Cluny on vanilla map
+-various minor files errors
+-various dynastic fixes for Italian job by Aasmul
+-fixed d'Enghien dynastic CoA not being assigned at all
+
+INTERFACE :
+Major :
+-2.7.1 upgrade
+
+Minor :
+-various gfx // Improved crown focus icon
+-character view // increased a bit the space given to display the character modifier icons
+
+Fixes :
+-various minor file errors
+-character view // fixes relation tab for indian and muslim interface
+
+
+--2017-03-20 for CK2 2.7.0 changelog---
+
+ARMOIRIES :
+Major :
+-2.7.0 upgrade
+-customizer // adds a full set of customization for muslim under "Sayf al Islam" religion style
+-SWMH-only adds about 180  new dynastic CoA for italian dynasties (credits to Aasmul)
+-adds 160 new dynastic CoA for italian dynasties (credits to Aasmul)
+
+Minor :
+-re-adds some reworked vanilla 3 colours CoA designs for Zoroastrian group (not save compatible)
+-SWMH-only redrawn title CoA for duchy level Bar/Basel
+-SWMH-only redrawn title CoA for county level Bar/Basel/Zollern/Kuenring/Mousson/Montbéliard
+-customizer // the coats of arms from the COA DLC are now available in the customizer under "DLC" religion style
+
+Fixes :
+-none
+
+INTERFACE :
+Major :
+-2.7.0 upgrade
+-endgame_screen // new design
+-rules_view // new design displaying more rules at once
+-succession view // reworked design
+
+Minor :
+-optimization // deleted some unecessary file files -either not required anymore or pure optimization-
+-siege_tab // new design for muslim (reworked colour scheme) 
+-family_tree // added some embellishments
+-province_view // added unique design for muslims and pagans 
+-unitpanels // added some fluff
+-era_screen // various improvments
+-various gfx // reworked crown focus icon (colourfull instead of greyish)
+-various gfx // reworked garrison/levy bar background, adjusted its position where needed
+-various gfx // reworked tech progression bar graphics (uncomplete boxes have a faded colour that brightens on progression)
+-various gfx // in intrigue view made purple banner less ugly
+-various gfx // fixed society topbar icon in main view being too bright
+-various gfx // adjusted attributes colours in council view
+-tweaks // various sneaky one pixel position adjusting here and there ;)
+
+Fixes :
+-besieging army tab // fixed its position (stuck to left border now)
+-province_view //some religion dependant interface files were not displayed correctly
+-outliner // added proper wooden borders for pagans
+-build_building view // fixed a transparency issue
+
+
+--2016-12-31 changelog--- 
+
+ARMOIRIES :
+-re-adds some reworked vanilla 2 colours CoA designs for Zoroastrian group (save compatible)
+-redrawn CoA for dynasty "de Scarpone"
+-added dynastic CoA for "de Montfaucon" "Etichonen"
+-added title CoA for county level Bar/Briesgau/Wurttemberg/Baden/Ostereich
+-redrawn title CoA for duchy level Baden/Ostereich
+-added baronial CoAs for Montbéliard/Ferrette/Pont-à-Mousson
+
+INTERFACE :
+-charview // adds a larger glowing area around realm_tree ring icon
+-outliner // fixed wrong position for income values
+-outliner // various position tweaks
+-unitpanel // adjusted its position to resolve the window clash that could happen with province view
+-chronicle // tweaked illustrations positions
+-frontend // removed DLC alert frame
+-customizer // changed CoA designer backgrounds (muslim+christian)
+-outliner // fixed outliner not displaying modded files for non christians
+-outliner // fixed config tab size for non christians
+-outliner // made muslim coloured borders
+-outliner // made indian coloured borders
+-customizer // adjusted CoA frame position
+-outliner // removed some unused files
+-charview // tweaks on christian and pagan versions
+
+
+--2016-11-17 changelog--- 
+
+ARMOIRIES :
+-"Customizer" fake religion is now renamed "Heraldrism"
+
+INTERFACE :
+-charview // some new favour designs (main character and vassal list)
+-build building view // reworked the active/inactive building graphics
+-build building view // holy sites religion icons are now bigger
+-build building view // toned down a bit the colour intensity of can't build icon
+-build building view // adjusted scrolling bar
+-province view // 2.6 compatching
+-province view // made modifiers' area slightly taller
+-province view // now can display an even longer province name (approx. +5 letters)
+-build building view // changed fort holding design (christianity+default)
+-lobby // fixed RiP DLC icon position
+-outliner // fixed configuration close button position
+-localisation // fixed the mod localization not being loaded correctly
+-outliner // fixed yellow text for gold value - now black
+-outliner // tweaked around icons and values positions
+-3D mapindicators // added sparkles to siege smoke gfx
+-3D models // changed models used for western settlements (square dungeon, roman bigger church and bigger city hall)
+-3D models // changed size of models used for western settlements
+-3D models // changed models used for muslim castle settlements (level 2 fortress)
+-GFX/interface // improved chronicle book graphics
+-GFX/interface // changed trade route and province strait icons
+-customize dynasty view // fixes some wrong text positions
+-province_view // fixed the invisible land_trade_post issue
+-province view // added an overhauled design for fort settlement
+
+--2016-10-10 changelog--
+
+ARMOIRIES :
+-a lot more choice for CoA design for the "customizer" religion
+
+INTERFACE :
+-2.6.1 compatibility
+-outliner improvments
+-temporary removal of province view
+-some new empty settlements graphics where vanilla lacks some (turkish, indian, southindian)
+-new desert city holding design
+
+--2016-08-31 changelog--
+
+ARMOIRIES :
+-2.6.2 compatch
+-CoA for c_holland & d_holland
+
+INTERFACE :
+-XXX
+
+--2016-04-17 changelog--
+
+ARMOIRIES :
+-fixed Bagratuni&co CoA attribution
+-tweaked some west african patterns
+-tweaked some colours (again)
+
+INTERFACE :
+-fixed a gfx glitich on build building view
+-chronicle image frame tweak
+-fixed the dimension of vanilla event picture triumph_arch
+
+--2016-03-03 changelog--
+
+ARMOIRIES :
+-adds some CoA stuff for zoroastrians
+-adds 70 new tamgas CoA for tengri
+-reworked existing tengri's CoA
+-10 new dynastic CoA (Percy, de Vere, Mowbray, Marshal, de Mandeville, Bigod, de Brienne -baron-, de Brienne, de Guines, de Coucy)
+-saxonified saxon dynastic names (thanks to Woodyman)
+-fully updated to 2.5.x
+-tweaked some colours
+
+INTERFACE :
+-improved minor titles view
+-improved voting laws interface
+-in councillors job view, the coloured header are know linked to the job's main skill (so one can add new councillors and having them using different colours on scrolling) 
+-councillors job view old recolouring redone
+-fixed various misalignements (texts end various elements)
+-joining a voters' group has a new design (a golden "+")
+-civic laws title is no longer cut when displayed in French
+-various laws tabs now use their religion-group colour instead of a different colour by tab
+-councillor's position accounting is redesigned (number of voters in each group) and uses the big version of the position icon
+-enforce peace button is eluded to be replaced by some laurels
+-councillor's position icons has their external ring brighter
+-realm law tab now displays 5 laws at once instead of 4
+-realm law entry has a golden border for more visibility
+-extended previous to regular focuses to the new ones
+-updated localization files naming
+-updated to 2.5.x
+
+--2015-12-10 changelog--
+ARMOIRIES :
+-tweak to khitan dynasties names by ese_khan
+-dynastic CoA de Aragon, Bagratuni
+-new CoA for Aragon & Barcelona (all tiers)
+
+INTERFACE :
+-fixed a few more files for MAc/Linux users
+-on-map siege smoke is now slightly inflamed
+-fixed SI DLC icon position
+
+
+--2015-08-20 changelog--
+ARMOIRIES :
+-various tweaks
+
+INTERFACE :
+-rearranged trade post/fort view (again)
+-adjusted realm tree button for a better clickability
+-added shortcut ENTER to validate choosen focus
+-added buildview shortcuts (< and > to navigate through holdings)
+
+
+--2015-08-15 changelog--
+ARMOIRIES :
+-added some barional CoA
+-updated khitan dynasties names, credits to Ese_khan
+-real muslim names for muslim dynasties, credits to Elvain
+-new CoA for Asturias, kingdom and duchy
+-some new dynastic CoA for scandinavian dynasties, credits to Aasmul
+-tengri coA
+-fixed "everything's blue bug" for Mac and Linux users
+-new CoA for c_Pavia
+-new dynastic flag for Alachisling
+-update to 2.4.x
+-added a serie of new emblem for the CoA customizer
+-neutralized 3 dynasties that were duplicates ID
+-fixed an error in Bagrationi CoA
+-fixed .mod for Linux
+
+INTERFACE :
+-new combined government type + realm tree button icon
+-updated focus view for muslims
+-new fort&TP view
+-now build new settlement view has got a handle to move it easier throughout your screen
+-update to 2.4.x
+-on map 3D model city spread isn't out of control anymore
+-(french only) the starting of the chronicle is now customized (catholics, muslims, republics)
+-chronicle picture are now a bit bigger
+-changed call tribe vassal icon
+-fixed the startup chronicle event to display either christian or muslim or republic illustration
+-new event_picture for "crusading knights cross"
+-new pick era button pictures for "Dark ages", "vikings" and 1066's starts
+-new select character panels (solo, mp, republics)*
+-recoloured muslim republic panel
+-enhanced letter event competence frames
+-new texture for event option buttons
+-reworked normal,long & narrative event window
+-reworked event competence frames (long event, normal event)
+-fixed the barber button position (hotfix 2015 february 22th)
+-new scenario description tab
+-reintroduced old vanilla CoA background in the Ruler designer
+-fixed an issue with MP lobby and content windows tabs  (hotfix 2015 february 22th)
+-fixed .mod for Linux
+
+
+--2015-02-07 changelog--
+ARMOIRIES :
+-added Mamikonian dynastic CoA
+-new flags for Venice, all tier
+
+INTERFACE :
+-new character sheet
+-new chronicle icon
+-new nudge mod icon
+-new chronicle view
+-chronicle shortcut (< and > to navigate)
+-bigger focus icons on character view
+-new event picture "battle scene"
+-history view tweaked a bit
+-fixed imperial crown previously being beheaded
+-new event picture "garden"
+-tweaked siege_view background
+-wikipedia link button is back
+
+--2014-12-6 changelog--
+ARMOIRIES :
+-update to 2.2.1
+-beta "customizer" fake religion to add customizer's new possibilities
+-tweaked a bit colours and rebel colours.
+
+INTERFACE :
+-update to 2.2.1
+-fixed central bottom event log glitching with province view
+
+--2014-10-18 changelog--
+ARMOIRIES :
+-update to 2.2.0
+-assigned same dynastic CoA to both Courtenay houses
+-new dynastic CoA for Bragationi ; Villehardouin ; Nasrids ; de Boulogne
+-removed change coa decision for England
+
+INTERFACE :
+-update to 2.2.0
+-fixed white border on default character view
+
+--2014-08-03 changelog--
+ARMOIRIES :
+-decisions to change CoA for England (norman vs saxon)
+-Reworked some muslim random CoA (new + remix)
+-some few random CoA
+
+INTERFACE :
+-character view now can display a larger dynasty name (+44pixels)
+-new icon for "ask for duchy decision"
+-tweaked law screen to display one additional succ law without scrolling
+-moved the occupation CoA also for capital holding 
+-re-added sounds for court view and dynastic tree view that were removed in vanilla
+-save tab now can display a slightly larger savegame name (+12 pixels)
+-buildview now can display a slightly larger building name (+10 pixels)
+-removed L3T modifiers icons
+
+--2014-07-12 changelog--
+ARMOIRIES :
+-fix for non christian to use the correct coa frame when using a dynastic coa defined in the mod or dlc.
+
+INTERFACE :
+-new building view
+-new build new holding tab
+-enhancement of province view (slighly smaller, moved the occupation coa)
+
+Old save games compatible.
+
+--2014-06-30 changelog--
+ARMOIRIES :
+features
+-some new dynastic CoA (5)
+-some title CoA (4)
+tweaks
+-a few dynastic name changes (4)
+-no more landed titles file included for now
+
+INTERFACE :
+features
+-new province view
+-new tradepost view
+-new siege view
+-one new font
+-many tweaked or redrawn gfx
+tweaks
+-tweaked character selection view
+fixes
+-character tab : misplaced modifier icon
+-character tab : overlapping text in activity field
+-outliner : fixed slidebar problem
+modders
+-"nudge" button moved
+-changed some shortcut in nudge mod
+
+
+--2014-04-30 changelog--
+ARMOIRIES :
+-re-encoded flags into 24bits to prevent Mac crash
+-new flags (c_bourbon, d_bourbon)
+-new dynastic CoA for German & Dutch by Aasmul (235 CoA + some culture and name changes)
+-some patrician CoA recoloured/reworked/redone (10)
+-new dynastic CoA by Arko (35+)
+
+--2014-03-25 changelog--
+-update to patch 2.1.x
+
+--2014-02-05 changelog--
+ARMOIRIES :
+-new C Lorraine flag
+-new D Lorraine flag
+-change names for various dynasties, Karling is back however.
+
+INTERFACE :
+-new placement for plot and ambition icons
+-new placement for marry icon
+-new cancel ambition red cross
+-extended text field for : ruler name, culture name, religion name, activity&location
+-Frostschaden's wonderfull "Illumination" mod is now integrated (event pictures only ATM for size sake)
+-new event picture for "falconery"
+
+
