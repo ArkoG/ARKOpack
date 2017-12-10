@@ -791,7 +791,7 @@ guiTypes = {
 			name = "entry_text"
 			position = { x = 63 y = 2 }
 			textureFile = ""
-			font = "Arial12_black"
+			font = "Arial12_black_bidouille"
 			borderSize = {x = 0 y = 0}
 			text = ""	
 			maxWidth = 240
