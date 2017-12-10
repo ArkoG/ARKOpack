@@ -41,6 +41,7 @@ Major :
 Minor :
 -some improvments and new stuff around in religion icons background in character sheet
 -on-map land tradeposts are les enORMOUS
+-fixed vanilla rally point icons being too shiny in an out of place way
 
 Fixes :
 -various graphical and positions tweaks
