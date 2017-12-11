@@ -408,7 +408,7 @@ name="de Sarno"
 }
 1000035499 = {
 name="da Procida"
- culture = langobardish
+ culture = langobardisch
    	coat_of_arms = {
 		template = 0
 		layer = {
