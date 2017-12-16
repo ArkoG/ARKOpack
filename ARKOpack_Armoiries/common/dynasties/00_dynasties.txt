@@ -27899,14 +27899,14 @@ used_for_random = no
 1043005 = {
 	name="Habbarí"
 	culture = "persian"
-	coat_of_arms=
-	{
-		data=
-		{
-			0 0 0 22 0 2 2
-		}
-		religion=sunni
-	}
+#	coat_of_arms=
+#	{
+#		data=
+#		{
+#			0 0 0 22 0 2 2
+#		}
+#		religion=sunni
+#	}
 }
 1043006 = {
 	name="Shahi"
