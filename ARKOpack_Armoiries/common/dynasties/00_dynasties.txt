@@ -31103,8 +31103,14 @@ used_for_random = no
 	culture ="hungarian"
 }
 1042110 = {
-	name="Zunbil" 
+	name="Rutbil" 
 	culture = afghan
+	{
+		data=
+		{
+0 0 0 2 3 9 5 			}
+		religion="buddhist"
+	}
 }
 
 1042156 = {
