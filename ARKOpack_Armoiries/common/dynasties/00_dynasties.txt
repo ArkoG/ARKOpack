@@ -27915,7 +27915,7 @@ used_for_random = no
 	{
 		data=
 		{
-			0 0 0 13 0 5 5
+			0 0 0 12 0 5 5
 		}
 		religion=buddhist
 	}
