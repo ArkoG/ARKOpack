@@ -202,7 +202,7 @@ culture =
 		texture = { #texture = 18
 			file = "gfx\\coats_of_arms\\ARKOpack_victimes_de_la_croix.tga"
 			size = { x = 10 y = 10 }
-			noOfFrames = 30
+			noOfFrames = 36
 			emblem = no
 			color = 2
 		}
