@@ -5,7 +5,7 @@ guiTypes = {
 		backGround ="background_fv"
 		position = { x=571 y=51 }
 		size = { x=300 y=300 }
-		moveable = 1
+		moveable = 0
 		dontRender = ""
 		horizontalBorder = "0"
 		verticalBorder = ""
