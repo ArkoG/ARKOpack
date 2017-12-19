@@ -23391,7 +23391,7 @@ used_for_random = no
 	culture = bedouin_arabic
 }
 101864 = {
-	name="Qarakhanilar"
+	name="Kháqání"
 	culture = karluk
 }
 101865 = {
@@ -35212,7 +35212,7 @@ used_for_random = no
 	religion="shiite"
 }
 1051213 = {
-	name="Banu Naja?"
+	name="Banu Najah"
 	culture="ethiopian"
 	religion="shiite"
 }
@@ -35222,7 +35222,7 @@ used_for_random = no
 	religion="shiite"
 }
 1051215 = {
-	name="Bannu Man"
+	name="Banu Ma'n"
 	culture="bedouin_arabic"
 	religion="sunni"
 }
