@@ -199,13 +199,13 @@ culture =
 			emblem = no
 			random = no # Do not use for random CoAs
 		}	
-		texture = { #texture = 18
-			file = "gfx\\coats_of_arms\\ARKOpack_victimes_de_la_croix.tga"
-			size = { x = 10 y = 10 }
-			noOfFrames = 36
-			emblem = no
-			color = 2
-		}
+#		texture = { #texture = 18
+#			file = "gfx\\coats_of_arms\\ARKOpack_victimes_de_la_croix.tga"
+#			size = { x = 10 y = 10 }
+#			noOfFrames = 36
+#			emblem = no
+#			color = 2
+#		}
 		# WHEN ADDING NEW, ALWAYS ADD AT THE END !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!11111
 	}
 }
