@@ -4223,13 +4223,13 @@
 	culture = "frankish"
 }
 723 = {
-	name="d'Anjou"
+	name="d'Anjou" #pre-plantagenet but with early plantagenet arms
 	culture = "norman"
 	coat_of_arms = {
 		template = 0
 		layer = {
-			texture = 3 #DLC N°1
-			texture_internal = 1
+			texture = 5
+			texture_internal = 138
 			emblem = 0
 			color = 0
 			color = 0
@@ -31434,7 +31434,10 @@ used_for_random = no
 	culture ="german"
 }
 9306 = {
-	name="Bouvinid" #Nithard-Richard from Middle Rhine
+	#name="Bouvinid" #Nithard-Richard from Middle Rhine
+	name="de Vienne" #"Bivinides" #Nithard-Richard from Middle Rhine #branche des bosonides issus de Bivin de Vienne
+	coat_of_arms = {	template = 0	layer = {	texture = 5	texture_internal = 117	emblem = 0	color = 0	color = 0	color = 0	}	}
+	used_for_random = no
 	culture = old_frankish
 }
 9307 = {
