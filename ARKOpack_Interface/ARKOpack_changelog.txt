@@ -1,21 +1,19 @@
 MOD NAME : ARKOpack
-MOD/DATE/NAME VERSION : 2017-12-09 
-standalone version : 2017-12-09
-GAME VERSION COMPATIBILITY : none for COApack
-GAME VERSION COMPATIBILITY : none for GUIpack
+MOD/DATE/NAME VERSION : 2017-12-19 
+standalone version : 2017-12-19
+GAME VERSION COMPATIBILITY : 2.8.x for COApack
+GAME VERSION COMPATIBILITY : 2.8.x for GUIpack
 CURRENT DEV/BETA : v2.8.1 
-
-Please that to keep IRONMAN compatility for the GUIpack, you need to delete that file from the mod :
-\\\Documents\Paradox Interactive\Crusader Kings II\MOD\ARKOpack_Interface\history\characters\zz_ARKOpack_startup.txt
 
 see included readme's for details
 
---2017-12-09 for CK2 2.8.1 changelog---
+--2017-12-19 for CK2 2.8.1 changelog--- 
 
 ARMOIRIES :
 Major :
 -2.8.1 upgrade
 -specific sets of random CoA for Finnic pagans, Slavic pagans, Baltic pagan (so they won't used anymore Norse specific stuff)
+-the set of emblems that were only available for customization fake religions ("CRUSADER KINGS" - "SAIF AL ISLAM") are now available as custom options in their regular religion sets. 
 
 Minor :
 -some dynastic names improvments by ese-khan
@@ -29,6 +27,14 @@ Minor :
 -various addition for christian random coa (a few templates and emblems for now - more to come later on)
 -adds some CoA template for taoists
 -some few improved versions of coa templates for random CoA
+-various dynastic names improvments
+-new "d'Anjou" dynastic CoA (early Plantagenêt arms)
+-new flags for Anjou (county and duchy tiers)
+-new flags for Jerusalem (All tiers)
+-new flags for Susa and Savoie duchies
+-vanilla flags properly centered/coloured for Amalfi, Salerno (county and duchy tiers)
+-new flags (or properly centered/coloured vanilla ones) for Anjou (county and duchy tiers)
+-cleaner christian CoA frame (biggest size only ATM)
 
 Fixes :
 -nothing specific here
@@ -42,6 +48,11 @@ Minor :
 -some improvments and new stuff around in religion icons background in character sheet
 -on-map land tradeposts are les enORMOUS
 -fixed vanilla rally point icons being too shiny in an out of place way
+-made the Wiki icon into a sidepanel button
+-slightly reduced the height of treasury view
+-improved Jade Dragon DLC icon colours in lobby screen
+-title history and focus windows made unfloatable
+-re-introduced an old loading screen removed with 1.05 patch
 
 Fixes :
 -various graphical and positions tweaks
@@ -51,7 +62,9 @@ Fixes :
 -fixed vanilla uglyness and misalignements in realm view
 -indian military view oddities
 -claim coa frames dimensions were a bit off
--off-map power window having a too short to display long chima empire names
+-off-map power window having a too short space to display long chima empire names
+-wiki icon being semi-hidden in some cases
+-title history pop position
 
 
 --2017-03-20 for CK2 2.7.1x changelog---
