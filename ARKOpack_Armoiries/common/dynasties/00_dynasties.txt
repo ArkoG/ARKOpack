@@ -20495,7 +20495,7 @@ used_for_random = no
 	culture ="greek"
 }
 101145 = {
-	name="Trachaneiotes"
+	name="Tarchaneiotes"
 	culture ="greek"
 }
 101146 = {
