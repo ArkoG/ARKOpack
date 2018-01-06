@@ -24665,7 +24665,7 @@ used_for_random = no
 	culture ="maghreb_arabic"
 }
 1027003 = {
-	name="Miknás"
+	name="Miknása"
 	culture = "maghreb_arabic"
 }
 1027004 = {
@@ -27361,7 +27361,7 @@ used_for_random = no
 }
 
 9575 = {
-	name="al-Salihí"
+	name="al-Sálihí"
 	culture ="maghreb_arabic"
 }
 
