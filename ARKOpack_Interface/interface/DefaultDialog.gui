@@ -1033,7 +1033,7 @@ guiTypes = {
 		iconType = {
 			name ="chronicle_picture"
 			spriteType = "GFX_evt_throne_room"
-			position = { x= 72 y = 14 }
+			position = { x= 72 y = 13 }
 			Orientation = "UPPER_LEFT"
 			scale = 0.70
 		}	
@@ -1501,7 +1501,7 @@ guiTypes = {
 			name = "eula_line_text"
 			position = { x = 0 y = 0 }
 			textureFile = ""
-			font = "Arial12_black"
+			font = "Arial12_black_no_special"
 			borderSize = {x = 0 y = 0 }
 			text = ""	
 			maxWidth = 410

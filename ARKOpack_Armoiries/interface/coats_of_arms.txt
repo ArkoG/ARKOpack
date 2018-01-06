@@ -11,22 +11,22 @@ culture =
 	}
 
 	color = {
-		{ 250 190 0 }	#0 		Or (ex 250 148 0)
-		{ 220 220 220 } #1  	Argent
+		{ 250 190 0 }	#0 		Or
+		{ 230 230 230 } #1  	Argent
 		{ 0 90 150 } 	#2  	Azur
 		{ 170 0 10 } 	#3  	Gueules 
 		{ 20 110 20 } 	#4  	Sinople
 		{ 20 20 20 }	#5  	Sable
-		{ 120 5 120 }	#6  	Pourpre
+		{ 100 0 100 }	#6  	Pourpre ex { 120 5 120 }
 		#{ 200 80 0 }	#ex7	Tanné		
 		{ 250 190 0 }	#7		Or
-		{ 210 210 210 } #8  	Argent
-		{ 0 90 150 } 	#9  	Azur
-		{ 170 0 10 } 	#10  	Gueules 
+		{ 230 230 230 } #8  	Argent
+		{ 0 90 150 } 	#9	 	Azur
+		{ 170 0 10 } 	#10  	Gueules  
 		#{ 20 20 20 }	#11  	Sable
 }
 
-	rebel_colors = { 1 3 5 }
+	rebel_colors = { 1 10 5 }
 
 	banned_colors = 
 	{ 
@@ -45,9 +45,13 @@ culture =
 		#{ 5 11 }			#11			
 	}
 	
+#	emblem = {
+#		file = "gfx\\coats_of_arms\\Arko_emblem.tga"
+#		noOfFrames = 10
+#	}
 	emblem = {
-		file = "gfx\\coats_of_arms\\Arko_emblem.tga"
-		noOfFrames = 10
+		file = "gfx\\coats_of_arms\\Arko_emblem_cust.tga"
+		noOfFrames = 48
 	}
 
 	# WHEN ADDING NEW, ALWAYS ADD AT THE END !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!11111
@@ -55,7 +59,7 @@ culture =
 		texture = { #texture = 0
 			file = "gfx\\coats_of_arms\\ARKOpack_Pattern_3C.tga"
 			size = { x = 10 y = 4 } #x=nombre d'images sur une ligne // y=nombre d'image dans une colonne
-			noOfFrames = 35
+			noOfFrames = 40
 			emblem = no
 			color = 3 
 		}
@@ -68,8 +72,9 @@ culture =
 		}
 		texture = { #texture = 2 avec charge.
 			file = "gfx\\coats_of_arms\\ARKOpack_Pattern_2C_light.tga"
-			size = { x = 7 y = 2 }
-			noOfFrames = 14
+			size = { x = 10 y = 10 }
+			noOfFrames = 99
+			emblem = no
 			#emblem = yes
 			color = 2
 		}
@@ -153,7 +158,7 @@ culture =
 			emblem = no
 			random = no # Do not use for random CoAs
 		}
-		texture = {
+		texture = { #texture = 13
 			file = "gfx\\coats_of_arms\\dynasties3.tga" #texture = 13 DLC3
 			size = { x = 16 y = 4 }
 			noOfFrames = 51
@@ -161,7 +166,7 @@ culture =
 			emblem = no
 			random = no # Do not use for random CoAs
 		}
-		texture = {
+		texture = { #texture = 14
 			file = "gfx\\coats_of_arms\\ze_germans_vanilla_dynasties.tga" #texture = 14 Coa for german swmh families by Aasmul
 			size = { x = 5 y = 47 }
 			noOfFrames = 235
@@ -169,16 +174,16 @@ culture =
 			emblem = no
 			random = no # Do not use for random CoAs
 		}
-		texture = {
+		texture = { #texture = 15
 			file = "gfx\\coats_of_arms\\ARKOback_in_the_UK_dynasties.tga" #texture = 15 Coa for England
 			size = { x = 10 y = 10 }
-			noOfFrames = 100
+			noOfFrames = 7
 			color = 0
 			emblem = no
 			random = no # Do not use for random CoAs
 		}
 		
-		texture = {
+		texture = { #texture = 16
 			file = "gfx\\coats_of_arms\\the_italian_job_vanilla_dynasties.tga" #texture = 16 Italian job
 			size = { x = 5 y = 33 }
 			noOfFrames = 165
@@ -186,7 +191,7 @@ culture =
 			emblem = no
 			random = no # Do not use for random CoAs
 		}		
-		texture = {
+		texture = { #texture = 17
 			file = "gfx\\coats_of_arms\\the_italian_job_swmh_dynasties.tga" #texture = 17 Italian job
 			size = { x = 5 y = 37 }
 			noOfFrames = 185
@@ -194,6 +199,13 @@ culture =
 			emblem = no
 			random = no # Do not use for random CoAs
 		}	
+#		texture = { #texture = 18
+#			file = "gfx\\coats_of_arms\\ARKOpack_victimes_de_la_croix.tga"
+#			size = { x = 10 y = 10 }
+#			noOfFrames = 36
+#			emblem = no
+#			color = 2
+#		}
 		# WHEN ADDING NEW, ALWAYS ADD AT THE END !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!11111
 	}
 }
@@ -245,9 +257,13 @@ culture =
 		{ 0 6 12 }					#12
 	}
 
+	#emblem = {
+	#	file = "gfx\\coats_of_arms\\emblem_muslim.dds"
+	#	noOfFrames = 1
+	#}
 	emblem = {
-		file = "gfx\\coats_of_arms\\emblem_muslim.dds"
-		noOfFrames = 1
+		file = "gfx\\coats_of_arms\\Arko_emblem_cust_MUSLIM.dds"
+		noOfFrames = 16
 	}
 
 	# WHEN ADDING NEW, ALWAYS ADD AT THE END
@@ -269,15 +285,270 @@ culture =
 		}
 	}
 }
-
 culture = 
 { #païens non réformés
-	religion = {
+	religion = { #ALL BUT B/N/F/B
 		"pagan"
-		"norse_pagan"
-		"baltic_pagan"
-		"finnish_pagan"
 		"aztec"
+	}
+	
+	templates = { 
+		"coa_plain_pagan:1"
+	}
+	
+	color = {
+		{ 250 190 0 }	#0 		Or
+		{ 220 220 220 } #1  	Argent
+		{ 0 80 170 } 	#2  	Bleu du nord
+		{ 150 0 30 } 	#3  	De sang 
+		{ 70 120 40 }	#4  	Vert
+		{ 20 20 20 }	#5  	Sable
+		{ 120 5 120 }	#6  	Pourpre
+	}
+	
+	rebel_colors = { 1 2 5 }
+	
+	banned_colors = 
+	{ 
+		{ 0 1 }			#0		
+		{ 1 0 }			#1		
+		{ 2 3 4 6 }		#2		
+		{ 2 3 4 6 }		#3		
+		{ 2 3 4 }		#4		
+		{ 5 }			#5		
+		{ 2 3 6 }		#6		
+	}
+
+	emblem = {
+		file = "gfx\\coats_of_arms\\emblem_muslim.dds"
+		noOfFrames = 1
+	}
+
+	# WHEN ADDING NEW, ALWAYS ADD AT THE END
+	textures = {
+		texture = {
+			file = "gfx\\coats_of_arms\\Arkopack_BNF.tga"
+			size = { x = 10 y = 2 }
+			noOfFrames = 20
+			color = 3
+			emblem = no
+		}
+		texture = {
+			file = "gfx\\coats_of_arms\\Arkopack_BNF.tga"
+			size = { x = 10 y = 2 }
+			noOfFrames = 20
+			color = 3
+			emblem = no
+		}
+		texture = {
+		# Jylland, Kiev, Livonia, Meath, Novgorod, Orkney, Ostlandet, Sjaelland, The Isles, Trondelag, Uppland, Vastergotland, York
+			file = "gfx\\coats_of_arms\\pagans.tga"
+			size = { x = 13 y = 1 }
+			noOfFrames = 13
+			color = 0
+			random = no # Do not use for random CoAs
+		}
+	}
+}
+culture = 
+{ 
+	#païens non réformés #BALTIC
+	religion = {
+		"baltic_pagan"
+	}
+	
+	templates = { 
+		"coa_plain_pagan:1"
+	}
+	
+	color = {
+		{ 250 190 0 }	#0 		Or
+		{ 220 220 220 } #1  	Argent
+		{ 0 80 170 } 	#2  	Bleu du nord
+		{ 150 0 30 } 	#3  	De sang 
+		{ 70 120 40 }	#4  	Vert
+		{ 20 20 20 }	#5  	Sable
+		{ 120 5 120 }	#6  	Pourpre
+	}
+	
+	rebel_colors = { 1 2 5 }
+	
+	banned_colors = 
+	{ 
+		{ 0 1 }			#0		
+		{ 1 0 }			#1		
+		{ 2 3 4 6 }		#2		
+		{ 2 3 4 6 }		#3		
+		{ 2 3 4 }		#4		
+		{ 5 }			#5		
+		{ 2 3 6 }		#6		
+	}
+
+	emblem = {
+		file = "gfx\\coats_of_arms\\emblem_muslim.dds"
+		noOfFrames = 1
+	}
+
+	# WHEN ADDING NEW, ALWAYS ADD AT THE END
+	textures = {
+		texture = {
+			file = "gfx\\coats_of_arms\\Arkopack_baltic.tga"
+			size = { x = 10 y = 4 }
+			noOfFrames = 40
+			color = 3
+			emblem = no
+		}
+		texture = {
+			file = "gfx\\coats_of_arms\\Arkopack_BNF.tga"
+			size = { x = 10 y = 2 }
+			noOfFrames = 20
+			color = 3
+			emblem = no
+		}
+		texture = {
+		# Jylland, Kiev, Livonia, Meath, Novgorod, Orkney, Ostlandet, Sjaelland, The Isles, Trondelag, Uppland, Vastergotland, York
+			file = "gfx\\coats_of_arms\\pagans.tga"
+			size = { x = 13 y = 1 }
+			noOfFrames = 13
+			color = 0
+			random = no # Do not use for random CoAs
+		}
+	}
+}
+culture = 
+{ 
+	#païens non réformés #NORSE
+	religion = {
+		"norse_pagan"
+	}
+	
+	templates = { 
+		"coa_plain_pagan:1"
+	}
+	
+	color = {
+		{ 250 190 0 }	#0 		Or
+		{ 220 220 220 } #1  	Argent
+		{ 0 80 170 } 	#2  	Bleu du nord
+		{ 150 0 30 } 	#3  	De sang 
+		{ 70 120 40 }	#4  	Vert
+		{ 20 20 20 }	#5  	Sable
+		{ 120 5 120 }	#6  	Pourpre
+	}
+	
+	rebel_colors = { 1 2 5 }
+	
+	banned_colors = 
+	{ 
+		{ 0 1 }			#0		
+		{ 1 0 }			#1		
+		{ 2 3 4 6 }		#2		
+		{ 2 3 4 6 }		#3		
+		{ 2 3 4 }		#4		
+		{ 5 }			#5		
+		{ 2 3 6 }		#6		
+	}
+
+	emblem = {
+		file = "gfx\\coats_of_arms\\emblem_muslim.dds"
+		noOfFrames = 1
+	}
+
+	# WHEN ADDING NEW, ALWAYS ADD AT THE END
+	textures = {
+		texture = {
+			file = "gfx\\coats_of_arms\\Arkopack_norrois.tga"
+			size = { x = 10 y = 4 }
+			noOfFrames = 40
+			emblem = no
+			color = 3
+		}
+		texture = {
+			file = "gfx\\coats_of_arms\\Arkopack_BNF.tga"
+			size = { x = 10 y = 2 }
+			noOfFrames = 20
+			color = 3
+			emblem = no
+		}
+		texture = {
+		# Jylland, Kiev, Livonia, Meath, Novgorod, Orkney, Ostlandet, Sjaelland, The Isles, Trondelag, Uppland, Vastergotland, York
+			file = "gfx\\coats_of_arms\\pagans.tga"
+			size = { x = 13 y = 1 }
+			noOfFrames = 13
+			color = 0
+			random = no # Do not use for random CoAs
+		}
+	}
+}
+culture = 
+{ 
+	#païens non réformés#FINNIC
+	religion = { 
+		"finnish_pagan"
+	}
+	
+	templates = { 
+		"coa_plain_pagan:1"
+	}
+	
+	color = {
+		{ 250 190 0 }	#0 		Or
+		{ 220 220 220 } #1  	Argent
+		{ 0 80 170 } 	#2  	Bleu du nord
+		{ 150 0 30 } 	#3  	De sang 
+		{ 70 120 40 }	#4  	Vert
+		{ 20 20 20 }	#5  	Sable
+		{ 120 5 120 }	#6  	Pourpre
+	}
+	
+	rebel_colors = { 1 2 5 }
+	
+	banned_colors = 
+	{ 
+		{ 0 1 }			#0		
+		{ 1 0 }			#1		
+		{ 2 3 4 6 }		#2		
+		{ 2 3 4 6 }		#3		
+		{ 2 3 4 }		#4		
+		{ 5 }			#5		
+		{ 2 3 6 }		#6		
+	}
+
+	emblem = {
+		file = "gfx\\coats_of_arms\\emblem_muslim.dds"
+		noOfFrames = 1
+	}
+
+	# WHEN ADDING NEW, ALWAYS ADD AT THE END
+	textures = {
+		texture = {
+			file = "gfx\\coats_of_arms\\Arkopack_finnic.tga"
+			size = { x = 10 y = 4 }
+			noOfFrames = 40
+			emblem = no
+			color = 3
+		}
+		texture = {
+			file = "gfx\\coats_of_arms\\Arkopack_BNF.tga"
+			size = { x = 10 y = 2 }
+			noOfFrames = 20
+			color = 3
+			emblem = no
+		}
+		texture = {
+		# Jylland, Kiev, Livonia, Meath, Novgorod, Orkney, Ostlandet, Sjaelland, The Isles, Trondelag, Uppland, Vastergotland, York
+			file = "gfx\\coats_of_arms\\pagans.tga"
+			size = { x = 13 y = 1 }
+			noOfFrames = 13
+			color = 0
+			random = no # Do not use for random CoAs
+		}
+	}
+}
+culture = 
+{ 
+	#païens non réformés #SLAVIC
+	religion = {
 		"slavic_pagan"
 	}
 	
@@ -316,19 +587,18 @@ culture =
 	# WHEN ADDING NEW, ALWAYS ADD AT THE END
 	textures = {
 		texture = {
-			file = "gfx\\coats_of_arms\\Norrois_ARKOpack.tga"
-			size = { x = 10 y = 6 }
-			noOfFrames = 60
+			file = "gfx\\coats_of_arms\\Arkopack_slavic.tga"
+			size = { x = 10 y = 4 }
+			noOfFrames = 40
 			emblem = no
 			color = 3
 		}
 		texture = {
-			file = "gfx\\coats_of_arms\\pattern2_norse.tga"
+			file = "gfx\\coats_of_arms\\Arkopack_BNF.tga"
 			size = { x = 10 y = 2 }
-			noOfFrames = 1
+			noOfFrames = 20
 			color = 3
 			emblem = no
-			random = no # Do not use for random CoAs
 		}
 		texture = {
 		# Jylland, Kiev, Livonia, Meath, Novgorod, Orkney, Ostlandet, Sjaelland, The Isles, Trondelag, Uppland, Vastergotland, York
@@ -340,14 +610,265 @@ culture =
 		}
 	}
 }
-
 culture = { 
-#païens réformés
+#païens réformés #ALL BUT B/N/F/B AZTEC in fact
+	religion = {
+		"aztec_reformed"
+	}
+	
+	templates = { 
+		"coa_plain_pagan_reformed:1"
+	}
+
+	color = {
+		{ 250 190 0 }	#0 		Or
+		{ 220 220 220 } #1  	Argent
+		{ 0 80 170 } 	#2  	Bleu du nord
+		{ 150 0 30 } 	#3  	De sang 
+		{ 70 120 40 }	#4  	Vert
+		{ 20 20 20 }	#5  	Sable
+		{ 120 5 120 }	#6  	Pourpre
+	}
+	
+	rebel_colors = { 1 3 5 }
+	
+	banned_colors = 
+	{ 
+		{ 0 1 }			#0		
+		{ 1 0 }			#1		
+		{ 2 3 4 6 }		#2		
+		{ 2 3 4 6 }		#3		
+		{ 2 3 4 }		#4		
+		{ 5 }			#5		
+		{ 2 3 6 }		#6		
+	}
+
+	emblem = {
+		file = "gfx\\coats_of_arms\\emblem_muslim.dds"
+		noOfFrames = 1
+	}
+
+	# WHEN ADDING NEW, ALWAYS ADD AT THE END
+	textures = {
+		texture = {
+			file = "gfx\\coats_of_arms\\Arkopack_BNF.tga"
+			size = { x = 10 y = 2 }
+			noOfFrames = 20
+			color = 3
+			emblem = no
+		}
+		texture = {
+			file = "gfx\\coats_of_arms\\Arkopack_BNF.tga"
+			size = { x = 10 y = 2 }
+			noOfFrames = 20
+			color = 3
+			emblem = no
+		}
+		texture = {
+		# Jylland, Kiev, Livonia, Meath, Novgorod, Orkney, Ostlandet, Sjaelland, The Isles, Trondelag, Uppland, Vastergotland, York
+			file = "gfx\\coats_of_arms\\pagans.tga"
+			size = { x = 13 y = 1 }
+			noOfFrames = 13
+			color = 0
+			random = no # Do not use for random CoAs
+		}
+	}
+}
+culture = {
+#païens réformés #BALTIC
+	religion = {
+		"baltic_pagan_reformed"
+	}
+	
+	templates = { 
+		"coa_plain_pagan_reformed:1"
+	}
+
+	color = {
+		{ 250 190 0 }	#0 		Or
+		{ 220 220 220 } #1  	Argent
+		{ 0 80 170 } 	#2  	Bleu du nord
+		{ 150 0 30 } 	#3  	De sang 
+		{ 70 120 40 }	#4  	Vert
+		{ 20 20 20 }	#5  	Sable
+		{ 120 5 120 }	#6  	Pourpre
+	}
+	
+	rebel_colors = { 1 3 5 }
+	
+	banned_colors = 
+	{ 
+		{ 0 1 }			#0		
+		{ 1 0 }			#1		
+		{ 2 3 4 6 }		#2		
+		{ 2 3 4 6 }		#3		
+		{ 2 3 4 }		#4		
+		{ 5 }			#5		
+		{ 2 3 6 }		#6		
+	}
+
+	emblem = {
+		file = "gfx\\coats_of_arms\\emblem_muslim.dds"
+		noOfFrames = 1
+	}
+
+	# WHEN ADDING NEW, ALWAYS ADD AT THE END
+	textures = {
+		texture = {
+			file = "gfx\\coats_of_arms\\Arkopack_baltic.tga"
+			size = { x = 10 y = 4 }
+			noOfFrames = 40
+			color = 3
+			emblem = no
+		}
+		texture = {
+			file = "gfx\\coats_of_arms\\Arkopack_BNF.tga"
+			size = { x = 10 y = 2 }
+			noOfFrames = 20
+			color = 3
+			emblem = no
+		}
+		texture = {
+		# Jylland, Kiev, Livonia, Meath, Novgorod, Orkney, Ostlandet, Sjaelland, The Isles, Trondelag, Uppland, Vastergotland, York
+			file = "gfx\\coats_of_arms\\pagans.tga"
+			size = { x = 13 y = 1 }
+			noOfFrames = 13
+			color = 0
+			random = no # Do not use for random CoAs
+		}
+	}
+}
+culture = { 
+#païens réformés #NORSE
 	religion = {
 		"norse_pagan_reformed"
-		"baltic_pagan_reformed"
+	}
+	
+	templates = { 
+		"coa_plain_pagan_reformed:1"
+	}
+
+	color = {
+		{ 250 190 0 }	#0 		Or
+		{ 220 220 220 } #1  	Argent
+		{ 0 80 170 } 	#2  	Bleu du nord
+		{ 150 0 30 } 	#3  	De sang 
+		{ 70 120 40 }	#4  	Vert
+		{ 20 20 20 }	#5  	Sable
+		{ 120 5 120 }	#6  	Pourpre
+	}
+	
+	rebel_colors = { 1 3 5 }
+	
+	banned_colors = 
+	{ 
+		{ 0 1 }			#0		
+		{ 1 0 }			#1		
+		{ 2 3 4 6 }		#2		
+		{ 2 3 4 6 }		#3		
+		{ 2 3 4 }		#4		
+		{ 5 }			#5		
+		{ 2 3 6 }		#6		
+	}
+
+	emblem = {
+		file = "gfx\\coats_of_arms\\emblem_muslim.dds"
+		noOfFrames = 1
+	}
+
+	# WHEN ADDING NEW, ALWAYS ADD AT THE END
+	textures = {
+		texture = {
+			file = "gfx\\coats_of_arms\\Arkopack_norrois.tga"
+			size = { x = 10 y = 4 }
+			noOfFrames = 40
+			emblem = no
+			color = 3
+		}
+		texture = {
+			file = "gfx\\coats_of_arms\\Arkopack_BNF.tga"
+			size = { x = 10 y = 2 }
+			noOfFrames = 20
+			color = 3
+			emblem = no
+		}
+		texture = {
+		# Jylland, Kiev, Livonia, Meath, Novgorod, Orkney, Ostlandet, Sjaelland, The Isles, Trondelag, Uppland, Vastergotland, York
+			file = "gfx\\coats_of_arms\\pagans.tga"
+			size = { x = 13 y = 1 }
+			noOfFrames = 13
+			color = 0
+			random = no # Do not use for random CoAs
+		}
+	}
+}
+culture = { 
+#païens réformés #FINNIC
+	religion = {
 		"finnish_pagan_reformed"
-		"aztec_reformed"
+	}
+	
+	templates = { 
+		"coa_plain_pagan_reformed:1"
+	}
+
+	color = {
+		{ 250 190 0 }	#0 		Or
+		{ 220 220 220 } #1  	Argent
+		{ 0 80 170 } 	#2  	Bleu du nord
+		{ 150 0 30 } 	#3  	De sang 
+		{ 70 120 40 }	#4  	Vert
+		{ 20 20 20 }	#5  	Sable
+		{ 120 5 120 }	#6  	Pourpre
+	}
+	
+	rebel_colors = { 1 3 5 }
+	
+	banned_colors = 
+	{ 
+		{ 0 1 }			#0		
+		{ 1 0 }			#1		
+		{ 2 3 4 6 }		#2		
+		{ 2 3 4 6 }		#3		
+		{ 2 3 4 }		#4		
+		{ 5 }			#5		
+		{ 2 3 6 }		#6		
+	}
+
+	emblem = {
+		file = "gfx\\coats_of_arms\\emblem_muslim.dds"
+		noOfFrames = 1
+	}
+
+	# WHEN ADDING NEW, ALWAYS ADD AT THE END
+	textures = {
+		texture = {
+			file = "gfx\\coats_of_arms\\Arkopack_finnic.tga"
+			size = { x = 10 y = 4 }
+			noOfFrames = 40
+			emblem = no
+			color = 3
+		}
+		texture = {
+			file = "gfx\\coats_of_arms\\Arkopack_BNF.tga"
+			size = { x = 10 y = 2 }
+			noOfFrames = 20
+			color = 3
+			emblem = no
+		}
+		texture = {
+		# Jylland, Kiev, Livonia, Meath, Novgorod, Orkney, Ostlandet, Sjaelland, The Isles, Trondelag, Uppland, Vastergotland, York
+			file = "gfx\\coats_of_arms\\pagans.tga"
+			size = { x = 13 y = 1 }
+			noOfFrames = 13
+			color = 0
+			random = no # Do not use for random CoAs
+		}
+	}
+}
+culture = { 
+#païens réformés #SLAVIC
+	religion = {
 		"slavic_pagan_reformed"
 	}
 	
@@ -386,19 +907,18 @@ culture = {
 	# WHEN ADDING NEW, ALWAYS ADD AT THE END
 	textures = {
 		texture = {
-			file = "gfx\\coats_of_arms\\Norrois_ARKOpack.tga"
-			size = { x = 10 y = 6 }
-			noOfFrames = 60
+			file = "gfx\\coats_of_arms\\Arkopack_slavic.tga"
+			size = { x = 10 y = 4 }
+			noOfFrames = 40
 			emblem = no
 			color = 3
 		}
 		texture = {
-			file = "gfx\\coats_of_arms\\pattern2_norse.tga"
+			file = "gfx\\coats_of_arms\\Arkopack_BNF.tga"
 			size = { x = 10 y = 2 }
-			noOfFrames = 1
+			noOfFrames = 20
 			color = 3
 			emblem = no
-			random = no # Do not use for random CoAs
 		}
 		texture = {
 		# Jylland, Kiev, Livonia, Meath, Novgorod, Orkney, Ostlandet, Sjaelland, The Isles, Trondelag, Uppland, Vastergotland, York
@@ -410,7 +930,6 @@ culture = {
 		}
 	}
 }
-
 culture = {
 	religion = {
 		"west_african_pagan_reformed"
@@ -479,6 +998,7 @@ culture = {
 	religion = {
 		"tengri_pagan_reformed"
 		"tengri_pagan"
+		"bon"
 	}
 	
 	templates = { 
@@ -664,9 +1184,12 @@ culture =
 	}
 }
 
-culture = 
-{
-	religion_group = "indian_group"
+culture = {
+	religion = {
+		"buddhist"
+		"hindu"
+		"jain"
+	}
 	
 	templates = { 
 		"coa_plain_indian:1"
@@ -730,6 +1253,13 @@ culture =
 			color = 3
 			emblem = no
 		}
+		texture = {
+			file = "gfx\\coats_of_arms\\dynasties4_indian.tga"
+			size = { x = 2 y = 1 }
+			noOfFrames = 2
+			color = 0
+			random = no # Do not use for random CoAs
+		}
 	}
 }
 
@@ -746,8 +1276,8 @@ culture =
 	}
 
 	color = {
-		{ 250 190 0 }	#0 		Or (ex 250 148 0)
-		{ 220 220 220 } #1  	Argent
+		{ 250 190 0 }	#0 		Or
+		{ 230 230 230 } #1  	Argent
 		{ 0 90 150 } 	#2  	Azur
 		{ 170 0 10 } 	#3  	Gueules 
 		{ 20 110 20 } 	#4  	Sinople
@@ -755,13 +1285,13 @@ culture =
 		{ 120 5 120 }	#6  	Pourpre
 		#{ 200 80 0 }	#ex7	Tanné		
 		{ 250 190 0 }	#7		Or
-		{ 210 210 210 } #8  	Argent
-		{ 0 90 150 } 	#9  	Azur
-		{ 170 0 10 } 	#10  	Gueules 
+		{ 230 230 230 } #8  	Argent
+		{ 0 80 170 } 	#9  	Bleu du nord
+		{ 150 0 30 } 	#10  	De sang  
 		#{ 20 20 20 }	#11  	Sable
 }
 
-	rebel_colors = { 3 5 7 }
+	rebel_colors = { 1 10 5 }
 
 	banned_colors = 
 	{ 
@@ -1004,6 +1534,69 @@ culture =
 			size = { x = 16 y = 2 }
 			noOfFrames = 25
 			color = 0
+		}
+	}
+}
+
+culture = {
+	religion = {
+		"taoist"
+	}
+	
+	templates = { 
+		"coa_plain_chinois:1"
+	}
+
+	color = {
+		{ 250 190 0 }	#0 		Or (ex 250 148 0)
+		{ 240 240 240 } #1  	Blanc
+		{ 0 80 170 } 	#2  	Bleu du nord
+		{ 150 0 30 } 	#3  	De sang 
+		{ 70 120 40 }	#4  	Vert
+		{ 10 10 10 }	#5  	Noir noir
+
+	}
+
+	rebel_colors = { 1 3 5 }
+
+	banned_colors = 
+	{ 
+		{ 0 1 }		#0		
+		{ 0 1 }		#1		
+		{ 2 3 4 }	#2		
+		{ 2 3 4 }	#3		
+		{ 2 3 4 }	#4		
+		{ 5 }		#5		
+	}
+
+	emblem = {
+		file = "gfx\\coats_of_arms\\emblem_muslim.dds"
+		noOfFrames = 1
+	}
+
+	# WHEN ADDING NEW, ALWAYS ADD AT THE END
+	textures = {
+		texture = { #texture = 0
+			file = "gfx\\coats_of_arms\\pattern_china.tga"
+			size = { x = 10 y = 10 }
+			noOfFrames = 100
+			color = 3
+			emblem = no
+		}
+		texture = { #texture = 1
+			file = "gfx\\coats_of_arms\\Arkopack_china.tga"
+			size = { x = 10 y = 10 }
+			noOfFrames = 1
+			color = 2
+			emblem = no
+		}
+		texture = { #texture = 2
+			file = "gfx\\coats_of_arms\\Arkopack_china_dyn.tga"
+			size = { x = 10 y = 10 }
+			noOfFrames = 50
+			color = 2
+			emblem = no
+			random = no # Do not use for random CoAs
 		}
 	}
 }

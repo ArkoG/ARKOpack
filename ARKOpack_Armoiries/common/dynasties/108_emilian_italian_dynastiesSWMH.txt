@@ -90,21 +90,10 @@
 	name="della Gente"
 	culture = italian
 }
-1000020082 = {
-	name="Tizzoni"
-	culture = italian
-	coat_of_arms = {
-		template = 0
-		layer = {
-			texture = 17
-			texture_internal = 45
-			emblem = 0
-			color = 0
-			color = 0
-			color = 0
-		}
-	} 
-}
+#1000020082 = {
+#	name=""
+#	culture = italian
+#}
 1000020083 = {
 	name="della Pusterla"
 	culture = italian
@@ -259,7 +248,6 @@ name="Gandolfingi"
 1000020096 = {
 name="da Mandello"
   culture = italian
-   culture = italian
 	coat_of_arms = {
 		template = 0
 		layer = {

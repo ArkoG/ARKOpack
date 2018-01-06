@@ -104,7 +104,7 @@ guiTypes = {
 
 			guiButtonType = {
 				name = "close_button"	
-				position = {x = 72 y = 343 }
+				position = {x = 72 y = 386 }
 				quadTextureSprite ="GFX_standard_button_112"
 				buttonText = "CLOSE"
 				buttonFont = "vic_18"
@@ -765,6 +765,53 @@ guiTypes = {
 			fixedsize = yes
 			pdx_tooltip = "CHARACTER_TOOLTIP"
 			pdx_tooltip_delayed = "CHARACTER_TOOLTIP_DELAYED"
+		}
+	}
+	
+	### OUTLINER Court Entry
+	windowType = 
+	{
+		name = "outliner_rally_point_entry"
+		backGround=""
+		position = { x=0 y=0 }	
+		size = { x=317 y=16 }
+		moveable = 0
+		dontRender = ""
+		horizontalBorder= ""
+		verticalBorder= ""
+		fullScreen = no	
+
+		guiButtonType = {
+			name = "outliner_standard"
+			position = { x=0 y =0 }
+			quadTextureSprite ="GFX_outliner_standard"	
+		}
+
+		instantTextBoxType = {
+			name = "entry_text"
+			position = { x = 63 y = 2 }
+			textureFile = ""
+			font = "Arial12_black_bidouille"
+			borderSize = {x = 0 y = 0}
+			text = ""	
+			maxWidth = 240
+			maxHeight = 16
+
+			format = right
+			fixedsize = yes
+		}
+		
+		instantTextBoxType = {
+				name = "info_text"
+				position = { x = 32 y = 2 }
+				textureFile = ""
+				font = "Arial12_black"
+				borderSize = {x = 0 y = 0}
+				text = "UI_MISSING_TEXT"	
+				maxWidth = 240
+				maxHeight = 16
+
+				format = left
 		}
 	}
 }

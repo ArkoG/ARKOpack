@@ -27,16 +27,16 @@ PV_FORT;Fort;Fort;Festung;;Fortaleza;;;;;;;;;x
 TRADE_ZONE;Trade Zone;Zone marchande;Handelszone;;Zona Comercial;;;;;;;;;x
 TOTAL_TRADE_FAMILY;Family;Famille;Familie;;Familia ;;;;;;;;;x
 LAW_VOTE_STATUS_ZEUS;Voting for: \n§Y$LAW$§! \n Backers: $YES|G$ / Opponents: $NO|R$ / Undecided: $WAITING$;Vote en cours :\n§Y$LAW$§! \nPour : $YES|G$ / Contre : $NO|R$ / Indécis : $WAITING$;
-COUNTY;County;Les;
-DUCAL;Ducal;Les;
-ROYAL;Royal;Les;
-IMPERIAL;Imperial;Les;
-LAWS;Laws;lois;
+COUNTY;County;Les;;;;;;;;;;;x
+DUCAL;Ducal;Les;;;;;;;;;;;x
+ROYAL;Royal;Les;;;;;;;;;;;x
+IMPERIAL;Imperial;Les;;;;;;;;;;;x
+LAWS;Laws;lois;;;;;;;;;;;x
 ZeusDLC;Conclave;Conclave;;;;;;;;;;;x
 ConclaveDLC;Conclave;Conclave;Konklave;;Cónclave;;;;;;;;;x
-MINOR_TITLES;Minor Titles;Titres mineurs;
-HT_SHOW_HONORARY_TITLES;Show Honorary Titles;Afficher les titres honorifiques;
-HT_SHOW_COMMANDERS;Show Commanders;Afficher les commandants;
+MINOR_TITLES;Minor Titles;Titres mineurs;;;;;;;;;;;x
+HT_SHOW_HONORARY_TITLES;Show Honorary Titles;Afficher les titres honorifiques;;;;;;;;;;;x
+HT_SHOW_COMMANDERS;Show Commanders;Afficher les commandants;;;;;;;;;;;x
 COMBATS_INTERFACE_LABEL;§YLand Combat§!;§YBatailles§!;§YGefechte§!;§YWalki§!;§YCombates§!;§YCombattimento terrestre§!;§YCsaták§!;§YPozemní boj§!;;;;;;x
 SAVE_RULES;Save Rules;Sauvegarder les règles;Regeln speichern;;Guardar reglas;;;;;;;;;x
 LOAD_RULES;Load Rules;Charger les règles;Regeln laden;;Cargar reglas;;;;;;;;;x

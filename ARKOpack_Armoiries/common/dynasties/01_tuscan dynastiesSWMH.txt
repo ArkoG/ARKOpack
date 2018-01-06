@@ -454,10 +454,10 @@ name="Giandonati"
 		}
 	}  
 }
-#1000035069 = {
-#name="Piccolomini"
-# culture = tuscan
-#}
+1000035069 = {
+name="Piccolomini"
+ culture = tuscan
+}
 1000035070 = {
 name="Tarlati"
  culture = tuscan
@@ -635,10 +635,10 @@ name="Alberti"
 #name="" #
 # culture = tuscan
 #}
-#1000020003 = { 
-#name=""
-# culture = tuscan
-#}
+1000020003 = { 
+name="Buondelmonti"
+ culture = tuscan
+}
 1000020004 = { 
 name="Da Palude"
  culture = italian

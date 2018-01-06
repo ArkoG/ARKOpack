@@ -36,4 +36,11 @@ objectTypes = {
 		use_animation = no
 		cull_distance = 550.0f
 	}
+	pdxmesh = {
+		name = "tradepost_camp"
+		file = "gfx\models\Settlements\Trade\tradepost.mesh"
+		
+		scale = 0.2f
+		cull_distance = 500.0f
+	}
 }

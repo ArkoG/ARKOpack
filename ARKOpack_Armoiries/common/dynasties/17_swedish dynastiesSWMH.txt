@@ -186,6 +186,8 @@ name="Örnfot"
 		}
 	}
 }
-
-
+1000053712 = {
+name="av Aranäs"
+ culture = swedish
+}
 

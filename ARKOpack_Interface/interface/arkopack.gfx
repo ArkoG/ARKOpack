@@ -167,19 +167,19 @@ spriteTypes = {
 		texturefile = "gfx\\interface\\buildview_fort_icon_arkopack.dds"
 	}	
 	
-	#additional culturegfx missing from vanilla
-	spriteType = {
-		name = "GFX_province_settlement_frame_indiangfx" #indianstyle
-		texturefile = "gfx\\interface\\province_settlement_frame_indiangfx.tga"
-	}
-	spriteType = {
-		name = "GFX_province_settlement_frame_southindiangfx" #indianstyle
-		texturefile = "gfx\\interface\\province_settlement_frame_southindiangfx.tga"
-	}
-	spriteType = {
-		name = "GFX_province_settlement_frame_turkishgfx" #mongolstyle
-		texturefile = "gfx\\interface\\province_settlement_frame_turkishgfx.tga"
-	}
+#	#additional culturegfx missing from vanilla
+#	spriteType = {
+#		name = "GFX_province_settlement_frame_indiangfx" #indianstyle
+#		texturefile = "gfx\\interface\\province_settlement_frame_indiangfx.tga"
+#	}
+#	spriteType = {
+#		name = "GFX_province_settlement_frame_southindiangfx" #indianstyle
+#		texturefile = "gfx\\interface\\province_settlement_frame_southindiangfx.tga"
+#	}
+#	spriteType = {
+#		name = "GFX_province_settlement_frame_turkishgfx" #mongolstyle
+#		texturefile = "gfx\\interface\\province_settlement_frame_turkishgfx.tga"
+#	}
 ###RULES Tab
 	spriteType = {
 		name = "GFX_game_rules_divider_arkopack"
@@ -439,19 +439,19 @@ spriteTypes = {
 	spriteType = {
 		name = "GFX_religion_icon_strip_decorated"
 		texturefile = "gfx\\interface\\religion_icon_strip_decorated.tga"
-		noOfFrames = 76
+		noOfFrames = 80
 	}
 	spriteType = {
 		name = "GFX_charview_label_bg_alt"
 		texturefile = "gfx\\interface\\charview_label_bg_alt.dds"
 		allwaystransparent = yes
 	}
-	spriteType = {
-		name = "GFX_overlay_char_favor_indicator_arkopack"
-		texturefile = "gfx\\interface\\favor_indicator_arkopack.dds"
-		transparencecheck = yes
-		norefcount = yes
-	}
+#	spriteType = {
+#		name = "GFX_overlay_char_favor_indicator_arkopack"
+#		texturefile = "gfx\\interface\\favor_indicator_arkopack.dds"
+#		transparencecheck = yes
+#		norefcount = yes
+#	}
 	spriteType = {
 		name = "GFX_overlay_char_favor_indicator_small_arkopack"
 		texturefile = "gfx\\interface\\favor_indicator_small_arkopack.dds"

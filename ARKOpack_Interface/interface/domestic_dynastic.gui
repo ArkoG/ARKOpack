@@ -1018,10 +1018,10 @@ guiTypes = {
 		}
 		guiButtonType =	{
 			name = "button_wikipedia"
-			position = { x=452 y=-90 }#wikipedia_real position
-			#position = { x=585 y=26 }#sidebutton position
-			quadTextureSprite ="GFX_charview_wikipedia_real"
-			#quadTextureSprite ="GFX_charview_wikipedia_sidebutton"			
+			#position = { x=452 y=-90 }#wikipedia_real position
+			position = { x=585 y=-6}#sidebutton position
+			#quadTextureSprite ="GFX_charview_wikipedia_real"
+			quadTextureSprite ="GFX_charview_wikipedia_sidebutton"			
 			Orientation = "UPPER_LEFT"
 			clicksound = generic_click_04
 		}
@@ -1133,12 +1133,12 @@ guiTypes = {
 			iconType = {
 				name ="opinion_bg_big"
 				spriteType = "GFX_opinion_bg_big"
-				position = { x= 180 y = 165 } #x-9
+				position = { x= 179 y = 165 } #x-9
 				Orientation = "UPPER_LEFT"
 			}
 			instantTextBoxType = {
 				name = "opinion_text"
-				position = { x = 179 y = 171 } #x-9
+				position = { x = 178 y = 171 } #x-9
 				textureFile = ""
 				font = "vic_18"
 				borderSize = {x = 0 y = 0}
@@ -1190,6 +1190,12 @@ guiTypes = {
 				name = "arrange_marriage"
 				position = { x=158 y=129 }
 				quadTextureSprite ="GFX_charview_arrange_marriage"	
+				clicksound = generic_click_04
+			}
+			guiButtonType = {
+				name = "toggle_marriage_ai"
+				position = { x=219 y=167 }
+				quadTextureSprite ="GFX_checkbox_default"	
 				clicksound = generic_click_04
 			}
 #			guiButtonType = {
@@ -1792,7 +1798,7 @@ guiTypes = {
 			guiButtonType = {
 				name ="button_treasury"
 				quadTextureSprite= "GFX_treasury_button_arkopack"
-				position = { x = 575 y = -30 }
+				position = { x = 575 y = 0 }
 				Orientation = "UPPER_LEFT"
 				pdx_tooltip = "TREASURY_BUTTON_TOOLTIP"
 				pdx_tooltip_delayed = "TREASURY_BUTTON_TOOLTIP_DELAYED"
@@ -1813,8 +1819,8 @@ guiTypes = {
 
 			OverlappingElementsBoxType = {
 				name = "modifiers"
-				position = { x = 50 y = 276 }
-				size = { x=143 y=32 }
+				position = { x = 74 y = 276 }
+				size = { x=125 y=32 }
 				format = right
 			}
 		}
@@ -2167,7 +2173,7 @@ guiTypes = {
 			#spriteType = "GFX_shield_crown_strip_small"
 			spriteType = "GFX_shield_crown_strip_medium2"
 			#position = { x= 6 y = -12 }
-			position = { x= 10 y = -18 }
+			position = { x= 11 y = -18 }
 			Orientation = "UPPER_LEFT"
 		}
 		iconType ={

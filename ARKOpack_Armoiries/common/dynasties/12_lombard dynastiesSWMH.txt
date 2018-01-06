@@ -162,7 +162,7 @@ name="Rusca"
  culture = italian
 }
 1000035738 = {
-name="del Zoppo"
+name="Zoppo"
  culture = italian
  	coat_of_arms = {
 		template = 0

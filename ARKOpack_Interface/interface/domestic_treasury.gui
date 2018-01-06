@@ -2,7 +2,7 @@ guiTypes = {
 	windowType = {
 		name ="domestic_treasury_window"
 		backGround=""
-		position = { x=585 y=159 }	#arkopack
+		position = { x=585 y=184 }	#arkopack
 		size = { x=605 y=675 }
 		moveable = 0
 		dontRender = ""
@@ -60,6 +60,15 @@ guiTypes = {
 					name = "button_equip"
 					position = { x=480 y=110 }
 					quadTextureSprite ="GFX_equip_button"	
+					tooltip = ""
+					tooltipText =""
+					delayedTooltipText = ""
+					Orientation = "UPPER_LEFT"
+				}
+				guiButtonType =	{
+					name = "button_destroy"
+					position = { x=60 y=110 }
+					quadTextureSprite ="GFX_destroy_artifact"	
 					tooltip = ""
 					tooltipText =""
 					delayedTooltipText = ""
