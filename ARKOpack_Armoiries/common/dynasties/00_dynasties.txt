@@ -24875,7 +24875,7 @@ used_for_random = no
 	culture ="levantine_arabic"
 }
 1029123 = {
-	name="Shayban"
+	name="Shaybán"
 	culture ="levantine_arabic"
 }
 1029124 = {
