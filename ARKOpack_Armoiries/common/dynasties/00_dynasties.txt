@@ -4606,7 +4606,7 @@
 }
 792=
 {
-	name = "al-'Uyuní"
+	name = "al-'Uyúní"
 	culture ="bedouin_arabic"
 }
 793=
@@ -9270,7 +9270,7 @@ used_for_random = no
 	culture ="levantine_arabic"
 }
 7344 = {
-	name="Sulaymání"
+	name="al-Sulaymání"
 	culture ="levantine_arabic"
 }
 7345 = {
@@ -12185,7 +12185,7 @@ used_for_random = no
 	culture ="bedouin_arabic"
 }
 12279 = {
-	name= "al-Jannabí"
+	name= "al-Jannábí"
 	culture ="bedouin_arabic"
 }
 12280 = {
@@ -25933,7 +25933,7 @@ used_for_random = no
 	culture = bedouin_arabic
 }
 1029037 = {
-	name="Kaab"
+	name="Ka'b"
 	culture = bedouin_arabic
 }
 1029038 = {
@@ -26668,7 +26668,7 @@ used_for_random = no
 
 }
 12296 = {
-	name= "Qays"
+	name= "al-Qaysí" #in Andalusia
 	culture ="bedouin_arabic"
 }
 12297 = {
@@ -30563,7 +30563,7 @@ used_for_random = no
 
 1022358 = {
 
-	name="al-Kindí"
+	name="Kinda"
 
 	culture ="bedouin_arabic"
 
@@ -34755,7 +34755,7 @@ used_for_random = no
 	religion="buddhist"
 }
 1059103={
-	name="Banijurid"
+	name="Baníjúrí"
 	culture="persian"
 	religion="sunni"
 }
@@ -34812,7 +34812,7 @@ used_for_random = no
 
 
 1060000={
-	name="Kinda"
+	name="al-Kindí"
 	culture="bedouin_arabic"
 	religion="sunni"
 }
@@ -35205,7 +35205,7 @@ used_for_random = no
 ### Yemeni Dynasties
 
 1051211 = {
-	name="al-Zawayhi"
+	name="al-Zawayhí"
 	culture="bedouin_arabic"
 	religion="shiite"
 }
@@ -35215,22 +35215,22 @@ used_for_random = no
 	religion="shiite"
 }
 1051213 = {
-	name="Banu Najah"
+	name="al-Najáhí"
 	culture="ethiopian"
 	religion="shiite"
 }
 1051214 = {
-	name="Banu Zurai"
+	name="al-Zuray'í"
 	culture="bedouin_arabic"
 	religion="shiite"
 }
 1051215 = {
-	name="Banu Ma'n"
+	name="al-Ma'ní"
 	culture="bedouin_arabic"
 	religion="sunni"
 }
 1051216 = {
-	name="Bani Mahdi"
+	name="al-Mahdí"
 	culture="bedouin_arabic"
 	religion="shiite"
 }
@@ -35240,7 +35240,7 @@ used_for_random = no
 	religion="shiite"
 }
 1051218 = {
-	name="al-Sulaymani"
+	name="al-Sulaymání"
 	culture="bedouin_arabic"
 	religion="shiite"
 }
