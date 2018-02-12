@@ -3492,6 +3492,14 @@
 589 = {
 	name="al-Fátimí"
 	culture ="maghreb_arabic"
+	coat_of_arms=
+	{
+		data=
+		{
+			0 0 0 33 12 1 12
+		}
+		religion="shiite"
+	}
 }
 590 = {
 	name="al-Sulayhí"
@@ -3537,8 +3545,14 @@
 597 = {
 	name="al-'Umawí" #Umayyads
 	culture ="egyptian_arabic"
-	religion="sunni"
-	forced_coa_religiongroup = "muslim"
+	coat_of_arms=
+	{
+		data=
+		{
+			0 0 0 0 12 12 12
+		}
+		religion="sunni"
+	}
 }
 598 = {
 	name="al-Mustazhirí"
@@ -4611,7 +4625,7 @@
 }
 793=
 {
-	name = "al-Ammarí"
+	name = "al-'Ammárí"
 	culture ="maghreb_arabic"
 }
 794=
@@ -19027,7 +19041,7 @@ used_for_random = no
 	culture = "persian"
 }
 100642 = {
-	name="Ustadhí"
+	name="Ustádh-Hormuzí"
 	culture = "persian"
 }
 100643 = {
@@ -31109,7 +31123,7 @@ used_for_random = no
 	{
 		data=
 		{
-0 0 0 2 3 9 5 			}
+0 0 0 2 0 10 10 			}
 		religion="buddhist"
 	}
 }
