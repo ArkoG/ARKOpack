@@ -15525,7 +15525,7 @@ used_for_random = no
 	culture = "frankish"
 }
 24000 = {
-	name="al-Ayyubí"
+	name="al-Ayyúbí"
 	culture = kurdish
 }
 25001 = {
@@ -20613,7 +20613,7 @@ used_for_random = no
 	culture ="maghreb_arabic"
 }
 101168 = {
-	name="al-Ayyubí"
+	name="al-Ayyúbí"
 	culture ="maghreb_arabic"
 }
 101169 = {
@@ -23407,6 +23407,14 @@ used_for_random = no
 101864 = {
 	name="Kháqání"
 	culture = karluk
+	coat_of_arms=
+	{
+		data=
+		{
+			0 0 0 40 12 10 12
+		}
+		religion="sunni"
+	}
 }
 101865 = {
 	name="Gazní"
@@ -31737,11 +31745,27 @@ used_for_random = no
 1042186 = {
 	name="Chigil"
 	culture = karluk
+	coat_of_arms=
+	{
+		data=
+		{
+			0 0 0 18 0 7 7
+		}
+		religion="zoroastrian"
+	}
 }
 
 1042187 = {
 	name="Yaghma"
 	culture = karluk
+	coat_of_arms=
+	{
+		data=
+		{
+			0 0 0 47 1 3 1
+		}
+		religion="tengri_pagan"
+	}
 }
 
 1042188 = {
