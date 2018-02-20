@@ -3496,7 +3496,7 @@
 	{
 		data=
 		{
-			0 0 0 33 12 1 12
+			0 0 0 33 12 5 12
 		}
 		religion="shiite"
 	}
@@ -3509,17 +3509,13 @@
 591 = {
 	name="Dulo"
 	culture ="bolghar"
-	
-	coat_of_arms = {
-		template = 0
-		layer = {
-			texture = 13 #DLC N°3
-			texture_internal = 17
-			emblem = 0
-			color = 0
-			color = 0
-			color = 0
+	coat_of_arms=
+	{
+		data=
+		{
+			0 0 0 79 1 5 5
 		}
+		religion="tengri_pagan"
 	}
 }
 592 = {
