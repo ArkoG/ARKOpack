@@ -15523,6 +15523,14 @@ used_for_random = no
 24000 = {
 	name="al-Ayyúbí"
 	culture = kurdish
+	coat_of_arms=
+	{
+		data=
+		{
+			0 0 0 32 1 1 0
+		}
+		religion="sunni"
+	}
 }
 25001 = {
 	name="Haraldsson"
@@ -22382,6 +22390,14 @@ used_for_random = no
 101687 = {
 	name="Zengi"
 	culture = "turkish"
+	coat_of_arms=
+	{
+		data=
+		{
+			0 0 0 32 0 0 7
+		}
+		religion="sunni"
+	}
 }
 101688 = {
 	name="Annâzî" #Annaziyán Annazides
