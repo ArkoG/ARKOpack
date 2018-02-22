@@ -11876,7 +11876,7 @@ used_for_random = no
 	culture ="andalusian_arabic"
 }
 12194 = {
-	name = "al-Tujibí"
+	name = "al-Tujíbí"
 	culture ="andalusian_arabic"
 }
 12195 = {
@@ -11936,7 +11936,7 @@ used_for_random = no
 	culture ="andalusian_arabic"
 }
 12209 = {
-	name = "al-Iyadí"
+	name = "al-Iyádí"
 	culture ="andalusian_arabic"
 }
 12210 = {
@@ -11944,7 +11944,7 @@ used_for_random = no
 	culture ="andalusian_arabic"
 }
 12211 = {
-	name = "al-Mardanishí"
+	name = "al-Mardaníshí"
 	culture ="andalusian_arabic"
 }
 12212 = {
@@ -31246,7 +31246,7 @@ used_for_random = no
 }
 
 1048002 = {
-	name="al-Tujibí" # Egyptian Tujibids
+	name="al-Tujíbí" # Egyptian Tujibids
 	culture = egyptian_arabic
 }
 1048003 = {
