@@ -4609,6 +4609,14 @@
 	name = "Ghaznaví"
 	culture = "turkish"
 	used_for_random = no
+	coat_of_arms=
+	{
+		data=
+		{
+			0 0 0 33 7 0 0
+		}
+		religion="sunni"
+	}
 }
 791 = {
 	name = "Shansabání" #Ghuriyán Ghurides
@@ -22394,7 +22402,7 @@ used_for_random = no
 	{
 		data=
 		{
-			0 0 0 32 0 0 7
+			0 0 0 32 0 0 1
 		}
 		religion="sunni"
 	}
