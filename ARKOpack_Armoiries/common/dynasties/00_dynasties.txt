@@ -22396,7 +22396,7 @@ used_for_random = no
 	culture = kurdish
 }
 101687 = {
-	name="Zengi"
+	name="al-Zengí"
 	culture = "turkish"
 	coat_of_arms=
 	{
