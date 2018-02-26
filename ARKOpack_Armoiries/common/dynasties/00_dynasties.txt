@@ -3414,7 +3414,7 @@
 	culture ="andalusian_arabic"
 }
 570 = {
-	name="Dhi 'l-Nún" #Dhunnúniyún"
+	name="al-Dhunnúní" #Banu Dhi 'l-Nún; Dhu 'l-Nún
 	culture ="andalusian_arabic"
 }
 571 = {
@@ -3556,7 +3556,7 @@
 	culture ="levantine_arabic"
 }
 599 = {
-	name="al-Hudí"
+	name="al-Húdí"
 	religion="sunni"
 	culture ="andalusian_arabic"
 }
