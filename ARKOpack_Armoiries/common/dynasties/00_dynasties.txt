@@ -11912,7 +11912,7 @@ used_for_random = no
 	culture ="maghreb_arabic"
 }
 12201 = {
-	name = "al-Ya'farí"
+	name = "al-Ja'farí"
 	culture ="andalusian_arabic"
 }
 12202 = {
@@ -11948,7 +11948,7 @@ used_for_random = no
 	culture ="andalusian_arabic"
 }
 12210 = {
-	name = "al-Ya'farí"
+	name = "al-Ja'farí"
 	culture ="andalusian_arabic"
 }
 12211 = {
@@ -23445,7 +23445,7 @@ used_for_random = no
 	culture = turkish
 }
 101867 = {
-	name="Razin"
+	name="Razín"
 	culture = bedouin_arabic
 }
 101868 = {
