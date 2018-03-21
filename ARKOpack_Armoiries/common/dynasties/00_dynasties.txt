@@ -9016,11 +9016,11 @@ used_for_random = no
 	culture ="maghreb_arabic"
 }
 7276 = {
-	name="al-Hafsí"
+	name="Hafs"
 	culture ="maghreb_arabic"
 }
 7277 = {
-	name="al-Zayaní"
+	name="Zayyán"
 	culture ="maghreb_arabic"
 }
 7278 = {
@@ -24723,7 +24723,7 @@ used_for_random = no
 	culture ="maghreb_arabic"
 }
 1027007 = {
-	name="Massufa"
+	name="Massúfa"
 	culture = "maghreb_arabic"
 }
 1027008 = {
@@ -24743,7 +24743,7 @@ used_for_random = no
 	culture = "bedouin_arabic"
 }
 1027012 = {
-	name="al-Tudjiní"
+	name="Túdjín"
 	culture = "maghreb_arabic"
 }
 1027013 = {
@@ -24780,7 +24780,7 @@ used_for_random = no
 	culture ="maghreb_arabic"
 }
 1027021 = {
-	name="al-Thabití"
+	name="Thábit"
 	culture ="maghreb_arabic"
 }
 1027022 = {
