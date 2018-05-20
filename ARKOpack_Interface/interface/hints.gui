@@ -5,7 +5,7 @@ guiTypes =
 	{
 		name = "hints_splash_screen"
 		backGround=""
-		position = { x=-524 y =-395 }	
+		position = { x=-524 y =-348 }	
 		size = { x=1024 y=729 }
 		moveable = 0
 		dontRender = ""
@@ -19,7 +19,7 @@ guiTypes =
 		iconType = {
 			name = "rules_bg"
 			quadTextureSprite ="GFX_game_rules_backgorund"
-			position = { x = 0 y = 0 }
+			position = { x = 0 y = -67 }
 		}
 		#button background overlay (1 button on the right)
 		iconType = {
@@ -31,54 +31,54 @@ guiTypes =
 		iconType = {
 			name = "banner_picture"
 			quadTextureSprite ="GFX_welcome_screen_picture"
-			position = { x = 281 y = 85 }
-			#position = { x = -225 y = -275 }
+			position = { x = 291 y = 93 }
+			#position = { x = -232 y = -275 }
 			#Orientation = "CENTER"
 		}
 		
 		iconType = {
 			name = "vassal_icon"
 			quadTextureSprite ="GFX_welcome_screen_vassal"
-			position = { x = 177 y = 334 }
+			position = { x = 100 y = 327 }
 		}
 		
 		iconType = {
 			name = "heir_icon"
 			quadTextureSprite ="GFX_welcome_screen_heir"
-			position = { x = 782 y = 410 }
+			position = { x = 884 y = 400 }
 		}
 		
 		iconType = {
 			name = "control_icon"
 			quadTextureSprite ="GFX_welcome_screen_controls"
-			position = { x = 177 y = 503 }
+			position = { x = 100 y = 504 }
 		}
 		
 		iconType ={
 			name ="separator_0"
-			spriteType = "GFX_game_rules_divider"
-			position = { x=293 y=314 }
+			spriteType = "GFX_game_rules_divider_long"
+			position = { x=100 y=314 }
 			orientation = "UPPER_LEFT"
 		}
 		
 		iconType ={
 			name ="separator_1"
-			spriteType = "GFX_game_rules_divider"
-			position = { x=293 y=401 }
+			spriteType = "GFX_game_rules_divider_long"
+			position = { x=100 y=390 }
 			orientation = "UPPER_LEFT"
 		}
 		
 		iconType ={
 			name ="separator_2"
-			spriteType = "GFX_game_rules_divider"
-			position = { x=293 y=469 }
+			spriteType = "GFX_game_rules_divider_long"
+			position = { x=100 y=471 }
 			orientation = "UPPER_LEFT"
 		}
 		
 		iconType ={
 			name ="separator_3"
-			spriteType = "GFX_game_rules_divider"
-			position = { x=293 y=555 }
+			spriteType = "GFX_game_rules_divider_long"
+			position = { x=100 y=550 }
 			orientation = "UPPER_LEFT"
 		}
 		
@@ -109,7 +109,20 @@ guiTypes =
 		instantTextBoxType = 
 		{
 			name = "Text_0"
-			position = { x = 180 y = 262 }
+			position = { x = 100 y = 270 }
+			textureFile = ""
+			font = "vic_18_black"
+			borderSize = {x = 0 y = 0}
+			text = ""	
+			maxWidth = 850
+			maxHeight = 200	
+			format = left
+		}
+		
+		instantTextBoxType = 
+		{
+			name = "Text_1"
+			position = { x = 230 y = 339 }
 			textureFile = ""
 			font = "vic_18_black"
 			borderSize = {x = 0 y = 0}
@@ -118,29 +131,16 @@ guiTypes =
 			maxHeight = 200	
 			format = left
 		}
-		
-		instantTextBoxType = 
-		{
-			name = "Text_1"
-			position = { x = 296 y = 328 }
-			textureFile = ""
-			font = "vic_18_black"
-			borderSize = {x = 0 y = 0}
-			text = ""	
-			maxWidth = 570
-			maxHeight = 200	
-			format = left
-		}
 			
 		instantTextBoxType = 
 		{
 			name = "Text_2"
-			position = { x = 180 y = 412 }
+			position = { x = 100 y = 419 }
 			textureFile = ""
 			font = "vic_18_black"
 			borderSize = {x = 0 y = 0}
 			text = ""	
-			maxWidth = 600
+			maxWidth = 780
 			maxHeight = 200	
 			format = left
 		}
@@ -148,12 +148,12 @@ guiTypes =
 		instantTextBoxType = 
 		{
 			name = "Text_3"
-			position = { x = 255 y = 480 }
+			position = { x = 191 y = 489 }
 			textureFile = ""
 			font = "vic_18_black"
 			borderSize = {x = 0 y = 0}
 			text = ""
-			maxWidth = 600
+			maxWidth = 750
 			maxHeight = 200
 			format = left
 		}
@@ -161,12 +161,12 @@ guiTypes =
 		instantTextBoxType = 
 		{
 			name = "Text_4"
-			position = { x = 180 y = 567 }
+			position = { x = 100 y = 570 }
 			textureFile = ""
 			font = "vic_18_black"
 			borderSize = {x = 0 y = 0}
 			text = ""	
-			maxWidth = 525
+			maxWidth = 585
 			maxHeight = 200	
 			format = left
 		}
@@ -177,7 +177,7 @@ guiTypes =
 	{
 		name = "hints_splash_screen_2"
 		backGround=""
-		position = { x=-524 y =-395 }	
+		position = { x=-524 y =-348 }	
 		size = { x=1024 y=729 }
 		moveable = 0
 		dontRender = ""
@@ -191,7 +191,7 @@ guiTypes =
 		iconType = {
 			name = "rules_bg"	
 			quadTextureSprite ="GFX_game_rules_backgorund"
-			position = { x = 0 y = 0 }
+			position = { x = 0 y = -67 }
 		}
 		#button background overlay (1 button on the right and 1 on the left)
 		iconType = {
