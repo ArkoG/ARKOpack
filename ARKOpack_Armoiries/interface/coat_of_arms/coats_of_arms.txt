@@ -52,8 +52,29 @@ culture =
 	emblem = {
 		file = "gfx\\coats_of_arms\\Arko_emblem_cust.tga"
 		noOfFrames = 48
+		random = no
 	}
-
+#	emblem = {
+#		file = "gfx\\coats_of_arms\\war_of_the_roses_non_random.tga"
+#		noOfFrames = 2
+#		random = no
+#	}
+	emblem = {
+		file = "gfx\\coats_of_arms\\war_of_the_roses_emblems.tga"
+		noOfFrames = 7
+		random = no
+	}
+#	emblem = {
+#		file = "gfx\\coats_of_arms\\pdxcon_emblems.tga"
+#		noOfFrames = 17
+#		random = no
+#	}
+#	emblem = {
+#		file = "gfx\\coats_of_arms\\pdxcon_emblems_2.tga"
+#		noOfFrames = 1
+#		random = no
+#	}
+	
 	# WHEN ADDING NEW, ALWAYS ADD AT THE END !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!11111
 	textures = {
 		texture = { #texture = 0
@@ -76,6 +97,7 @@ culture =
 			noOfFrames = 99
 			emblem = no
 			#emblem = yes
+			#emblem_chance = 30
 			color = 2
 		}
 		texture = { #texture = 3
@@ -1313,6 +1335,12 @@ culture =
 	emblem = {
 		file = "gfx\\coats_of_arms\\Arko_emblem_cust.tga"
 		noOfFrames = 48
+		random = no
+	}
+	emblem = {
+		file = "gfx\\coats_of_arms\\war_of_the_roses_emblems.tga"
+		noOfFrames = 7
+		random = no
 	}
 
 	# WHEN ADDING NEW, ALWAYS ADD AT THE END !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!11111
