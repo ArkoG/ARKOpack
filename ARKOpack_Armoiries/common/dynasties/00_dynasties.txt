@@ -5269,7 +5269,36 @@
 #	}
 	used_for_random = no
 }
-1002 = {
+898={
+	name="Mac Ilwham"
+	culture="scottish"
+	religion="catholic"
+#	coat_of_arms=
+#	{
+#		data={1 4 0 10 1 5 0 4 0 10 3 5 0 4 0 0 1 5 0 4 0 0 1 5 0}
+#		religion="catholic"
+#	}
+	used_for_random = no
+}
+899={
+	name="Borg"
+	culture="swedish"
+	religion="catholic"
+#	coat_of_arms=
+#	{
+#		data={0 0 5 27 0 5 5 0 0 2 0 0 0}
+#		religion="catholic"
+#	}
+	used_for_random = no
+}
+901={
+	name="Majek"
+	culture="polish"
+	religion="slavic_pagan"
+	used_for_random = no
+}
+1002=
+{
 	name="Banner"
 	culture ="danish"
         coat_of_arms = {
@@ -35302,47 +35331,50 @@ used_for_random = no
 	culture="bedouin_arabic"
 	religion="shiite"
 }
-##############
+5061088 = {
+	name="Kastriotis"
+	culture="greek"
+}
 
+5061089 = {
+	name="Skleros"	
+	culture = italian
+}
+5061090 = {
+	name="Monomachos"
+	culture = italian
+}
+5061091 = {
+	name = "Kourkoas"
+	culture = greek
+}
+5061092 = {
+	name = "Euferbenos"
+	culture = greek
+}
+5061093 = {
+	name = "Aparamandara"
+	culture = bengali
+}
+5062094 = {
+	name = "Vokil"
+	culture = bolghar
+}
+5062095= {
+	name = "Permyakid"
+	culture = komi
+}
+5062096 = {
+	name = "Erdevulu"
+	culture = bolghar
+}
 
-#ARKOPACK
-1000036008 = {
-	name="van Qlimax"
-	culture ="dutch"
-	coat_of_arms = {	template = 0	layer = {	texture = 5	texture_internal = 140	emblem = 0	color = 0	color = 0	color = 0	}	}
+5062097 = {
+	name = "di Padua"
+	culture = italian	
 }
-1000036009 = {
-	name="van Buuren"
-	culture ="dutch"
-	coat_of_arms = {	template = 0	layer = {	texture = 5	texture_internal = 141	emblem = 0	color = 0	color = 0	color = 0	}	}
-}
-1000036010 = {
-	name="de Saint-Oyand"
-	culture = "frankish"
-	coat_of_arms = {	template = 0	layer = {	texture = 5	texture_internal = 97	emblem = 0	color = 0	color = 0	color = 0	}	}
-}
-1000036011 = {
-	name="van Erlach" #AKA Cerlier
-	culture ="german"
-	coat_of_arms = {	template = 0	layer = {	texture = 5	texture_internal = 53	emblem = 0	color = 0	color = 0	color = 0	}	}
-}
-1000036012 = {
-	name="Annabaldi" #
-	culture ="italian"
-	coat_of_arms = {	template = 0	layer = {	texture = 5	texture_internal = 53	emblem = 0	color = 0	color = 0	color = 0	}	}
-}
-1000036013 = { 
-	name="Montfort"
-	culture = "frankish"
-	coat_of_arms = {
-		template = 0
-		layer = {	
-			texture = 15	
-			texture_internal = 6	
-			emblem = 0	
-			color = 0	
-			color = 0	
-			color = 0
-		}
-	}
+
+5062098 = {
+	name = "Bunduqdarid"
+	culture = turkish
 }
