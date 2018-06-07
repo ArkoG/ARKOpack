@@ -407,7 +407,7 @@ guiTypes = {
 				font = "vic_18_black"
 				borderSize = {x = 0 y = 0}
 				text = "UI_MISSING_TEXT"	
-				maxWidth = 232
+				maxWidth = 160
 				maxHeight = 20
 				fixedsize = yes
 				format = left
@@ -422,8 +422,8 @@ guiTypes = {
 
 			OverlappingElementsBoxType = {
 				name = "temp_mods_box"
-				position = { x = 395 y = 152 }
-				size = { x=100 y= 48 }
+				position = { x = 295 y = 152 }
+				size = { x=200 y= 48 }
 				Orientation = "UPPER_LEFT"
 				format = right
 				spacing = 0

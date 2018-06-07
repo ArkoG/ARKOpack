@@ -52,8 +52,29 @@ culture =
 	emblem = {
 		file = "gfx\\coats_of_arms\\Arko_emblem_cust.tga"
 		noOfFrames = 48
+		random = no
 	}
-
+#	emblem = {
+#		file = "gfx\\coats_of_arms\\war_of_the_roses_non_random.tga"
+#		noOfFrames = 2
+#		random = no
+#	}
+	emblem = {
+		file = "gfx\\coats_of_arms\\war_of_the_roses_emblems.tga"
+		noOfFrames = 7
+		random = no
+	}
+#	emblem = {
+#		file = "gfx\\coats_of_arms\\pdxcon_emblems.tga"
+#		noOfFrames = 17
+#		random = no
+#	}
+#	emblem = {
+#		file = "gfx\\coats_of_arms\\pdxcon_emblems_2.tga"
+#		noOfFrames = 1
+#		random = no
+#	}
+	
 	# WHEN ADDING NEW, ALWAYS ADD AT THE END !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!11111
 	textures = {
 		texture = { #texture = 0
@@ -76,6 +97,7 @@ culture =
 			noOfFrames = 99
 			emblem = no
 			#emblem = yes
+			#emblem_chance = 30 #default is 50
 			color = 2
 		}
 		texture = { #texture = 3
@@ -257,9 +279,19 @@ culture =
 		{ 0 6 12 }					#12
 	}
 
+	#emblem = {
+	#	file = "gfx\\coats_of_arms\\emblem_muslim.dds"
+	#	noOfFrames = 1
+	#}
 	emblem = {
-		file = "gfx\\coats_of_arms\\emblem_muslim.dds"
-		noOfFrames = 1
+		file = "gfx\\coats_of_arms\\Arko_emblem_cust_MUSLIM.dds"
+		noOfFrames = 18
+		random = no
+	}
+	emblem = {
+		file = "gfx\\coats_of_arms\\Arko_emblem_cust_MUSLIM_metal.dds"
+		noOfFrames = 10
+		random = yes
 	}
 
 	# WHEN ADDING NEW, ALWAYS ADD AT THE END
@@ -278,6 +310,15 @@ culture =
 			color = 0
 			emblem = no
 			random = no # Do not use for random CoAs
+		}
+		texture = {
+			file = "gfx\\coats_of_arms\\Muslim_ARKOpack_plain.tga" #texture = 2 
+			size = { x = 7 y = 2 }
+			noOfFrames = 13
+			color = 0
+			emblem =yes
+			#random = no # Do not use for random CoAs
+			emblem_chance = 100
 		}
 	}
 }
@@ -1309,6 +1350,12 @@ culture =
 	emblem = {
 		file = "gfx\\coats_of_arms\\Arko_emblem_cust.tga"
 		noOfFrames = 48
+		random = no
+	}
+	emblem = {
+		file = "gfx\\coats_of_arms\\war_of_the_roses_emblems.tga"
+		noOfFrames = 7
+		random = no
 	}
 
 	# WHEN ADDING NEW, ALWAYS ADD AT THE END !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!11111
@@ -1422,7 +1469,13 @@ culture =
 
 	emblem = {
 		file = "gfx\\coats_of_arms\\Arko_emblem_cust_MUSLIM.dds"
-		noOfFrames = 16
+		noOfFrames = 18
+		random = no
+	}
+	emblem = {
+		file = "gfx\\coats_of_arms\\Arko_emblem_cust_MUSLIM_metal.dds"
+		noOfFrames = 10
+		random = yes
 	}
 
 	# WHEN ADDING NEW, ALWAYS ADD AT THE END

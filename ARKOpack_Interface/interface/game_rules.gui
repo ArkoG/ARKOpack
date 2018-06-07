@@ -4,7 +4,7 @@ guiTypes = {
 	windowType = {
 		name ="game_rules_window"
 		backGround=""
-		position = { x=-524 y =-395 }	
+		position = { x=-524 y =-348 } 	
 		size = { x=1046 y=729 } #correct dimensions
 		moveable = 0
 		dontRender = ""
@@ -18,7 +18,7 @@ guiTypes = {
 		iconType = {
 			name = "rules_bg"	
 			quadTextureSprite ="GFX_game_rules_backgorund"
-			position = {x = 0 y = 0 }
+			position = {x = 0 y = -67 }
 		}
 		#button background overlay (1 button on the right and 1 on the left)
 		iconType = {
