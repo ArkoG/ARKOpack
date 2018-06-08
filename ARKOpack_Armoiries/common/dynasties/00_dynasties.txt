@@ -5912,7 +5912,7 @@
 	used_for_random = no
 }
 1056 = {
-	name = "Ukhaydhir"
+	name = "al-Ukhaydhirí"
 	culture ="bedouin_arabic"
 }
 1057 = {
