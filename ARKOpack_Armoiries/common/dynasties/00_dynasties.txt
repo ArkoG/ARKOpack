@@ -3438,7 +3438,7 @@
 	culture ="maghreb_arabic"
 }
 576 = {
-	name="Rass"
+	name="al-Rassí"
 	culture ="bedouin_arabic"
 }
 577 = {
