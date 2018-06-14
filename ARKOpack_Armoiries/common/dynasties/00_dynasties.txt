@@ -9053,7 +9053,7 @@ used_for_random = no
 	culture ="maghreb_arabic"
 }
 7278 = {
-	name="al-Aglabí"
+	name="al-Aghlabí"
 	culture ="andalusian_arabic"
 }
 7279 = {
@@ -19874,7 +19874,7 @@ used_for_random = no
 	culture = maghreb_arabic
 }
 100837 = {
-	name="al-Balochí"
+	name="Balochí"
 	culture = baloch
 }
 100838 = {
@@ -22353,7 +22353,7 @@ used_for_random = no
 	culture ="maghreb_arabic"
 }
 101608 = {
-	name="al-Sumadih"
+	name="al-Sumádihí"
 	culture ="andalusian_arabic"
 }
 101609 = {
