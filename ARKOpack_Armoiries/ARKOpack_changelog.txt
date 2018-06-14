@@ -1,11 +1,31 @@
-MOD NAME : ARKOpack
-MOD/DATE/NAME VERSION : 2018-05-20
-standalone version : 2018-05-20
-GAME VERSION COMPATIBILITY : 2.8.2 for COApack
-GAME VERSION COMPATIBILITY : 2.8.2 for GUIpack
-CURRENT DEV/BETA : v2.8.2 
+ARKOpack 2018-06 for CK2 2.8.3
+
+GAME VERSION COMPATIBILITY : 2.8.3 for COApack
+GAME VERSION COMPATIBILITY : 2.8.3 for GUIpack
+CURRENT DEV/BETA : v2.8.3 
 
 see included readme's for details
+--2018-06-14 for CK2 2.8.3 changelog--- 
+
+ARMOIRIES :
+Major :
+-nothing specific here
+
+Minor :
+-nothing specific here
+
+Fixes :
+-nothing specific here
+
+INTERFACE :
+Major :
+-2.8.3.update
+
+Minor :
+-added an alternate religion_icon_strip_deco (with no wooden backgrounds for pagans)
+
+Fixes :
+-nothing specific here
 
 --2018-05-20 for CK2 2.8.2 changelog--- 
 
