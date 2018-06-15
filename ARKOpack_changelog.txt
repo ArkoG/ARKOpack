@@ -2,12 +2,34 @@
 ##An improved interface and coats of arms mod for Crusader Kings 2
 #
 
-HIP included version : 2018-05-20
+ARKOpack for CK2 2.8.3
+HIP version : 2018-06-14
 standalone version : 2018-06-10
-GAME VERSION COMPATIBILITY : 2.8.2 for COApack
-GAME VERSION COMPATIBILITY : 2.8.2 for GUIpack
+GAME VERSION COMPATIBILITY : 2.8.3 for COApack
+GAME VERSION COMPATIBILITY : 2.8.3 for GUIpack
 
-see included readme's for details
+see included readme's for more details
+--2018-06-14 for CK2 2.8.3 changelog--- 
+
+ARMOIRIES :
+Major :
+-nothing specific here
+
+Minor :
+-nothing specific here
+
+Fixes :
+-nothing specific here
+
+INTERFACE :
+Major :
+-2.8.3.update
+
+Minor :
+-added an alternate religion_icon_strip_deco (with no wooden backgrounds for pagans)
+
+Fixes :
+-nothing specific here
 
 --2018-06-10 for CK2 2.8.2 changelog--- STANDALONE
 
