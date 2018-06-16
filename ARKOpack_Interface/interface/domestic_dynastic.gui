@@ -444,8 +444,8 @@ guiTypes = {
 		guiButtonType =	{
 			name = "sort_tier"
 			#position = { x=39 y=371 }
-			position = { x=39 y=422 }
-			quadTextureSprite ="GFX_sort_88"	
+			position = { x=47 y=422 }
+			quadTextureSprite ="GFX_sort_112"	
 			buttonText = "TIER"
 			buttonFont = "vic_18_black"
 			Orientation = "UPPER_LEFT"
@@ -453,7 +453,7 @@ guiTypes = {
 		guiButtonType =	{
 			name = "sort_name"
 			#position = { x=126 y=371 }
-			position = { x=129 y=422 }
+			position = { x=160 y=422 }
 			quadTextureSprite ="GFX_sort_188"	
 			buttonText = "CHAR_NAME"
 			buttonFont = "vic_18_black"
@@ -462,8 +462,8 @@ guiTypes = {
 		guiButtonType =	{
 			name = "sort_tax"
 			#position = { x=312 y=371 }
-			position = { x=318 y=422 }
-			quadTextureSprite ="GFX_sort_112"	
+			position = { x=348 y=422 }
+			quadTextureSprite ="GFX_sort_116"	
 			buttonText = "CHAR_TAX"
 			buttonFont = "vic_18_black"
 			Orientation = "UPPER_LEFT"
@@ -471,8 +471,8 @@ guiTypes = {
 		guiButtonType =	{
 			name = "sort_opinion"
 			#position = { x=398 y=371 }
-			position = { x=431 y=422 }
-			quadTextureSprite ="GFX_sort_88"	
+			position = { x=463 y=422 }
+			quadTextureSprite ="GFX_sort_76"	
 			buttonText = "OPINION"
 			buttonFont = "vic_18_black"
 			Orientation = "UPPER_LEFT"
@@ -482,13 +482,15 @@ guiTypes = {
 		{
 			name = "vassal_listbox"
 			#position = { x=22 y = 400 }
-			position = { x=28 y = 451 }
+			#position = { x=28 y = 451 }
+			position = { x=41 y = 446 }
 			backGround=""
 			size = { x = 500 y = 244 }
 			#size = { x = 491 y = 183 }
 			Orientation = "UPPER_LEFT"
-			spacing = 1
+			spacing = -1
 			scrollbartype = "standardlistbox_slider"
+			offset = { x=-1 y=-3 }
 			borderSize = {x = 10 y = 20}
 		}
 		
@@ -1956,7 +1958,7 @@ guiTypes = {
 			name ="portrait_favor_indicator"
 			quadTextureSprite = "GFX_overlay_char_favor_indicator_small_arkopack"
 #			position = { x = 19 y = -5 }
-			position = { x = 402 y = 17 }
+			position = { x = 406 y = 17 }
 			Orientation = "UPPER_LEFT"
 			pdx_tooltip = "CHARACTER_FAVOR_INDICATOR_TOOLTIP"
 		}
@@ -2023,7 +2025,7 @@ guiTypes = {
 		iconType ={
 			name ="liege_prestige"
 			spriteType = "GFX_icon_prestige"
-			position = { x= 378 y = -8 } #arkopack -5x -2y
+			position = { x= 374 y = -8 } #arkopack -5x -2y
 			Orientation = "UPPER_LEFT"
 			#scale = 0.90
 		}
@@ -2031,7 +2033,7 @@ guiTypes = {
 		iconType ={
 			name ="liege_piety"
 			spriteType = "GFX_dynastic_icon_piety"
-			position = { x= 403 y = -8 } #arkopack -5x -2y
+			position = { x= 399 y = -8 } #arkopack -5x -2y
 			Orientation = "UPPER_LEFT"
 			#scale = 0.90
 		}
@@ -2039,7 +2041,7 @@ guiTypes = {
 		iconType ={
 			name ="vote_right"
 			spriteType = "GFX_icon_voteright"
-			position = { x= 438 y = -3 }
+			position = { x= 433 y = -3 }
 			Orientation = "UPPER_LEFT"
 		}
 		instantTextBoxType = {
@@ -2058,18 +2060,18 @@ guiTypes = {
 		iconType ={
 			name ="tax_who_icon"
 			spriteType = "GFX_icon_crownpope"
-			position = { x= 272 y = 14 }
+			position = { x= 291 y = 14 }
 		}
 		
 		iconType = {
 			name ="pope_opinion_bg"
 			spriteType = "GFX_opinion_bg"
-			position = { x= 303 y = 18 }
+			position = { x= 313 y = 18 }
 			Orientation = "UPPER_LEFT"
 		}
 		instantTextBoxType = {
 				name = "pope_opinion"
-				position = { x = 295 y = 24 }
+				position = { x = 305 y = 24 }
 				textureFile = ""
 				font = "Arial12"
 				borderSize = {x = 0 y = 0}
@@ -2083,13 +2085,13 @@ guiTypes = {
 		iconType = {
 			name ="tax_bg"
 			spriteType = "GFX_icon_wealth"
-			position = { x= 375 y = 16 }
+			position = { x= 385 y = 16 }
 			Orientation = "UPPER_LEFT"
 			#scale = 0.85
 		}
 		instantTextBoxType = {
 			name = "tax"
-			position = { x = 333 y = 22 }
+			position = { x = 345 y = 22 }
 			textureFile = ""
 			font = "vic_18_black"
 			borderSize = {x = 0 y = 0}
