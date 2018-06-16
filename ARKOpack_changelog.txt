@@ -13,7 +13,7 @@ see included readme's for more details
 
 ARMOIRIES :
 -2.8.3.update
--a new of random CoA for christians (crosses serie)
+-a new set of random CoA for christians (crosses serie)
 -improved CoA frames
 
 INTERFACE :
