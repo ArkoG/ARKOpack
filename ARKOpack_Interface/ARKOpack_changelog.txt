@@ -1,36 +1,40 @@
-MOD NAME : ARKOpack
-MOD/DATE/NAME VERSION : 2018-05-20
-standalone version : 2018-05-20
-GAME VERSION COMPATIBILITY : 2.8.2 for COApack
-GAME VERSION COMPATIBILITY : 2.8.2 for GUIpack
-CURRENT DEV/BETA : v2.8.2 
+###ARKOpack by Arko
+##An improved interface and coats of arms mod for Crusader Kings 2
+#
 
-see included readme's for details
+ARKOpack for CK2 2.8.3
+HIP version : 2018-06-16
+standalone version : 2018-06-16
+GAME VERSION COMPATIBILITY : 2.8.3 for COApack
+GAME VERSION COMPATIBILITY : 2.8.3 for GUIpack
+
+see included readme's for more details
+--2018-06-16 for CK2 2.8.3 changelog--- 
+
+ARMOIRIES :
+-2.8.3.update
+-a new of random CoA for christians (crosses serie)
+-improved CoA frames
+
+INTERFACE :
+-2.8.3.update
+-reduced character sheet to fit 800 pixels high screens
+-character sheet bottom part clean up
+-added an alternate religion_icon_strip_deco (with no wooden backgrounds for pagans)
+-provides a new picture for vertical event type (Codex Manesse style church)
+
 
 --2018-05-20 for CK2 2.8.2 changelog--- 
 
 ARMOIRIES :
-Major :
 -2.8.2.update
 This include using the War of the Rose game bonus emblems, available for Chrisitan group. 
-
-Minor :
 -adds some stuff for random muslim CoA, using emblems (used outside the customizer)
 -some dynastic names and coded CoA improvments by ese-khan
 -some few new flags or improved old ones
 
-Fixes :
--nothing specific here
-
 INTERFACE :
-Major :
 -2.8.2.update
-
-Minor :
--nothing specific here
-
-Fixes :
--removed an uncessary file PLEASE DELETE ANY PREVIOUSLY INSTALLED VERSION
 
 
 --2017-12-19 for CK2 2.8.1 changelog--- 

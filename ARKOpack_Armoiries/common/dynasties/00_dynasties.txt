@@ -3436,6 +3436,20 @@
 575 = {
 	name="al-Hammadí" #Hammadiyún Hammadides
 	culture ="maghreb_arabic"
+	coat_of_arms=
+	{
+		data=
+		{
+			0 #plain
+			3 #texture
+			31 #emblem blue flower
+			40  #texture internal #
+			12  #silver
+			1  #sable
+			2 #light blue
+		}
+		religion="sunni"
+	}
 }
 576 = {
 	name="al-Rassí"
@@ -3490,13 +3504,19 @@
 	culture ="bedouin_arabic"
 }
 589 = {
-	name="al-Fátimí"
+	name="al-Fátimí" #fatimids
 	culture ="maghreb_arabic"
 	coat_of_arms=
 	{
 		data=
 		{
-			0 0 0 33 12 5 12
+			0 #plain
+			0 #texture
+			2 #emblem croissant or unique hori
+			4  #texture internal #
+			5 #darker green
+			1  #sable
+			1 #sable
 		}
 		religion="shiite"
 	}
@@ -3543,9 +3563,15 @@
 	culture ="egyptian_arabic"
 	coat_of_arms=
 	{
-		data=
+		data= #
 		{
-			0 0 0 0 12 12 12
+			0 #plain
+			0 #texture
+			2 #emblem #1 gold crescent hori
+			4  #texture internal mozarab thingy
+			1 #sable
+			12 #silver
+			2 #light blue
 		}
 		religion="sunni"
 	}
@@ -9037,8 +9063,18 @@ used_for_random = no
 	culture ="bedouin_arabic"
 }
 7274 = {
-	name="al-Murábitún"
+	name="al-Murábitún" #almoravides
 	culture ="maghreb_arabic"
+		coat_of_arms = {
+			template = 0	
+			layer = {	
+				texture = 0 #
+				texture_internal = 5
+				emblem = 32 #emblem flower
+				color = 12	color = 1	color = 1
+			}
+		religion="sunni"
+	}
 }
 7275 = {
 	name="al-Nafzáwiyya"
@@ -15558,14 +15594,24 @@ used_for_random = no
 	culture = "frankish"
 }
 24000 = {
-	name="al-Ayyúbí"
+	name="al-Ayyúbí" #ayyoubid
 	culture = kurdish
 	coat_of_arms=
 	{
 		data=
 		{
-			0 0 0 32 1 1 0
+			0 #plain
+			0 #texture
+			29 #emblem black scripture
+			17  #texture internal #
+			0  #gold
+			0  #gold
+			0 #none
 		}
+#	data=
+#		{
+#			0 0 0 32 1 1 0
+#		}
 		religion="sunni"
 	}
 }
@@ -22601,9 +22647,21 @@ used_for_random = no
 101727 = {
 	name="al-Abbásí" #Abbasid
 	culture ="bedouin_arabic"
-	coat_of_arms = {	template = 0	layer = {	texture = 1		texture_internal = 3	emblem = 0	color = 0	color = 0	color = 0	}	religion=sunni}
+	coat_of_arms = {	
+		data=
+			{
+			0 #plain
+			0 #texture
+			16 #emblem #white text
+			11  #texture internal
+			5 #dark green
+			1 #de sable
+			1 #none
+			}
+			religion=sunni
+		}
 	forced_coa_religiongroup = "muslim"
-	}
+}
 101728 = {
 	name="e-Sabbáh"
 	culture = bedouin_arabic
@@ -23454,13 +23512,23 @@ used_for_random = no
 	culture = bedouin_arabic
 }
 101864 = {
-	name="Kháqání"
+	name="Kháqání" #qarakhanides
 	culture = karluk
 	coat_of_arms=
 	{
+#		data=
+	#	{
+#			0 0 0 40 12 10 12 #have to be explicited
+	#	}
 		data=
 		{
-			0 0 0 40 12 10 12
+			0 #plain
+			0 #texture
+			13 #emblem black eagle
+			14  #texture internal #fendu diagonale
+			12 #silver
+			0 #gold
+			12 #
 		}
 		religion="sunni"
 	}
@@ -25184,10 +25252,10 @@ used_for_random = no
 	name="Mard-e Koochak"
 	culture ="dutch"
 	
-	coat_of_arms= {
-		data= { 1 0 11 19 1 14 12 0 19 19 10 3 12 0 0 19 10 13 12 0 0 19 10 13 12 }
-		religion="catholic"
-	}
+#	coat_of_arms= {
+#		data= { 1 0 11 19 1 14 12 0 19 19 10 3 12 0 0 19 10 13 12 0 0 19 10 13 12 }
+#		religion="catholic"
+#	}
 }
 
 1031026 = {
@@ -25209,10 +25277,10 @@ used_for_random = no
 	name="Blomberg"
 	culture = "swedish"
 	
-	coat_of_arms= {
-		data= { 0 1 18 17 11 11 11 1 23 15 14 12 7 1 23 15 14 12 7 }
-		religion="catholic"
-	}
+#	coat_of_arms= {
+#		data= { 0 1 18 17 11 11 11 1 23 15 14 12 7 1 23 15 14 12 7 }
+#		religion="catholic"
+#	}
 	used_for_random = no
 }
 1031030=
