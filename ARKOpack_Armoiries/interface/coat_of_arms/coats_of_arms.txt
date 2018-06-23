@@ -248,9 +248,9 @@ culture =
 		{ 220 200 0 }	#0 		Or d'Orient
 		{ 20 20 20 } 	#1 		Sable
 		{ 100 150 250 } #2 		Bleu Céleste
-		{ 40 180 40 } 	#3 		Vert Sunnite
+		{ 35 150 35 } 	#3 		Vert Sunnite
 		{ 20 20 20 }	#4 		Sable
-		{ 70 120 40 } 	#5 		Vert Shiite
+		{ 50 130 50 } 	#5 		Vert Shiite
 		{ 150 0 30 }	#6 		Rose
 		{ 150 0 30 } 	#7 		Sanguine
 		{ 200 80 0 }	#8 		Tanné
@@ -293,6 +293,11 @@ culture =
 		noOfFrames = 10
 		random = yes
 	}
+	emblem = {
+		file = "gfx\\coats_of_arms\\Arko_emblem_cust_MUSLIM_black.dds"
+		noOfFrames = 5
+		random = no
+	}
 
 	# WHEN ADDING NEW, ALWAYS ADD AT THE END
 	textures = {
@@ -319,6 +324,15 @@ culture =
 			emblem =yes
 			#random = no # Do not use for random CoAs
 			emblem_chance = 100
+		}
+		texture = {
+			file = "gfx\\coats_of_arms\\Muslim_ARKOpack_Pattern2.tga" #texture = 3
+			size = { x = 10 y = 5 }
+			noOfFrames = 30
+			color = 2
+			emblem =no
+			#random = no # Do not use for random CoAs
+			#emblem_chance = 100
 		}
 	}
 }
@@ -1436,9 +1450,9 @@ culture =
 		{ 220 200 0 }	#0 		Or d'Orient
 		{ 20 20 20 } 	#1 		Sable
 		{ 100 150 250 } #2 		Bleu Céleste
-		{ 40 180 40 } 	#3 		Vert Sunnite
+		{ 35 150 35 } 	#3 		Vert Sunnite
 		{ 20 20 20 }	#4 		Sable
-		{ 70 120 40 } 	#5 		Vert Shiite
+		{ 50 130 50 } 	#5 		Vert Shiite
 		{ 150 0 30 }	#6 		Rose
 		{ 150 0 30 } 	#7 		Sanguine
 		{ 200 80 0 }	#8 		Tanné
