@@ -3514,9 +3514,9 @@
 			0 #texture
 			2 #emblem croissant or unique hori
 			4  #texture internal #
+			12 #white
+			5  #darker green
 			5 #darker green
-			1  #sable
-			1 #sable
 		}
 		religion="shiite"
 	}
@@ -3569,9 +3569,9 @@
 			0 #texture
 			2 #emblem #1 gold crescent hori
 			4  #texture internal mozarab thingy
-			1 #sable
-			12 #silver
-			2 #light blue
+			12 #sable
+			9 #blue
+			9 #blue
 		}
 		religion="sunni"
 	}
@@ -15602,16 +15602,12 @@ used_for_random = no
 		{
 			0 #plain
 			0 #texture
-			29 #emblem black scripture
-			17  #texture internal #
+			13 #emblem black eagle
+			49  #texture internal
 			0  #gold
 			0  #gold
 			0 #none
 		}
-#	data=
-#		{
-#			0 0 0 32 1 1 0
-#		}
 		religion="sunni"
 	}
 }
@@ -22477,7 +22473,13 @@ used_for_random = no
 	{
 		data=
 		{
-			0 0 0 32 0 0 1
+			0 #plain
+			0 #texture
+			13 #emblem black eagle
+			14  #texture internal
+			5  #green
+			7  #red
+			0 #none
 		}
 		religion="sunni"
 	}
@@ -22653,8 +22655,8 @@ used_for_random = no
 			0 #plain
 			0 #texture
 			16 #emblem #white text
-			11  #texture internal
-			5 #dark green
+			49  #texture internal
+			1 #black
 			1 #de sable
 			1 #none
 			}
@@ -23525,10 +23527,10 @@ used_for_random = no
 			0 #plain
 			0 #texture
 			13 #emblem black eagle
-			14  #texture internal #fendu diagonale
-			12 #silver
-			0 #gold
-			12 #
+			49  #texture internal
+			6 #red
+			6 #red
+			6 #
 		}
 		religion="sunni"
 	}
