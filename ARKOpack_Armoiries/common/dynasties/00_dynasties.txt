@@ -30239,7 +30239,7 @@ used_for_random = no
     culture = assamese
 }
 1042122 = {
-	name="Tamím"
+	name="al-Tamímí"
 	culture ="bedouin_arabic"
 }
 
@@ -30990,7 +30990,7 @@ used_for_random = no
 }
 
 1042142 = {
-	name="al-Tamímí"
+	name="Tamím"
 	culture = bedouin_arabic
 }
 
