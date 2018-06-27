@@ -3513,10 +3513,10 @@
 			0 #plain
 			0 #texture
 			2 #emblem croissant or unique hori
-			4  #texture internal #
-			12 #white
-			5  #darker green
+			69  #texture internal #
 			5 #darker green
+			12 #white
+			12 #white
 		}
 		religion="shiite"
 	}
@@ -3567,11 +3567,11 @@
 		{
 			0 #plain
 			0 #texture
-			2 #emblem #1 gold crescent hori
-			4  #texture internal mozarab thingy
+			29 #emblem #black text
+			49  #texture internal
 			12 #sable
-			9 #blue
-			9 #blue
+			12 #white
+			12 #white
 		}
 		religion="sunni"
 	}
@@ -23526,10 +23526,10 @@ used_for_random = no
 		{
 			0 #plain
 			0 #texture
-			13 #emblem black eagle
-			49  #texture internal
+			0 #emblem
+			63  #texture internal - horse (though lion is a much better fit)
 			6 #red
-			6 #red
+			0 #yellow
 			6 #
 		}
 		religion="sunni"
