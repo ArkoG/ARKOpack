@@ -3513,7 +3513,7 @@
 			0 #plain
 			0 #texture
 			2 #emblem croissant or unique hori
-			69  #texture internal #
+			4  #texture internal #
 			5 #darker green
 			12 #white
 			12 #white
@@ -23527,9 +23527,9 @@ used_for_random = no
 			0 #plain
 			0 #texture
 			0 #emblem
-			63  #texture internal - horse (though lion is a much better fit)
+			33  #texture internal #lion
 			6 #red
-			0 #yellow
+			12 #white
 			6 #
 		}
 		religion="sunni"
