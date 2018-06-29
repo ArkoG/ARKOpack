@@ -3512,11 +3512,11 @@
 		{
 			0 #plain
 			0 #texture
-			2 #emblem croissant or unique hori
-			4  #texture internal #
+			28 #emblem croissant or unique hori
+			11  #texture internal #
+			12 #white
 			5 #darker green
-			12 #white
-			12 #white
+			5 #darker green
 		}
 		religion="shiite"
 	}
