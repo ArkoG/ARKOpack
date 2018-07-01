@@ -9301,7 +9301,7 @@ used_for_random = no
 	culture = "persian"
 }
 7331 = {
-	name="Bavandí" #Bavandiyán Bavandides
+	name="Bávandí" #Bavandiyán Bavandides
 	culture = "persian"
 }
 7332 = {
