@@ -9381,7 +9381,7 @@ used_for_random = no
 	culture ="levantine_arabic"
 }
 7351 = {
-	name="Ata-Malik"
+	name="Juvayní"
 	culture ="levantine_arabic"
 }
 7352 = {
@@ -34660,7 +34660,7 @@ used_for_random = no
 	religion="zoroastrian"
 }
 1059023 = {
-	name="Al-Dawla"
+	name="Abharí"
 	culture="persian"
 	religion="jewish"
 }
