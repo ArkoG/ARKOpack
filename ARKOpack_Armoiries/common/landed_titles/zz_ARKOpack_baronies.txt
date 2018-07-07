@@ -25,6 +25,15 @@ b_geldern	=	{ coat_of_arms = { data =	{ 0 5 0 107 0 0 0 }	religion="catholic" } 
 #from barony file
 b_geneve 	=	{ coat_of_arms = { data =	{ 0 4 0 10 0 0 0 }	religion="catholic" } }
 b_lausanne 	=	{ coat_of_arms = { data =	{ 0 4 0 13 0 0 0 }	religion="catholic" } }
+
+b_blois 	 = { coat_of_arms = { data =	{ 0 4 0 41 0 0 0 }	religion="catholic" } }
+b_troyes	 = { coat_of_arms = { data =	{ 0 4 0 42 0 0 0 }	religion="catholic" } }
+b_meaux	=	{ coat_of_arms = { data =	{ 0 4 0 43 0 0 0 }	religion="catholic" } }
+b_langres	=	{ coat_of_arms = { data =	{ 0 4 0 44 0 0 0 }	religion="catholic" } }
+b_provins	=	{ coat_of_arms = { data =	{ 0 4 0 45 0 0 0 }	religion="catholic" } }
+b_chatillon = { coat_of_arms = { data =	{ 0 4 0 46 0 0 0 }	religion="catholic" } }
+b_bonneval = { coat_of_arms = { data =	{ 0 4 0 47 0 0 0 }	religion="catholic" } }
+
 b_brienne	=	{ coat_of_arms = { data =	{ 0 4 0 29 0 0 0 }	religion="catholic" } }
 b_marseille	=	{ coat_of_arms = { data =	{ 0 4 0 81 0 0 0 }	religion="catholic" } }
 b_grimaud	=	{ coat_of_arms = { data =	{ 0 4 0 82 0 0 0 }	religion="catholic" } }
