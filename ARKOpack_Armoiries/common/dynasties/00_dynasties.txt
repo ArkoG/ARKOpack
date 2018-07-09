@@ -23703,7 +23703,7 @@ used_for_random = no
 	culture = "norman"
 }
 101904 = {
-	name="al-Ahmarí" #
+	name="al-Nasrí" #
 	culture ="andalusian_arabic"
 	coat_of_arms = {	template = 0	layer = {	texture = 1	texture_internal = 7	emblem = 0	color = 0	color = 0	color = 0	}	religion=sunni	}
 }
