@@ -28757,12 +28757,12 @@ used_for_random = no
 }
 
 1040201 = {
-	name="Aibaklar" # First Mamluk Dynasty of Delhi
+	name="Aibakí" # First Mamluk Dynasty of Delhi
 	culture = "turkish"
 }
 
 1040202 = {
-	name="Iltutmishlar" # Second Mamluk Dynasty of Delhi
+	name="Iltutmishí" # Second Mamluk Dynasty of Delhi
 	culture = "turkish"
 }
 
@@ -28772,22 +28772,22 @@ used_for_random = no
 }
 
 1040204 = {
-	name="Balbanlar" # Third Mamluk Dynasty of Delhi
+	name="Balbaní" # Third Mamluk Dynasty of Delhi
 	culture = "turkish"
 }
 
 1040205 = {
-	name="Khalji"
+	name="Khaljí"
 	culture = "turkish"
 }
 
 1040207 = {
-	name="Barwari"
+	name="Barwárí"
 	culture = "turkish"
 }
 
 1040208 = {
-	name="Tughluqlar"
+	name="Tughluqí"
 	culture = "turkish"
 }
 
