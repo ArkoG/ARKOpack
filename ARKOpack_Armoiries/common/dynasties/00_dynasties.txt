@@ -22665,7 +22665,7 @@ used_for_random = no
 	forced_coa_religiongroup = "muslim"
 }
 101728 = {
-	name="e-Sabbáh"
+	name="al-Sabbáhí"
 	culture = bedouin_arabic
 }
 101729 = {
