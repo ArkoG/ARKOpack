@@ -44,20 +44,3 @@ objectTypes = {
 #		cull_distance = 500.0f
 #	}
 }
-
-spriteTypes = {
-	### Land Trade Posts
-	
-	spriteType = {
-		name = "GFX_settlement_trade_post_land"
-		texturefile = "gfx\\interface\\trade_post_land_large_frame_LCDA.tga"
-		noOfFrames = 1
-		norefcount = yes
-	}
-	spriteType = {
-		name = "GFX_trade_post_land"
-		texturefile = "gfx\\interface\\trade_post_land_LCDA.dds"
-		noOfFrames = 3
-		clicksound = generic_click_02
-	}
-}
