@@ -1206,7 +1206,7 @@ guiTypes = {
 				guiButtonType = 
 				{
 					name = "tutorial_button"
-					position = { x = 335 y = -60 }
+					position = { x = -9335 y = -60 }
 					quadTextureSprite ="GFX_big_button_176"	
 					buttonText = "FE_TUTORIAL"
 					buttonFont = "vic_22"
@@ -1216,10 +1216,10 @@ guiTypes = {
 				guiButtonType = 
 				{
 					name = "nudge_button"
-					position = { x = 335 y = -10 }
-					quadTextureSprite ="GFX_big_button_176"	
-					buttonText = "NUDGE"
-					buttonFont = "vic_22"
+					position = { x = 894 y = 477 }
+					quadTextureSprite ="nudge_icon"
+					#buttonText = "NUDGE"
+					#buttonFont = "vic_22"
 					clicksound = menu_click
 				}
 
@@ -1383,7 +1383,7 @@ guiTypes = {
 				guiButtonType = 
 				{
 					name = "twitter_button"
-						position = { x = -66 y = -63	 }
+						position = { x = 966 y = -63	 }
 					quadTextureSprite ="twitter"	
 					clicksound = menu_click
 				}
