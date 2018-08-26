@@ -19617,7 +19617,7 @@ used_for_random = no
 	culture ="greek"
 }
 100765 = {
-	name="Abdel Nour"
+	name="al-Basrí"
 	culture ="levantine_arabic"
 }
 100766 = {
