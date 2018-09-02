@@ -24854,7 +24854,7 @@ used_for_random = no
 	culture = "maghreb_arabic"
 }
 1027015 = {
-	name="Raghraghwa"
+	name="al-Ragrágí"
 	culture = "maghreb_arabic"
 }
 1027016 = {
