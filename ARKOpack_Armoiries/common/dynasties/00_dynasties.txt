@@ -19224,7 +19224,7 @@ used_for_random = no
 	culture = persian
 }
 100667 = {
-	name="Shirazí"
+	name="Shírází"
 	culture = "persian"
 }
 100668 = {
@@ -28038,7 +28038,7 @@ used_for_random = no
 	}
 }
 1043005 = {
-	name="Habbarí"
+	name="al-Habbárí"
 	culture = "persian"
 #	coat_of_arms=
 #	{
@@ -29196,7 +29196,7 @@ used_for_random = no
 	culture = panjabi
 }
 1042099 = {
-	name="al-Munabbih" # or Banu Sama
+	name="Sáma" # or Banu Sama
 	culture = panjabi
 }
 1042101 = {
