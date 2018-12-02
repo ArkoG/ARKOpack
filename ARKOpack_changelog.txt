@@ -1,6 +1,30 @@
 ###ARKOpack by Arko
 ##An improved interface and coats of arms mod for Crusader Kings 2
 #
+ARKOpack for CK2 3.0.x
+HIP version : 2018-12-24
+standalone version : 2018-12-24
+GAME VERSION COMPATIBILITY : 3.0.x for COApack
+GAME VERSION COMPATIBILITY : 3.0.x for GUIpack
+
+see included readme's for more details
+--2018-12-24 for CK2 3.0.x changelog--- 
+
+ARMOIRIES :
+##-3.0.x update
+-improved dynastic names improvments by ese-khan
+-various CoA pattern improvments for muslims and christians
+-
+-
+
+INTERFACE :
+##-3.0.x update
+-tutorial and nudge button fix
+-enlarged artifact desc space in artifact view
+-fixed missing prestige cost icon in build building view
+-made offmap power history view adopting the same style as regular titles history view
+-
+-
 
 ARKOpack for CK2 2.8.3
 HIP version : 2018-06-16
@@ -76,7 +100,7 @@ Major :
 
 Minor :
 -some improvments and new stuff around in religion icons background in character sheet
--on-map land tradeposts are les enORMOUS
+-on-map land tradeposts are less enORMOUS
 -fixed vanilla rally point icons being too shiny in an out of place way
 -made the Wiki icon into a sidepanel button
 -slightly reduced the height of treasury view
