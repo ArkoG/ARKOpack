@@ -3452,7 +3452,7 @@
 	}
 }
 576 = {
-	name="Rass"
+	name="al-Rassí"
 	culture ="bedouin_arabic"
 }
 577 = {
@@ -5967,7 +5967,7 @@
 	used_for_random = no
 }
 1056 = {
-	name = "Ukhaydhir"
+	name = "al-Ukhaydhirí"
 	culture ="bedouin_arabic"
 }
 1057 = {
@@ -9089,7 +9089,7 @@ used_for_random = no
 	culture ="maghreb_arabic"
 }
 7278 = {
-	name="al-Aglabí"
+	name="al-Aghlabí"
 	culture ="andalusian_arabic"
 }
 7279 = {
@@ -9301,7 +9301,7 @@ used_for_random = no
 	culture = "persian"
 }
 7331 = {
-	name="Bavandí" #Bavandiyán Bavandides
+	name="Bávandí" #Bavandiyán Bavandides
 	culture = "persian"
 }
 7332 = {
@@ -9381,7 +9381,7 @@ used_for_random = no
 	culture ="levantine_arabic"
 }
 7351 = {
-	name="Ata-Malik"
+	name="Juvayní"
 	culture ="levantine_arabic"
 }
 7352 = {
@@ -11989,7 +11989,7 @@ used_for_random = no
 	culture ="maghreb_arabic"
 }
 12204 = {
-	name = "al-Ammarí"
+	name = "al-Ammárí"
 	culture ="andalusian_arabic"
 }
 12205 = {
@@ -12005,7 +12005,7 @@ used_for_random = no
 	culture ="maghreb_arabic"
 }
 12208 = {
-	name = "al-Rasiqí"
+	name = "al-Qushayrí"
 	culture ="andalusian_arabic"
 }
 12209 = {
@@ -19228,7 +19228,7 @@ used_for_random = no
 	culture = persian
 }
 100667 = {
-	name="Shirazí"
+	name="Shírází"
 	culture = "persian"
 }
 100668 = {
@@ -19621,7 +19621,7 @@ used_for_random = no
 	culture ="greek"
 }
 100765 = {
-	name="Abdel Nour"
+	name="al-Basrí"
 	culture ="levantine_arabic"
 }
 100766 = {
@@ -19920,7 +19920,7 @@ used_for_random = no
 	culture = maghreb_arabic
 }
 100837 = {
-	name="al-Balochí"
+	name="Balochí"
 	culture = baloch
 }
 100838 = {
@@ -22399,7 +22399,7 @@ used_for_random = no
 	culture ="maghreb_arabic"
 }
 101608 = {
-	name="al-Sumadih"
+	name="al-Sumádihí"
 	culture ="andalusian_arabic"
 }
 101609 = {
@@ -22477,7 +22477,16 @@ used_for_random = no
 	{
 		data=
 		{
-			0 0 0 32 0 0 1
+			#0 0 0 32 0 0 1 #vanilla ?
+	#ESE sugg
+			0 #plain
+			0 #texture
+			13 #emblem black eagle
+			14  #texture internal
+			5  #green
+			7  #red
+			0 #none
+	#ESE sugg
 		}
 		religion="sunni"
 	}
@@ -22663,7 +22672,7 @@ used_for_random = no
 	forced_coa_religiongroup = "muslim"
 }
 101728 = {
-	name="e-Sabbáh"
+	name="al-Sabbáhí"
 	culture = bedouin_arabic
 }
 101729 = {
@@ -23701,7 +23710,7 @@ used_for_random = no
 	culture = "norman"
 }
 101904 = {
-	name="al-Ahmarí" #
+	name="al-Nasrí" #
 	culture ="andalusian_arabic"
 	coat_of_arms = {	template = 0	layer = {	texture = 1	texture_internal = 7	emblem = 0	color = 0	color = 0	color = 0	}	religion=sunni	}
 }
@@ -24852,7 +24861,7 @@ used_for_random = no
 	culture = "maghreb_arabic"
 }
 1027015 = {
-	name="Raghraghwa"
+	name="al-Ragrágí"
 	culture = "maghreb_arabic"
 }
 1027016 = {
@@ -26080,7 +26089,7 @@ used_for_random = no
 	culture = bedouin_arabic
 }
 1029055 = {
-	name="al-Adárisa" #Idrisid
+	name="al-Idrísí"
 	culture ="maghreb_arabic"
 }
 1042023 = {
@@ -28036,7 +28045,7 @@ used_for_random = no
 	}
 }
 1043005 = {
-	name="Habbarí"
+	name="al-Habbárí"
 	culture = "persian"
 #	coat_of_arms=
 #	{
@@ -28755,12 +28764,12 @@ used_for_random = no
 }
 
 1040201 = {
-	name="Mamluk" # First Mamluk Dynasty of Delhi
+	name="Aibakí" # First Mamluk Dynasty of Delhi
 	culture = "turkish"
 }
 
 1040202 = {
-	name="Ghulam" # Second Mamluk Dynasty of Delhi
+	name="Iltutmishí" # Second Mamluk Dynasty of Delhi
 	culture = "turkish"
 }
 
@@ -28770,22 +28779,22 @@ used_for_random = no
 }
 
 1040204 = {
-	name="Balban" # Third Mamluk Dynasty of Delhi
+	name="Balbaní" # Third Mamluk Dynasty of Delhi
 	culture = "turkish"
 }
 
 1040205 = {
-	name="Khilji"
+	name="Khaljí"
 	culture = "turkish"
 }
 
 1040207 = {
-	name="Kushru"
+	name="Barwárí"
 	culture = "turkish"
 }
 
 1040208 = {
-	name="Tughluq"
+	name="Tughluqí"
 	culture = "turkish"
 }
 
@@ -28845,12 +28854,12 @@ used_for_random = no
 }
 
 1040220 = {
-	name="Qabajah"
+	name="Qabachalar"
 	culture = "turkish"
 }
 
 1040221 = {
-	name="Yildoz"
+	name="Yildizlar"
 	culture = "turkish"
 }
 
@@ -29194,7 +29203,7 @@ used_for_random = no
 	culture = panjabi
 }
 1042099 = {
-	name="al-Munabbih" # or Banu Sama
+	name="Sáma" # or Banu Sama
 	culture = panjabi
 }
 1042101 = {
@@ -30237,7 +30246,7 @@ used_for_random = no
     culture = assamese
 }
 1042122 = {
-	name="Tamím"
+	name="al-Tamímí"
 	culture ="bedouin_arabic"
 }
 
@@ -30988,7 +30997,7 @@ used_for_random = no
 }
 
 1042142 = {
-	name="al-Tamímí"
+	name="Tamím"
 	culture = bedouin_arabic
 }
 
@@ -31165,7 +31174,7 @@ used_for_random = no
 }
 
 1044396 = {	
-    name="Gakhkar"
+    name="Gakkhar"
     culture = panjabi
 }
 
@@ -34658,7 +34667,7 @@ used_for_random = no
 	religion="zoroastrian"
 }
 1059023 = {
-	name="Al-Dawla"
+	name="Abharí"
 	culture="persian"
 	religion="jewish"
 }
