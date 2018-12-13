@@ -1,33 +1,22 @@
-#coat_of_arms= {
-#		data= { 
-#			0 #composition/template 
-#			5 #index de texture/texture ID
-#			0 #élément en superposition/emblem
-#			13 #index interne à la texture/texture internal
-#			0 #couleur 1/colour 1
-#			0 #couleur 2/colour 2
-#			0 #couleur 3/colour 3
-#			}
-#		religion="catholic" #blason seulement actif pour cette religion, sinon random
-#	}
-
-1 = {
+1=
+{
 	name="Gårdske"
 	culture = "swedish"
 }
-2 = {
+2=
+{
+	used_for_random=no
 	name="Orsini"
 	culture="italian"
 	religion="catholic"
-#	coat_of_arms = {	template = 0	layer = {	texture = 6	texture_internal = 17	emblem = 0	color = 0	color = 0	color = 0	}	}
 	coat_of_arms = {
 		template = 0	
 		layer = {	
-			texture = 16 #italian job	
+			texture = 16 #"italian" job	
 			texture_internal = 140	
 			emblem = 0	
 			color = 0	color = 0	color = 0
-			}
+		}
 	}
 }
 3 = {
@@ -206,7 +195,7 @@
 }
 34 = {
 	name="Kotromanic"
-	culture="serbian"
+	culture="bosnian"
 	religion="bogomilist"
 	coat_of_arms = {
 		template = 0
@@ -332,7 +321,7 @@
 	coat_of_arms = {
 		template = 0	
 		layer = {	
-			texture = 16 #italian job	
+			texture = 16 #"italian" job	
 			texture_internal = 9	
 			emblem = 0	
 			color = 0	color = 0	color = 0
@@ -429,7 +418,7 @@
 	coat_of_arms = {
 		template = 0	
 		layer = {	
-			texture = 16 #italian job	
+			texture = 16 #"italian" job	
 			texture_internal = 161	
 			emblem = 0	
 			color = 0	color = 0	color = 0
@@ -443,7 +432,7 @@
 	coat_of_arms = {
 		template = 0	
 		layer = {	
-			texture = 16 #italian job	
+			texture = 16 #"italian" job	
 			texture_internal = 155	
 			emblem = 0	
 			color = 0	color = 0	color = 0
@@ -456,7 +445,7 @@
 	coat_of_arms = {
 		template = 0	
 		layer = {	
-			texture = 16 #italian job	
+			texture = 16 #"italian" job	
 			texture_internal = 160	
 			emblem = 0	
 			color = 0	color = 0	color = 0
@@ -469,7 +458,7 @@
 	coat_of_arms = {
 		template = 0	
 		layer = {	
-			texture = 16 #italian job	
+			texture = 16 #"italian" job	
 			texture_internal = 10	
 			emblem = 0	
 			color = 0	color = 0	color = 0
@@ -1196,7 +1185,7 @@
 	coat_of_arms = {
 		template = 0	
 		layer = {	
-			texture = 16 #italian job	
+			texture = 16 #"italian" job	
 			texture_internal = 34	
 			emblem = 0	
 			color = 0	color = 0	color = 0
@@ -1328,7 +1317,7 @@
 }
 183 = {
 	name="Kulinic"
-	culture ="croatian"
+	culture="bosnian"
 	religion="catholic"
 }
 184 = {
@@ -1479,7 +1468,7 @@
 	coat_of_arms = {
 		template = 0	
 		layer = {	
-			texture = 16 #italian job	
+			texture = 16 #"italian" job	
 			texture_internal = 28	
 			emblem = 0	
 			color = 0	color = 0	color = 0
@@ -1641,7 +1630,7 @@
 	coat_of_arms = {
 		template = 0	
 		layer = {	
-			texture = 16 #italian job	
+			texture = 16 #"italian" job	
 			texture_internal = 31	
 			emblem = 0	
 			color = 0	color = 0	color = 0
@@ -3096,7 +3085,7 @@
 	coat_of_arms = {
 		template = 0	
 		layer = {	
-			texture = 16 #italian job	
+			texture = 16 #"italian" job	
 			texture_internal = 103	
 			emblem = 0	
 			color = 0	color = 0	color = 0
@@ -3121,7 +3110,7 @@
 	coat_of_arms = {
 		template = 0	
 		layer = {	
-			texture = 16 #italian job	
+			texture = 16 #"italian" job	
 			texture_internal = 60	
 			emblem = 0	
 			color = 0	color = 0	color = 0
@@ -3134,7 +3123,7 @@
 	coat_of_arms = {
 		template = 0	
 		layer = {	
-			texture = 16 #italian job	
+			texture = 16 #"italian" job	
 			texture_internal = 123	
 			emblem = 0	
 			color = 0	color = 0	color = 0
@@ -3159,7 +3148,7 @@
 	coat_of_arms = {
 		template = 0	
 		layer = {	
-			texture = 16 #italian job	
+			texture = 16 #"italian" job	
 			texture_internal = 62	
 			emblem = 0	
 			color = 0	color = 0	color = 0
@@ -3697,7 +3686,7 @@
 	coat_of_arms = {
 		template = 0	
 		layer = {	
-			texture = 16 #italian job	
+			texture = 16 #"italian" job	
 			texture_internal = 121	
 			emblem = 0	
 			color = 0	color = 0	color = 0
@@ -4018,7 +4007,7 @@
 	coat_of_arms = {
 		template = 0	
 		layer = {	
-			texture = 16 #italian job	
+			texture = 16 #"italian" job	
 			texture_internal = 80	
 			emblem = 0	
 			color = 0	color = 0	color = 0
@@ -5317,12 +5306,546 @@
 #	}
 	used_for_random = no
 }
+900={
+	name="Holmsen"
+	culture="norwegian"
+	religion="catholic"
+	#coat_of_arms = {
+	#	data = {
+	#		0 2 0 4 1 3 2 2 0 4 2 0 2 2 0 4 1 3 2 2 0 4 2 3 1 
+	#	}
+	#	religion="catholic"
+	#}
+	used_for_random = no
+}
 901={
 	name="Majek"
 	culture="polish"
 	religion="slavic_pagan"
 	used_for_random = no
 }
+902={
+	name="Groth"
+	culture="dutch"
+	religion="catholic"
+	is_modified=yes
+
+	used_for_random = no
+}
+903={
+	name="Tiger"
+	culture="norse"
+	religion="norse_pagan"
+	is_modified=yes
+
+	used_for_random = no
+}
+
+904={
+	name="Savazzi"
+	culture="italian"
+	religion="catholic"
+	used_for_random = no
+}
+
+905={
+	name="Teige"
+	culture= "finnish"
+	religion= "finnish_pagan"
+	used_for_random = no
+}
+
+112358={ # Fibonacci wasn't using it, so I might as well
+	name="Enberg"
+	culture="swedish"
+	religion="catholic"
+	used_for_random=no
+}
+
+55403 = {
+	name = "Dovgulya"
+	religion= "orthodox"
+	culture= "ilmenian"
+	used_for_random=no
+}
+
+# Emperor Ticket PDXCon 2018 Dynasties
+
+906={
+	name="von Meyer"
+	culture="german"
+	religion="waldensian"
+
+	used_for_random = no
+}
+
+907={
+	name="Zilberman"
+	culture="ashkenazi"
+	religion="jewish"
+
+	used_for_random = no
+}
+
+908={
+	name="Unclded"
+	culture="russian"
+	religion="slavic_pagan"
+
+	used_for_random = no
+}
+
+909={
+	name="der Leegar"
+	culture="german"
+	religion="orthodox"
+
+	used_for_random = no
+}
+
+910={
+	name="Pattensen"
+	culture="old_saxon"
+	religion="norse_pagan"
+
+	used_for_random = no
+}
+
+911={
+	name="Corvinus"
+	culture="hungarian"
+	religion="catholic"
+
+	used_for_random = no
+}
+
+912={
+	name="Erez Sender"
+	culture="ashkenazi"
+	religion="jewish"
+
+	used_for_random = no
+}
+
+913={
+	name="Castlemount"
+	culture="old_frankish"
+	religion="catholic"
+
+	used_for_random = no
+}
+
+914={
+	name="Kawczyski"
+	culture="polish"
+	religion="catholic"
+
+	used_for_random = no
+}
+
+915={
+	name="Pedersen"
+	culture="irish"
+	religion="catholic"
+
+	used_for_random = no
+}
+
+916={
+	name="Dockhorn"
+	culture="german"
+	religion="catholic"
+
+	used_for_random = no
+}
+
+917={
+	name="von Mies"
+	culture="german"
+	religion="catholic"
+
+	used_for_random = no
+}
+
+918={
+	name="Wuttke"
+	culture="prussian"
+	religion="catholic"
+
+	used_for_random = no
+}
+
+919={
+	name="av Egilstaðir"
+	culture="norse"
+	religion="norse_pagan"
+
+	used_for_random = no
+}
+
+920={
+	name="Fjeld"
+	culture="norwegian"
+	religion="norse_pagan"
+
+	used_for_random = no
+}
+
+921={
+	name="Aytoun"
+	culture="scottish"
+	religion="catholic"
+
+	used_for_random = no
+}
+
+922={
+	name="van der Veer"
+	culture="dutch"
+	religion="catholic"
+
+	used_for_random = no
+}
+
+923={
+	name="Husker"
+	culture="saxon"
+	religion="catholic"
+
+	used_for_random = no
+}
+
+924={
+	name="Bornebusch"
+	culture="danish"
+	religion="catholic"
+
+	used_for_random = no
+}
+
+925={
+	name="Vong"
+	culture="han"
+	religion="taoist"
+
+	used_for_random = no
+}
+
+926={
+	name="Schneider"
+	culture="old_saxon"
+	religion="norse_pagan"
+
+	used_for_random = no
+}
+
+927={ # Is this the one that should be with æ? Oværgaard?
+	name="Overgaard"
+	culture="danish"
+	religion="catholic"
+
+	used_for_random = no
+}
+
+928={
+	name="MacDuff"
+	culture="saxon"
+	religion="catholic"
+
+	used_for_random = no
+}
+
+929={
+	name="Lopac"
+	culture="croatian"
+	religion="catholic"
+
+	used_for_random = no
+}
+
+930={
+	name="Kabar"
+	culture="khazar"
+	religion="zun_pagan"
+
+	used_for_random = no
+}
+
+931={
+	name="af Pynn"
+	culture="norse"
+	religion="catholic"
+
+	used_for_random = no
+}
+
+932={
+	name="Wolfendale"
+	culture="hungarian"
+	religion="tengri_pagan"
+
+	used_for_random = no
+}
+
+933={
+	name="Martinez"
+	culture="castillan"
+	religion="catholic"
+
+	used_for_random = no
+}
+
+934={
+	name="Vespasian"
+	culture="saxon"
+	religion="catholic"
+
+	used_for_random = no
+}
+
+935={
+	name="Kolbotn"
+	culture="norwegian"
+	religion="finnish_pagan"
+
+	used_for_random = no
+}
+
+936={
+	name="Poxhofer"
+	culture="german"
+	religion="catholic"
+
+	used_for_random = no
+}
+
+937={
+	name="Winch"
+	culture="croatian"
+	religion="catholic"
+
+	used_for_random = no
+}
+
+938={
+	name="Polowczyk"
+	culture="polish"
+	religion="catholic"
+
+	used_for_random = no
+}
+
+939={
+	name="Hütter"
+	culture="german"
+	religion="catholic"
+
+	used_for_random = no
+}
+
+940={
+	name="Vukalic"
+	culture="serbian"
+	religion="orthodox"
+
+	used_for_random = no
+}
+
+941={
+	name="Zikic"
+	culture="serbian"
+	religion="slavic_pagan"
+
+	used_for_random = no
+}
+
+942={
+	name="Johansson"
+	culture="norse"
+	religion="norse_pagan"
+
+	used_for_random = no
+}
+
+943={
+	name="Sherpa"
+	culture="nepali"
+	religion="buddhist"
+
+	used_for_random = no
+}
+
+944={
+	name="Welford"
+	culture="saxon"
+	religion="catholic"
+	is_modified=yes
+
+	used_for_random = no
+}
+
+945={
+	name="Baamonde"
+	culture="portuguese"
+	religion="catholic"
+
+	used_for_random = no
+}
+
+946={
+	name="Odinson"
+	culture="norse"
+	religion="norse_pagan"
+
+	used_for_random = no
+}
+
+947={
+	name="Temesi"
+	culture="norman"
+	religion="catholic"
+
+	used_for_random = no
+}
+
+948={
+	name="Sanjurjo"
+	culture="portuguese"
+	religion="catholic"
+	is_modified=yes
+
+	used_for_random = no
+}
+
+949={
+	name="Huyderman"
+	culture="norwegian"
+	religion="norse_pagan"
+
+	used_for_random = no
+}
+
+950={
+	name="Björkman"
+	culture="norse"
+	religion="norse_pagan"
+
+	used_for_random = no
+}
+
+951={
+	name="Prosapio"
+	culture="italian"
+	religion="catholic"
+
+	used_for_random = no
+}
+
+952={
+	name="Berg"
+	culture="norse"
+	religion="norse_pagan"
+
+	used_for_random = no
+}
+
+953={
+	name="Lindeus"
+	culture="norse"
+	religion="norse_pagan"
+
+	used_for_random = no
+}
+
+970 = {
+	name = "Horler"
+	culture = "english"
+	religion = "catholic"
+	used_for_random = no
+
+}
+
+971 = {
+	name = "Carlberg"
+	culture = "swedish"
+	religion = "catholic"
+	used_for_random = no
+}
+
+972 = {
+	name = "Verna"
+	culture = "italian"
+	religion = "catholic"
+
+	used_for_random = no
+}
+
+973 = {
+	name="Cowhig Croft"
+	culture="saxon"
+	religion="catholic"
+
+	used_for_random = no
+}
+
+974 = {
+	name="Riggott"
+	culture="saxon"
+	religion="catholic"
+
+	used_for_random = no
+}
+
+975 = {
+	name="Potapczyk"
+	culture="polish"
+	religion="catholic"
+
+	used_for_random = no
+}
+
+976 = {
+		name="Nowicki"
+		culture="lithuanian"
+		religion="baltic_pagan"
+		is_modified=yes
+
+}
+
+977 = {
+		name="Wyciszkiewicz"
+		culture="polish"
+		religion="catholic"
+		is_modified=yes
+
+}
+
+978 = {
+		name="Witzén"
+		culture="swedish"
+		religion="catholic"
+		is_modified=yes
+
+}
+
+979 = {
+		name="Hansson"
+		culture="lappish"
+		religion="finnish_pagan"
+		is_modified=yes
+
+}
+
+980 = {
+	name="Hofverberg"
+	culture="swedish"
+	religion="catholic"
+	is_modified=yes
+
+}
+
+
+
 1002=
 {
 	name="Banner"
@@ -8121,7 +8644,7 @@
 	coat_of_arms = {
 		template = 0	
 		layer = {	
-			texture = 16 #italian job	
+			texture = 16 #"italian" job	
 			texture_internal = 154	
 			emblem = 0	
 			color = 0	color = 0	color = 0
@@ -8134,7 +8657,7 @@
 	coat_of_arms = {
 		template = 0	
 		layer = {	
-			texture = 16 #italian job	
+			texture = 16 #"italian" job	
 			texture_internal = 135	
 			emblem = 0	
 			color = 0	color = 0	color = 0
@@ -8731,7 +9254,7 @@ used_for_random = no
 	coat_of_arms = {
 		template = 0	
 		layer = {	
-			texture = 16 #italian job	
+			texture = 16 #"italian" job	
 			texture_internal = 162	
 			emblem = 0	
 			color = 0	color = 0	color = 0
@@ -8756,7 +9279,7 @@ used_for_random = no
 	coat_of_arms = {
 		template = 0	
 		layer = {	
-			texture = 16 #italian job	
+			texture = 16 #"italian" job	
 			texture_internal = 109	
 			emblem = 0	
 			color = 0	color = 0	color = 0
@@ -8773,7 +9296,7 @@ used_for_random = no
 	coat_of_arms = {
 		template = 0	
 		layer = {	
-			texture = 16 #italian job	
+			texture = 16 #"italian" job	
 			texture_internal = 51	
 			emblem = 0	
 			color = 0	color = 0	color = 0
@@ -8857,7 +9380,7 @@ used_for_random = no
 	coat_of_arms = {
 		template = 0	
 		layer = {	
-			texture = 16 #italian job	
+			texture = 16 #"italian" job	
 			texture_internal = 52	
 			emblem = 0	
 			color = 0	color = 0	color = 0
@@ -8870,7 +9393,7 @@ used_for_random = no
 	coat_of_arms = {
 		template = 0	
 		layer = {	
-			texture = 16 #italian job	
+			texture = 16 #"italian" job	
 			texture_internal = 53	
 			emblem = 0	
 			color = 0	color = 0	color = 0
@@ -8883,7 +9406,7 @@ used_for_random = no
 	coat_of_arms = {
 		template = 0	
 		layer = {	
-			texture = 16 #italian job	
+			texture = 16 #"italian" job	
 			texture_internal = 54	
 			emblem = 0	
 			color = 0	color = 0	color = 0
@@ -8896,7 +9419,7 @@ used_for_random = no
 	coat_of_arms = {
 		template = 0	
 		layer = {	
-			texture = 16 #italian job	
+			texture = 16 #"italian" job	
 			texture_internal = 55	
 			emblem = 0	
 			color = 0	color = 0	color = 0
@@ -8957,7 +9480,7 @@ used_for_random = no
 	coat_of_arms = {
 		template = 0	
 		layer = {	
-			texture = 16 #italian job	
+			texture = 16 #"italian" job	
 			texture_internal = 152	
 			emblem = 0	
 			color = 0	color = 0	color = 0
@@ -9493,7 +10016,7 @@ used_for_random = no
 	coat_of_arms = {
 		template = 0	
 		layer = {	
-			texture = 16 #italian job	
+			texture = 16 #"italian" job	
 			texture_internal = 43
 			emblem = 0	
 			color = 0	color = 0	color = 0
@@ -10035,7 +10558,7 @@ used_for_random = no
 	coat_of_arms = {
 		template = 0	
 		layer = {	
-			texture = 16 #italian job	
+			texture = 16 #"italian" job	
 			texture_internal = 38	
 			emblem = 0	
 			color = 0	color = 0	color = 0
@@ -10048,7 +10571,7 @@ used_for_random = no
 	coat_of_arms = {
 		template = 0	
 		layer = {	
-			texture = 16 #italian job	
+			texture = 16 #"italian" job	
 			texture_internal = 47
 			emblem = 0	
 			color = 0	color = 0	color = 0
@@ -10073,7 +10596,7 @@ used_for_random = no
 	coat_of_arms = {
 		template = 0	
 		layer = {	
-			texture = 16 #italian job	
+			texture = 16 #"italian" job	
 			texture_internal = 107	
 			emblem = 0	
 			color = 0	color = 0	color = 0
@@ -10086,7 +10609,7 @@ used_for_random = no
 	coat_of_arms = {
 		template = 0	
 		layer = {	
-			texture = 16 #italian job	
+			texture = 16 #"italian" job	
 			texture_internal = 95	
 			emblem = 0	
 			color = 0	color = 0	color = 0
@@ -10103,7 +10626,7 @@ used_for_random = no
 	coat_of_arms = {
 		template = 0	
 		layer = {	
-			texture = 16 #italian job	
+			texture = 16 #"italian" job	
 			texture_internal = 39	
 			emblem = 0	
 			color = 0	color = 0	color = 0
@@ -10120,7 +10643,7 @@ used_for_random = no
 	coat_of_arms = {
 		template = 0	
 		layer = {	
-			texture = 16 #italian job	
+			texture = 16 #"italian" job	
 			texture_internal = 96	
 			emblem = 0	
 			color = 0	color = 0	color = 0
@@ -10141,7 +10664,7 @@ used_for_random = no
 	coat_of_arms = {
 		template = 0	
 		layer = {	
-			texture = 16 #italian job	
+			texture = 16 #"italian" job	
 			texture_internal = 133	
 			emblem = 0	
 			color = 0	color = 0	color = 0
@@ -10154,7 +10677,7 @@ used_for_random = no
 	coat_of_arms = {
 		template = 0	
 		layer = {	
-			texture = 16 #italian job	
+			texture = 16 #"italian" job	
 			texture_internal = 30	
 			emblem = 0	
 			color = 0	color = 0	color = 0
@@ -10171,7 +10694,7 @@ used_for_random = no
 	coat_of_arms = {
 		template = 0	
 		layer = {	
-			texture = 16 #italian job	
+			texture = 16 #"italian" job	
 			texture_internal = 164	
 			emblem = 0	
 			color = 0	color = 0	color = 0
@@ -10228,7 +10751,7 @@ used_for_random = no
 	coat_of_arms = {
 		template = 0	
 		layer = {	
-			texture = 16 #italian job	
+			texture = 16 #"italian" job	
 			texture_internal = 156
 			emblem = 0	
 			color = 0	color = 0	color = 0
@@ -10249,7 +10772,7 @@ used_for_random = no
 	coat_of_arms = {
 		template = 0	
 		layer = {	
-			texture = 16 #italian job	
+			texture = 16 #"italian" job	
 			texture_internal = 105	
 			emblem = 0	
 			color = 0	color = 0	color = 0
@@ -10270,7 +10793,7 @@ used_for_random = no
 	coat_of_arms = {
 		template = 0	
 		layer = {	
-			texture = 16 #italian job	
+			texture = 16 #"italian" job	
 			texture_internal = 26	
 			emblem = 0	
 			color = 0	color = 0	color = 0
@@ -10295,7 +10818,7 @@ used_for_random = no
 	coat_of_arms = {
 		template = 0	
 		layer = {	
-			texture = 16 #italian job	
+			texture = 16 #"italian" job	
 			texture_internal = 153	
 			emblem = 0	
 			color = 0	color = 0	color = 0
@@ -10308,7 +10831,7 @@ used_for_random = no
 	coat_of_arms = {
 		template = 0	
 		layer = {	
-			texture = 16 #italian job	
+			texture = 16 #"italian" job	
 			texture_internal = 83	
 			emblem = 0	
 			color = 0	color = 0	color = 0
@@ -10353,7 +10876,7 @@ used_for_random = no
 	coat_of_arms = {
 		template = 0	
 		layer = {	
-			texture = 16 #italian job	
+			texture = 16 #"italian" job	
 			texture_internal = 14	
 			emblem = 0	
 			color = 0	color = 0	color = 0
@@ -10370,7 +10893,7 @@ used_for_random = no
 	coat_of_arms = {
 		template = 0	
 		layer = {	
-			texture = 16 #italian job	
+			texture = 16 #"italian" job	
 			texture_internal = 158
 			emblem = 0	
 			color = 0	color = 0	color = 0
@@ -10387,7 +10910,7 @@ used_for_random = no
 	coat_of_arms = {
 		template = 0	
 		layer = {	
-			texture = 16 #italian job	
+			texture = 16 #"italian" job	
 			texture_internal = 84	
 			emblem = 0	
 			color = 0	color = 0	color = 0
@@ -10404,7 +10927,7 @@ used_for_random = no
 	coat_of_arms = {
 		template = 0	
 		layer = {	
-			texture = 16 #italian job	
+			texture = 16 #"italian" job	
 			texture_internal = 131	
 			emblem = 0	
 			color = 0	color = 0	color = 0
@@ -10417,7 +10940,7 @@ used_for_random = no
 	coat_of_arms = {
 		template = 0	
 		layer = {	
-			texture = 16 #italian job	
+			texture = 16 #"italian" job	
 			texture_internal = 93	
 			emblem = 0	
 			color = 0	color = 0	color = 0
@@ -10430,7 +10953,7 @@ used_for_random = no
 	coat_of_arms = {
 		template = 0	
 		layer = {	
-			texture = 16 #italian job	
+			texture = 16 #"italian" job	
 			texture_internal = 111	
 			emblem = 0	
 			color = 0	color = 0	color = 0
@@ -10443,7 +10966,7 @@ used_for_random = no
 	coat_of_arms = {
 		template = 0	
 		layer = {	
-			texture = 16 #italian job	
+			texture = 16 #"italian" job	
 			texture_internal = 94	
 			emblem = 0	
 			color = 0	color = 0	color = 0
@@ -10464,7 +10987,7 @@ used_for_random = no
 	coat_of_arms = {
 		template = 0	
 		layer = {	
-			texture = 16 #italian job	
+			texture = 16 #"italian" job	
 			texture_internal = 25	
 			emblem = 0	
 			color = 0	color = 0	color = 0
@@ -10490,7 +11013,7 @@ used_for_random = no
 	coat_of_arms = {
 		template = 0	
 		layer = {	
-			texture = 16 #italian job	
+			texture = 16 #"italian" job	
 			texture_internal = 15	
 			emblem = 0	
 			color = 0	color = 0	color = 0
@@ -10611,7 +11134,7 @@ used_for_random = no
 	coat_of_arms = {
 		template = 0	
 		layer = {	
-			texture = 16 #italian job	
+			texture = 16 #"italian" job	
 			texture_internal = 3	
 			emblem = 0	
 			color = 0	color = 0	color = 0
@@ -10728,7 +11251,7 @@ used_for_random = no
 	coat_of_arms = {
 		template = 0	
 		layer = {	
-			texture = 16 #italian job	
+			texture = 16 #"italian" job	
 			texture_internal = 133
 			emblem = 0	
 			color = 0	color = 0	color = 0
@@ -10741,7 +11264,7 @@ used_for_random = no
 	coat_of_arms = {
 		template = 0	
 		layer = {	
-			texture = 16 #italian job	
+			texture = 16 #"italian" job	
 			texture_internal = 124	
 			emblem = 0	
 			color = 0	color = 0	color = 0
@@ -10754,7 +11277,7 @@ used_for_random = no
 	coat_of_arms = {
 		template = 0	
 		layer = {	
-			texture = 16 #italian job	
+			texture = 16 #"italian" job	
 			texture_internal = 144	
 			emblem = 0	
 			color = 0	color = 0	color = 0
@@ -10771,7 +11294,7 @@ used_for_random = no
 	coat_of_arms = {
 		template = 0	
 		layer = {	
-			texture = 16 #italian job	
+			texture = 16 #"italian" job	
 			texture_internal = 125	
 			emblem = 0	
 			color = 0	color = 0	color = 0
@@ -10795,7 +11318,7 @@ used_for_random = no
 	coat_of_arms = {
 		template = 0	
 		layer = {	
-			texture = 16 #italian job	
+			texture = 16 #"italian" job	
 			texture_internal = 134	
 			emblem = 0	
 			color = 0	color = 0	color = 0
@@ -10828,7 +11351,7 @@ used_for_random = no
 	coat_of_arms = {
 		template = 0	
 		layer = {	
-			texture = 16 #italian job	
+			texture = 16 #"italian" job	
 			texture_internal = 159	
 			emblem = 0	
 			color = 0	color = 0	color = 0
@@ -11194,9 +11717,11 @@ used_for_random = no
 	culture = ugricbaltic
 }
 
-9538 = {
-	name="Läänemaa"
-	culture = ugricbaltic
+9538=
+{
+	name="Maataiki"
+	culture="ugricbaltic"
+	religion="finnish_pagan"
 }
 9539 = {
 	name="Vaiga"
@@ -12151,7 +12676,7 @@ used_for_random = no
 	coat_of_arms = {
 		template = 0	
 		layer = {	
-			texture = 16 #italian job	
+			texture = 16 #"italian" job	
 			texture_internal = 132	
 			emblem = 0	
 			color = 0	color = 0	color = 0
@@ -12164,7 +12689,7 @@ used_for_random = no
 	coat_of_arms = {
 		template = 0	
 		layer = {	
-			texture = 16 #italian job	
+			texture = 16 #"italian" job	
 			texture_internal = 150	
 			emblem = 0	
 			color = 0	color = 0	color = 0
@@ -12715,7 +13240,7 @@ used_for_random = no
 	coat_of_arms = {
 		template = 0	
 		layer = {	
-			texture = 16 #italian job	
+			texture = 16 #"italian" job	
 			texture_internal = 13	
 			emblem = 0	
 			color = 0	color = 0	color = 0
@@ -12728,7 +13253,7 @@ used_for_random = no
 	coat_of_arms = {
 		template = 0	
 		layer = {	
-			texture = 16 #italian job	
+			texture = 16 #"italian" job	
 			texture_internal = 16	
 			emblem = 0	
 			color = 0	color = 0	color = 0
@@ -12742,7 +13267,7 @@ used_for_random = no
 	coat_of_arms = {
 		template = 0	
 		layer = {	
-			texture = 16 #italian job	
+			texture = 16 #"italian" job	
 			texture_internal = 81	
 			emblem = 0	
 			color = 0	color = 0	color = 0
@@ -12755,7 +13280,7 @@ used_for_random = no
 	coat_of_arms = {
 		template = 0	
 		layer = {	
-			texture = 16 #italian job	
+			texture = 16 #"italian" job	
 			texture_internal = 17	
 			emblem = 0	
 			color = 0	color = 0	color = 0
@@ -12768,7 +13293,7 @@ used_for_random = no
 	coat_of_arms = {
 		template = 0	
 		layer = {	
-			texture = 16 #italian job	
+			texture = 16 #"italian" job	
 			texture_internal = 18	
 			emblem = 0	
 			color = 0	color = 0	color = 0
@@ -12781,7 +13306,7 @@ used_for_random = no
 	coat_of_arms = {
 		template = 0	
 		layer = {	
-			texture = 16 #italian job	
+			texture = 16 #"italian" job	
 			texture_internal = 108	
 			emblem = 0	
 			color = 0	color = 0	color = 0
@@ -12794,7 +13319,7 @@ used_for_random = no
 	coat_of_arms = {
 		template = 0	
 		layer = {	
-			texture = 16 #italian job	
+			texture = 16 #"italian" job	
 			texture_internal = 50	
 			emblem = 0	
 			color = 0	color = 0	color = 0
@@ -12807,7 +13332,7 @@ used_for_random = no
 	coat_of_arms = {
 		template = 0	
 		layer = {	
-			texture = 16 #italian job	
+			texture = 16 #"italian" job	
 			texture_internal = 46
 			emblem = 0	
 			color = 0	color = 0	color = 0
@@ -12820,7 +13345,7 @@ used_for_random = no
 	coat_of_arms = {
 		template = 0	
 		layer = {	
-			texture = 16 #italian job	
+			texture = 16 #"italian" job	
 			texture_internal = 126	
 			emblem = 0	
 			color = 0	color = 0	color = 0
@@ -12833,7 +13358,7 @@ used_for_random = no
 	coat_of_arms = {
 		template = 0	
 		layer = {	
-			texture = 16 #italian job	
+			texture = 16 #"italian" job	
 			texture_internal = 41
 			emblem = 0	
 			color = 0	color = 0	color = 0
@@ -12846,7 +13371,7 @@ used_for_random = no
 	coat_of_arms = {
 		template = 0	
 		layer = {	
-			texture = 16 #italian job	
+			texture = 16 #"italian" job	
 			texture_internal = 22	
 			emblem = 0	
 			color = 0	color = 0	color = 0
@@ -12859,7 +13384,7 @@ used_for_random = no
 	coat_of_arms = {
 		template = 0	
 		layer = {	
-			texture = 16 #italian job	
+			texture = 16 #"italian" job	
 			texture_internal = 72	
 			emblem = 0	
 			color = 0	color = 0	color = 0
@@ -12876,7 +13401,7 @@ used_for_random = no
 	coat_of_arms = {
 		template = 0	
 		layer = {	
-			texture = 16 #italian job	
+			texture = 16 #"italian" job	
 			texture_internal = 112	
 			emblem = 0	
 			color = 0	color = 0	color = 0
@@ -12889,7 +13414,7 @@ used_for_random = no
 	coat_of_arms = {
 		template = 0	
 		layer = {	
-			texture = 16 #italian job	
+			texture = 16 #"italian" job	
 			texture_internal = 37	
 			emblem = 0	
 			color = 0	color = 0	color = 0
@@ -12902,7 +13427,7 @@ used_for_random = no
 	coat_of_arms = {
 		template = 0	
 		layer = {	
-			texture = 16 #italian job	
+			texture = 16 #"italian" job	
 			texture_internal = 137	
 			emblem = 0	
 			color = 0	color = 0	color = 0
@@ -12927,7 +13452,7 @@ used_for_random = no
 	coat_of_arms = {
 		template = 0	
 		layer = {	
-			texture = 16 #italian job	
+			texture = 16 #"italian" job	
 			texture_internal = 6	
 			emblem = 0	
 			color = 0	color = 0	color = 0
@@ -12940,7 +13465,7 @@ used_for_random = no
 	coat_of_arms = {
 		template = 0	
 		layer = {	
-			texture = 16 #italian job	
+			texture = 16 #"italian" job	
 			texture_internal = 77	
 			emblem = 0	
 			color = 0	color = 0	color = 0
@@ -12957,7 +13482,7 @@ used_for_random = no
 	coat_of_arms = {
 		template = 0	
 		layer = {	
-			texture = 16 #italian job	
+			texture = 16 #"italian" job	
 			texture_internal = 136
 			emblem = 0	
 			color = 0	color = 0	color = 0
@@ -12978,7 +13503,7 @@ used_for_random = no
 	coat_of_arms = {
 		template = 0	
 		layer = {	
-			texture = 16 #italian job	
+			texture = 16 #"italian" job	
 			texture_internal = 48
 			emblem = 0	
 			color = 0	color = 0	color = 0
@@ -12996,7 +13521,7 @@ used_for_random = no
 	coat_of_arms = {
 		template = 0	
 		layer = {	
-			texture = 16 #italian job	
+			texture = 16 #"italian" job	
 			texture_internal = 42
 			emblem = 0	
 			color = 0	color = 0	color = 0
@@ -13037,7 +13562,7 @@ used_for_random = no
 	coat_of_arms = {
 		template = 0	
 		layer = {	
-			texture = 16 #italian job	
+			texture = 16 #"italian" job	
 			texture_internal = 61
 			emblem = 0	
 			color = 0	color = 0	color = 0
@@ -13062,7 +13587,7 @@ used_for_random = no
 	coat_of_arms = {
 		template = 0	
 		layer = {	
-			texture = 16 #italian job	
+			texture = 16 #"italian" job	
 			texture_internal = 5	
 			emblem = 0	
 			color = 0	color = 0	color = 0
@@ -13075,7 +13600,7 @@ used_for_random = no
 	coat_of_arms = {
 		template = 0	
 		layer = {	
-			texture = 16 #italian job	
+			texture = 16 #"italian" job	
 			texture_internal = 19	
 			emblem = 0	
 			color = 0	color = 0	color = 0
@@ -13088,7 +13613,7 @@ used_for_random = no
 	coat_of_arms = {
 		template = 0	
 		layer = {	
-			texture = 16 #italian job	
+			texture = 16 #"italian" job	
 			texture_internal = 114	
 			emblem = 0	
 			color = 0	color = 0	color = 0
@@ -13113,7 +13638,7 @@ used_for_random = no
 	coat_of_arms = {
 		template = 0	
 		layer = {	
-			texture = 16 #italian job	
+			texture = 16 #"italian" job	
 			texture_internal = 120	
 			emblem = 0	
 			color = 0	color = 0	color = 0
@@ -13127,7 +13652,7 @@ used_for_random = no
 	coat_of_arms = {
 		template = 0	
 		layer = {	
-			texture = 16 #italian job	
+			texture = 16 #"italian" job	
 			texture_internal = 44
 			emblem = 0	
 			color = 0	color = 0	color = 0
@@ -13140,7 +13665,7 @@ used_for_random = no
 	coat_of_arms = {
 		template = 0	
 		layer = {	
-			texture = 16 #italian job	
+			texture = 16 #"italian" job	
 			texture_internal = 127	
 			emblem = 0	
 			color = 0	color = 0	color = 0
@@ -13153,7 +13678,7 @@ used_for_random = no
 	coat_of_arms = {
 		template = 0	
 		layer = {	
-			texture = 16 #italian job	
+			texture = 16 #"italian" job	
 			texture_internal = 20	
 			emblem = 0	
 			color = 0	color = 0	color = 0
@@ -13202,7 +13727,7 @@ used_for_random = no
 	coat_of_arms = {
 		template = 0	
 		layer = {	
-			texture = 16 #italian job	
+			texture = 16 #"italian" job	
 			texture_internal = 8	
 			emblem = 0	
 			color = 0	color = 0	color = 0
@@ -13215,7 +13740,7 @@ used_for_random = no
 	coat_of_arms = {
 		template = 0	
 		layer = {	
-			texture = 16 #italian job	
+			texture = 16 #"italian" job	
 			texture_internal = 139	
 			emblem = 0	
 			color = 0	color = 0	color = 0
@@ -13232,7 +13757,7 @@ used_for_random = no
 	coat_of_arms = {
 		template = 0	
 		layer = {	
-			texture = 16 #italian job	
+			texture = 16 #"italian" job	
 			texture_internal = 143	
 			emblem = 0	
 			color = 0	color = 0	color = 0
@@ -13249,7 +13774,7 @@ used_for_random = no
 	coat_of_arms = {
 		template = 0	
 		layer = {	
-			texture = 16 #italian job	
+			texture = 16 #"italian" job	
 			texture_internal = 147	
 			emblem = 0	
 			color = 0	color = 0	color = 0
@@ -13262,7 +13787,7 @@ used_for_random = no
 	coat_of_arms = {
 		template = 0	
 		layer = {	
-			texture = 16 #italian job	
+			texture = 16 #"italian" job	
 			texture_internal = 138	
 			emblem = 0	
 			color = 0	color = 0	color = 0
@@ -13275,7 +13800,7 @@ used_for_random = no
 	coat_of_arms = {
 		template = 0	
 		layer = {	
-			texture = 16 #italian job	
+			texture = 16 #"italian" job	
 			texture_internal = 141	
 			emblem = 0	
 			color = 0	color = 0	color = 0
@@ -13299,7 +13824,7 @@ used_for_random = no
 	coat_of_arms = {
 		template = 0	
 		layer = {	
-			texture = 16 #italian job	
+			texture = 16 #"italian" job	
 			texture_internal = 130	
 			emblem = 0	
 			color = 0	color = 0	color = 0
@@ -13323,7 +13848,7 @@ used_for_random = no
 	coat_of_arms = {
 		template = 0	
 		layer = {	
-			texture = 16 #italian job	
+			texture = 16 #"italian" job	
 			texture_internal = 35	
 			emblem = 0	
 			color = 0	color = 0	color = 0
@@ -13340,7 +13865,7 @@ used_for_random = no
 	coat_of_arms = {
 		template = 0	
 		layer = {	
-			texture = 16 #italian job	
+			texture = 16 #"italian" job	
 			texture_internal = 90	
 			emblem = 0	
 			color = 0	color = 0	color = 0
@@ -13353,7 +13878,7 @@ used_for_random = no
 	coat_of_arms = {
 		template = 0	
 		layer = {	
-			texture = 16 #italian job	
+			texture = 16 #"italian" job	
 			texture_internal = 146
 			emblem = 0	
 			color = 0	color = 0	color = 0
@@ -13374,7 +13899,7 @@ used_for_random = no
 	coat_of_arms = {
 		template = 0	
 		layer = {	
-			texture = 16 #italian job	
+			texture = 16 #"italian" job	
 			texture_internal = 76	
 			emblem = 0	
 			color = 0	color = 0	color = 0
@@ -13387,7 +13912,7 @@ used_for_random = no
 	coat_of_arms = {
 		template = 0	
 		layer = {	
-			texture = 16 #italian job	
+			texture = 16 #"italian" job	
 			texture_internal = 142	
 			emblem = 0	
 			color = 0	color = 0	color = 0
@@ -13404,7 +13929,7 @@ used_for_random = no
 	coat_of_arms = {
 		template = 0	
 		layer = {	
-			texture = 16 #italian job	
+			texture = 16 #"italian" job	
 			texture_internal = 104	
 			emblem = 0	
 			color = 0	color = 0	color = 0
@@ -13433,7 +13958,7 @@ used_for_random = no
 	coat_of_arms = {
 		template = 0	
 		layer = {	
-			texture = 16 #italian job	
+			texture = 16 #"italian" job	
 			texture_internal = 97	
 			emblem = 0	
 			color = 0	color = 0	color = 0
@@ -13446,7 +13971,7 @@ used_for_random = no
 	coat_of_arms = {
 		template = 0	
 		layer = {	
-			texture = 16 #italian job	
+			texture = 16 #"italian" job	
 			texture_internal = 75	
 			emblem = 0	
 			color = 0	color = 0	color = 0
@@ -13463,7 +13988,7 @@ used_for_random = no
 	coat_of_arms = {
 		template = 0	
 		layer = {	
-			texture = 16 #italian job	
+			texture = 16 #"italian" job	
 			texture_internal = 23	
 			emblem = 0	
 			color = 0	color = 0	color = 0
@@ -13476,7 +14001,7 @@ used_for_random = no
 	coat_of_arms = {
 		template = 0	
 		layer = {	
-			texture = 16 #italian job	
+			texture = 16 #"italian" job	
 			texture_internal = 145
 			emblem = 0	
 			color = 0	color = 0	color = 0
@@ -13505,7 +14030,7 @@ used_for_random = no
 	coat_of_arms = {
 		template = 0	
 		layer = {	
-			texture = 16 #italian job	
+			texture = 16 #"italian" job	
 			texture_internal = 63	
 			emblem = 0	
 			color = 0	color = 0	color = 0
@@ -13518,7 +14043,7 @@ used_for_random = no
 	coat_of_arms = {
 		template = 0	
 		layer = {	
-			texture = 16 #italian job	
+			texture = 16 #"italian" job	
 			texture_internal = 59	
 			emblem = 0	
 			color = 0	color = 0	color = 0
@@ -13555,7 +14080,7 @@ used_for_random = no
 	coat_of_arms = {
 		template = 0	
 		layer = {	
-			texture = 16 #italian job	
+			texture = 16 #"italian" job	
 			texture_internal = 64	
 			emblem = 0	
 			color = 0	color = 0	color = 0
@@ -13568,7 +14093,7 @@ used_for_random = no
 	coat_of_arms = {
 		template = 0	
 		layer = {	
-			texture = 16 #italian job	
+			texture = 16 #"italian" job	
 			texture_internal = 57	
 			emblem = 0	
 			color = 0	color = 0	color = 0
@@ -13581,7 +14106,7 @@ used_for_random = no
 	coat_of_arms = {
 		template = 0	
 		layer = {	
-			texture = 16 #italian job	
+			texture = 16 #"italian" job	
 			texture_internal = 151	
 			emblem = 0	
 			color = 0	color = 0	color = 0
@@ -13598,7 +14123,7 @@ used_for_random = no
 	coat_of_arms = {
 		template = 0	
 		layer = {	
-			texture = 16 #italian job	
+			texture = 16 #"italian" job	
 			texture_internal = 58	
 			emblem = 0	
 			color = 0	color = 0	color = 0
@@ -13616,7 +14141,7 @@ used_for_random = no
 	coat_of_arms = {
 		template = 0	
 		layer = {	
-			texture = 16 #italian job	
+			texture = 16 #"italian" job	
 			texture_internal = 31	
 			emblem = 0	
 			color = 0	color = 0	color = 0
@@ -13629,7 +14154,7 @@ used_for_random = no
 	coat_of_arms = {
 		template = 0	
 		layer = {	
-			texture = 16 #italian job	
+			texture = 16 #"italian" job	
 			texture_internal = 70	
 			emblem = 0	
 			color = 0	color = 0	color = 0
@@ -13642,7 +14167,7 @@ used_for_random = no
 	coat_of_arms = {
 		template = 0	
 		layer = {	
-			texture = 16 #italian job	
+			texture = 16 #"italian" job	
 			texture_internal = 71	
 			emblem = 0	
 			color = 0	color = 0	color = 0
@@ -13655,7 +14180,7 @@ used_for_random = no
 	coat_of_arms = {
 		template = 0	
 		layer = {	
-			texture = 16 #italian job	
+			texture = 16 #"italian" job	
 			texture_internal = 128	
 			emblem = 0	
 			color = 0	color = 0	color = 0
@@ -13672,7 +14197,7 @@ used_for_random = no
 	coat_of_arms = {
 		template = 0	
 		layer = {	
-			texture = 16 #italian job	
+			texture = 16 #"italian" job	
 			texture_internal = 29	
 			emblem = 0	
 			color = 0	color = 0	color = 0
@@ -14052,6 +14577,47 @@ used_for_random = no
 	name="Muzaka"
 	culture ="serbian"
 }
+15004=
+{
+	name="Dukljanin"
+	culture="serbian"
+}
+#Sclaveni dynasties
+15005=
+{
+	name="Petrovic"
+	culture="serbian"
+}
+15006=
+{
+	name="Urosevic"
+	culture="serbian"
+}
+15007=
+{
+	name="Nedeljkovic"
+	culture="serbian"
+}
+15008=
+{
+	name="Grgurovic"
+	culture="serbian"
+}
+15009=
+{
+	name="Mijatovic"
+	culture="serbian"
+}
+15010=
+{
+	name="Dapcevic"
+	culture="serbian"
+}
+15011=
+{
+	name="Vladimirovic"
+	culture="serbian"
+}
 17000 = {
 	name="Assen"
 	culture ="serbian"
@@ -14059,6 +14625,7 @@ used_for_random = no
 17001 = {
 	name="Terter"
 	culture ="bulgarian"
+	religion="orthodox"
 }
 17002 = {
 	name="Tich"
@@ -14104,9 +14671,11 @@ used_for_random = no
 	name="Konstantinov"
 	culture = "russian"
 }
-18000 = {
-	name="Vukanovic"
-	culture ="serbian"
+18000=
+{
+    name="Vojislavljevic"
+    culture="serbian"
+    religion="orthodox"
 }
 18001 = {
 	name="Mrnjavcevic"
@@ -14115,6 +14684,7 @@ used_for_random = no
 18002 = {
 	name="Lazarevic"
 	culture ="serbian"
+	religion="orthodox"
 }
 18003 = {
 	name="Brankovic"
@@ -14123,10 +14693,12 @@ used_for_random = no
 18004 = {
 	name="Balsic"
 	culture ="serbian"
+	religion="orthodox"
 }
 18005 = {
 	name="Subic"
 	culture ="croatian"
+	religion="catholic"
 	coat_of_arms = {
 		template = 0
 		layer = {
@@ -14137,291 +14709,388 @@ used_for_random = no
 			color = 0
 			color = 0
 		}
+		religion="catholic"
 	}
 }
-18006 = {
+18006=
+{
 	name="Hrvatinic"
-	culture ="croatian"
+	culture="bosnian"
 }
-18008 = {
+18008=
+{
 	name="Kosaca"
-	culture ="croatian"
+	culture="bosnian"
 }
-18009 = {
+18009=
+{
 	name="Vukcic"
-	culture ="croatian"
+	culture="bosnian"
 }
-18010 = {
+18010=
+{
 	name="Uglesa"
-	culture ="serbian"
+	culture="serbian"
 }
-18011 = {
+18011=
+{
 	name="Hlapen"
-	culture ="serbian"
+	culture="serbian"
 }
-18012 = {
+18012=
+{
 	name="Vukasin"
-	culture ="croatian"
+	culture="croatian"
 }
-18013 = {
+18013=
+{
 	name="Dukasin"
-	culture ="croatian"
+	culture="croatian"
 }
-18014 = {
+18014=
+{
 	name="Selimovic"
-	culture = "romanian"
+	culture="romanian"
 }
-19000 = {
+19000=
+{
 	name="Aba"
 	culture ="hungarian"
+	religion="catholic"
 }
-19001 = {
+19001=
+{
 	name="Apafi"
-	culture ="hungarian"
+	culture="hungarian"
+	religion="catholic"
 }
-19002 = {
+19002=
+{
 	name="Babonic"
-	culture ="croatian"
+	culture="croatian"
+	religion="catholic"
 }
-19003 = {
+19003=
+{
 	name="Bercsényi"
-	culture ="hungarian"
+	culture="hungarian"
+	religion="catholic"
 }
-19004 = {
+19004=
+{
 	name="Kastriotic"
-	culture ="croatian"
+	culture="croatian"
 }
-19005 = {
+19005=
+{
 	name="Bánffy"
-	culture ="hungarian"
+	culture="hungarian"
 }
-19006 = {
+19006=
+{
 	name="Berzényi"
-	culture ="hungarian"
+	culture="hungarian"
 }
-19007 = {
+19007=
+{
 	name="Blagai"
-	culture ="serbian"
+	culture="serbian"
+	religion="catholic"
 }
-19008 = {
+19008=
+{
 	name="Bocskai"
-	culture ="hungarian"
+	culture="hungarian"
 }
-19009 = {
+19009=
+{
 	name="Borsa"
-	culture ="hungarian"
+	culture="hungarian"
+	religion="catholic"
 }
-19010 = {
+19010=
+{
 	name="Csák"
-	culture ="hungarian"
+	culture="hungarian"
+	religion="catholic"
 }
-19011 = {
+19011=
+{
 	name="Csáky"
-	culture = "romanian"
+	culture="romanian"
 }
-19012 = {
+19012=
+{
 	name="Cziráky"
-	culture ="hungarian"
+	culture="hungarian"
 }
-19013 = {
+19013=
+{
 	name="Czobor"
-	culture ="serbian"
+	culture="serbian"
 }
-19014 = {
+19014=
+{
 	name="Debreceni"
-	culture ="hungarian"
+	culture="hungarian"
+	religion="catholic"
 }
-19015 = {
+19015=
+{
 	name="Derencsényi"
-	culture ="hungarian"
+	culture="hungarian"
 }
-19016 = {
+19016=
+{
 	name="Dezsõfi"
-	culture = "romanian"
+	culture="romanian"
 }
-19017 = {
+19017=
+{
 	name="Diószegi"
-	culture ="hungarian"
+	culture="hungarian"
 }
-19018 = {
+19018=
+{
 	name="Dõry"
-	culture ="hungarian"
+	culture="hungarian"
 }
-19019 = {
+19019=
+{
 	name="Drágfi"
-	culture ="hungarian"
+	culture="hungarian"
+	religion="catholic"
 }
-19020 = {
+19020=
+{
 	name="Guthi-Országh"
-	culture = "romanian"
+	culture="romanian"
 }
-19021 = {
+19021=
+{
 	name="Egervári"
-	culture ="hungarian"
+	culture="hungarian"
 }
-19023 = {
+19023=
+{
 	name="Forgách"
-	culture ="hungarian"
+	culture="hungarian"
 }
-19024 = {
+19024=
+{
 	name="Frankopan"
-	culture ="croatian"
+	culture="croatian"
+	religion="catholic"
 }
-19025 = {
+19025=
+{
 	name="Garai"
-	culture ="hungarian"
+	culture="hungarian"
 }
-19026 = {
+19026=
+{
 	name="Pálóczi"
-	culture ="hungarian"
+	culture="hungarian"
 }
-19027 = {
+19027=
+{
 	name="Hédervári"
-	culture ="hungarian"
+	culture="hungarian"
 }
-19028 = {
+19028=
+{
 	name="Hunyadi"
-	culture ="hungarian"
+	culture="hungarian"
 }
-19029 = {
+19029=
+{
 	name="Kacic"
-	culture ="croatian"
+	culture="croatian"
 }
-19030 = {
+19030=
+{
 	name="Kán"
-	culture ="hungarian"
+	culture="hungarian"
+	religion="catholic"
 }
-19031 = {
+19031=
+{
 	name="Károlyi"
-	culture ="hungarian"
+	culture="hungarian"
 }
-19032 = {
+19032=
+{
 	name="Kõszegi"
-	culture ="hungarian"
+	culture="hungarian"
+	religion="catholic"
 }
-19033 = {
+19033=
+{
 	name="Kun"
-	culture ="hungarian"
+	culture="hungarian"
 }
-19034 = {
+19034=
+{
 	name="Losonczi"
-	culture ="hungarian"
+	culture="hungarian"
 }
-19035 = {
+19035=
+{
 	name="Marczaltövi"
-	culture = "romanian"
+	culture="romanian"
 }
-19036 = {
+19036=
+{
 	name="Maróti"
-	culture ="hungarian"
+	culture="hungarian"
 }
-19037 = {
+19037=
+{
 	name="Perényi"
-	culture ="hungarian"
+	culture="hungarian"
 }
-19038 = {
+19038=
+{
 	name="Petenye"
-	culture = "romanian"
+	culture="romanian"
 }
-19039 = {
+19039=
+{
 	name="Rátót"
-	culture ="hungarian"
+	culture="hungarian"
 }
-19040 = {
+19040=
+{
 	name="Rozgonyi"
-	culture ="hungarian"
+	culture="hungarian"
 }
-19041 = {
+19041=
+{
 	name="Draskovic"
-	culture ="croatian"
+	culture="croatian"
 }
-19042 = {
+19042=
+{
 	name="Szakoly"
-	culture ="hungarian"
+	culture="hungarian"
 }
-19043 = {
+19043=
+{
 	name="Szécsényi"
-	culture ="hungarian"
+	culture="hungarian"
+	religion="catholic"
 }
-19044 = {
+19044=
+{
 	name="Széchy"
-	culture ="hungarian"
+	culture="hungarian"
 }
-19045 = {
+19045=
+{
 	name="Telegdi"
-	culture ="hungarian"
+	culture="hungarian"
+	religion="catholic"
 }
-19046 = {
+19046=
+{
 	name="Thurzó"
-	culture ="hungarian"
+	culture="hungarian"
 }
-19047 = {
+19047=
+{
 	name="Tibai"
-	culture = "romanian"
+	culture="romanian"
 }
-19048 = {
+19048=
+{
 	name="Újlaki"
-	culture ="hungarian"
+	culture="hungarian"
 }
-19049 = {
+19049=
+{
 	name="Zách"
-	culture = "romanian"
+	culture="romanian"
 }
-19050 = {
+19050=
+{
 	name="Szapolyai"
-	culture = "romanian"
+	culture="romanian"
 }
-19051 = {
+19051=
+{
 	name="Zeleméri"
-	culture ="croatian"
+	culture="croatian"
+	religion="catholic"
 }
-19052 = {
+19052=
+{
 	name="Guthkeled"
-	culture ="hungarian"
+	culture="hungarian"
+	religion="catholic"
 }
 19053 = {
 	name="Hontpázmány"
-	culture ="hungarian"
+	culture="hungarian"
+	religion="catholic"
 }
-19054 = {
+19054=
+{
 	name="Kanizsai"
-	culture ="hungarian"
+	culture="hungarian"
+	religion="catholic"
 }
-19055 = {
+19055=
+{
 	name="Bebek"
-	culture ="croatian"
+	culture="croatian"
 }
-19056 = {
+19056=
+{
 	name="Várdai"
-	culture = "romanian"
+	culture="romanian"
+	religion="catholic"
 }
-19057 = {
+19057=
+{
 	name="Meggyesi"
-	culture ="hungarian"
+	culture="hungarian"
+	religion="catholic"
 }
-19058 = {
+19058=
+{
 	name="Osli"
-	culture ="hungarian"
+	culture="hungarian"
+	religion="catholic"
 }
-19059 = {
+19059=
+{
 	name="Viczay"
-	culture ="hungarian"
+	culture="hungarian"
+	religion="catholic"
 }
-19060 = {
+19060=
+{
 	name="Balassa"
-	culture ="hungarian"
+	culture="hungarian"
+	religion="catholic"
 }
-19061 = {
+19061=
+{
 	name="Szentgyörgyi"
-	culture ="hungarian"
+	culture="hungarian"
+	religion="catholic"
 }
-19062 = {
+19062=
+{
 	name="Báthory"
-	culture ="hungarian"
+	culture="hungarian"
+	religion="catholic"
 }
-19063 = {
+19063=
+{
 	name="Prodanic"
-	culture = "romanian"
+	culture="romanian"
+	religion="catholic"
 }
 
 #####################################
@@ -14717,20 +15386,25 @@ used_for_random = no
 
 #####################################
 
-
-20013 = {
+20013=
+{
 	name="Gwynn"
-	culture ="welsh"
+	culture="welsh"
 }
-20014 = {
+20014=
+{
 	name="de Bailleul"
-	culture = "norman"
+	culture="norman"
+	religion="catholic"
 }
-20015 = {
+20015=
+{
 	name="Longchamp"
-	culture = "norman"
+	culture="norman"
+	religion="catholic"
 }
-20016 = {
+20016=
+{
 	name="de Nantes"
 	culture ="breton"
 	coat_of_arms = {	template = 0	layer = {	texture = 5		texture_internal = 101	emblem = 0	color = 0	color = 0	color = 0	}	}
@@ -14946,7 +15620,7 @@ used_for_random = no
 	coat_of_arms = {
 		template = 0	
 		layer = {	
-			texture = 16 #italian job	
+			texture = 16 #"italian" job	
 			texture_internal = 129	
 			emblem = 0	
 			color = 0	color = 0	color = 0
@@ -15548,7 +16222,7 @@ used_for_random = no
 	coat_of_arms = {
 		template = 0	
 		layer = {	
-			texture = 16 #italian job	
+			texture = 16 #"italian" job	
 			texture_internal = 7	
 			emblem = 0	
 			color = 0	color = 0	color = 0
@@ -15857,7 +16531,7 @@ used_for_random = no
 }
 25061 = {
 	name="Karling"
-	culture = old_frankish
+	culture = "old_frankish"
 	coat_of_arms = {	template = 0	layer = {	texture = 5	texture_internal = 34	emblem = 0	color = 0	color = 0	color = 0	}	}
 	used_for_random = no
 }
@@ -15875,11 +16549,11 @@ used_for_random = no
 }
 25065 = {
 	name="Jerome-Karling"
-	culture = old_frankish
+	culture = "old_frankish"
 }
 25066 = {
 	name="Bernhard-Karling"
-	culture = old_frankish
+	culture = "old_frankish"
 }
 
 25200 = {
@@ -16925,7 +17599,7 @@ used_for_random = no
 	coat_of_arms = {
 		template = 0	
 		layer = {	
-			texture = 16 #italian job	
+			texture = 16 #"italian" job	
 			texture_internal = 27	
 			emblem = 0	
 			color = 0	color = 0	color = 0
@@ -16957,7 +17631,7 @@ used_for_random = no
 	culture = "frankish"
 }
 100239 = {
-	name="de Genève"
+	name="de Geneve"
 	culture = "frankish"
 	coat_of_arms = {	template = 0	layer = {	texture = 5	texture_internal = 21	emblem = 0	color = 0	color = 0	color = 0	}	}
 }
@@ -18538,28 +19212,34 @@ used_for_random = no
 	culture ="georgian" #abghazian
 }
 100515 = {
-	name="Szilágyi "
-	culture = "romanian"
+	name="Szilágyi"
+	culture="romanian"
+	religion="orthodox"
 }
 100516 = {
 	name="Jianu"
-	culture = "romanian"
+	culture="romanian"
+	religion="orthodox"
 }
 100517 = {
 	name="de Kincstartó"
-	culture ="hungarian"
+	culture="hungarian"
+	religion="catholic"
 }
 100518 = {
 	name="Celko"
-	culture ="hungarian"
+	culture="hungarian"
+	religion="catholic"
 }
 100519 = {
 	name="Corvinus"
-	culture ="hungarian"
+	culture="hungarian"
+	religion="catholic"
 }
 100520 = {
 	name="de Cseszneky"
-	culture ="hungarian"
+	culture="hungarian"
+	religion="catholic"
 }
 100521 = {
 	name="de Milvány"
@@ -18570,7 +19250,7 @@ used_for_random = no
 	culture ="hungarian"
 }
 100523 = {
-	name="Dávid "
+	name="Dávid"
 	culture ="hungarian"
 }
 100524 = {
@@ -20399,26 +21079,33 @@ used_for_random = no
 	name="Kalothetos"
 	culture ="greek"
 }
-101099 = {
+101099=
+{
 	name="Kamateros"
-	culture ="greek"
+	culture="crimean_gothic"
+	religion="orthodox"
 }
-101100 = {
+101100=
+{
 	name="Kantakouzenos"
-	culture ="greek"
+	culture="greek"
 }
-101101 = {
+101101=
+{
 	name="Katrares"
-	culture ="greek"
+	culture="greek"
 }
-101102 = {
+101102=
+{
 	name="Kaukadenos"
-	culture ="greek"
+	culture="greek"
+	religion="orthodox"
 }
-101103 = {
+101103=
+{
 	name="Kontostephanos"
 	culture ="greek"
-	
+	religion="orthodox"	
 	coat_of_arms = {
 		template = 0
 		layer = {
@@ -20431,19 +21118,23 @@ used_for_random = no
 		}
 	}
 }
-101104 = {
+101104=
+{
 	name="Koresses"
-	culture ="greek"
+	culture="greek"
 }
-101105 = {
+101105=
+{
 	name="Kourkouas"
-	culture ="greek"
+	culture="greek"
 }
-101106 = {
+101106=
+{
 	name="Kourtikes"
-	culture ="greek"
+	culture="greek"
 }
-101107 = {
+101107=
+{
 	name="Laskaris"
 	culture ="greek"
 }
@@ -22279,7 +22970,7 @@ used_for_random = no
 	coat_of_arms = {
 		template = 0	
 		layer = {	
-			texture = 16 #italian job	
+			texture = 16 #"italian" job	
 			texture_internal = 98	
 			emblem = 0	
 			color = 0	color = 0	color = 0
@@ -22314,7 +23005,7 @@ used_for_random = no
 	coat_of_arms = {
 		template = 0	
 		layer = {	
-			texture = 16 #italian job	
+			texture = 16 #"italian" job	
 			texture_internal = 74	
 			emblem = 0	
 			color = 0	color = 0	color = 0
@@ -22433,6 +23124,18 @@ used_for_random = no
 101677 = {
 	name="Mac Gilla-Pátraic"
 	culture ="irish"
+#additional HF texture
+#	coat_of_arms = {
+#		template = 0
+#		layer = {
+#			texture = 9
+#			texture_internal = 0
+#			emblem = 0
+#			color = 0
+#			color = 0
+#			color = 0
+#		}
+#	}
 }
 101678 = {
 	name="Ua Flaithri"
@@ -23090,7 +23793,7 @@ used_for_random = no
 	coat_of_arms = {
 		template = 0	
 		layer = {	
-			texture = 16 #italian job	
+			texture = 16 #"italian" job	
 			texture_internal = 113	
 			emblem = 0	
 			color = 0	color = 0	color = 0
@@ -23107,7 +23810,7 @@ used_for_random = no
 	coat_of_arms = {
 		template = 0	
 		layer = {	
-			texture = 16 #italian job	
+			texture = 16 #"italian" job	
 			texture_internal = 88	
 			emblem = 0	
 			color = 0	color = 0	color = 0
@@ -23120,7 +23823,7 @@ used_for_random = no
 	coat_of_arms = {
 		template = 0	
 		layer = {	
-			texture = 16 #italian job	
+			texture = 16 #"italian" job	
 			texture_internal = 89	
 			emblem = 0	
 			color = 0	color = 0	color = 0
@@ -23137,7 +23840,7 @@ used_for_random = no
 	coat_of_arms = {
 		template = 0	
 		layer = {	
-			texture = 16 #italian job	
+			texture = 16 #"italian" job	
 			texture_internal = 45
 			emblem = 0	
 			color = 0	color = 0	color = 0
@@ -23150,7 +23853,7 @@ used_for_random = no
 	coat_of_arms = {
 		template = 0	
 		layer = {	
-			texture = 16 #italian job	
+			texture = 16 #"italian" job	
 			texture_internal = 11	
 			emblem = 0	
 			color = 0	color = 0	color = 0
@@ -23163,7 +23866,7 @@ used_for_random = no
 	coat_of_arms = {
 		template = 0	
 		layer = {	
-			texture = 16 #italian job	
+			texture = 16 #"italian" job	
 			texture_internal = 85
 			emblem = 0	
 			color = 0	color = 0	color = 0
@@ -23176,7 +23879,7 @@ used_for_random = no
 	coat_of_arms = {
 		template = 0	
 		layer = {	
-			texture = 16 #italian job	
+			texture = 16 #"italian" job	
 			texture_internal = 106	
 			emblem = 0	
 			color = 0	color = 0	color = 0
@@ -23193,7 +23896,7 @@ used_for_random = no
 	coat_of_arms = {
 		template = 0	
 		layer = {	
-			texture = 16 #italian job	
+			texture = 16 #"italian" job	
 			texture_internal = 163	
 			emblem = 0	
 			color = 0	color = 0	color = 0
@@ -23206,7 +23909,7 @@ used_for_random = no
 	coat_of_arms = {
 		template = 0	
 		layer = {	
-			texture = 16 #italian job	
+			texture = 16 #"italian" job	
 			texture_internal = 66	
 			emblem = 0	
 			color = 0	color = 0	color = 0
@@ -23219,7 +23922,7 @@ used_for_random = no
 	coat_of_arms = {
 		template = 0	
 		layer = {	
-			texture = 16 #italian job	
+			texture = 16 #"italian" job	
 			texture_internal = 12	
 			emblem = 0	
 			color = 0	color = 0	color = 0
@@ -23236,7 +23939,7 @@ used_for_random = no
 	coat_of_arms = {
 		template = 0	
 		layer = {	
-			texture = 16 #italian job	
+			texture = 16 #"italian" job	
 			texture_internal = 36	
 			emblem = 0	
 			color = 0	color = 0	color = 0
@@ -23249,7 +23952,7 @@ used_for_random = no
 	coat_of_arms = {
 		template = 0	
 		layer = {	
-			texture = 16 #italian job	
+			texture = 16 #"italian" job	
 			texture_internal = 67	
 			emblem = 0	
 			color = 0	color = 0	color = 0
@@ -23262,7 +23965,7 @@ used_for_random = no
 	coat_of_arms = {
 		template = 0	
 		layer = {	
-			texture = 16 #italian job	
+			texture = 16 #"italian" job	
 			texture_internal = 92	
 			emblem = 0	
 			color = 0	color = 0	color = 0
@@ -23275,7 +23978,7 @@ used_for_random = no
 	coat_of_arms = {
 		template = 0	
 		layer = {	
-			texture = 16 #italian job	
+			texture = 16 #"italian" job	
 			texture_internal = 102	
 			emblem = 0	
 			color = 0	color = 0	color = 0
@@ -23288,7 +23991,7 @@ used_for_random = no
 	coat_of_arms = {
 		template = 0	
 		layer = {	
-			texture = 16 #italian job	
+			texture = 16 #"italian" job	
 			texture_internal = 68	
 			emblem = 0	
 			color = 0	color = 0	color = 0
@@ -23301,7 +24004,7 @@ used_for_random = no
 	coat_of_arms = {
 		template = 0	
 		layer = {	
-			texture = 16 #italian job	
+			texture = 16 #"italian" job	
 			texture_internal = 24	
 			emblem = 0	
 			color = 0	color = 0	color = 0
@@ -23322,7 +24025,7 @@ used_for_random = no
 	coat_of_arms = {
 		template = 0	
 		layer = {	
-			texture = 16 #italian job	
+			texture = 16 #"italian" job	
 			texture_internal = 1	
 			emblem = 0	
 			color = 0	color = 0	color = 0
@@ -23335,7 +24038,7 @@ used_for_random = no
 	coat_of_arms = {
 		template = 0	
 		layer = {	
-			texture = 16 #italian job	
+			texture = 16 #"italian" job	
 			texture_internal = 91	
 			emblem = 0	
 			color = 0	color = 0	color = 0
@@ -23348,7 +24051,7 @@ used_for_random = no
 	coat_of_arms = {
 		template = 0	
 		layer = {	
-			texture = 16 #italian job	
+			texture = 16 #"italian" job	
 			texture_internal = 40
 			emblem = 0	
 			color = 0	color = 0	color = 0
@@ -23361,7 +24064,7 @@ used_for_random = no
 	coat_of_arms = {
 		template = 0	
 		layer = {	
-			texture = 16 #italian job	
+			texture = 16 #"italian" job	
 			texture_internal = 157	
 			emblem = 0	
 			color = 0	color = 0	color = 0
@@ -23374,7 +24077,7 @@ used_for_random = no
 	coat_of_arms = {
 		template = 0	
 		layer = {	
-			texture = 16 #italian job	
+			texture = 16 #"italian" job	
 			texture_internal = 82	
 			emblem = 0	
 			color = 0	color = 0	color = 0
@@ -23387,7 +24090,7 @@ used_for_random = no
 	coat_of_arms = {
 		template = 0	
 		layer = {	
-			texture = 16 #italian job	
+			texture = 16 #"italian" job	
 			texture_internal = 78	
 			emblem = 0	
 			color = 0	color = 0	color = 0
@@ -23400,7 +24103,7 @@ used_for_random = no
 	coat_of_arms = {
 		template = 0	
 		layer = {	
-			texture = 16 #italian job	
+			texture = 16 #"italian" job	
 			texture_internal = 87	
 			emblem = 0	
 			color = 0	color = 0	color = 0
@@ -23417,7 +24120,7 @@ used_for_random = no
 	coat_of_arms = {
 		template = 0	
 		layer = {	
-			texture = 16 #italian job	
+			texture = 16 #"italian" job	
 			texture_internal = 86	
 			emblem = 0	
 			color = 0	color = 0	color = 0
@@ -23430,7 +24133,7 @@ used_for_random = no
 	coat_of_arms = {
 		template = 0	
 		layer = {	
-			texture = 16 #italian job	
+			texture = 16 #"italian" job	
 			texture_internal = 33	
 			emblem = 0	
 			color = 0	color = 0	color = 0
@@ -23443,7 +24146,7 @@ used_for_random = no
 	coat_of_arms = {
 		template = 0	
 		layer = {	
-			texture = 16 #italian job	
+			texture = 16 #"italian" job	
 			texture_internal = 2	
 			emblem = 0	
 			color = 0	color = 0	color = 0
@@ -23456,7 +24159,7 @@ used_for_random = no
 	coat_of_arms = {
 		template = 0	
 		layer = {	
-			texture = 16 #italian job	
+			texture = 16 #"italian" job	
 			texture_internal = 101	
 			emblem = 0	
 			color = 0	color = 0	color = 0
@@ -23485,7 +24188,7 @@ used_for_random = no
 	coat_of_arms = {
 		template = 0	
 		layer = {	
-			texture = 16 #italian job	
+			texture = 16 #"italian" job	
 			texture_internal = 21	
 			emblem = 0	
 			color = 0	color = 0	color = 0
@@ -23910,7 +24613,8 @@ used_for_random = no
 }
 1029106 = {
 	name="Mescheravid"
-	culture = mordvin
+	culture="meshchera"
+	religion="finnish_pagan"
 }
 1029107 = {
 	name="Meryavid"
@@ -24321,7 +25025,7 @@ used_for_random = no
 	coat_of_arms = {
 		template = 0	
 		layer = {	
-			texture = 16 #italian job	
+			texture = 16 #"italian" job	
 			texture_internal = 56	
 			emblem = 0	
 			color = 0	color = 0	color = 0
@@ -25006,19 +25710,23 @@ used_for_random = no
 	name="Vyatich" #Moskva
 	culture = "russian"
 }
-1029119 = {
+1029119=
+{
 	name="al-Kaysí"
 	culture ="levantine_arabic"
 }
-1029120 = {
+1029120=
+{
 	name="al-Marwaní"
 	culture ="levantine_arabic"
 }
-1029121 = {
+1029121=
+{
 	name="al-Damyaní"
 	culture ="levantine_arabic"
 }
-1029122 = {
+1029122=
+{
 	name="al-Barduní"
 	culture ="levantine_arabic"
 }
@@ -25026,17 +25734,22 @@ used_for_random = no
 	name="Shaybán"
 	culture ="levantine_arabic"
 }
-1029124 = {
+1029124=
+{
 	name="al-Yazidí"
 	culture ="levantine_arabic"
 }
-1030000 = {
+1030000=
+{
 	name="Cisse"
-	culture = manden
+	culture="soninke"
+	religion="west_african_pagan"
 }
-1030001 = {
+1030001=
+{
 	name="Diarisso"
-	culture = manden
+	culture = "soninke"
+	religion="west_african_pagan"
 }
 1030002 = {
 	name="Keita"
@@ -25058,25 +25771,32 @@ used_for_random = no
 	name="Zuwa"
 	culture = manden
 }
-1030007 = {
+1030007=
+{
 	name="Sonni"
-	culture = manden
+	culture = "soninke"
+	religion="west_african_pagan"
 }
-1030008 = {
+1030008=
+{
 	name="Askiya"
-	culture = manden
+	culture="songhay"
 }
-1030009 = {
+1030009=
+{
 	name="Konare"
-	culture = manden
+	culture="manden"
+	religion="sunni"
 }
 1030010 = {
 	name="Traoré"
-	culture = manden
+	culture="manden"
+	religion="sunni"
 }
 1030011 = {
 	name="Modibo"
-	culture = manden
+	culture="manden"
+	religion="sunni"
 }
 1030012 = {
 	name="Toumani"
@@ -25097,7 +25817,7 @@ used_for_random = no
 }
 1030016 = {
 	name="Mossi"
-	culture = manden
+	culture="soninke"
 }
 1030017 = {
 	name="Habe"
@@ -25925,7 +26645,7 @@ used_for_random = no
 	coat_of_arms = {
 		template = 0	
 		layer = {	
-			texture = 16 #italian job	
+			texture = 16 #"italian" job	
 			texture_internal = 116	
 			emblem = 0	
 			color = 0	color = 0	color = 0
@@ -25958,7 +26678,7 @@ used_for_random = no
 	coat_of_arms = {
 		template = 0	
 		layer = {	
-			texture = 16 #italian job	
+			texture = 16 #"italian" job	
 			texture_internal = 100	
 			emblem = 0	
 			color = 0	color = 0	color = 0
@@ -25971,7 +26691,7 @@ used_for_random = no
 	coat_of_arms = {
 		template = 0	
 		layer = {	
-			texture = 16 #italian job	
+			texture = 16 #"italian" job	
 			texture_internal = 117	
 			emblem = 0	
 			color = 0	color = 0	color = 0
@@ -25984,7 +26704,7 @@ used_for_random = no
 	coat_of_arms = {
 		template = 0	
 		layer = {	
-			texture = 16 #italian job	
+			texture = 16 #"italian" job	
 			texture_internal = 99	
 			emblem = 0	
 			color = 0	color = 0	color = 0
@@ -26013,7 +26733,7 @@ used_for_random = no
 	coat_of_arms = {
 		template = 0	
 		layer = {	
-			texture = 16 #italian job	
+			texture = 16 #"italian" job	
 			texture_internal = 4	
 			emblem = 0	
 			color = 0	color = 0	color = 0
@@ -26030,7 +26750,7 @@ used_for_random = no
 	coat_of_arms = {
 		template = 0	
 		layer = {	
-			texture = 16 #italian job	
+			texture = 16 #"italian" job	
 			texture_internal = 115	
 			emblem = 0	
 			color = 0	color = 0	color = 0
@@ -26043,7 +26763,7 @@ used_for_random = no
 	coat_of_arms = {
 		template = 0	
 		layer = {	
-			texture = 16 #italian job	
+			texture = 16 #"italian" job	
 			texture_internal = 118
 			emblem = 0	
 			color = 0	color = 0	color = 0
@@ -26056,7 +26776,7 @@ used_for_random = no
 	coat_of_arms = {
 		template = 0	
 		layer = {	
-			texture = 16 #italian job	
+			texture = 16 #"italian" job	
 			texture_internal = 119	
 			emblem = 0	
 			color = 0	color = 0	color = 0
@@ -26114,7 +26834,7 @@ used_for_random = no
 	coat_of_arms = {
 		template = 0	
 		layer = {	
-			texture = 16 #italian job	
+			texture = 16 #"italian" job	
 			texture_internal = 110	
 			emblem = 0	
 			color = 0	color = 0	color = 0
@@ -26201,7 +26921,7 @@ used_for_random = no
 	coat_of_arms = {
 		template = 0	
 		layer = {	
-			texture = 16 #italian job	
+			texture = 16 #"italian" job	
 			texture_internal = 69	
 			emblem = 0	
 			color = 0	color = 0	color = 0
@@ -26215,7 +26935,7 @@ used_for_random = no
 	coat_of_arms = {
 		template = 0	
 		layer = {	
-			texture = 16 #italian job	
+			texture = 16 #"italian" job	
 			texture_internal = 73	
 			emblem = 0	
 			color = 0	color = 0	color = 0
@@ -26229,7 +26949,7 @@ used_for_random = no
 	coat_of_arms = {
 		template = 0	
 		layer = {	
-			texture = 16 #italian job	
+			texture = 16 #"italian" job	
 			texture_internal = 65	
 			emblem = 0	
 			color = 0	color = 0	color = 0
@@ -29236,204 +29956,204 @@ used_for_random = no
 }
 1044031 = {
 	name="Gausian"
-	culture = lombard
+	culture = "lombard"
 
 }
 1044032 = {
 	name="Theoderingi"
-	culture = lombard
+	culture = "lombard"
 }
 1044036 = {
 	name="Lampertingi"
-	culture = lombard
+	culture = "lombard"
 }
 1044037 = {
 	name="Giselbertling"
-	culture = lombard
+	culture = "lombard"
 }
 1044038 = {
 	name="Gaiduldling"
-	culture = lombard
+	culture = "lombard"
 }
 1044039 = {
 	name="Waldulfingi"
-	culture = lombard
+	culture = "lombard"
 }
 1044041 = {
 	name="Romoaldingi"
-	culture = lombard
+	culture = "lombard"
 }
 1044042 = {
 	name="Falco"
-	culture = lombard
+	culture = "lombard"
 }
 1044043 = {
 	name="Walbertingi"
-	culture = lombard
+	culture = "lombard"
 }
 1044044 = {
 	name="Sicard"
-	culture = lombard
+	culture = "lombard"
 
 }
 1044045 = {
 	name="Beleoingi"
-	culture = lombard
+	culture = "lombard"
 }
 1044046 = {
 	name="Bavarae"
-	culture = lombard
+	culture = "lombard"
 }
 1044047 = {
 	name="Arioldling"
-	culture = lombard
+	culture = "lombard"
 }
 1044048 = {
 	name="Harodingian"
-	culture = lombard
+	culture = "lombard"
 }
 1044049 = {
 	name="Pandulfingi"
-	culture = lombard
+	culture = "lombard"
 }
 1044050 = {
 	name="Billoingi"
-	culture = lombard
+	culture = "lombard"
 }
 1044051 = {
 	name="Ansprandling"
-	culture = lombard
+	culture = "lombard"
 }
 1044052 = {
 	name="Munichingi"
-	culture = lombard
+	culture = "lombard"
 }
 1044053 = {
 	name="Alachisling"
-	culture = lombard
+	culture = "lombard"
 	coat_of_arms = {	template = 0	layer = {	texture = 5	texture_internal = 29	emblem = 0	color = 0	color = 0	color = 0	}	}
 	used_for_random = no
 }
 1044054 = {
 	name="Sicardling"
-	culture = lombard
+	culture = "lombard"
 }
 1044059 = {
 	name="Wechtaringi"
-	culture = lombard
+	culture = "lombard"
 }
 1044060 = {
 	name="Ansfridingi"
-	culture = lombard
+	culture = "lombard"
 }
 1044061 = {
 	name="Theodingi"
-	culture = lombard
+	culture = "lombard"
 }
 1044062 = {
 	name="Giselbertingi"
-	culture = lombard
+	culture = "lombard"
 }
 1044063 = {
 	name="Ursingi"
-	culture = lombard
+	culture = "lombard"
 }
 1044064 = {
 	name="Ademingi"
-	culture = lombard
+	culture = "lombard"
 }
 1044065 = {
 	name="Adalbertingi"
-	culture = lombard
+	culture = "lombard"
 }
 1044066 = {
 	name="Walpertingi"
-	culture = lombard
+	culture = "lombard"
 
 }
 1044067 = {
 	name="Tachipertingi"
-	culture = lombard
+	culture = "lombard"
 }
 1044068 = {
 	name="Teduericingi"
-	culture = lombard
+	culture = "lombard"
 }
 1044069 = {
 	name="Daufingi"
-	culture = lombard
+	culture = "lombard"
 }
 1044070 = {
 	name="Rodoaldingi"
-	culture = lombard
+	culture = "lombard"
 }
 1044071 = {
 	name="Gandulfingi"
-	culture = lombard
+	culture = "lombard"
 }
 1044072 = {
 	name="Maioingi"
-	culture = lombard
+	culture = "lombard"
 }
 1044073 = {
 	name="Rodoaldingi"
-	culture = lombard
+	culture = "lombard"
 }
 1044074 = {
 	name="Varbertingi"
-	culture = lombard
+	culture = "lombard"
 }
 1044075 = {
 	name="Paldoling"
-	culture = lombard
+	culture = "lombard"
 }
 1044076 = {
 	name="Tatingi"
-	culture = lombard
+	culture = "lombard"
 }
 1044077 = {
 	name="Lambertingi"
-	culture = lombard
+	culture = "lombard"
 }
 1044078 = {
 	name="Engelbertingi"
-	culture = lombard
+	culture = "lombard"
 }
 1044079 = {
 	name="Liutfredingi"
-	culture = lombard
+	culture = "lombard"
 }
 1044080 = {
 	name="Gaidoaldingi"
-	culture = lombard
+	culture = "lombard"
 }
 1044081 = {
 	name="Tasoingi"
-	culture = lombard
+	culture = "lombard"
 }
 1044082 = {
 	name="Petringi"
-	culture = lombard
+	culture = "lombard"
 }
 1044083 = {
 	name="Faroaldingi"
-	culture = lombard
+	culture = "lombard"
 }
 1044084 = {
 	name="Liutprandingi"
-	culture = lombard
+	culture = "lombard"
 }
 1044085 = {
 	name="Liutprandling"
-	culture = lombard
+	culture = "lombard"
 }
 1044086 = {
 	name="Roderissingi"
-	culture = lombard
+	culture = "lombard"
 }
 1044087 = {
 	name="Lotharling"
-	culture = lombard
+	culture = "lombard"
 }
 1044088 = {
 	name="Berthilding"
@@ -29623,128 +30343,184 @@ used_for_random = no
 }
 1022301 = {
 	name="Pyrrogenes"
-	culture ="greek"
+	culture="crimean_gothic"
+	religion="orthodox"
 }
 1022302 = {
 	name="Kophinas"
 	culture ="greek"
-
+	religion="orthodox"
 }
-1022303 = {
+1022303=
+{
 	name="Makroleon"
-	culture ="greek"
+	culture="greek"
+	religion="orthodox"
 }
-1022304 = {
+1022304=
+{
 	name="Kalopragmon"
-	culture ="greek"
+	culture="greek"
+	religion="orthodox"
 }
-1022305 = {
+1022305=
+{
 	name="Karphitzes"
-	culture ="greek"
+	culture="greek"
+	religion="orthodox"
 }
-1022306 = {
+1022306=
+{
 	name="Trichares"
-	culture ="greek"
+	culture="greek"
+	religion="orthodox"
 }
-1022307 = {
+1022307=
+{
 	name="Kokkalos"
-	culture ="greek"
+	culture="greek"
+	religion="orthodox"
 }
-1022308 = {
+1022308=
+{
 	name="Kritharatos"
-	culture ="greek"
+	culture="greek"
+	religion="orthodox"
 }
-1022309 = {
+1022309=
+{
 	name="Kretikos"
-	culture ="greek"
+	culture="greek"
+	religion="orthodox"
 }
-1022310 = {
+1022310=
+{
 	name="Tourkos"
-	culture ="greek"
+	culture="greek"
+	religion="orthodox"
 }
-1022311 = {
+1022311=
+{
 	name="Symvatikes"
-	culture ="greek"
+	culture="greek"
+	religion="orthodox"
 }
-1022312 = {
+1022312=
+{
 	name="Glykomachaires"
-	culture ="greek"
+	culture="greek"
+	religion="orthodox"
 }
-1022313 = {
+1022313=
+{
 	name="Chrysochoos"
-	culture ="greek"
+	culture="greek"
+	religion="orthodox"
 }
-1022314 = {
+1022314=
+{
 	name="Neapolites"
 	culture ="greek"
-
+	religion="iconoclast"
 }
-1022315 = {
+1022315=
+{
 	name="Amalfinos"
-	culture ="greek"
+	culture="greek"
+	religion="catholic"
 }
-1022316 = {
+1022316=
+{
 	name="Vonos"
-	culture ="greek"
+	culture="greek"
+	religion="iconoclast"
 }
-1022317 = {
+1022317=
+{
 	name="Mystakon"
-	culture ="greek"
+	culture="greek"
+	religion="orthodox"
 }
-1022318 = {
+1022318=
+{
 	name="Pterotos"
-	culture ="greek"
+	culture="greek"
+	religion="orthodox"
 }
-1022319 = {
+1022319=
+{
 	name="Monotes"
 	culture ="greek"
 
 }
-1022320 = {
+1022320=
+{
 	name="Zerkis"
-	culture ="italian"
+	culture="italian"
+	religion="catholic"
 }
-1022321 = {
+1022321=
+{
 	name="Oristani"
-	culture ="italian"
+	culture="italian"
+	religion="catholic"
 }
-1022322 = {
+1022322=
+{
 	name="Sorrenti"
-	culture ="italian"
+	culture="italian"
+	religion="catholic"
 }
-1022323 = {
+1022323=
+{
 	name="Ravelli"
-	culture ="italian"
+	culture="italian"
+	religion="catholic"
 }
-1022324 = {
+1022324=
+{
 	name="Manginos"
-	culture ="greek"
+	culture="greek"
+	religion="catholic"
 }
-1022325 = {
+1022325=
+{
 	name="Gaulo"
-	culture ="italian"
+	culture="italian"
+	religion="catholic"
 }
-1022326 = {
+1022326=
+{
 	name="Monegario"
-	culture ="italian"
+	culture="italian"
+	religion="catholic"
 }
-1022327 = {
+1022327=
+{
 	name="Galbaio"
-	culture ="italian"
+	culture="italian"
+	religion="catholic"
 }
-1022328 = {
+1022328=
+{
 	name="Antenoreo"
-	culture ="italian"
+	culture="italian"
+	religion="catholic"
 }
-1022329 = {
+1022329=
+{
 	name="Kalavros"
-	culture ="greek"
+	culture="greek"
+	religion="iconoclast"
 }
-1022330 = {
+1022330=
+{
 	name="Sikelos"
-	culture ="greek"
+	culture="greek"
+	religion="orthodox"
 }
-1022331 = {
+1022331=
+{
 	name="Ukil"
 	culture ="bolghar"
 
@@ -30541,7 +31317,7 @@ used_for_random = no
 
 	name="Hetanide" #no clue what is it supposed to mean
 
-	culture = old_frankish
+	culture = "old_frankish"
 
 }
 
@@ -30549,7 +31325,7 @@ used_for_random = no
 
 	name="Emichide" #no clue what is it supposed to mean
 
-	culture = old_frankish
+	culture = "old_frankish"
 
 }
 
@@ -30557,7 +31333,7 @@ used_for_random = no
 
 	name="von Argengau"
 
-	culture=old_frankish
+	culture="old_frankish"
 
 }
 
@@ -31293,11 +32069,11 @@ used_for_random = no
 }
 1044116 = {
 	name="Nibelunging"
-	culture = old_frankish
+	culture = "old_frankish"
 }
 1044117 = {
 	name="Erenolding"
-	culture = old_frankish
+	culture = "old_frankish"
 }
 1044118 = {
 	name="Begonid" #no clue F***
@@ -31305,7 +32081,7 @@ used_for_random = no
 }
 1044119 = {
 	name="de Maine"
-	culture = old_frankish
+	culture = "old_frankish"
 }
 1042158 = {
 	name="al-Makkí"
@@ -31547,23 +32323,23 @@ used_for_random = no
 }
 1044101 = {
 	name="de Maine"
-	culture = old_frankish
+	culture = "old_frankish"
 }
 1044102 = {
 	name="Dodonide" #to change
-	culture = old_frankish
+	culture = "old_frankish"
 }
 1044103 = {
 	name="Theodnide" #to change
-	culture = old_frankish
+	culture = "old_frankish"
 }
 1044104 = {
 	name="Haribertide" #to change
-	culture = old_frankish
+	culture = "old_frankish"
 }
 9300 = {
 	name="Riculfide" #to change
-	culture = old_frankish
+	culture = "old_frankish"
 }
 9615 = {
 	name="de Toledo"
@@ -31586,127 +32362,127 @@ used_for_random = no
 	name="de Vienne" #"Bivinides" #Nithard-Richard from Middle Rhine #branche des bosonides issus de Bivin de Vienne
 	coat_of_arms = {	template = 0	layer = {	texture = 5	texture_internal = 117	emblem = 0	color = 0	color = 0	color = 0	}	}
 	used_for_random = no
-	culture = old_frankish
+	culture = "old_frankish"
 }
 9307 = {
 	name="de Landen"
-	culture = old_frankish
+	culture = "old_frankish"
 }
 9308 = {
 	name="Adalbertide"
-	culture = old_frankish
+	culture = "old_frankish"
 }
 9309 = {
 	name="Laidrati"
-	culture=old_frankish
+	culture="old_frankish"
 }
 9310 = {
 	name="Chiemgaudson"
-	culture=old_frankish
+	culture="old_frankish"
 }
 9311 = {
 	name="Hildegars"
-	culture=old_frankish
+	culture="old_frankish"
 }
 9312 = {
 	name="Leudoni"
-	culture=old_frankish
+	culture="old_frankish"
 }
 9313 = {
 	name="Adelards"
-	culture=old_frankish
+	culture="old_frankish"
 }
 9314 = {
 	name="Australdling"
-	culture=old_frankish
+	culture="old_frankish"
 }
 9315 = {
 	name="Baugulfson"
-	culture=old_frankish
+	culture="old_frankish"
 }
 9316 = {
 	name="Berengling"
-	culture=old_frankish
+	culture="old_frankish"
 }
 9317 = {
 	name="Hildradson"
-	culture=old_frankish
+	culture="old_frankish"
 }
 9318 = {
 	name="Drogling"
-	culture=old_frankish
+	culture="old_frankish"
 }
 9319 = {
 	name="Engelgerson"
-	culture=old_frankish
+	culture="old_frankish"
 }
 9320 = {
 	name="de Transjurania"
-	culture=old_frankish
+	culture="old_frankish"
 }
 9321 = {
 	name="Galimani"
-	culture=old_frankish
+	culture="old_frankish"
 }
 9322 = {
 	name="de Betoricas"
-	culture=old_frankish
+	culture="old_frankish"
 }
 9323 = {
 	name="Herluins"
-	culture=old_frankish
+	culture="old_frankish"
 }
 9324 = {
 	name="Hermenelds"
-	culture=old_frankish
+	culture="old_frankish"
 }
 9325 = {
 	name="Roding"
-	culture=old_frankish
+	culture="old_frankish"
 }
 9326 = {
 	name="Ringling"
-	culture=old_frankish
+	culture="old_frankish"
 }
 9327 = {
 	name="Gunberts"
-	culture=old_frankish
+	culture="old_frankish"
 }
 9328 = {
 	name="Wulfardson"
-	culture=old_frankish
+	culture="old_frankish"
 }
 9329 = {
 	name="Vuodi"
-	culture=old_frankish
+	culture="old_frankish"
 }
 9330 = {
 	name="Walthars"
-	culture=old_frankish
+	culture="old_frankish"
 }
 9331 = {
 	name="Warins"
-	culture=old_frankish
+	culture="old_frankish"
 }
 9332 = {
 	name="Wegelenzi"
-	culture=old_frankish
+	culture="old_frankish"
 }
 9333 = {
 	name="Welenti"
-	culture=old_frankish
+	culture="old_frankish"
 }
 9334 = {
 	name="Widling"
-	culture=old_frankish
+	culture="old_frankish"
 }
 1044120 = {
 	name="Morgannide"
-	culture = old_frankish
+	culture = "old_frankish"
 }
 1044121 = {
 	name="Hucbertide"
-	culture = old_frankish
+	culture = "old_frankish"
 }
 1044122 = {
 	name="Vit"
@@ -31843,7 +32619,7 @@ used_for_random = no
 	coat_of_arms = {
 		template = 0	
 		layer = {	
-			texture = 16 #italian job	
+			texture = 16 #"italian" job	
 			texture_internal = 122	
 			emblem = 0	
 			color = 0	color = 0	color = 0
@@ -32000,77 +32776,118 @@ used_for_random = no
 	name = "Keite"
 	culture = lappish
 }
-1045008 = {
-	name = "av Island"
-	culture ="norse"
+#1045008=
+#{
+#	name="av Island"
+#	culture="norse"
+#	religion="norse_pagan"
+#}
+1045008=
+{
+	name="Papar"
+	culture="irish"
+	religion="catholic"
 }
-1045009 = {
-	name = "Drake"
-	culture ="norse"
+1045009=
+{
+	name="Drake"
+	culture="norse"
+	religion="norse_pagan"
 }
-1045010 = {
-	name = "av Hafrsfjord"
-	culture ="norse"
+1045010=
+{
+	name="av Hafrsfjord"
+	culture="norse"
+	religion="norse_pagan"
 }
-1045011 = {
-	name = "Ytra"
-	culture ="norse"
+1045011=
+{
+	name="Ytra"
+	culture="norse"
+	religion="norse_pagan"
 }
-1045012 = {
-	name = "av Askø"
-	culture ="norse"
+1045012=
+{
+	name="av Askø"
+	culture="norse"
+	religion="norse_pagan"
 }
-1045013 = {
-	name = "Koss"
-	culture ="norse"
+1045013=
+{
+	name="Koss"
+	culture="norse"
+	religion="norse_pagan"
 }
-1045014 = {
-	name = "av Røra"
-	culture ="norse"
+1045014=
+{
+	name="av Røra"
+	culture="norse"
+	religion="norse_pagan"
 }
-1045015 = {
-	name = "av Nordland"
-	culture ="norse"
+1045015=
+{
+	name="av Nordland"
+	culture="norse"
+	religion="norse_pagan"
 }
-1045016 = {
-	name = "Hylling"
-	culture ="norse"
+1045016=
+{
+	name="Hylling"
+	culture="norse"
+	religion="norse_pagan"
 }
-1045017 = {
-	name = "Alfr"
-	culture ="norse"
+1045017=
+{
+	name="Alfr"
+	culture="norse"
+	religion="norse_pagan"
 }
-1045018 = {
-	name = "Herja"
-	culture ="norse"
+1045018=
+{
+	name="Herja"
+	culture="norse"
+	religion="norse_pagan"
 }
-1045019 = {
-	name = "Vansö"
-	culture ="norse"
+1045019=
+{
+	name="Vansö"
+	culture="norse"
+	religion="norse_pagan"
 }
-1045020 = {
-	name = "Flod"
-	culture ="norse"
+1045020=
+{
+	name="Flod"
+	culture="norse"
+	religion="norse_pagan"
 }
-1045021 = {
-	name = "af Vendel"
-	culture ="norse"
+1045021=
+{
+	name="af Vendel"
+	culture="norse"
+	religion="norse_pagan"
 }
-1045022 = {
-	name = "av Alfheim"
-	culture ="norse"
+1045022=
+{
+	name="av Alfheim"
+	culture="norse"
+	religion="norse_pagan"
 }
-1045023 = {
-	name = "af Åland"
-	culture ="norse"
+1045023=
+{
+	name="af Åland"
+	culture="norse"
+	religion="norse_pagan"
 }
 1047006 = {
 	name="Cerdicing" # of Wessex
 	culture ="saxon"
+	religion="norse_pagan"
 }
-1047011 = {
-	name="Oswalding" # of Hwicce
-	culture ="saxon"
+1047011=
+{
+	name="Oswalding"
+	culture="saxon"
+	religion="catholic"
 }
 1047012 = {
 	name="Offing" # of Essex
@@ -32078,7 +32895,8 @@ used_for_random = no
 }
 1047008 = {
 	name="Ingving" # of Bernicia
-	culture ="saxon"
+	culture="saxon"
+	religion="norse_pagan"
 }
 1047009 = {
 	name="Yffing" # of Deira
@@ -32088,22 +32906,26 @@ used_for_random = no
 	name="Æthelfrithing" # of Northumbria
 	culture ="saxon"
 }
-
-1047021 = {
-	name="Leodwalding" #
-	culture ="saxon"
+1047021=
+{
+	name="Leodwalding"
+	culture="saxon"
+	religion="catholic"
 }
 1047022 = {
 	name="Eadwulfing" #
-	culture ="saxon"
+	culture="saxon"
+	religion="catholic"
 }
 1047023 = {
 	name="Eadricing" #
-	culture ="saxon"
+	culture="saxon"
+	religion="norse_pagan"
 }
 1047013 = {
 	name="Godhelming" # of Surrey
 	culture ="saxon"
+	religion="catholic"
 }
 1047014 = {
 	name="Beorming" # of Birmingham
@@ -32120,110 +32942,142 @@ used_for_random = no
 1047017 = {
 	name="Hæsting" # of Hastings
 	culture ="saxon"
+	religion="catholic"
 }
 1047007 = {
 	name="Ælling" # of Sussex
 	culture ="saxon"
 }
-1040223 = {
-	name="Ingeri"
-	culture = ugricbaltic
-}
-1044092 = {
+1044092=
+{
 	name="Anniona"
-	culture ="german"
+	culture="german"
+	religion="catholic"
 }
-1044093 = {
+1044093=
+{
 	name="Fagana"
-	culture ="german"
+	culture="german"
+	religion="catholic"
 }
-1044094 = {
+1044094=
+{
 	name="Hahilinga"
-	culture ="german"
+	culture="german"
+	religion="catholic"
 }
-1044095 = {
+1044095=
+{
 	name="Huosi"
-	culture ="german"
+	culture="german"
+	religion="catholic"
 }
-1044096 = {
+1044096=
+{
 	name="Trozza"
-	culture ="german"
+	culture="german"
+	religion="catholic"
 }
-1045024 = {
-	name = "Turov"
-	culture = "russian"
+1045024=
+{
+	name="Turov"
+	culture="volhynian"
+	religion="slavic_pagan"
 }
-1045025 = {
-	name = "Kardazid"
-	culture = mordvin
+1045025=
+{
+	name="Kardazid"
+	culture="mordvin"
+	religion="finnish_pagan"
 }
-1045026 = {
-	name = "Varakid"
-	culture = mordvin
+1045026=
+{
+	name="Varakid"
+	culture="mordvin"
+	religion="finnish_pagan"
 }
-1045027 = {
-	name = "Inzhayid"
-	culture = mordvin
+1045027=
+{
+	name="Inzhayid"
+	culture="meshchera"
+	religion="finnish_pagan"
 }
-1045028 = {
-	name = "de Friesland"
-	culture ="dutch"
+1045028=
+{
+	name="de Friesland"
+	culture="dutch"
+	religion="catholic"
 }
-1045029 = {
-	name = "Letourneau"
-	culture = "norman"
+1045029=
+{
+	name="Letourneau"
+	culture="norman"
+	religion="catholic"
 }
-1045030 = {
-	name = "Polan"
-	culture = severian
+1045030=
+{
+	name="Polan"
+	culture="severian"
 }
-1045031 = {
-	name = "Ulich"
-	culture = severian
+1045031=
+{
+	name="Ulich"
+	culture="severian"
 }
-1045032 = {
-	name = "Drevlyansky"
-	culture = severian
+1045032=
+{
+	name="Drevl"
+	culture="severian"
 }
-1045033 = {
-	name = "Lyubech"
-	culture = severian
+1045033=
+{
+	name="Lyubech"
+	culture="severian"
 }
-1045034 = {
-	name = "Roslavsky"
-	culture = severian
+1045034=
+{
+	name="Roslavsky"
+	culture="severian"
 }
-1045035 = {
-	name = "Tyvertsky"
-	culture = volhynian
+1045035=
+{
+	name="Tyvertsky"
+	culture="volhynian"
 }
-1045036 = {
-	name = "Buzhansky"
-	culture = volhynian
+1045036=
+{
+	name="Buzhansky"
+	culture="volhynian"
 }
-1045037 = {
-	name = "Slutsky"
-	culture = volhynian
+1045037=
+{
+	name="Slutsky"
+	culture="volhynian"
 }
-1045038 = {
-	name = "Pinesky"
-	culture = volhynian
+1045038=
+{
+	name="Pinesky"
+	culture="volhynian"
 }
-1045039 = {
-	name = "Zhytomyrsky"
-	culture = volhynian
+1045039=
+{
+	name="Zhytomyrsky"
+	culture="volhynian"
 }
-1045040 = {
-	name = "Vynnytsky"
-	culture = volhynian
+1045040=
+{
+	name="Vynnytsky"
+	culture="volhynian"
 }
-1045041 = {
-	name = "Koroviev"
-	culture = severian
+1045041=
+{
+	name="Koroviev"
+	culture="severian"
 }
-1045042 = {
-	name = "Woland"
-	culture = severian
+1045042=
+{
+	name="Woland"
+	culture="severian"
 }
 1045043 = {
 	name = "Poloch"
@@ -33682,6 +34536,7 @@ used_for_random = no
 #		{ 1 1 23 7 3 4 3 0 23 3 3 4 3 7 0 1 0 0 0 7 0 1 0 0 0 }
 #		religion="catholic"
 #	}
+	used_for_random=no
 }
 1053018=
 {
@@ -35408,6 +36263,46 @@ used_for_random = no
 	culture="bedouin_arabic"
 	religion="shiite"
 }
+1061000 = {				#Fictional, for Selija
+	name="gada Selija"
+	culture="lettigallish"
+	religion="baltic_pagan"
+}
+1061001 = {				#Fictional, for Selija
+	name="gada Varviai"
+	culture="lettigallish"
+	religion="baltic_pagan"
+}
+1061002 = {				#Fictional, for Selija
+	name="Seli"
+	culture="lettigallish"
+	religion="baltic_pagan"
+}
+1061003 = {				#Fictional name for historical Lembitu (pagan Estonia)
+	name="Lembi"
+	culture="ugricbaltic"
+	religion="finnish_pagan"
+}
+1061004 = {				#Fictional, for Ostrobothnia early history
+	name="Bottii"
+	culture="finnish"
+	religion="finnish_pagan"
+}
+1061005 = {				#Fictional, for Ostrobothnia early history
+	name="Lonooen"
+	culture="finnish"
+	religion="finnish_pagan"
+}
+1061006 = {				#Fictional, for Ostrobothnia early history
+	name="Markonen"
+	culture="finnish"
+	religion="finnish_pagan"
+}
+1061087 = {				#Fictional, for Bolzano
+	name="Theoderisian"
+	culture="lombard"
+	religion="catholic"
+}
 5061088 = {
 	name="Kastriotis"
 	culture="greek"
@@ -35415,11 +36310,11 @@ used_for_random = no
 
 5061089 = {
 	name="Skleros"	
-	culture = italian
+	culture = "italian"
 }
 5061090 = {
 	name="Monomachos"
-	culture = italian
+	culture = "italian"
 }
 5061091 = {
 	name = "Kourkoas"
@@ -35435,7 +36330,7 @@ used_for_random = no
 }
 5062094 = {
 	name = "Vokil"
-	culture = bolghar
+	culture = "bolghar"
 }
 5062095= {
 	name = "Permyakid"
@@ -35443,15 +36338,2561 @@ used_for_random = no
 }
 5062096 = {
 	name = "Erdevulu"
-	culture = bolghar
+	culture = "bolghar"
 }
 
 5062097 = {
 	name = "di Padua"
-	culture = italian	
+	culture = "italian"	
 }
 
 5062098 = {
 	name = "Bunduqdarid"
 	culture = turkish
+}
+1061007 = {				#Fictional, for Zemgale 769
+	name="gada Zagare"
+	culture="lettigallish"
+	religion="baltic_pagan"
+}
+1061008 = {
+	name="kohta Sakala"		#Fictional, for Osel
+	culture="ugricbaltic"
+	religion="finnish_pagan"
+}
+1061009 = {
+	name="kohta Järva"		#Fictional
+	culture="ugricbaltic"
+	religion="finnish_pagan"
+}
+1061010 = {
+	name="Saaremaai"		#Fictional
+	culture="ugricbaltic"
+	religion="finnish_pagan"
+}
+1061011 = {
+	name="Hiiumaai"			#Fictional
+	culture="ugricbaltic"
+	religion="finnish_pagan"
+}
+1061012 = {
+	name="Kuressaaru"		#Fictional
+	culture="ugricbaltic"
+	religion="finnish_pagan"
+}
+1061013 = {
+	name="kohta Muhu"		#Fictional
+	culture="ugricbaltic"
+	religion="finnish_pagan"
+}
+1061014 = {					#Fictional for Scalovia, based on legendary founders
+	name="Schalauosunus"
+	culture="lithuanian"
+	religion="baltic_pagan"
+}
+1061015 = {					#Fictional for Scalovia
+	name="Ragai"
+	culture="lithuanian"
+	religion="baltic_pagan"
+}
+1061016 = {					#Fictional for Scalovia
+	name="Ismemel"
+	culture="lithuanian"
+	religion="baltic_pagan"
+}
+1061017 = {					#Fictional for Scalovia
+	name="Isskalvia"
+	culture="lithuanian"
+	religion="baltic_pagan"
+}
+1061018 = {					#Fictional for Scalovia
+	name="Lamati"
+	culture="lithuanian"
+	religion="baltic_pagan"
+}
+1061019 = {
+	name="von Hanover"
+	culture="german"
+	religion="catholic"
+}
+1040150={
+	name="Mac Dalach"
+	culture="irish"
+	religion="catholic"
+}
+
+1040151={
+	name="Mac Flannacan"
+	culture="irish"
+	religion="catholic"
+}
+
+1040152={
+	name="Ua Meiscill"
+	culture="irish"
+	religion="catholic"
+}
+
+1040153={
+	name="Ua Laidhgnen"
+	culture="irish"
+	religion="catholic"
+}
+
+1040154={
+	name="Ua Baoigheallain"
+	culture="irish"
+	religion="catholic"
+}
+
+1040155={
+	name="Ua hEiccnigh"
+	culture="irish"
+	religion="catholic"
+}
+
+1059993={
+	name="Wardanrid"
+	culture="persian"
+	religion="sunni"
+}
+1059994={
+	name="Kakuyid"
+	culture="persian"
+	religion="zoroastrian"
+}
+1059992={
+	name="Tanukh"
+	culture="bedouin_arabic"
+	religion="orthodox"
+}
+1075000 ={
+	name="Vognsen"
+	culture="danish"
+	religion="catholic"
+}
+1062000 = {
+	name="Juel"
+	culture="danish"
+	religion="catholic"
+}
+1062001 = {
+	name ="af Aarhus"
+	culture="norse"
+	religion="norse_pagan"
+}
+1062002 = {
+	name ="af Aarhus"
+	culture="norse"
+	religion="norse_pagan"
+}
+1062003 = {
+	name ="af Aalborg"
+	culture="norse"
+	religion="norse_pagan"
+}
+1062004 = {
+	name ="af Aalborg"
+	culture="norse"
+	religion="norse_pagan"
+}
+1062005 = {
+	name ="af Varde"
+	culture="norse"
+	religion="norse_pagan"
+}
+1062006 = {
+	name ="af Varde"
+	culture="norse"
+	religion="norse_pagan"
+}
+1062007 = {
+	name ="af Skagen"
+	culture="norse"
+	religion="norse_pagan"
+}
+1062008 = {
+	name ="af Skagen"
+	culture="norse"
+	religion="norse_pagan"
+}
+1062009 = {
+	name = "von Plain"
+	culture="german"
+	religion="catholic"
+#	coat_of_arms=
+#	{
+#		data=
+#		{
+#			0 1 1 22 5 5 2 
+#		}
+#		religion="catholic"
+#	}
+}
+1062010 = {
+	name = "von Polheim"
+	culture="german"
+	religion="catholic"
+#	coat_of_arms=
+#	{
+#		data=
+#		{
+#			0 0 0 28 1 3 14 2 0 23 8 1 14 2 0 22 8 1 14 
+#		}
+#		religion="catholic"
+#	}
+}
+1062011 = {
+	name = "von Steyr"
+	culture = "german"
+	religion = "catholic"
+}
+1062012 = {
+	name = "von Losenstein"
+	culture = "german"
+	religion = "catholic"
+#	coat_of_arms=
+#	{
+#		data=
+#		{
+#			1 2 0 12 1 2 2 1 0 22 1 0 5 2 0 28 1 2 5 2 0 28 1 2 5 
+#		}
+#		religion="catholic"
+#	}
+}
+1062013 = {		# von Placeholder
+	name = "von Linz"
+	culture = "german"
+	religion = "catholic"	
+}
+1062014 = {		# von Placeholder
+	name = "von Wels"
+	culture = "german"
+	religion = "catholic"
+}
+1062015 = {		# von Placeholder
+	name = "von Ternberg"
+	culture = "german"
+	religion = "catholic"
+}
+1062016 = {		# von Placeholder
+	name = "von Rubinicha"
+	culture = "german"
+	religion ="catholic"
+}
+1062017 = {		# von Placeholder
+	name = "von Medelike"
+	culture = "german"
+	religion = "catholic"
+}
+1062018 = {		# von Placeholder
+	name = "von Ybbs"
+	culture = "german"
+	religion = "catholic"
+}
+1062019 = {
+	name = "von Zelking"
+	culture = "german"
+	religion = "catholic"
+#	coat_of_arms=
+#	{
+#		data=
+#		{
+#			0 2 0 3 1 3 3 
+#		}
+#		religion="catholic"
+#	}
+}
+1062020 = {		# von Placeholder
+	name = "von Fischau"
+	culture = "german"
+	religion = "catholic"
+}
+1062021 = {		# von Placeholder
+	name = "von Neunkirchen"
+	culture = "german"
+	religion = "catholic"
+}
+1062022 = {
+	name = "von Pitten"
+	culture = "german"
+	religion = "catholic"
+}
+1062023 = {		# Placeholder
+	name = "Krems"
+	culture = "german"
+	religion = "slavic_pagan"
+}
+1062024 = {		# Placeholder
+	name = "Gars"
+	culture = "german"
+	religion = "catholic"
+}
+1062025 = {
+	name = "von Kuenring"
+	culture = "german"
+	religion = "catholic"
+#	coat_of_arms=
+#	{
+#		data=
+#		{
+#			0 0 0 8 0 5 0 
+#		}
+#		religion="catholic"
+#	}
+}
+1062026 = {
+	name = "von Gobatsburg"
+	culture = "german"
+	religion = "catholic"
+}
+1062027 = {		# Placeholder
+	name = "Hrabisic"
+	culture = "bohemian"
+	religion = "slavic_pagan" 
+}	
+1062028 = {		# Placeholder 
+	name = "Kounic"
+	culture = "bohemian"
+	religion = "catholic"
+}
+1062029 = {
+	name="Kosaca"
+	culture = "croatian"
+	religion = "slavic_pagan"
+}
+1062030 = {
+	name = "Vukcic"
+	culture = "carantanian"
+	religion = "catholic"
+}
+1062031 = {
+	name = "von Pettau"
+	culture = "german"
+	religion = "catholic"
+}
+1062032 = {
+	name = "Rusca"
+	culture = "italian"
+	religion = "catholic"
+}
+
+1062033 = {
+	name ="af Raumariki"
+	culture="norse"
+	religion = "norse_pagan"
+}
+1062034 = {
+	name = "af Raumariki"
+	culture = "norse"
+	religion = "norse_pagan"
+}
+1062035 = {
+	name = "av Romerike"
+	culture = "norwegian"
+	religion = "catholic"
+}
+1062036 = {
+	name = "af Dovre"
+	culture = "norse"
+	religion = "norse_pagan"
+}
+1062037 = {
+	name = "af Dovre"
+	culture = "norse"
+	religion = "norse_pagan"
+}
+1062038 = {
+	name = "Dovre"
+	culture = "norwegian"
+	religion = "catholic"
+}
+1062039 = {
+	name = "Veøy"
+	culture = "norse"
+	religion = "norse_pagan"
+}
+1062040 = {
+	name = "af Raumsdalr"
+	culture = "norse"
+	religion = "norse_pagan"
+}
+1062041 = {
+	name = "Eirikson"
+	culture = "norse"
+	religion = "norse_pagan"
+}
+1062042 = {
+	name = "Sognsdal"
+	culture = "norse"
+	religion = "norse_pagan"
+}
+1062043 = {
+	name = "Gunarrson"
+	culture = "norse"
+	religion = "norse_pagan"
+}
+1062044 = {
+	name = "Firdi"
+	culture = "norse"
+	religion = "norse_pagan"
+}
+1061019 = {
+	name ="Tivertsi"
+	culture="volhynian"
+	religion="slavic_pagan"
+}
+1061020 = {
+	name ="Dniprich"
+	culture="volhynian"
+	religion="slavic_pagan"
+}
+1061021 = {
+	name ="Halyc"
+	culture="volhynian"
+	religion="slavic_pagan"
+}
+1061022 = {
+	name ="Medvjedich"
+	culture="volhynian"
+	religion="slavic_pagan"
+}
+1061023 = {
+	name ="Pripyatich"
+	culture="volhynian"
+	religion="slavic_pagan"
+}
+1061024 = {
+	name ="Drutskich"
+	culture="volhynian"
+	religion="slavic_pagan"
+}
+1061025 = {
+	name ="Peremich"
+	culture="volhynian"
+	religion="slavic_pagan"
+}
+1061026 = {
+	name ="Dnistri"
+	culture="volhynian"
+	religion="slavic_pagan"
+}
+1061027 = {
+	name ="Ulich"
+	culture="volhynian"
+	religion="slavic_pagan"
+}
+1061032 = {
+	name ="Okivid"
+	culture="meshchera"
+	religion="finnish_pagan"
+}
+1061033 = {
+	name = "Burtas"
+	culture = "turkish"
+	religion = "tengri_pagan"
+}
+1061034 = {
+	name = "Oghuz"
+	culture = "turkish"
+	religion = "tengri_pagan"
+}
+1061035 = {
+	name = "Olon"
+	culture = "volhynian"
+	religion = "slavic_pagan"
+}
+1061036 = {
+	name = "Uraçic"
+	culture = "pecheneg"
+	religion = "tengri_pagan"
+}
+1061037 = {
+	name = "Hekel"
+	culture = "khazar"
+	religion = "jewish"
+}
+1061038 = {
+	name = "Bulçir"
+	culture = "khazar"
+	religion = "jewish"
+}
+1061039 = {
+	name = "Avanich"
+	culture = "russian"
+	religion = "slavic_pagan"
+}
+1061040 = {
+	name = Hrodnich
+	culture = russian
+	religion = orthodox
+}
+1061041={
+	name="Corabia"
+	culture="romanian"
+	religion="orthodox"
+}
+1061042={
+	name="Valcea"
+	culture="romanian"
+	religion="orthodox"
+}
+1061043={
+	name="Buzau"
+	culture="romanian"
+	religion="orthodox"
+}
+1061044={
+	name="Giurgiu"
+	culture="romanian"
+	religion="tengri_pagan"
+}
+1061045={
+	name="Hostan"
+	culture="pecheneg"
+	religion="tengri_pagan"
+}
+1061046={
+	name="Gdovich"
+	culture="russian"
+	religion="orthodox"
+}
+1061047={
+	name="Lukich"
+	culture="russian"
+	religion="orthodox"
+}
+1061048={
+	name="Kholmich"
+	culture="russian"
+	religion="orthodox"
+}
+1061049={
+	name="Tikhich"
+	culture="russian"
+	religion="orthodox"
+}
+1061050={
+	name="Jotiai"
+	culture="lithuanian"
+	religion="baltic_pagan"
+}
+1061051={
+	name="Vozviahich"
+	culture="russian"
+	religion="orthodox"
+}
+1061052={
+	name="Kirillid"
+	culture="russian"
+	religion="orthodox"
+}
+1061053={
+	name="Konstantinid"
+	culture="russian"
+	religion="orthodox"
+}
+1061054={
+	name="Stepanovid"
+	culture="russian"
+	religion="orthodox"
+}
+1061055={
+	name="Ves"
+	culture="russian"
+	religion="orthodox"
+}
+1061056={
+	name="Zubvich"
+	culture="russian"
+	religion="orthodox"
+}
+1061057={
+	name="Kashinid"
+	culture="russian"
+	religion="orthodox"
+}
+1061058={
+	name="Chudivid"
+	culture="mordvin"
+	religion="finnish_pagan"
+}
+1061059={
+	name="Kozelid"
+	culture="russian"
+	religion="orthodox"
+}
+1061060={
+	name="Karachid"
+	culture="russian"
+	religion="orthodox"
+}
+1061061={
+	name="Kromid"
+	culture="russian"
+	religion="orthodox"
+}
+1061062={
+	name="Yemelyanid"
+	culture="russian"
+	religion="orthodox"
+}
+1061063={
+	name="Orekhid"
+	culture="meshchera"
+	religion="orthodox"
+}
+1059036 = {
+	name="Haroun" 
+	culture = coptic
+	religion="miaphysite"
+}
+1059037 = {
+	name="Zaia"
+	culture = coptic
+	religion="miaphysite"
+}
+1059038 = {
+	name="Abderahman"
+	culture = coptic
+	religion="miaphysite"
+}
+1059039 = {
+	name="Merkourios"
+	culture = coptic
+	religion="miaphysite"
+}
+1059040 = {
+	name="Bayomi"
+	culture = coptic
+	religion="miaphysite"
+}
+1059041 = {
+	name="Quolta"
+	culture = coptic
+	religion="miaphysite"
+}
+1059042 = {
+	name="Babnouda"
+	culture = coptic
+	religion="miaphysite"
+}
+1059043 = {
+	name="Barsanouphios"
+	culture = coptic
+	religion="miaphysite"
+}
+1059044 = {
+	name="Apion"
+	culture = coptic
+	religion="miaphysite"
+}
+1059045 = {
+	name="Paphnoutios"
+	culture = coptic
+	religion="miaphysite"
+}
+1059046 = {
+	name="Shenouti"
+	culture = coptic
+	religion="miaphysite"
+}
+1059047 = {
+	name="Papnoute"
+	culture = coptic
+	religion="miaphysite"
+}
+1059048 = {
+	name="Shanouda"
+	culture = coptic
+	religion="miaphysite"
+}
+1059049 = {
+	name="Ruweis"
+	culture = coptic
+	religion="miaphysite"
+}
+1059050 = {
+	name="Amoun"
+	culture = coptic
+	religion="miaphysite"
+}
+1059071 = {
+	name="Bashmur" 
+	culture = coptic
+	religion="miaphysite"
+}
+1059051 = {
+	name="Nisan"
+	culture = assyrian
+	religion="nestorian"
+}
+1059052 = {
+	name="Somikka"
+	culture = assyrian
+	religion="nestorian"
+}
+1059053 = {
+	name="Simele"
+	culture = assyrian
+	religion="nestorian"
+}
+1059054 = {
+	name="Sulaqa"
+	culture = assyrian
+	religion="nestorian"
+}
+1059055 = {
+	name="Diklah"
+	culture = assyrian
+	religion="nestorian"
+}
+1059056 = {
+	name="Hanina"
+	culture = assyrian
+	religion="nestorian"
+}
+1059057 = {
+	name="Hozai"
+	culture = assyrian
+	religion="nestorian"
+}
+1059058 = {
+	name="Shammai"
+	culture = assyrian
+	religion="nestorian"
+}
+1059059 = {
+	name="Samiyah"
+	culture = assyrian
+	religion="nestorian"
+}
+1059060 = {
+	name="Thomasina"
+	culture = assyrian
+	religion="nestorian"
+}
+1059061 = {
+	name="Tamasine"
+	culture = assyrian
+	religion="nestorian"
+}
+1059062 = {
+	name="Sameah"
+	culture = assyrian
+	religion="nestorian"
+}
+1059063 = {
+	name="Maccabee"
+	culture = assyrian
+	religion="nestorian"
+}
+1059064 = {
+	name="Tabetha"
+	culture = assyrian
+	religion="nestorian"
+}
+1059065 = {
+	name="Raziel"
+	culture = assyrian
+	religion="nestorian"
+}
+1059066 = {
+	name="Magdala"
+	culture = assyrian
+	religion="nestorian"
+}
+1059067 = {
+	name="Rachim"
+	culture = assyrian
+	religion="nestorian"
+}
+1059068 = {
+	name="Samal"
+	culture = assyrian
+	religion="nestorian"
+}
+1059069 = { 
+	name = "Mariam"
+	culture = assyrian
+	religion="nestorian"
+}
+1059070 = { 
+	name = "Mirza"
+	culture = assyrian
+	religion="nestorian"
+}
+1062045 = {
+	name = "Kolguyevid"
+	culture = samoyed
+	religion = finnish_pagan
+}
+1062046 = {
+	name = "Tobyid"
+	culture = samoyed
+	religion = finnish_pagan
+}
+1062047 = {
+	name = "Numid"
+	culture = samoyed
+	religion = finnish_pagan
+}
+1062048 = {
+	name = "Manvid"
+	culture = samoyed
+	religion = finnish_pagan
+}
+1062049 = {
+	name = "Kichayid"
+	culture = komi
+	religion = finnish_pagan
+}
+1062050 = {
+	name = "Tikshaykid"
+	culture = komi
+	religion = finnish_pagan
+}
+1062051 = {
+	name = "Severnayid"
+	culture = komi
+	religion = finnish_pagan
+}
+1062052 = {
+	name = "Ozhegid"
+	culture = komi
+	religion = finnish_pagan
+}
+1062053 = {
+	name = "Kolikid"
+	culture = komi
+	religion = finnish_pagan
+}
+1062054 = {
+	name = "Kakoid"
+	culture = samoyed
+	religion = finnish_pagan
+}
+1062055 = {
+	name = "Alikid"
+	culture = samoyed
+	religion = finnish_pagan
+}
+1062056 = {
+	name = "Ngayid"
+	culture = samoyed
+	religion = finnish_pagan
+}
+1062057 = {
+	name = "Samayid"
+	culture = samoyed
+	religion = finnish_pagan
+}
+1062058 = {
+	name = "Yaptid"
+	culture = samoyed
+	religion = finnish_pagan
+}
+1062059 = {
+	name = "Sayalid"
+	culture = samoyed
+	religion = finnish_pagan
+}
+1062060 = {
+	name = "Syrkaid"
+	culture = komi
+	religion = finnish_pagan
+}
+1062061 = {
+	name = "Artid"
+	culture = komi
+	religion = finnish_pagan
+}
+1062062 = {
+	name = "Azeyid"
+	culture = komi
+	religion = finnish_pagan
+}
+1062063 = {
+	name = "Viryayid"
+	culture = komi
+	religion = finnish_pagan
+}
+1062064 = {
+	name = "Nylogid"
+	culture = komi
+	religion = finnish_pagan
+}
+1062065 = {
+	name = "Pyeraid"
+	culture = komi
+	religion = finnish_pagan
+}
+1100000 = {
+	name = "Gonid"
+	culture = daju
+	religion = west_african_pagan
+}
+1100001 = {
+	name = "Buluid"
+	culture = kanuri
+	religion = west_african_pagan
+}
+1100002 = {
+	name = "Kumbarid"
+	culture = hausa
+	religion = west_african_pagan
+}
+1100003 = {
+	name = "Ku"
+	culture = zaghawa
+	religion = west_african_pagan
+}
+1100004 = {
+	name = "Burtasid"
+	culture = alan
+	religion = tengri_pagan
+}
+1100005 = {
+	name = "Bashkir"
+	culture = pecheneg
+	religion = tengri_pagan
+}
+1100006 = {
+	name = "Misharid"
+	culture = alan
+	religion = tengri_pagan
+}
+1100007 = {
+	name = "As"
+	culture = alan
+	religion = tengri_pagan
+}
+1100008 = {
+	name = "Bülärid"
+	culture = pecheneg
+	religion = tengri_pagan
+}
+1100009 = {
+	name = "Yänäyid"
+	culture = pecheneg
+	religion = tengri_pagan
+}
+1100010 = {
+	name = "Äyle"
+	culture = pecheneg
+	religion = tengri_pagan
+}
+1100011 = {
+	name = "Subashi"
+	culture = turkish
+	religion = tengri_pagan
+}
+1100012 = {
+	name = "Kani-Kara"
+	culture = pecheneg
+	religion = tengri_pagan
+}
+1100013 = {
+	name = "Kul-Eerkin"
+	culture = turkish
+	religion = sunni
+}
+1100014 = {
+	name = "Hizlioklar"
+	culture = turkish
+	religion = sunni
+}
+1100015 = {
+	name = "Turgesh"
+	culture = karluk
+	religion = sunni
+}
+1100016 = {
+	name = "Ryn"
+	culture = khazar
+	religion = jewish
+}
+1100017 = {
+	name = "Oq"
+	culture = "bolghar"
+	religion = sunni
+}
+1100018 = {
+	name = "Otur"
+	culture = "bolghar"
+	religion = sunni
+}
+1100019 = {
+	name = "Obid"
+	culture = kirghiz
+	religion = manichean
+}
+1100020 = {
+	name = "Saur"
+	culture = kirghiz
+	religion = manichean
+}
+1100021 = {
+	name = "Möng"
+	culture = mongol
+	religion = tengri_pagan
+}
+1100022 = {
+	name = "Ketuyu"
+	culture = khitan
+	religion = nestorian
+}
+1100023 = {
+	name = "Daur"
+	culture = khitan
+	religion = buddhist
+}
+1100024 = {
+	name = "Khöndlöngiin"
+	culture = mongol
+	religion = nestorian
+}
+1100025 = {
+	name = "Kharvaach"
+	culture = mongol
+	religion = tengri_pagan
+}
+1100026 = {
+	name = "Aylik"
+	culture = kirghiz
+	religion = tengri_pagan
+}
+1100027 = {
+	name = "Ob"
+	culture = kirghiz
+	religion = tengri_pagan
+}
+1100028 = {
+	name = "Ishim"
+	culture = cuman
+	religion = tengri_pagan
+}
+1100029 = {
+	name = "Talas"
+	culture = cuman
+	religion = tengri_pagan
+}
+1100030 = {
+	name = "Ili"
+	culture = cuman
+	religion = tengri_pagan
+}
+1100031 = {
+	name = "Anuy"
+	culture = kirghiz
+	religion = tengri_pagan
+}
+1100032 = {
+	name = "Ket"
+	culture = kirghiz
+	religion = tengri_pagan
+}
+1100033 = {
+	name = "Üül"
+	culture = mongol
+	religion = tengri_pagan
+}
+1100034 = {
+	name = "Ayanga"
+	culture = mongol
+	religion = tengri_pagan
+}
+1100035 = {
+	name = "Uda"
+	culture = uyghur
+	religion = manichean
+}
+1100036 = {
+	name = "Ayakoz"
+	culture = uyghur
+	religion = manichean
+}
+1059975={
+	name="Duguwa"
+	culture="kanuri"
+	religion="west_african_pagan"
+}
+1059974={
+	name="Sao"
+	culture="zaghawa"
+	religion="west_african_pagan"
+}
+1959974={
+	name="Sayfawa"
+	culture="kanuri"
+	religion="sunni"
+}
+1062066 = {
+	name = "Arvoyid"
+	culture = khanty
+	religion = finnish_pagan
+}
+1062067 = {
+	name = "Kezhayid"
+	culture = khanty
+	religion = finnish_pagan
+}
+1062068 = {
+	name = "Lyskoyid"
+	culture = khanty
+	religion = finnish_pagan
+}
+1062069 = {
+	name = "Caulita"
+	culture = crimean_gothic
+	religion = orthodox
+}
+1062070 = {
+	name = "Funa"
+	culture = crimean_gothic
+	religion = orthodox
+}
+1062071 = {
+	name = "Kalamita"
+	culture = crimean_gothic
+	religion = orthodox
+}
+1062072 = {
+	name = "Theodor"
+	culture = crimean_gothic
+	religion = orthodox
+}
+1062073 = {
+	name = "Doros"
+	culture = crimean_gothic
+	religion = orthodox
+}
+1062074 = {
+	name = "Neapol"
+	culture = crimean_gothic
+	religion = orthodox
+}
+1062075 = {
+	name = "Cembalo"
+	culture = crimean_gothic
+	religion = orthodox
+}
+1062076 = {
+	name = "Charax"
+	culture = crimean_gothic
+	religion = orthodox
+}
+1062077 = {
+	name = "Sevastoupolis"
+	culture = crimean_gothic
+	religion = orthodox
+}
+1062078 = {
+	name = "Soldaia"
+	culture = crimean_gothic
+	religion = orthodox
+}
+1062079 = {
+	name = "Kimmerikon"
+	culture = crimean_gothic
+	religion = orthodox
+}
+1062080 = {
+	name = "Caffa"
+	culture = crimean_gothic
+	religion = orthodox
+}
+1062081 = {
+	name = "Olyva"
+	culture = crimean_gothic
+	religion = orthodox
+}
+1062082 = {
+	name = "Lusta"
+	culture = crimean_gothic
+	religion = orthodox
+}
+1062083 = {
+	name = "Bodacia"
+	culture = dalmatian
+	religion = orthodox
+}
+1062084 = {
+	name = "Binciola"
+	culture = dalmatian
+	religion = orthodox
+}
+1062085 = {
+	name = "Babalio"
+	culture = dalmatian
+	religion = orthodox
+}
+1062086 = {
+	name = "Benessa"
+	culture = dalmatian
+	religion = orthodox
+}
+1062087 = {
+	name = "Bucignolo"
+	culture = dalmatian
+	religion = orthodox
+}
+1062088 = {
+	name = "Bonda"
+	culture = dalmatian
+	religion = orthodox
+}
+1062089 = {
+	name = "Cataro"
+	culture = dalmatian
+	religion = orthodox
+}
+1062090 = {
+	name = "Cerva"
+	culture = dalmatian
+	religion = orthodox
+}
+1062099 = {
+	name = "Dersie"
+	culture = dalmatian
+	religion = orthodox
+}
+1062100 = {
+	name = "Sorgo"
+	culture = dalmatian
+	religion = orthodox
+}
+1062101 = {
+	name = "Resti"
+	culture = dalmatian
+	religion = orthodox
+}
+1062102 = {
+	name = "Bona"
+	culture = dalmatian
+	religion = orthodox
+}
+1062103 = {
+	name = "Bonda"
+	culture = dalmatian
+	religion = orthodox
+}
+1062104 = {
+	name = "Cotruglio"
+	culture = dalmatian
+	religion = orthodox
+}
+1062105 = {
+	name = "Crasso"
+	culture = dalmatian
+	religion = orthodox
+}
+1062106 = {
+	name = "Gondola"
+	culture = dalmatian
+	religion = orthodox
+}
+1062107 = {
+	name = "Gozze"
+	culture = dalmatian
+	religion = orthodox
+}
+1062108 = {
+	name = "Martinussio"
+	culture = dalmatian
+	religion = orthodox
+}
+1062109 = {
+	name = "Menze"
+	culture = dalmatian
+	religion = orthodox
+}
+1062110 = {
+	name = "Natali"
+	culture = dalmatian
+	religion = orthodox
+}
+1062111 = {
+	name = "Pozza"
+	culture = dalmatian
+	religion = orthodox
+}
+1062112 = {
+	name = "Proculo"
+	culture = dalmatian
+	religion = orthodox
+}
+1062113 = {
+	name = "Ragnina"
+	culture = dalmatian
+	religion = orthodox
+}
+1062114 = {
+	name = "Resti"
+	culture = dalmatian
+	religion = orthodox
+}
+1062115 = {
+	name = "Tudisi"
+	culture = dalmatian
+	religion = orthodox
+}
+1062116 = {
+	name = "Volce"
+	culture = dalmatian
+	religion = orthodox
+}
+1062117 = {
+	name = "Udaina"
+	culture = dalmatian
+	religion = orthodox
+}
+1062118 = {
+	name = "Zamagna"
+	culture = dalmatian
+	religion = orthodox
+}
+1062119 = {
+	name = "Bucchia"
+	culture = dalmatian
+	religion = orthodox
+}
+1062120 = {
+	name = "Bona"
+	culture = dalmatian
+	religion = orthodox
+}
+1062121 = {
+	name = "Bosdari"
+	culture = dalmatian
+	religion = orthodox
+}
+1062122 = {
+	name = "Caboga"
+	culture = dalmatian
+	religion = orthodox
+}
+1062123 = {
+	name = "Calice"
+	culture = dalmatian
+	religion = orthodox
+}
+1062124 = {
+	name = "Croce"
+	culture = dalmatian
+	religion = orthodox
+}
+1062125 = {
+	name = "Ghetaldi"
+	culture = dalmatian
+	religion = orthodox
+}
+1062126 = {
+	name = "Graldi"
+	culture = dalmatian
+	religion = orthodox
+}
+1062127 = {
+	name = "Palmotta"
+	culture = dalmatian
+	religion = orthodox
+}
+1062128 = {
+	name = "Prodanelli"
+	culture = dalmatian
+	religion = orthodox
+}
+1062129 = {
+	name = "Saraca"
+	culture = dalmatian
+	religion = orthodox
+}
+1062130 = {
+	name = "Sorgo"
+	culture = dalmatian
+	religion = orthodox
+}
+1062131 = {
+	name = "Volcasso"
+	culture = dalmatian
+	religion = orthodox
+}
+1062132 = {
+	name = "Kolguyevid"
+	culture = samoyed
+	religion = finnish_pagan
+}
+1062133 = {
+	name = "Kolguyevid"
+	culture = samoyed
+	religion = finnish_pagan
+}
+1062134 = {
+	name = "Tobyid"
+	culture = samoyed
+	religion = finnish_pagan
+}
+1062135 = {
+	name = "Tobyid"
+	culture = samoyed
+	religion = finnish_pagan
+}
+1062136 = {
+	name = "Numid"
+	culture = samoyed
+	religion = finnish_pagan
+}
+1062137 = {
+	name = "Numid"
+	culture = samoyed
+	religion = finnish_pagan
+}
+1062138 = {
+	name = "Manvid"
+	culture = samoyed
+	religion = finnish_pagan
+}
+1062139 = {
+	name = "Manvid"
+	culture = samoyed
+	religion = finnish_pagan
+}
+1062140 = {
+	name = "Kakoid"
+	culture = samoyed
+	religion = finnish_pagan
+}
+1062141 = {
+	name = "Kakoid"
+	culture = samoyed
+	religion = finnish_pagan
+}
+1062142 = {
+	name = "Alikid"
+	culture = samoyed
+	religion = finnish_pagan
+}
+1062143 = {
+	name = "Alikid"
+	culture = samoyed
+	religion = finnish_pagan
+}
+1062144 = {
+	name = "Ngayid"
+	culture = samoyed
+	religion = finnish_pagan
+}
+1062145 = {
+	name = "Ngayid"
+	culture = samoyed
+	religion = finnish_pagan
+}
+1062146 = {
+	name = "Samayid"
+	culture = samoyed
+	religion = finnish_pagan
+}
+1062147 = {
+	name = "Samayid"
+	culture = samoyed
+	religion = finnish_pagan
+}
+1062148 = {
+	name = "Yaptid"
+	culture = samoyed
+	religion = finnish_pagan
+}
+1062149 = {
+	name = "Yaptid"
+	culture = samoyed
+	religion = finnish_pagan
+}
+1062150 = {
+	name = "Sayalid"
+	culture = samoyed
+	religion = finnish_pagan
+}
+1062151 = {
+	name = "Sayalid"
+	culture = samoyed
+	religion = finnish_pagan
+}
+1062152 = {
+	name = "Kichayid"
+	culture = komi
+	religion = finnish_pagan
+}
+1062153 = {
+	name = "Kichayid"
+	culture = komi
+	religion = finnish_pagan
+}
+1062154 = {
+	name = "Tikshaykid"
+	culture = komi
+	religion = finnish_pagan
+}
+1062155 = {
+	name = "Tikshaykid"
+	culture = komi
+	religion = finnish_pagan
+}
+1062156 = {
+	name = "Severnayid"
+	culture = komi
+	religion = finnish_pagan
+}
+1062157 = {
+	name = "Severnayid"
+	culture = komi
+	religion = finnish_pagan
+}
+1062158 = {
+	name = "Ozhegid"
+	culture = komi
+	religion = finnish_pagan
+}
+1062159 = {
+	name = "Ozhegid"
+	culture = komi
+	religion = finnish_pagan
+}
+1062160 = {
+	name = "Kolikid"
+	culture = komi
+	religion = finnish_pagan
+}
+1062161 = {
+	name = "Kolikid"
+	culture = komi
+	religion = finnish_pagan
+}
+1062162 = {
+	name = "Syrkaid"
+	culture = komi
+	religion = finnish_pagan
+}
+1062163 = {
+	name = "Syrkaid"
+	culture = komi
+	religion = finnish_pagan
+}
+1062164 = {
+	name = "Artid"
+	culture = komi
+	religion = finnish_pagan
+}
+1062165 = {
+	name = "Artid"
+	culture = komi
+	religion = finnish_pagan
+}
+1062166 = {
+	name = "Viryayid"
+	culture = komi
+	religion = finnish_pagan
+}
+1062167 = {
+	name = "Viryayid"
+	culture = komi
+	religion = finnish_pagan
+}
+1062168 = {
+	name = "Nylogid"
+	culture = komi
+	religion = finnish_pagan
+}
+1062169 = {
+	name = "Nylogid"
+	culture = komi
+	religion = finnish_pagan
+}
+1062170 = {
+	name = "Pyeraid"
+	culture = komi
+	religion = finnish_pagan
+}
+1062171 = {
+	name = "Pyeraid"
+	culture = komi
+	religion = finnish_pagan
+}
+1062172 = {
+	name = "Macrodoukas"
+	culture = greek
+	religion = orthodox
+}
+1062173 = {
+	name = "Kastriotis"
+	culture = greek
+	religion = orthodox
+}
+1062174 = {
+	name = "Skleros"
+	culture = greek
+	religion = orthodox
+}
+1062175 = {
+	name = "Carantania"
+	culture = carantanian
+	religion = catholic
+}
+1062176 = {
+	name = "Pribic"
+	culture = carantanian
+}
+1062177 = {
+	name = "Ivkovic"
+	culture = carantanian
+}
+1062178 = {
+	name = "Preradic"
+	culture = carantanian
+}
+1062179 = {
+	name = "Ivkovic"
+	culture = carantanian
+}
+1062180 = {
+	name = "Bojanic"
+	culture = carantanian
+}
+1062181 = {
+	name = "Rajkovic"
+	culture = carantanian
+}
+1062182 = {
+	name = "Milenic"
+	culture = carantanian
+}
+1062183 = {
+	name = "Bogoslavic"
+	culture = carantanian
+}
+1062184 = {
+	name="di Castalnasetta"
+	culture="italian"
+	religion="catholic"
+}
+1062185 = {
+	name="di Saluzzo"
+	culture="italian"
+}
+1062186 = {
+	name="Aleramo"
+	culture="italian"
+}
+1062187 = {
+	name = "Saarbrücken"
+	culture = german
+#	coat_of_arms= {
+#		data = {
+#			0 2 0 3 1 2 2 
+#		}
+#		religion="catholic"
+#	}
+}
+1062188 = {
+	name = "Apremont"
+	culture = german
+}
+1062189 = {
+	name = "von Kleve"
+	culture = german
+}
+1062190 = {
+	name = "Commercy"
+	culture = german
+}
+1062191 = {
+	name = "Broyes-Commercy"
+	culture = german
+#	coat_of_arms= {
+#		data = {
+#			0 2 0 3 1 2 2 
+#		}
+#		religion="catholic"
+#	}
+}
+1062192 = {
+	name = "Kezhayid"
+	culture = khanty
+	religion = finnish_pagan
+}
+1062193 = {
+	name = "Kezhayid"
+	culture = khanty
+	religion = finnish_pagan
+}
+1062194 = {
+	name = "Raydasid"
+	culture = khanty
+	religion = finnish_pagan
+}
+1062195 = {
+	name = "Raydasid"
+	culture = khanty
+	religion = finnish_pagan
+}
+1062196 = {
+	name = "Raydasid"
+	culture = khanty
+	religion = finnish_pagan
+}
+1060100 = {
+	name = "Oudou"
+	culture = soninke
+	religion = west_african_pagan
+}
+1060101 = {
+	name = "Zuwaido"
+	culture = songhay
+	religion = west_african_pagan
+}
+1059972={
+	name="Tora"
+	culture="maghreb_arabic"
+	religion="west_african_pagan"
+}
+1059971={
+	name="Marrah" # fictional dynasty name based on local mountain range
+	culture = daju
+	religion="west_african_pagan"
+}
+1059970={
+	name="Tajuwa" # fictional dynasty name based on historical town
+	culture = daju
+	religion="west_african_pagan"
+}
+1059969={
+	name="Samna" # fictional dynasty name based on historical town
+	culture = daju
+	religion="west_african_pagan"
+}
+1059968={
+	name="Bugur" # fictional dynasty name based on local ruler title
+	culture = daju
+	religion="sunni"
+}
+1059967={
+	name="Mahas" # fictional dynasty name based on local language
+	culture = daju
+	religion="sunni"
+}
+1059966={
+	name="Shendi" # fictional dynasty name based on Shendi region
+	culture = daju
+	religion="sunni"
+}
+1059965= {
+    name="Kayi" # historical clan in Fitri region
+    culture = zaghawa
+    religion="west_african_pagan"
+}
+1059964 = {
+    name="al-Ibadi"  # Fezzan
+    culture = maghreb_arabic # zanata
+    religion="ibadi"
+}
+1059963 = {
+    name="Banu Khattab"
+    culture = maghreb_arabic # zanata
+    religion="ibadi"
+}
+1059962 = {
+    name="Awellimid"
+    culture = maghreb_arabic # tuareg
+    religion="sunni"
+}
+1059961 = {
+    name="Kel Wi"
+    culture = maghreb_arabic # tuareg
+    religion="west_african_pagan"
+}
+1059960={
+    name="Kunkuna"
+    culture="kanuri"
+    religion="west_african_pagan"
+}
+1059959={
+    name="Teda"
+    culture="kanuri"
+    religion="west_african_pagan"
+}
+1059958={
+    name="Tabir"
+    culture="kanuri"
+    religion="west_african_pagan"
+}
+1059957 = {
+    name="Ajawa"
+    culture = "kanuri"
+    religion="west_african_pagan"
+}
+1060010 = {
+	name="Niakhate"
+	culture = "soninke"
+	religion="west_african_pagan"
+}
+1060011 = {
+	name="Tunkara"
+	culture = "soninke"
+	religion="west_african_pagan"
+}
+1060012 = {
+	name="Diawara"
+	culture = "soninke"
+	religion="west_african_pagan"
+}
+1060013 = {
+	name="Kiffa"
+	culture = "soninke"
+	religion="west_african_pagan"
+}
+1060014 = {
+	name="Soninke"
+	culture = "soninke"
+	religion="west_african_pagan"
+}
+1060015 = {
+	name="Kanté"
+	culture = "soninke"
+	religion="west_african_pagan"
+}
+1060016 = {
+	name="Konaté"
+	culture = manden
+	religion="west_african_pagan"
+}
+1060017 = {
+	name="Touré"
+	culture = manden
+	religion="west_african_pagan"
+}
+1060018 = {
+	name="Koné"
+	culture = manden
+	religion="west_african_pagan"
+}
+1060019 = {
+	name="Kamara"
+	culture = manden
+	religion="west_african_pagan"
+}
+1060020 = {
+	name="Diakhanke" # of Bambuk
+	culture = manden
+	religion="west_african_pagan"
+}
+1060021 = {
+	name="Torodbe"
+	culture = soninke
+	religion="west_african_pagan"
+}
+1060022 = {
+	name="Walo"
+	culture = soninke
+	religion="west_african_pagan"
+}
+1060023 = {
+	name="Silla"
+	culture = soninke
+	religion="west_african_pagan"
+}
+1060024 = {
+	name="Joof"
+	culture = soninke
+	religion="west_african_pagan"
+}
+1060025 = {
+	name="Njie"
+	culture = soninke
+	religion="west_african_pagan"
+}
+1060026 = {
+	name="Faal"
+	culture = soninke
+	religion="west_african_pagan"
+}
+1060200 = {
+    name="Zakhawa"
+    culture = zaghawa
+    religion="west_african_pagan"
+}
+1060201 = {
+    name="Tomaghra"
+    culture = zaghawa
+    religion="west_african_pagan"
+}
+1060202 = {
+    name="Tubu" # a people who lived probably in the area of Tibesti
+    culture = zaghawa
+    religion="west_african_pagan"
+}
+1060203 = {
+    name="Beri" # Modern day term for Zaghawa
+    culture = zaghawa
+    religion="west_african_pagan"
+}
+1060204 = {
+    name="Kegi" # Modern day term for Zaghawa
+    culture = zaghawa
+    religion="west_african_pagan"
+}
+1060205 = {
+    name="Bideyat" # Modern day term for Zaghawa
+    culture = zaghawa
+    religion="west_african_pagan"
+}
+1060206 = {
+    name="Toubou" # related culture which can be used as province holder
+    culture = zaghawa
+    religion="west_african_pagan"
+}
+1060027 = {
+	name="Durbawa" 
+	culture = hausa
+	religion="west_african_pagan"
+}
+1060028 = {
+	name="Daura" 
+	culture = hausa
+	religion="west_african_pagan"
+}
+1060029 = {
+	name="Habe" 
+	culture = hausa
+	religion="west_african_pagan"
+}
+1060030 = {
+	name="Karbo" 
+	culture = hausa
+	religion="west_african_pagan"
+}
+1000101153 = {
+	name="Gobiri" 
+	culture = hausa
+	religion="west_african_pagan"
+}
+1060032 = {
+	name="Gabas" 
+	culture = hausa
+	religion="west_african_pagan"
+}
+1060033 = {
+	name="Adarawa" 
+	culture = hausa
+	religion="west_african_pagan"
+}
+1060034 = {
+	name="Gobirawa" 
+	culture = hausa
+	religion="west_african_pagan"
+}
+1060035 = {
+	name="Maranda" 
+	culture = hausa
+	religion="west_african_pagan"
+}
+1060036 = {
+	name="Kufena" 
+	culture = hausa
+	religion="west_african_pagan"
+}
+1060037 = {
+	name="Turunku" 
+	culture = hausa
+	religion="west_african_pagan"
+}
+1060038 = {
+	name="Kangoma" 
+	culture = hausa
+	religion="west_african_pagan"
+}
+1060039 = {
+	name="Korau" 
+	culture = hausa
+	religion="west_african_pagan"
+}
+1060040 = {
+	name="Santolo" 
+	culture = hausa
+	religion="west_african_pagan"
+}
+1060041 = {
+	name="Magazawa" 
+	culture = hausa
+	religion="west_african_pagan"
+}
+1060042 = {
+	name="Azna" 
+	culture = hausa
+	religion="west_african_pagan"
+}
+105920 = {
+	name="Catuvellauni"
+	culture="welsh"
+	religion="pagan"
+	used_for_random=no
+}
+105921 = {
+	name="Iceni"
+	culture="welsh"
+	religion="pagan"
+	used_for_random=no
+}
+105922 = {
+	name="Brigantes"
+	culture="welsh"
+	religion="pagan"
+	used_for_random=no
+}
+105923 = {
+	name="Ceint"
+	culture="welsh"
+}
+105924 = {
+	name="Rhegin"
+	culture="welsh"
+}
+105925 = {
+	name="Gwinntguic"
+	culture="welsh"
+}
+105926 = {
+	name="Wihtwara"
+	culture="saxon"
+	religion="pagan"
+}
+105927 = {
+	name="Dynotion"
+	culture="welsh"
+}
+105928 = {
+	name="Guendoleu"
+	culture="welsh"
+}
+105929 = {
+	name="Brigiau"
+	culture="welsh"
+}
+105930 = {
+	name="Bryneich"
+	culture="welsh"
+}
+105931 = {
+	name="Dynbaer"
+	culture="saxon"
+}
+105932 = {
+	name="Elmet"
+	culture="welsh"
+}
+105933 = {
+	name="Celemion"
+	culture="welsh"
+}
+105934 = {
+	name="Cynwidion"
+	culture="welsh"
+}
+105935 = {
+	name="Calchwynedd"
+	culture="welsh"
+}
+105936 = {
+	name="Dogfeiling"
+	culture="welsh"
+}
+105937 = {
+	name="Glastenning"
+	culture="welsh"
+}
+105938 = {
+	name="Aricon"
+	culture="welsh"
+}
+105939 = {
+	name="Gwlad yr Haf"
+	culture="welsh"
+}
+105940 = {
+	name="Syllan"
+	culture="breton"
+}
+105941 = {
+	name="Guenet"
+	culture="welsh"
+}
+105942 = {
+	name="Penddraig"
+	culture="welsh"
+	used_for_random=no
+}
+105943 = {
+	name="Iaenning"
+	culture="welsh"
+	used_for_random=no
+}
+105944 = {
+	name="Gawr"
+	culture="welsh"
+	used_for_random=no
+}
+1059956={
+    name="Sharaf"
+    culture="armenian"
+    religion="sunni"
+}
+5062099 = {
+	name="Nikolic"
+	culture="bosnian"
+}
+5062100 = {
+	name="Sankovic"
+	culture="bosnian"
+}
+5062101 = {
+	name="Vukovic"
+	culture="bosnian"
+}
+5062102 = {
+	name="Visevic"
+	culture="bosnian"
+}
+5062103 = {
+	name="Radivojevic"
+	culture="bosnian"
+}
+5062104 = {
+	name="Vlatkovic"
+	culture="bosnian"
+}
+5062105 = {
+	name="Radinovic"
+	culture="bosnian"
+}
+5062106 = {
+	name="Radinovic-Pavlovic"
+	culture="bosnian"
+}
+5062107 = {
+	name="Zlatonosovic"
+	culture="bosnian"
+}
+5062108 = {
+	name="Kristic"
+	culture="bosnian"
+}
+5062109 = {
+	name="Santic"
+	culture="bosnian"
+}
+5062110 = {
+	name="Tepcic"
+	culture="bosnian"
+}
+5062111 = {
+	name="Hercegovic"
+	culture="bosnian"
+}
+5062112 = {
+	name="Tezalovic"
+	culture="bosnian"
+}
+5062113 = {
+	name="Murzic"
+	culture="bosnian"
+}
+5062114 = {
+	name="Hvaeonic"
+	culture="bosnian"
+}
+5062115 = {
+	name="Masnovic"
+	culture="bosnian"
+}
+5062116 = {
+	name="Mirkovic"
+	culture="bosnian"
+}
+5062117 = {
+	name="Vojsalic"
+	culture="bosnian"
+}
+5062118 = {
+	name="Ugrin"
+	culture="bosnian"
+}
+105945 = {
+	name="Bro Erec"
+	culture="breton"
+}
+105946 = {
+	name="Kernev"
+	culture="breton"
+}
+105946=
+{
+	name="Builth"
+	culture="welsh"
+	religion="catholic"
+}
+105947=
+{
+	name="de Neufmarch"
+	culture="norman"
+	religion="catholic"
+}
+105915 = {
+	name="òa Flainn"
+	culture="irish"
+}
+105916 = {
+	name="òa Scannail"
+	culture="irish"
+}
+105917 = {
+	name="òa Muircheartaigh"
+	culture="irish"
+}
+105918 = {
+	name="òa Donnchadha"
+	culture="irish"
+}
+105919 = {
+	name="Mœscraige"
+	culture="irish"
+}
+1062197 = {
+	name = "Uí Fiachrach"
+	culture = "irish"
+}
+1062198 = {
+	name = "Ua Daimhine"
+	culture = "irish"
+}
+1062199 = {
+	name = "Cremthainn"
+	culture = "irish"
+}
+1062200 = {
+	name = "Ua Ceillaigh"
+	culture = "irish"
+}
+1062201 = {
+	name = "Ó Cellaigh"
+	culture = "irish"
+}
+1062202 = {
+	name = "Uí Dubhda"
+	culture = "irish"
+}
+1062203 = {
+	name = "Ua Dubhda"
+	culture = "irish"
+}
+1062204 = {
+	name = "Ó Dubhda"
+	culture = "irish"
+}
+1059955={
+	name="Thopia"
+	culture="arberian"
+	religion="orthodox"
+}
+1059954={
+	name="Muzaka"
+	culture="arberian"
+	religion="orthodox"
+}
+1059953={
+	name="Blenisti"
+	culture="arberian"
+	religion="orthodox"
+}
+1059952={
+	name="Dukagjini"
+	culture="arberian"
+	religion="orthodox"
+}
+1059951={
+	name="Kastrioti"
+	culture="arberian"
+	religion="orthodox"
+}
+1059950={
+	name="Arianiti"
+	culture="arberian"
+	religion="orthodox"
+}
+1059949={
+	name="Zaccaria"
+	culture="arberian"
+	religion="orthodox"
+}
+1059948={
+	name="Araniti"
+	culture="arberian"
+	religion="orthodox"
+}
+1059947={
+	name="Spani"
+	culture="arberian"
+	religion="orthodox"
+}
+1059946={
+	name="Zanebisha"
+	culture="arberian"
+	religion="orthodox"
+}
+1059986={
+    name="Shansabani"
+    culture="persian"
+    religion="buddhist"
+}
+1059971={
+	name="Kaukabi" 
+	culture="persian"
+	religion="shiite"
+}
+1059976={
+	name="Shahanshahvand" 
+	culture="persian"
+	religion="zoroastrian"
+}
+1059973={
+	name="Varudavand" # local clan used as dynasty name
+	culture="persian"
+	religion="zoroastrian"
+}
+1900000=
+{
+	name="de Narbonne"
+	culture="outremer"
+	religion="catholic"
+}
+1900001=
+{
+	name="de Bourgogne-Comté"
+	culture="outremer"
+}
+1900002=
+{
+	name="de l'Aigle"
+	culture="outremer"
+	religion="catholic"
+}
+1900003=
+{
+	name="de Flotte"
+	culture="outremer"
+	religion="catholic"
+}
+
+1900004=
+{
+	name="de Vendôme"
+	culture="outremer"
+}
+1900005=
+{
+	name="de Champagne"
+	culture="outremer"
+}
+1900006=
+{
+	name="de Namur"
+	culture="outremer"
+	religion="catholic"
+}
+1900007=
+{
+	name="de Bissy"
+	culture="outremer"
+}
+1900008=
+{
+	name="d'Eu"
+	culture="outremer"
+}
+1900009=
+{
+	name="von Margrave"
+	culture="outremer"
+}
+1900010=
+{
+	name="du Perche"
+	culture="outremer"
+	religion="catholic"
+}
+1900011=
+{
+	name="de Boulogne"
+	culture="outremer"
+	religion="catholic"
+}
+1900012=
+{
+	name="Puy du Fou"
+	culture="outremer"
+	religion="catholic"
+}
+1900013=
+{
+	name="de Preuilly"
+	culture="outremer"
+	religion="catholic"
+}
+1900014=
+{
+	name="de Salins"
+	culture="outremer"
+	religion="catholic"
+}
+1900015=
+{
+	name="d'Oisy"
+	culture="outremer"
+	religion="catholic"
+}
+1900016=
+{
+	name="de Barthe"
+	culture="outremer"
+	religion="catholic"
+}
+1900017=
+{
+	name="de Fezensac"
+	culture="outremer"
+	religion="catholic"
+}
+1900018=
+{
+	name="de Boisrobert"
+	culture="outremer"
+}
+1900019=
+{
+	name="de Bourbon"
+	culture="outremer"
+	religion="catholic"
+}
+1900020=
+{
+	name="d'Angoulême"
+	culture="outremer"
+}
+1900021=
+{
+	name="de Guyenne"
+	culture="outremer"
+	religion="catholic"
+}
+1900022=
+{
+	name="Le Tellier"
+	culture="outremer"
+	religion="catholic"
+}
+1900023=
+{
+	name="de Talleyrand"
+	culture="outremer"
+}
+1900024=
+{
+	name="de Batarnay"
+	culture="outremer"
+}
+1900025=
+{
+	name="de Beaumont-au-Maine"
+	culture="outremer"
+	religion="catholic"
+}
+1900026=
+{
+	name="de Hainaut"
+	culture="outremer"
+}
+1900027=
+{
+	name="de Crécy"
+	culture="outremer"
+}
+1900028=
+{
+	name="de Bellegarde"
+	culture="outremer"
+}
+1900029=
+{
+	name="de St. Hilary"
+	culture="outremer"
+	religion="catholic"
+}
+1900030=
+{
+	name="d'Aubigny"
+	culture="outremer"
+	religion="catholic"
+}
+1900031=
+{
+	name="de Albemarle"
+	culture="outremer"
+	religion="catholic"
+}
+1900032=
+{
+	name="de Verre"
+	culture="outremer"
+}
+1900033=
+{
+	name="d'Evreux"
+	culture="outremer"
+	religion="catholic"
+}
+1900034=
+{
+	name="de Blundeville"
+	culture="outremer"
+}
+1900035=
+{
+	name="de Mellent"
+	culture="outremer"
+	religion="catholic"
+}
+1900036=
+{
+	name="de Baalun"
+	culture="outremer"
+	religion="catholic"
+}
+1900037=
+{
+	name="de Vernon"
+	culture="outremer"
+}
+1900038=
+{
+	name="Estouteville"
+	culture="outremer"
+	religion="catholic"
+}
+1900039=
+{
+	name="de Vexin-Amiens"
+	culture="outremer"
+	religion="catholic"
+}
+1900040=
+{
+	name="de Tilly"
+	culture="outremer"
 }

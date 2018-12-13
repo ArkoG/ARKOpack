@@ -399,6 +399,15 @@ culture =
 			color = 0
 			random = no # Do not use for random CoAs
 		}
+		texture = {
+		# Skara, Kinda, Tiohärad, Sevede, Kiev, Minsk, Vladimir, Volhynia
+			file = "gfx\\coats_of_arms\\pagans2.tga"
+			size = { x = 8 y = 1 }
+			#noOfFrames = 8
+			noOfFrames = 10  # +Roma +Roman empire for hellenic. Vanilla CoA are used
+			color = 0
+			random = no # Do not use for random CoAs
+		}
 	}
 }
 culture = 
@@ -461,6 +470,15 @@ culture =
 			file = "gfx\\coats_of_arms\\pagans.tga"
 			size = { x = 13 y = 1 }
 			noOfFrames = 13
+			color = 0
+			random = no # Do not use for random CoAs
+		}
+		texture = {
+		# Skara, Kinda, Tiohärad, Sevede, Kiev, Minsk, Vladimir, Volhynia
+			file = "gfx\\coats_of_arms\\pagans2.tga"
+			size = { x = 8 y = 1 }
+			#noOfFrames = 8
+			noOfFrames = 10  # +Roma +Roman empire for hellenic. Vanilla CoA are used
 			color = 0
 			random = no # Do not use for random CoAs
 		}
@@ -529,6 +547,15 @@ culture =
 			color = 0
 			random = no # Do not use for random CoAs
 		}
+		texture = {
+		# Skara, Kinda, Tiohärad, Sevede, Kiev, Minsk, Vladimir, Volhynia
+			file = "gfx\\coats_of_arms\\pagans2.tga"
+			size = { x = 8 y = 1 }
+			#noOfFrames = 8
+			noOfFrames = 10  # +Roma +Roman empire for hellenic. Vanilla CoA are used
+			color = 0
+			random = no # Do not use for random CoAs
+		}
 	}
 }
 culture = 
@@ -591,6 +618,15 @@ culture =
 			file = "gfx\\coats_of_arms\\pagans.tga"
 			size = { x = 13 y = 1 }
 			noOfFrames = 13
+			color = 0
+			random = no # Do not use for random CoAs
+		}
+		texture = {
+		# Skara, Kinda, Tiohärad, Sevede, Kiev, Minsk, Vladimir, Volhynia
+			file = "gfx\\coats_of_arms\\pagans2.tga"
+			size = { x = 8 y = 1 }
+			#noOfFrames = 8
+			noOfFrames = 10  # +Roma +Roman empire for hellenic. Vanilla CoA are used
 			color = 0
 			random = no # Do not use for random CoAs
 		}
@@ -659,6 +695,15 @@ culture =
 			color = 0
 			random = no # Do not use for random CoAs
 		}
+		texture = {
+		# Skara, Kinda, Tiohärad, Sevede, Kiev, Minsk, Vladimir, Volhynia
+			file = "gfx\\coats_of_arms\\pagans2.tga"
+			size = { x = 8 y = 1 }
+			#noOfFrames = 8
+			noOfFrames = 10  # +Roma +Roman empire for hellenic. Vanilla CoA are used
+			color = 0
+			random = no # Do not use for random CoAs
+		}
 	}
 }
 culture = { 
@@ -720,6 +765,15 @@ culture = {
 			file = "gfx\\coats_of_arms\\pagans.tga"
 			size = { x = 13 y = 1 }
 			noOfFrames = 13
+			color = 0
+			random = no # Do not use for random CoAs
+		}
+		texture = {
+		# Skara, Kinda, Tiohärad, Sevede, Kiev, Minsk, Vladimir, Volhynia
+			file = "gfx\\coats_of_arms\\pagans2.tga"
+			size = { x = 8 y = 1 }
+			#noOfFrames = 8
+			noOfFrames = 10  # +Roma +Roman empire for hellenic. Vanilla CoA are used
 			color = 0
 			random = no # Do not use for random CoAs
 		}
@@ -787,6 +841,15 @@ culture = {
 			color = 0
 			random = no # Do not use for random CoAs
 		}
+		texture = {
+		# Skara, Kinda, Tiohärad, Sevede, Kiev, Minsk, Vladimir, Volhynia
+			file = "gfx\\coats_of_arms\\pagans2.tga"
+			size = { x = 8 y = 1 }
+			#noOfFrames = 8
+			noOfFrames = 10  # +Roma +Roman empire for hellenic. Vanilla CoA are used
+			color = 0
+			random = no # Do not use for random CoAs
+		}
 	}
 }
 culture = { 
@@ -848,6 +911,15 @@ culture = {
 			file = "gfx\\coats_of_arms\\pagans.tga"
 			size = { x = 13 y = 1 }
 			noOfFrames = 13
+			color = 0
+			random = no # Do not use for random CoAs
+		}
+		texture = {
+		# Skara, Kinda, Tiohärad, Sevede, Kiev, Minsk, Vladimir, Volhynia
+			file = "gfx\\coats_of_arms\\pagans2.tga"
+			size = { x = 8 y = 1 }
+			#noOfFrames = 8
+			noOfFrames = 10  # +Roma +Roman empire for hellenic. Vanilla CoA are used
 			color = 0
 			random = no # Do not use for random CoAs
 		}
@@ -915,6 +987,15 @@ culture = {
 			color = 0
 			random = no # Do not use for random CoAs
 		}
+		texture = {
+		# Skara, Kinda, Tiohärad, Sevede, Kiev, Minsk, Vladimir, Volhynia
+			file = "gfx\\coats_of_arms\\pagans2.tga"
+			size = { x = 8 y = 1 }
+			#noOfFrames = 8
+			noOfFrames = 10  # +Roma +Roman empire for hellenic. Vanilla CoA are used
+			color = 0
+			random = no # Do not use for random CoAs
+		}
 	}
 }
 culture = { 
@@ -976,6 +1057,15 @@ culture = {
 			file = "gfx\\coats_of_arms\\pagans.tga"
 			size = { x = 13 y = 1 }
 			noOfFrames = 13
+			color = 0
+			random = no # Do not use for random CoAs
+		}
+		texture = {
+		# Skara, Kinda, Tiohärad, Sevede, Kiev, Minsk, Vladimir, Volhynia
+			file = "gfx\\coats_of_arms\\pagans2.tga"
+			size = { x = 8 y = 1 }
+			#noOfFrames = 8
+			noOfFrames = 10  # +Roma +Roman empire for hellenic. Vanilla CoA are used
 			color = 0
 			random = no # Do not use for random CoAs
 		}
@@ -1042,6 +1132,15 @@ culture = {
 			color = 0
 			random = no # Do not use for random CoAs
 		}
+		texture = {
+		# Skara, Kinda, Tiohärad, Sevede, Kiev, Minsk, Vladimir, Volhynia
+			file = "gfx\\coats_of_arms\\pagans2.tga"
+			size = { x = 8 y = 1 }
+			#noOfFrames = 8
+			noOfFrames = 10  # +Roma +Roman empire for hellenic. Vanilla CoA are used
+			color = 0
+			random = no # Do not use for random CoAs
+		}
 	}
 }
 
@@ -1105,6 +1204,15 @@ culture = {
 			file = "gfx\\coats_of_arms\\pagans.tga"
 			size = { x = 13 y = 1 }
 			noOfFrames = 13
+			color = 0
+			random = no # Do not use for random CoAs
+		}
+		texture = {
+		# Skara, Kinda, Tiohärad, Sevede, Kiev, Minsk, Vladimir, Volhynia
+			file = "gfx\\coats_of_arms\\pagans2.tga"
+			size = { x = 8 y = 1 }
+			#noOfFrames = 8
+			noOfFrames = 10  # +Roma +Roman empire for hellenic. Vanilla CoA are used
 			color = 0
 			random = no # Do not use for random CoAs
 		}
