@@ -1227,7 +1227,7 @@ culture = {
 	}
 
 	color = {
-		{ 220 200 0 }	#0 		Or d'Orient
+		{ 250 180 30 }	#0 		Or d'Orient
 		{ 20 20 20 } 	#1 		Sable
 		{ 100 150 250 } #2 		Bleu Céleste
 		{ 40 180 40 } 	#3 		Vert Sunnite
@@ -1277,8 +1277,8 @@ culture = {
 		}
 		texture = {
 			file = "gfx\\coats_of_arms\\Zoro_ARKOpack_3C.tga"
-			size = { x = 10 y = 1 }
-			noOfFrames = 10
+			size = { x = 5 y = 1 }
+			noOfFrames = 5
 			color = 3
 			emblem = no
 		}
