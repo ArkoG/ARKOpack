@@ -14,7 +14,9 @@ ARMOIRIES :
 ##-3.0.x update
 -improved dynastic names improvments by ese-khan
 -various CoA pattern improvments for muslims and christians
--
+-whole new CoA pattern for zoroastrians
+-kept some old vanilla flags that where better or more senseful that the new ones intriduced in 3.0
+-some flags for newly added counties
 -
 
 INTERFACE :
@@ -23,6 +25,8 @@ INTERFACE :
 -enlarged artifact desc space in artifact view
 -fixed missing prestige cost icon in build building view
 -made offmap power history view adopting the same style as regular titles history view
+-improved barber window visual
+-DLC intrusive and ugly recommandations are now hidden
 -
 -
 
