@@ -1,6 +1,14 @@
-culture =
-{ #christian
-	religion_group = "christian"
+culture = { 
+	#christian
+	#religion_group = "christian"
+	religion = {
+		"catholic"
+		#"cathar"
+		#"fraticelli"
+		#"waldensian"
+		#"lollard"
+	}
+	
 
 	templates = { 
 		"coa_plain:1" 			#plain
@@ -231,7 +239,247 @@ culture =
 		# WHEN ADDING NEW, ALWAYS ADD AT THE END !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!11111
 	}
 }
+culture =
+{ #christian
+	#religion_group = "christian"
+	religion = {
+		"orthodox"
+		"miaphysite"
+		#"monophysite"
+		#"bogomilist"
+		#"monothelite"
+		#"iconoclast"
+		#"paulician"
+		"nestorian"
+		#"messalian"
+	}
 
+	templates = { 
+		#"coa_plain_byz:1" 		#experimental
+		"coa_plain:1" 			#plain
+	}
+
+	color = {
+		{ 250 190 0 }	#0 		Or
+		{ 230 230 230 } #1  	Argent
+		{ 0 90 150 } 	#2  	Azur
+		{ 170 0 10 } 	#3  	Gueules 
+		{ 20 110 20 } 	#4  	Sinople
+		{ 20 20 20 }	#5  	Sable
+		{ 100 0 100 }	#6  	Pourpre ex { 120 5 120 }
+		#{ 200 80 0 }	#ex7	Tanné		
+		{ 250 190 0 }	#7		Or
+		{ 230 230 230 } #8  	Argent
+		{ 0 90 150 } 	#9	 	Azur
+		{ 170 0 10 } 	#10  	Gueules  
+		#{ 20 20 20 }	#11  	Sable
+}
+
+	rebel_colors = { 1 10 5 }
+
+	banned_colors = 
+	{ 
+		{ 0 1 7 8 }			#0		
+		{ 0 1 7 8 }			#1		
+		{ 2 3 4 6 9 10 }	#2		
+		{ 2 3 4 6 9 10 }	#3		
+		{ 2 3 4 6 9 10 }	#4		
+		{ 5 }				#5		
+		{ 2 3 6 9 10 }		#6		
+		#{ 0 3 6 7 10 }		#ex7	
+		{ 0 1 7 8 }			#7		
+		{ 0 1 7 8 }			#8		
+		{ 2 3 4 6 9 10 }	#9		
+		{ 2 3 4 6 9 10 }	#10	
+		#{ 5 11 }			#11			
+	}
+	
+#	emblem = {
+#		file = "gfx\\coats_of_arms\\Arko_emblem.tga"
+#		noOfFrames = 10
+#	}
+	emblem = {
+		file = "gfx\\coats_of_arms\\Arko_emblem_cust.tga"
+		noOfFrames = 48
+		random = no
+	}
+#	emblem = {
+#		file = "gfx\\coats_of_arms\\war_of_the_roses_non_random.tga"
+#		noOfFrames = 2
+#		random = no
+#	}
+	emblem = {
+		file = "gfx\\coats_of_arms\\war_of_the_roses_emblems.tga"
+		noOfFrames = 7
+		random = no
+	}
+#	emblem = {
+#		file = "gfx\\coats_of_arms\\pdxcon_emblems.tga"
+#		noOfFrames = 17
+#		random = no
+#	}
+#	emblem = {
+#		file = "gfx\\coats_of_arms\\pdxcon_emblems_2.tga"
+#		noOfFrames = 1
+#		random = no
+#	}
+	
+	# WHEN ADDING NEW, ALWAYS ADD AT THE END !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!11111
+	textures = {
+		texture = { #texture = 0
+			file = "gfx\\coats_of_arms\\ARKOpack_Pattern_3C.tga"
+			size = { x = 10 y = 4 } #x=nombre d'images sur une ligne // y=nombre d'image dans une colonne
+			noOfFrames = 40
+			emblem = no
+			color = 3 
+		}
+		texture = { #texture = 1
+			file = "gfx\\coats_of_arms\\ARKOpack_Pattern_2C.tga"
+			size = { x = 10 y = 10 }
+			noOfFrames = 99
+			emblem = no
+			color = 2
+		}
+		texture = { #texture = 2 avec charge.
+			file = "gfx\\coats_of_arms\\ARKOpack_Pattern_2C_light.tga"
+			size = { x = 10 y = 10 }
+			noOfFrames = 99
+			emblem = no
+			#emblem = yes
+			#emblem_chance = 30 #default is 50
+			color = 2
+		}
+		texture = { #texture = 3
+			file = "gfx\\coats_of_arms\\dynasties.tga" #DLC1
+			size = { x = 16 y = 4 }
+			noOfFrames = 51
+			color = 0
+			emblem = no
+			random = no # Do not use for random CoAs
+		}
+		texture = { #texture = 4
+			file = "gfx\\coats_of_arms\\ARKOpackbaronies.tga" ###Burgundy only ATM
+			size = { x = 10 y = 25 }
+			noOfFrames = 250
+			color = 0
+			emblem = no
+			random = no # Do not use for random CoAs
+		}
+		texture = { #texture = 5
+			file = "gfx\\coats_of_arms\\ARKOpackdynasties.tga" ###to split by realm/culture
+			size = { x = 10 y = 15 }
+			noOfFrames = 150
+			color = 0
+			emblem = no
+			random = no # Do not use for random CoAs
+		}
+		texture = { #texture = 6
+			file = "gfx\\coats_of_arms\\ARKOpack_papacypackdynasties.tga" #to free/merge maybe
+			size = { x = 5 y = 9 }
+			noOfFrames = 45
+			color = 0
+			emblem = no
+			random = no # Do not use for random CoAs
+		}
+		texture = { #texture = 7
+			file = "gfx\\coats_of_arms\\LCDA.tga"
+			size = { x = 5 y = 9 }
+			noOfFrames = 45
+			color = 0
+			emblem = no
+			random = no # Do not use for random CoAs
+		}
+		texture = { #texture = 8
+			file = "gfx\\coats_of_arms\\dynasties2.tga" #DLC2
+			size = { x = 16 y = 4 }
+			noOfFrames = 50
+			color = 0
+			emblem = no
+			random = no # Do not use for random CoAs
+		}
+		texture = { #texture = 9
+			file = "gfx\\coats_of_arms\\patricians.tga"
+			size = { x = 16 y = 2 }
+			noOfFrames = 32
+			color = 0
+			emblem = no
+			random = no # Do not use for random CoAs
+		}
+		texture = { #texture = 10 # Coa for Scandinavian vanilla families by Aasmul
+			file = "gfx\\coats_of_arms\\SQUIRRELpack_northern_dynasties_vanillla.tga"
+			size = { x = 5 y = 34 }
+			noOfFrames = 170
+			color = 0
+			emblem = no
+			random = no # Do not use for random CoAs
+		}
+        texture = { #texture = 11 # Coa for Lithuanian families(both vanilla and swmh) by Galvakojis
+			file = "gfx\\coats_of_arms\\Lithuania_coa_by_galvakojis.tga"
+			size = { x = 10 y = 10 }
+			noOfFrames = 100
+			color = 0
+			emblem = no
+			random = no # Do not use for random CoAs
+		}
+        texture = { #texture = 12 # Coa for Scandinavian swmh families by Aasmul
+			file = "gfx\\coats_of_arms\\SQUIRRELpack_northern_dynasties_swmh.tga"
+			size = { x = 5 y = 22 }
+			noOfFrames = 110
+			color = 0
+			emblem = no
+			random = no # Do not use for random CoAs
+		}
+		texture = { #texture = 13
+			file = "gfx\\coats_of_arms\\dynasties3.tga" #texture = 13 DLC3
+			size = { x = 16 y = 4 }
+			noOfFrames = 51
+			color = 0
+			emblem = no
+			random = no # Do not use for random CoAs
+		}
+		texture = { #texture = 14
+			file = "gfx\\coats_of_arms\\ze_germans_vanilla_dynasties.tga" #texture = 14 Coa for german swmh families by Aasmul
+			size = { x = 5 y = 47 }
+			noOfFrames = 235
+			color = 0
+			emblem = no
+			random = no # Do not use for random CoAs
+		}
+		texture = { #texture = 15
+			file = "gfx\\coats_of_arms\\ARKOback_in_the_UK_dynasties.tga" #texture = 15 Coa for England
+			size = { x = 10 y = 10 }
+			noOfFrames = 7
+			color = 0
+			emblem = no
+			random = no # Do not use for random CoAs
+		}
+		
+		texture = { #texture = 16
+			file = "gfx\\coats_of_arms\\the_italian_job_vanilla_dynasties.tga" #texture = 16 Italian job
+			size = { x = 5 y = 33 }
+			noOfFrames = 165
+			color = 0
+			emblem = no
+			random = no # Do not use for random CoAs
+		}		
+		texture = { #texture = 17
+			file = "gfx\\coats_of_arms\\the_italian_job_swmh_dynasties.tga" #texture = 17 Italian job
+			size = { x = 5 y = 37 }
+			noOfFrames = 185
+			color = 0
+			emblem = no
+			random = no # Do not use for random CoAs
+		}	
+		texture = { #texture = 18
+			file = "gfx\\coats_of_arms\\ARKOpack_victimes_de_la_croix.tga"
+			size = { x = 10 y = 10 }
+			noOfFrames = 36
+			emblem = no
+			color = 2
+		}
+		# WHEN ADDING NEW, ALWAYS ADD AT THE END !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!11111
+	}
+}
 culture =
 { #muslim
 	religion_group = "muslim"

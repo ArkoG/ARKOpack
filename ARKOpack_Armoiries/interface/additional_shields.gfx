@@ -1,0 +1,42 @@
+spriteTypes = {
+	
+	#experimental BYZ style, only works if religion_group is set to full random coa
+	maskedShieldType = {
+		name = "GFX_shield_big_byz"
+		textureFile1 = "gfx\\interface\\shield_big_overlay_byz.tga"
+		textureFile2 = "gfx\\interface\\shield_big_mask_byz.tga"
+		effectFile = "gfx/FX/maskedflag.lua"
+		clicksound = generic_click_04
+	}
+	
+	maskedShieldType = {
+		name = "GFX_shield_medium_byz"
+		textureFile1 = "gfx\\interface\\shield_medium_overlay_byz.tga"
+		textureFile2 = "gfx\\interface\\shield_medium_mask_byz.tga"
+		effectFile = "gfx/FX/maskedflag.lua"
+		clicksound = generic_click_04
+	}
+
+	maskedShieldType = {
+		name = "GFX_shield_medium2_byz"
+		textureFile1 = "gfx\\interface\\shield_medium2_overlay_byz.tga"
+		textureFile2 = "gfx\\interface\\shield_medium2_mask_byz.tga"
+		effectFile = "gfx/FX/maskedflag.lua"
+		clicksound = generic_click_04
+	}
+	
+	maskedShieldType = {
+		name = "GFX_shield_small_byz"
+		textureFile1 = "gfx\\interface\\shield_small_overlay_byz.tga"
+		textureFile2 = "gfx\\interface\\shield_small_mask_byz.tga"
+		effectFile = "gfx/FX/maskedflag.lua"
+		clicksound = generic_click_04
+	}
+
+	###
+	spriteType = {
+		name = "GFX_claim_strong_byz"
+		texturefile = "gfx/interface/claim_strong_byz.dds"
+		allwaystransparent = yes
+	}
+}

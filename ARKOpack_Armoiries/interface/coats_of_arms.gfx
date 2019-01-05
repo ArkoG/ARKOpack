@@ -40,7 +40,8 @@ spriteTypes = {
 			scale = 1
 		}
 	}
-	
+
+
 	CoatOfArmsType = {
 		name = "coa_party_per_fess"
 		frame = "gfx\\coats_of_arms\\frame.tga"
@@ -378,4 +379,32 @@ spriteTypes = {
 			scale = 1
 		}
 	}
+	###BEES group #experimental
+	CoatOfArmsType = {
+		name = "coa_plain_byz"
+		frame = "gfx\\coats_of_arms\\frame_byz.tga"
+		mask = "gfx\\interface\\seal_mask_CoA.tga"
+		seal_overlay = "gfx\\interface\\seal_overlay_CoA.dds"
+		effect = "gfx/FX/coa_shield.lua"
+				
+		layer = {
+			mask = "gfx\\coats_of_arms\\plain_byz.tga"
+			center = { x= 0 y = 0 }
+			scale = 1
+		}
+	}
+	CoatOfArmsType = {
+		name = "coa_plain_byz_unit"
+		frame = "gfx\\coats_of_arms\\unit_banner_overlay.tga"
+		mask = "gfx\\interface\\seal_mask_CoA.tga"
+		seal_overlay = "gfx\\interface\\seal_overlay_CoA.dds"
+		effect = "gfx/FX/coa_shield.lua"
+				
+		layer = {
+			mask = "gfx\\coats_of_arms\\plain_unit.tga"
+			center = { x= 0 y = 0 }
+			scale = 1
+		}
+	}
+	###end BEES
 }
