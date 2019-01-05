@@ -30,6 +30,7 @@ C Bologna
 C Bordeaux
 C Bourbon
 C Bourges
+C Brie*
 C Burgos
 C Brescia
 C Byzantion
@@ -106,6 +107,8 @@ C Sticht
 C Sundgau
 C Savoie
 C Saintois
+C Sancerre*
+C Senlis*
 C Schwyz
 C_Sponheim (MOD)
 C_Sudurland (MOD)
