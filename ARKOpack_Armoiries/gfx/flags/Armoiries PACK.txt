@@ -12,6 +12,8 @@ Provinces et titres :
 C Aargau
 C Albret
 C Amiens
+C Amous*
+C Aosta*
 C Arborea
 C Armagnac
 C Auvergne
@@ -19,8 +21,9 @@ C Auxerre
 C Bamberg
 C Bearn
 C Besançon
+C Besançon ALT* (frankish version)
 C Bern
-C Bar*
+C Bar
 C Barcelona
 C Blois
 C Bologna
@@ -35,6 +38,7 @@ C Châlons
 C Charolais
 C Chartres
 C Chur
+C Como*
 C Cornouailles
 C Corsica
 C Couserans (MOD)
@@ -42,6 +46,7 @@ C Lyon
 C Viennois
 C Dijon
 C_Eivissa (MOD)
+C_Escuens
 C Firenze
 C Forcalquier
 C Forez
@@ -57,6 +62,7 @@ C La Marche
 C Leon (Brittany)
 C Liège
 C Leòn
+C Leventina*
 C Loon
 C Lusignan
 C Luxembourg
@@ -66,6 +72,7 @@ C Mâcon
 C Mallorca
 C Mende (MOD)
 C Metz
+C Montbeliard
 C Monferrato
 C Montpellier
 C Mortain
@@ -114,9 +121,11 @@ C Toulouse
 C Touraine
 C Troyes
 C Valais
+C Vaud* (Savoie themed arms for vanilla)
 C Venaissin
 C Verdun
 C Vermandois
+C Vesoul
 ------------
 D Alsace
 D_Antipape (MOD)
@@ -124,7 +133,7 @@ D Aragon
 D_Asturias
 D Auvergne
 D Aquitaine
-D_Bar* (MOD)
+D_Bar (MOD)
 D Barcelone
 D Berry
 D Bourbon
@@ -136,6 +145,7 @@ D Champagne
 D Dauphiné
 D Finlande
 D Flandres
+D Franche comté
 D Genovese_navy
 D Gascogne
 D Gènes
