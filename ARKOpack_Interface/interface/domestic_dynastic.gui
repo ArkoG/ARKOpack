@@ -166,15 +166,19 @@ guiTypes = {
 #			spriteType = "GFX_repover_charview_1"
 #			position = { x= 9 y = 357 }
 #		}
-	
+		iconType = {
+			name ="charview_actions_arkopack"
+			spriteType = "GFX_charview_actions_arkopack"
+			position = { x= 0 y = 37 }
+			}	
 	
 		### KILL LIST
 		windowType = {
 			name = "kill_list_window"
 			backGround =""
-			position = { x = 648 y = 3 }
-			size = { x = 392 y = 653  }
-			moveable = 1
+			position = { x = 586 y = 33 }
+			size = { x = 397 y = 651  }
+			moveable = 0 #doesn't work
 			dontRender = ""
 			horizontalBorder = "0"
 			verticalBorder = ""
@@ -183,6 +187,7 @@ guiTypes = {
 			iconType = {
 				name = "kill_list_window_bg"
 				spriteType = "GFX_societies_window_bg"
+				#spriteType = "GFX_kill_list_bg"
 				position = { x= 0 y = 0 }
 				Orientation = "UPPER_LEFT"
 			}
@@ -399,7 +404,7 @@ guiTypes = {
 		windowType = {
 			name = "barber"
 			backGround = "background"
-			position = { x=600 y=200 }
+			position = { x=650 y=150 }
 			size = { x=300 y=300 }
 			moveable = 1
 			dontRender = ""
@@ -1157,16 +1162,15 @@ guiTypes = {
 		}
 		guiButtonType =	{
 			name = "button_wikipedia"
-			position = { x=685 y=0}#sidebutton position
-			quadTextureSprite ="GFX_charview_wikipedia_real"
-			#quadTextureSprite ="GFX_charview_wikipedia_sidebutton"			
+			position = { x=4 y=63}#sidebutton position
+			quadTextureSprite ="GFX_charview_wikipedia_link"		
 			Orientation = "UPPER_LEFT"
 			clicksound = generic_click_04
 		}
 
 		guiButtonType =	{
 			name = "button_rename"
-			position = { x=520 y=-42 }
+			position = { x=516 y=-42 }
 			quadTextureSprite ="GFX_small_rename_button"
 	
 			Orientation = "UPPER_LEFT"
@@ -1195,7 +1199,7 @@ guiTypes = {
 		guiButtonType = {
 			name ="button_treasury"
 			quadTextureSprite= "GFX_treasury_button_arkopack"
-			position = { x = 585 y = 150 }
+			position = { x = 585 y =-30 }
 			Orientation = "UPPER_LEFT"
 			pdx_tooltip = "TREASURY_BUTTON_TOOLTIP"
 			pdx_tooltip_delayed = "TREASURY_BUTTON_TOOLTIP_DELAYED"
@@ -1204,7 +1208,7 @@ guiTypes = {
 		
 		guiButtonType = {
 			name = "button_bloodlines"
-			position = { x= 585 y = 100 }
+			position = { x= 585 y = -80 }
 			quadTextureSprite= "GFX_bloodlines_sidebutton"
 			Orientation = "UPPER_LEFT"
 			clicksound = click_bloodline_view
@@ -1215,7 +1219,7 @@ guiTypes = {
 		guiButtonType =	{
 			name ="kill_list" #AKA kill_list_button
 			quadTextureSprite= "GFX_kill_list"
-			position = { x= 585 y = 200 }
+			position = { x= 585 y = 20 }
 			Orientation = "UPPER_LEFT"
 			clicksound = generic_click_04
 			clicksound = click_kill_list
@@ -1225,7 +1229,7 @@ guiTypes = {
 		
 		guiButtonType = {
 			name = "barber_button"
-			position = { x=585 y=50 }
+			position = { x=5 y=96 }
 			quadTextureSprite = "GFX_customization_barber_button"
 			clicksound = generic_click_02
 			pdx_tooltip = "BARBER_TOOLTIP"
@@ -1241,26 +1245,26 @@ guiTypes = {
 		
 		guiButtonType = {
 			name = "appease_button"
-			position = { x=642 y=211 }
+			position = { x=5 y=96 }
 			quadTextureSprite ="GFX_charview_appease"
 			clicksound = generic_click_02
 		}
 		guiButtonType = {
 			name = "stop_appease_button"
-			position = { x=642 y=211 }
+			position = { x=5 y=96 }
 			quadTextureSprite ="GFX_charview_stop_appease"
 			clicksound = generic_click_02
 		}
 		
 		guiButtonType = {
 			name = "antagonize_button"
-			position = { x=673 y=211 }
+			position = { x=5 y=128 }
 			quadTextureSprite ="GFX_charview_antagonize"
 			clicksound = generic_click_02
 		}
 		guiButtonType = {
 			name = "stop_antagonize_button"
-			position = { x=673 y=211 }
+			position = { x=5 y=128 }
 			quadTextureSprite ="GFX_charview_stop_antagonize"
 			clicksound = generic_click_02
 		}
@@ -1616,7 +1620,7 @@ guiTypes = {
 			}
 			guiButtonType = {
 				name = "focus_button"
-				position = { x= 23 y = 79 }
+				position = { x= 30 y = 79 }
 				quadTextureSprite ="GFX_icon_diplomacy"	
 				clicksound = generic_click_02
 			}
@@ -1897,21 +1901,21 @@ guiTypes = {
 			iconType = { #vanilla 3.0
 				name ="icon_combat_skill"
 				spriteType = "GFX_charview_personal_combat"
-				position = { x= 19 y = 247 } #x+500
+				position = { x= 21 y = 242 } #x+500
 				Orientation = "UPPER_LEFT"
 				pdx_tooltip = "MODIFIER_COMBAT_RATING"
 				pdx_tooltip_delayed = "MODIFIER_COMBAT_RATING_DESC"
 			}
 			instantTextBoxType = { #vanilla 3.0
 				name = "combat_skill"
-				position = { x = 19 y = 247 } #x+500
+				position = { x = 20 y = 258 } #x+500
 				textureFile = ""
 				font = "vic_18"
 				borderSize = {x = 0 y = 0}
 				text = "UI_MISSING_TEXT"
-				maxWidth = 20
+				maxWidth = 30
 				maxHeight = 20	
-				format = right
+				format = center
 			}
 			
 			## overlapping boxes
@@ -1919,7 +1923,7 @@ guiTypes = {
 			iconType = { #vanilla 3.0
 				name ="icon_titles"
 				spriteType = "GFX_charview_titles"
-				position = { x= 331 y = 113 } #x+500
+				position = { x= 320 y = 93 } #x+500
 				Orientation = "UPPER_LEFT"
 				pdx_tooltip = "CHARVIEW_TITLES"
 				pdx_tooltip_delayed = "TITLES_TOOLTIP_DELAYED"
@@ -1936,7 +1940,7 @@ guiTypes = {
 			iconType = { #vanilla 3.0
 				name ="icon_claims"
 				spriteType = "GFX_charview_icone_claims"
-				position = { x=322 y = 219 }
+				position = { x=321 y = 208 }
 				#Orientation = "UPPER_LEFT"
 				pdx_tooltip = "CHARVIEW_CLAIMS"
 				pdx_tooltip_delayed = "CLAIMS_TOOLTIP_DELAYED"
@@ -1952,7 +1956,7 @@ guiTypes = {
 			iconType = {
 				name ="icon_diplomatic_relations"
 				spriteType = "GFX_charview_icone_diplomatie"
-				position = { x= 322 y = 269 }
+				position = { x= 321 y = 264 }
 				Orientation = "UPPER_LEFT"
 				pdx_tooltip = "CHARVIEW_DIPLOMATIC_RELATIONS"
 				pdx_tooltip_delayed = "DIPLOMATIC_RELATIONS_TOOLTIP_DELAYED"
@@ -1969,13 +1973,13 @@ guiTypes = {
 			iconType = {  
 				name ="icon_artifact_modifier"
 				spriteType = "GFX_charview_artifact_modifier"
-				position = { x= 881 y = 244 }#x+500
+				position = { x= 288 y = 242 }#x+500
 				Orientation = "UPPER_LEFT"
 			}
 			iconType = {
 				name ="icon_commandmodifier"
 				spriteType = "GFX_commandmodifier_icon"
-				position = { x= 19 y = 274 }
+				position = { x= 21 y = 275 }
 				Orientation = "UPPER_LEFT"
 				#size 30x
 			}
@@ -1983,7 +1987,7 @@ guiTypes = {
 			iconType = {  #vanilla 3.0
 				name ="icon_traits"
 				spriteType = "GFX_charview_traits"
-				position = { x= 31 y = 242 } #x+500
+				position = { x= 50 y = 242 } #x+500
 				Orientation = "UPPER_LEFT"
 				pdx_tooltip = "CHARVIEW_TRAITS"
 				pdx_tooltip_delayed = "TRAITS_TOOLTIP_DELAYED"
@@ -1991,22 +1995,22 @@ guiTypes = {
 			
 			OverlappingElementsBoxType = {
 				name = "traits"
-				position = { x = 60 y = 245 }
-				size = { x=255 y=32 }
+				position = { x = 55 y = 245 }
+				size = { x=225 y=32 }
 				format = left
 			}
 
 			iconType = { #vanilla 3.0
 				name ="icon_modifiers"
 				spriteType = "GFX_charview_modifiers"
-				position = { x= 31 y = 275 } #x+500
+				position = { x= 50 y = 275 } #x+500
 				Orientation = "UPPER_LEFT"
 				pdx_tooltip = "CHARVIEW_MODIFIERS"
 				pdx_tooltip_delayed = "MODIFIERS_TOOLTIP_DELAYED"
 			}
 			OverlappingElementsBoxType = {
 				name = "modifiers"
-				position = { x = 74 y = 276 }
+				position = { x = 55 y = 276 }
 				size = { x=125 y=32 }
 				format = right
 			}
@@ -2018,14 +2022,14 @@ guiTypes = {
 		}
 		guiButtonType = { #moved forward for visibility
 			name = "quick_plot_button"
-			position = { x=130 y=188 }#arkopack 26
+			position = { x=5 y=160 }#arkopack 26
 			quadTextureSprite ="GFX_charview_quick_plot_button"
 			clicksound = generic_click_02
 		}
 		guiButtonType =	{ #moved forward for visibility
 			name ="toggle_forbidden_to_lead_armies"
 			quadTextureSprite ="GFX_toggle_allow_as_leader"
-			position = { x= 130 y = 188 }
+			position = { x= 4 y = 160 }
 			clicksound = generic_click_01
 		}
 	}
@@ -2356,7 +2360,7 @@ guiTypes = {
 		{
 			name ="title_icon_crown"
 			spriteType = "GFX_shield_crown_strip_medium2"
-			position = { x= 11 y = -18 }
+			position = { x= 10 y = -18 }
 			Orientation = "UPPER_LEFT"
 		}
 		iconType ={
