@@ -335,11 +335,11 @@ guiTypes = {
 		}
 		
 		instantTextBoxType= {
-			position = { x=115 y =375}
+			position = { x=110 y =375}
 			name = "elective_supporters"
 			font = "vic_18"
 			borderSize = {x = 0 y = 0}	
-			maxWidth = 20
+			maxWidth = 30
 			maxHeight = 20
 			text = "UI_MISSING_TEXT"	
 			format = centre
@@ -472,7 +472,7 @@ guiTypes = {
 				textureFile = ""
 				font = "Arial12_bold_black"
 				borderSize = {x = 0 y = 0}
-				text = "UI_MISSING_TEXT"
+				text = "-"
 				maxWidth = 60
 				maxHeight = 24
 				format = right
@@ -523,7 +523,7 @@ guiTypes = {
 				textureFile = ""
 				font = "Arial12_bold_black"
 				borderSize = {x = 0 y = 0}
-				text = "UI_MISSING_TEXT"
+				text = "-"
 				maxWidth = 60
 				maxHeight = 24
 				format = right
@@ -550,7 +550,7 @@ guiTypes = {
 				textureFile = ""
 				font = "vic_18_black"
 				borderSize = {x = 0 y = 0}
-				text = "UI_MISSING_TEXT"
+				text = "-"
 				maxWidth = 60
 				maxHeight = 24
 				format = right

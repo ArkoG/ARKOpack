@@ -81,6 +81,10 @@ spriteTypes = {
 		size = { x = 53 y = 18 }
 		effectFile = "gfx/FX/progress.lua"
 	}
+	spriteType = {
+		name = "GFX_bloodlines_sidebutton"
+		texturefile = "gfx\\interface\\bloodlines_sidebutton.tga"
+	}
 ###OUTLINER
 	spriteType = {
 		name = "GFX_outliner_top"	

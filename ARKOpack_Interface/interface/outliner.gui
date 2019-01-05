@@ -766,6 +766,17 @@ guiTypes = {
 			pdx_tooltip = "CHARACTER_TOOLTIP"
 			pdx_tooltip_delayed = "CHARACTER_TOOLTIP_DELAYED"
 		}
+		instantTextBoxType = {
+			name = "info_text"
+			position = { x = 63 y = 2 }
+			textureFile = ""
+			font = "Arial12_black"
+			borderSize = {x = 0 y = 0}
+			maxWidth = 240
+			maxHeight = 16
+
+			format = left
+		}
 	}
 	
 	### OUTLINER Court Entry

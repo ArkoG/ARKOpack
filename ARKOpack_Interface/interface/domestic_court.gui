@@ -590,7 +590,8 @@ guiTypes = {
 		iconType = {
 			name ="icon_commandmodifier"
 			spriteType = "GFX_commandmodifier_icon"
-			position = { x= 135 y = 4 }
+			#position = { x= 133 y = 6 } #arkopack value pre 3.0
+			position = { x= 151 y = 9 }
 			Orientation = "UPPER_LEFT"
 		}
 		iconType = 

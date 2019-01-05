@@ -14,7 +14,15 @@ guiTypes = {
 		downsound = ""
 		fullscreen=no
 		orientation = "CENTER"
-			
+		
+		guiButtonType =	{
+			name = "background_click_blocker"
+			quadTextureSprite ="GFX_transparent_48"
+			orientation = "CENTER"
+			position = {x = -24000 y = -24000 }
+			scale = 1000
+		}
+
 		iconType = {
 			name = "rules_bg"	
 			quadTextureSprite ="GFX_game_rules_backgorund"

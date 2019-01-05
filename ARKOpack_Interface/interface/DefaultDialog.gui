@@ -293,12 +293,12 @@ guiTypes = {
 		
 		instantTextBoxType = {
 				name = "Description"
-				position = { x = 40 y = 80 }
+				position = { x = 52 y = 80 }
 				textureFile = ""
 				font = "vic_22_black"
 				borderSize = {x = 0 y = 0}
 				text = "UI_MISSING_TEXT"	
-				maxWidth = 405
+				maxWidth = 388
 				maxHeight = 250	
 				format = centre
 		}
@@ -365,12 +365,12 @@ guiTypes = {
 		
 		instantTextBoxType = {
 				name = "Description"
-				position = { x = 40 y = 80 }
+				position = { x = 52 y = 80 }
 				textureFile = ""
 				font = "vic_22_black"
 				borderSize = {x = 0 y = 0}
 				text = "UI_MISSING_TEXT"	
-				maxWidth = 405
+				maxWidth = 388
 				maxHeight = 250	
 				format = centre
 		}

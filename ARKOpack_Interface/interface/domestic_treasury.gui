@@ -2,7 +2,7 @@ guiTypes = {
 	windowType = {
 		name ="domestic_treasury_window"
 		backGround=""
-		position = { x=585 y=184 }	#arkopack
+		position = { x=685 y=184 }	#arkopack
 		size = { x=605 y=675 }
 		moveable = 0
 		dontRender = ""
@@ -58,7 +58,7 @@ guiTypes = {
 				}
 				guiButtonType =	{
 					name = "button_equip"
-					position = { x=480 y=110 }
+					position = { x=464 y=110 }
 					quadTextureSprite ="GFX_equip_button"	
 					tooltip = ""
 					tooltipText =""
@@ -67,12 +67,34 @@ guiTypes = {
 				}
 				guiButtonType =	{
 					name = "button_destroy"
-					position = { x=60 y=110 }
+					position = { x=66 y=110 }
 					quadTextureSprite ="GFX_destroy_artifact"	
 					tooltip = ""
 					tooltipText =""
 					delayedTooltipText = ""
 					Orientation = "UPPER_LEFT"
+					clicksound = generic_click_04
+				}
+				
+				guiButtonType =	{
+					name = "button_rename"
+					position = { x=10 y=110 }
+					quadTextureSprite ="GFX_rename_button"	
+					tooltip = ""
+					tooltipText =""
+					delayedTooltipText = ""
+					Orientation = "UPPER_LEFT"
+					clicksound = generic_click_02
+				}
+				
+				guiButtonType =	{
+					name = "history_button"
+					position = { x=520 y = 110 }
+					quadTextureSprite ="GFX_artifact_history_button"	
+					Orientation = "UPPER_LEFT"
+					pdx_tooltip = "OPEN_ARTIFACT_HISTORY"
+					pdx_tooltip_delayed = "OPEN_ARTIFACT_HISTORY_DELAYED"
+					clicksound = generic_click_04
 				}
 				
 				instantTextBoxType = {
@@ -137,6 +159,55 @@ guiTypes = {
   				scrollbartype = "standardlistbox_slider"
   				borderSize = {x = 0 y = 0}
   				orientation = "UPPER_LEFT"
+			}
+			
+			# THE ARTIFACT HISTORY VIEW
+			windowType = {
+				name = "artifact_history"
+				backGround ="background_bv"
+				position = { x=630 y=185 }
+				size = { x=420 y=655 }
+				moveable = 1
+				Orientation = "UPPER_LEFT"
+
+				guiButtonType = {
+					name ="background_bv"
+					quadTextureSprite = "GFX_titleview_history_bg"
+					position = { x= 0 y = 0 }
+					Orientation = "UPPER_LEFT"	
+				}
+				
+				guiButtonType =	{
+					name = "cancel_button"
+					position = { x=388 y=15 }
+					quadTextureSprite ="GFX_main_close_button"
+					Orientation = "UPPER_LEFT"
+					shortcut = "ESCAPE"
+					clicksound = click_close_interface_china
+				}
+				
+				instantTextBoxType = {
+					name = "title_label"
+					position = { x = 87 y = 11 }
+					textureFile = ""
+					font = "vic_22"
+					borderSize = {x = 0 y = 0}
+					text = "TITLE_HISTORY"
+					maxWidth = 240
+					maxHeight =24
+					format = centre
+				}
+				
+				listboxType = {
+					name = "history_entries"
+					position = { x = 36 y = 55 }
+					backGround=""
+					size = { x=342 y = 500 }
+					spacing = 0
+					scrollbartype = "standardlistbox_slider"
+					borderSize = {x = 0 y = 0}
+					Orientation = "UPPER_LEFT"
+				}
 			}
 		}
 		
@@ -216,6 +287,63 @@ guiTypes = {
 			name = "equipped_icon"
 			position = { x=101 y=-12 }
 			quadTextureSprite = "GFX_equip_indicator"
+		}
+	}
+	
+	#### entry
+	windowType = {
+		name = "artifact_history_entry"
+		backGround=""
+		position = { x=0 y=0 }	
+		size = { x=320 y= 50 }
+		moveable = 0
+		dontRender = ""
+		horizontalBorder= ""
+		verticalBorder= ""
+		fullScreen = no
+
+		guiButtonType = {
+			name ="portrait"
+			quadTextureSprite = "GFX_char_34"
+			position = { x = 0 y = 7 }
+			pdx_tooltip = "CHARACTER_TOOLTIP"
+			pdx_tooltip_delayed = "CHARACTER_TOOLTIP_DELAYED"
+			clicksound = click_default_china
+		}
+		guiButtonType = {
+			name ="portrait_frame"
+			quadTextureSprite = "GFX_charframe_34"
+			position = { x= -5 y = 1 }
+			Orientation = "UPPER_LEFT"
+			clicksound = click_default_china
+		}
+		guiButtonType = {
+			name = "portrait_dead"
+			quadTextureSprite = "GFX_overlay_char_dead_small"
+			position = { x = 20 y = 21 }
+			Orientation = "UPPER_LEFT"
+			pdx_tooltip = "CHARACTER_DEAD_TOOLTIP"
+			clicksound = click_default_china
+		}
+		
+		instantTextBoxType = {
+			position = { x=45 y =7}
+			name = "text"
+			font = "Arial12_black"
+			borderSize = {x = 0 y = 0}	
+			maxWidth = 235
+			maxHeight = 40
+			text = ""	
+			orientation = "UPPER_LEFT"
+			format = left
+		}
+		
+		guiButtonType = {
+			name ="dynasty_shield"
+			quadTextureSprite = "GFX_shield_medium2"
+			position = { x = 290 y = 0 }
+			Orientation = "UPPER_LEFT"
+			clicksound = click_default_china
 		}
 	}
 }

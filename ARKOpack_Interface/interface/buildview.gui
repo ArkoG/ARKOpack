@@ -491,6 +491,14 @@ guiTypes = {
 			position = { x= 345 y = 9 }
 			Orientation = "UPPER_LEFT"
 		}
+		iconType = {
+			name ="icon_piety"
+			spriteType = "GFX_icon_piety"
+			position = { x= 345 y = 9 } #vanilla x-2 y-2 because of rescaling @66%
+			Orientation = "UPPER_LEFT"
+			scale = 0.63
+			#scale = 0.66 #vanilla
+		}
 		
 		guiButtonType = {
 			name = "buildbutton"
