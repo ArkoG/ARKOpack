@@ -591,21 +591,21 @@ guiTypes = {
 			name ="icon_commandmodifier"
 			spriteType = "GFX_commandmodifier_icon"
 			#position = { x= 133 y = 6 } #arkopack value pre 3.0
-			position = { x= 151 y = 9 }
+			position = { x= 153 y = 8 }
 			Orientation = "UPPER_LEFT"
 		}
 		iconType = 
 		{
 			name ="trait_icon_0"
 			spriteType = "GFX_trait_amateurish_plotter"
-			position = { x= 172 y = 8 }
+			position = { x= 179 y = 8 }
 			Orientation = "UPPER_LEFT"
 		}
 		iconType = 
 		{
 			name ="trait_icon_1"
 			spriteType = "GFX_trait_amateurish_plotter"
-			position = { x= 198 y = 8 }
+			position = { x= 205 y = 8 }
 			Orientation = "UPPER_LEFT"
 		}
 		

@@ -1288,7 +1288,16 @@ guiTypes = {
 			verticalBorder = ""
 			fullScreen = no
 			Orientation = "UPPER_LEFT"
-		
+
+			iconType = { #put as backward as possible (favor issue)
+				name ="icon_modifiers"
+				spriteType = "GFX_charview_modifiers"
+				position = { x= 50 y = 275 }
+				Orientation = "UPPER_LEFT"
+				pdx_tooltip = "CHARVIEW_MODIFIERS"
+				pdx_tooltip_delayed = "MODIFIERS_TOOLTIP_DELAYED"
+			}
+			
 			guiButtonType =	{
 				name ="character_portrait"
 				quadTextureSprite= "GFX_char_150"
@@ -1900,7 +1909,7 @@ guiTypes = {
 			
 			iconType = { #vanilla 3.0
 				name ="icon_combat_skill"
-				spriteType = "GFX_charview_personal_combat"
+				spriteType = "GFX_charview_personal_combat_arkopack"
 				position = { x= 21 y = 242 } #x+500
 				Orientation = "UPPER_LEFT"
 				pdx_tooltip = "MODIFIER_COMBAT_RATING"
@@ -1972,13 +1981,13 @@ guiTypes = {
 			
 			iconType = {  
 				name ="icon_artifact_modifier"
-				spriteType = "GFX_charview_artifact_modifier"
+				spriteType = "GFX_charview_artifact_modifier_arkopack"
 				position = { x= 288 y = 242 }#x+500
 				Orientation = "UPPER_LEFT"
 			}
 			iconType = {
 				name ="icon_commandmodifier"
-				spriteType = "GFX_commandmodifier_icon"
+				spriteType = "GFX_commandmodifier_icon_arkopack"
 				position = { x= 21 y = 275 }
 				Orientation = "UPPER_LEFT"
 				#size 30x
@@ -1995,24 +2004,26 @@ guiTypes = {
 			
 			OverlappingElementsBoxType = {
 				name = "traits"
-				position = { x = 55 y = 245 }
-				size = { x=225 y=32 }
-				format = left
+				position = { x = 45 y = 245 }
+				size = { x=240 y=32 }
+				#format = left
+				format = right #for testing
 			}
 
-			iconType = { #vanilla 3.0
-				name ="icon_modifiers"
-				spriteType = "GFX_charview_modifiers"
-				position = { x= 50 y = 275 } #x+500
-				Orientation = "UPPER_LEFT"
-				pdx_tooltip = "CHARVIEW_MODIFIERS"
-				pdx_tooltip_delayed = "MODIFIERS_TOOLTIP_DELAYED"
-			}
+			#iconType = { #vanilla 3.0
+			#	name ="icon_modifiers"
+			#	spriteType = "GFX_charview_modifiers"
+			#	position = { x= 50 y = 275 } #x+500
+			#	Orientation = "UPPER_LEFT"
+			#	pdx_tooltip = "CHARVIEW_MODIFIERS"
+			#	pdx_tooltip_delayed = "MODIFIERS_TOOLTIP_DELAYED"
+			#}
 			OverlappingElementsBoxType = {
 				name = "modifiers"
-				position = { x = 55 y = 276 }
-				size = { x=125 y=32 }
-				format = right
+				position = { x = 60 y = 276 }
+				size = { x=140 y=32 }
+				#format = left
+				format = right #for testing
 			}
 			iconType = {
 				name ="culture_icone"
