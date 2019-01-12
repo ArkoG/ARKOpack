@@ -2,13 +2,13 @@
 ##An improved interface and coats of arms mod for Crusader Kings 2
 #
 ARKOpack for CK2 3.0.x
-HIP version : 2018-12-24
-standalone version : 2018-12-24
+HIP version : 2019-01-20
+standalone version : 2019-01-20
 GAME VERSION COMPATIBILITY : 3.0.x for COApack
 GAME VERSION COMPATIBILITY : 3.0.x for GUIpack
 
 see included readme's for more details
---2018-12-24 for CK2 3.0.x changelog--- 
+--2019-01-20 for CK2 3.0.x changelog--- 
 
 ARMOIRIES :
 ##-3.0.x update
@@ -17,6 +17,7 @@ ARMOIRIES :
 -whole new CoA pattern for zoroastrians
 -kept some old vanilla flags that where better or more senseful that the new ones intriduced in 3.0
 -some flags for newly added counties
+-improved indian vanilla CoA sets quality
 -
 
 INTERFACE :
@@ -26,8 +27,8 @@ INTERFACE :
 -fixed missing prestige cost icon in build building view
 -made offmap power history view adopting the same style as regular titles history view
 -improved barber window visual
--DLC intrusive and ugly recommandations are now hidden
--
+-the most intrusive and ugly DLC recommandations are now hidden
+-improved vanilla indian traits quality (better details and constrast)
 -
 
 ARKOpack for CK2 2.8.3
