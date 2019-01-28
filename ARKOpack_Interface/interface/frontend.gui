@@ -1990,7 +1990,7 @@ guiTypes = {
 					guiButtonType = {
 						name = "player_required_dlc_0"
 						quadTextureSprite = "GFX_dlc_icon_sword_of_islam"
-						position = { x=97 y=113 }
+						position = { x=9997 y=90 } #DLC icon
 						pdx_tooltip = "DLC_TOOLTIP"
 						pdx_tooltip_delayed = "DLC_TOOLTIP_DELAYED"
 						clicksound = generic_click_04
@@ -1998,7 +1998,7 @@ guiTypes = {
 					guiButtonType = {
 						name = "player_required_dlc_1"
 						quadTextureSprite = "GFX_dlc_icon_sword_of_islam"
-						position = { x=113 y=137 }
+						position = { x=9113 y=137 } #DLC icon
 						pdx_tooltip = "DLC_TOOLTIP"
 						pdx_tooltip_delayed = "DLC_TOOLTIP_DELAYED"
 						clicksound = generic_click_04
@@ -2006,7 +2006,7 @@ guiTypes = {
 					guiButtonType = {
 						name = "player_required_dlc_2"
 						quadTextureSprite = "GFX_dlc_icon_sword_of_islam"
-						position = { x=113 y=166 }
+						position = { x=9113 y=166 } #DLC icon
 						pdx_tooltip = "DLC_TOOLTIP"
 						pdx_tooltip_delayed = "DLC_TOOLTIP_DELAYED"
 						clicksound = generic_click_04
@@ -2146,7 +2146,7 @@ guiTypes = {
 					listboxType = {
 						name = "recommended_dlc_list"
 						#position = { x=-57 y=50 }
-						position = { x=500 y=50 }
+						position = { x=9999 y=50 }
 						size = { x=44 y=300 }
 					}
 				}
@@ -5573,8 +5573,9 @@ guiTypes = {
 					Orientation = "LOWER_RIGHT"
 					size = { x=70 y=32 }
 
-					OverlappingElementsBoxType = {
+					OverlappingElementsBoxType = { #DLC icon
 						name = "required_dlc_list"
+						position = { x = -10 y = -18 }
 						size = { x=70 y=32 }
 					}
 				}
