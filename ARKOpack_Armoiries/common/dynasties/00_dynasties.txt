@@ -32068,7 +32068,7 @@ used_for_random = no
 	culture ="occitan"
 }
 1044116 = {
-	name="Nibelunging"
+	name="Nibelunging" #nivelonides/nibelungides
 	culture = "old_frankish"
 }
 1044117 = {
