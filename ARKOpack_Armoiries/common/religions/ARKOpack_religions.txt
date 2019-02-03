@@ -4,6 +4,8 @@ pagan_group = { #gives random CoA to pagan religions #donne des armes aléatoires
 }
 
 customizer_christian = { #for DLC customizer, not handy with Ruler Designer
+	alternate_start = { always = no }
+
 	has_coa_on_barony_only = yes
 	graphical_culture = westerngfx
 	crusade_cb = crusade
@@ -26,7 +28,7 @@ customizer_christian = { #for DLC customizer, not handy with Ruler Designer
 		Magdalena Margaret Maria Marine Patricia Philippa Rachel 
 		Sarah Sophia Stephania
 	}
-	
+
 	customizers_christian = {
 		alternate_start = { always = no }
 		graphical_culture = westerngfx
@@ -62,6 +64,8 @@ customizer_christian = { #for DLC customizer, not handy with Ruler Designer
 	}
 }
 customizer_muslim = {
+	alternate_start = { always = no }
+
 	has_coa_on_barony_only = no
 	graphical_culture = muslimgfx
 	crusade_cb = crusade
@@ -115,6 +119,8 @@ customizer_muslim = {
 }
 
 customizer_dlcfanbois = { #for DLC customizer, not handy with Ruler Designer
+	alternate_start = { always = no }
+	
 	has_coa_on_barony_only = yes
 	graphical_culture = westerngfx
 	crusade_cb = crusade
@@ -125,7 +131,7 @@ customizer_dlcfanbois = { #for DLC customizer, not handy with Ruler Designer
 	ai_convert_other_group = 2 # always try to convert
 	
 	color = { 0.8 0.8 0.6 }
-	
+
 	# Names given only to Christian characters (base names)
 	male_names = {
 		Andrew Antoninus Bartolomeus Benedict Christian Christopher Clement Constantine David Demetrius Eustace George Gregory 
