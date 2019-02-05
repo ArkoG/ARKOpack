@@ -89,10 +89,6 @@ spriteTypes = {
 		name = "GFX_charview_actions_arkopack"
 		texturefile = "gfx\\interface\\charview_actions.dds"
 	}
-	spriteType = {
-		name = "GFX_kill_list_bg"
-		texturefile = "gfx\\interface\\kill_list_bg.dds"
-	}
 ###OUTLINER
 	spriteType = {
 		name = "GFX_outliner_top"	
@@ -439,10 +435,6 @@ spriteTypes = {
 	spriteType = {
 		name = "GFX_the_realm_ARKO"
 		texturefile = "gfx\\interface\\the_realm3.tga"
-	}
-	spriteType = {
-		name = "GFX_charview_wikipedia_sidebutton"
-		texturefile = "gfx\\interface\\charview_goto_wiki_sidebutton.dds"
 	}
 	spriteType = {
 		name = "GFX_religion_icon_strip_decorated"
