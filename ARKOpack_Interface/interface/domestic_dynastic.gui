@@ -1319,10 +1319,16 @@ guiTypes = {
 				position = { x= 39 y = -6 }
 				Orientation = "UPPER_LEFT"
 			}
+			guiButtonType = {#arkopack moved up
+				name = "arrange_marriage"
+				position = { x=158 y=129 }
+				quadTextureSprite ="GFX_charview_arrange_marriage"	
+				clicksound = generic_click_04
+			}
 			guiButtonType = {
 				name ="character_portrait_dead"
 				quadTextureSprite = "GFX_overlay_char_dead"
-				position = { x = 161 y = 133 }
+				position = { x = 157 y = 128 }
 				Orientation = "UPPER_LEFT"
 				pdx_tooltip = "CHARACTER_DEAD_TOOLTIP"
 			}
@@ -1409,12 +1415,7 @@ guiTypes = {
 				position = { x= 190 y = 42 }
 				Orientation = "UPPER_LEFT"
 			}
-			guiButtonType = {
-				name = "arrange_marriage"
-				position = { x=158 y=129 }
-				quadTextureSprite ="GFX_charview_arrange_marriage"	
-				clicksound = generic_click_04
-			}
+
 			guiButtonType = {
 				name = "toggle_marriage_ai"
 				position = { x=219 y=167 }
@@ -1581,8 +1582,10 @@ guiTypes = {
 			}
 			iconType = {
 				name ="religion_icon"
-				spriteType = "GFX_religion_icon_strip_decorated"
-				position = { x= 246 y = 168 }
+				spriteType = "GFX_religion_icon_strip"
+				#spriteType = "GFX_religion_icon_strip_decorated"
+				position = { x= 267 y = 188 }
+				#position = { x= 246 y = 168 }
 				Orientation = "UPPER_LEFT"
 			}
 			iconType = {
