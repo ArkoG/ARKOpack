@@ -3501,7 +3501,7 @@
 		{
 			0 #plain
 			0 #texture
-			2 #emblem croissant or unique hori
+			2 #emblem croissant or unique hori #from Arko_emblem_cust_MUSLIM.dds
 			4  #texture internal #
 			5 #darker green
 			1  #sable
@@ -3556,7 +3556,7 @@
 		{
 			0 #plain
 			0 #texture
-			2 #emblem #1 gold crescent hori
+			2 #emblem #1 gold crescent hori #from Arko_emblem_cust_MUSLIM.dds
 			4  #texture internal mozarab thingy
 			1 #sable
 			12 #silver
@@ -9593,7 +9593,7 @@ used_for_random = no
 			layer = {	
 				texture = 0 #
 				texture_internal = 5
-				emblem = 32 #emblem flower
+				emblem = 34 #emblem flower #from Arko_emblem_cust_MUSLIM_black.dds
 				color = 12	color = 1	color = 1
 			}
 		religion="sunni"
@@ -23364,7 +23364,7 @@ used_for_random = no
 			{
 			0 #plain
 			0 #texture
-			16 #emblem #white text
+			16 #emblem #white text #from Arko_emblem_cust_MUSLIM.dds
 			11  #texture internal
 			5 #dark green
 			1 #de sable
