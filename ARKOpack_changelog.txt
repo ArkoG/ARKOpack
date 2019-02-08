@@ -2,8 +2,8 @@
 ##An improved interface and coats of arms mod for Crusader Kings 2
 #
 ARKOpack for CK2 3.0.x
-HIP version : 2019-02-06
-standalone version : 2019-02-06
+HIP version : 2019-02-08
+standalone version : 2019-02-08
 GAME VERSION COMPATIBILITY : 3.0.x for COApack
 GAME VERSION COMPATIBILITY : 3.0.x for GUIpack
 
@@ -18,6 +18,8 @@ ARMOIRIES :
 -kept some old vanilla flags that where better or more senseful that the new ones intriduced in 3.0
 -some flags for newly added counties
 -improved indian vanilla CoA sets quality
+-added about a dozen new muslim CoA designs
+-remastered some few older muslim CoA designs
 
 INTERFACE :
 -3.0.x update
