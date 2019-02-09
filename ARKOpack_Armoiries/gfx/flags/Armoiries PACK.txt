@@ -10,7 +10,7 @@
 Provinces et titres :
 
 C Aargau
-C Albret
+C Albret*
 C Amiens*
 C Amous*
 C Aosta*
@@ -95,7 +95,7 @@ C Penthièvre alt
 C_Perche*
 C Pisa
 C Plafz
-C Poitiers
+C Poitiers*
 C_Ponthieu*
 C Provence
 C Reims
@@ -178,7 +178,7 @@ D Trezibond
 D venizia
 D Zaragoza
 ------------
-K Aquitaine
+K Aquitaine*
 K Aragon
 K_Asturias
 K Bourgogne
@@ -206,7 +206,7 @@ K_genoa
 K_Trezibond
 K venizia
 ------------
-E Byzantium
+E Byzantium*
 E France
 E Scandinavia
 E HRE
