@@ -12468,7 +12468,7 @@ used_for_random = no
 	culture ="castillan"
 }
 12192 = {
-	name = "al-Hayyid"
+	name = "al-Hajjí"
 	culture ="andalusian_arabic"
 }
 12193 = {
@@ -12496,7 +12496,7 @@ used_for_random = no
 	culture ="andalusian_arabic"
 }
 12199 = {
-	name = "al-Isma'ilí"
+	name = "al-Mundhirí"
 	culture ="andalusian_arabic"
 }
 12200 = {
