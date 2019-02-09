@@ -533,6 +533,7 @@
 	name="de Thouars"
 	culture="frankish"
 	religion="catholic"
+	coat_of_arms = {	template = 0	layer = {	texture = 5	texture_internal = 111	emblem = 0	color = 0	color = 0	color = 0	}	}
 }
 80 = {
 	name="de Brienne" #latin empire
@@ -3267,6 +3268,7 @@
 	culture = "frankish"
 #	religion="catholic"
 #	used_for_random = no
+	coat_of_arms = {	template = 0	layer = {	texture = 5	texture_internal = 119	emblem = 0	color = 0	color = 0	color = 0	}	}
 }
 543 = {
 	name="Carolui" #of Paris
@@ -32070,6 +32072,7 @@ used_for_random = no
 1044116 = {
 	name="Nibelunging" #nivelonides/nibelungides
 	culture = "old_frankish"
+	coat_of_arms = {	template = 0	layer = {	texture = 5	texture_internal = 139	emblem = 0	color = 0	color = 0	color = 0	}	}
 }
 1044117 = {
 	name="Erenolding"
