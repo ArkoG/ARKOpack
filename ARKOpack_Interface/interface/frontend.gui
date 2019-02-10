@@ -1424,7 +1424,7 @@ guiTypes = {
 				}
 				guiButtonType = {
 					name = "dlc_icon_dlc074"
-					quadTextureSprite = "GFX_dlc_icon_jade_dragon" ###arkopack HF no ?
+					quadTextureSprite = "GFX_dlc_icon_jade_dragon"
 					position = { x=107 y=174 }
 					pdx_tooltip = "DLC_TOOLTIP"
 					pdx_tooltip_delayed = "DLC_TOOLTIP_DELAYED"

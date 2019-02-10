@@ -99,7 +99,7 @@ guiTypes = {
 		guiButtonType = {
 			name = "portrait"
 			quadTextureSprite = "GFX_char_50"
-			position = { x = -52 y = 65 }
+			position = { x = -49 y = 65 }
 			Orientation = "UPPER_LEFT"
 			pdx_tooltip = "CHARACTER_TOOLTIP"
 			pdx_tooltip_delayed = "CHARACTER_TOOLTIP_DELAYED"
