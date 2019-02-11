@@ -190,4 +190,12 @@ name="Örnfot"
 name="av Aranäs"
  culture = swedish
 }
+1000053713 = {
+name="av Visborg"
+ culture = swedish
+}
+1000053714 = {
+name="Möring"
+ culture = swedish
+}
 
