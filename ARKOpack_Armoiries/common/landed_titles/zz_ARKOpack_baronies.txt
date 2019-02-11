@@ -63,10 +63,10 @@ c_roma ={
 			color = 0
 			color = 0
 		}
-		OR = {
-			religion="hellenic_pagan"
+		#OR = {
+		#	religion="hellenic_pagan"
 			religion="hellenic_pagan_reformed"
-		}
+		#}
 	}
 }
 e_roman_empire ={
@@ -80,10 +80,10 @@ e_roman_empire ={
 			color = 0
 			color = 0
 		}
-		OR = {
-			religion="hellenic_pagan"
+		#OR = {
+		#	religion="hellenic_pagan"
 			religion="hellenic_pagan_reformed"
-		}
+		#}
 	}
 }
 
