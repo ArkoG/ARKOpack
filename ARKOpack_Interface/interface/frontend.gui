@@ -2914,8 +2914,7 @@ guiTypes = {
 				instantTextBoxType = 
 				{
 					name = "dynasty_label"
-					#position = { x = -213 y = -12 }
-					position = { x = -343 y = 231 }
+					position = { x = -213 y = -12 }
 					textureFile = ""
 					font = "vic_18_black"
 					borderSize = {x = 0 y = 0}
