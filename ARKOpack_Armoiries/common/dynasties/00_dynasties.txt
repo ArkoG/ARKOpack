@@ -32605,10 +32605,10 @@ used_for_random = no
 	name="Ay"
 	culture = tamil
 }
-#1040223 = { #duplicate
-#	name="Ingeri"
-#	culture = ugricbaltic
-#}
+1040223 = {
+	name="Ingeri"
+	culture = ugricbaltic
+}
 1040224 = {
 	name="Livo"
 	culture = ugricbaltic
