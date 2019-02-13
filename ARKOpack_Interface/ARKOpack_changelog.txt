@@ -2,13 +2,13 @@
 ##An improved interface and coats of arms mod for Crusader Kings 2
 #
 ARKOpack for CK2 3.0.x
-HIP version : 2019-02-09
-standalone version : 2019-02-09
+HIP version : 2019-02-13
+standalone version : 2019-02-13
 GAME VERSION COMPATIBILITY : 3.0.x for COApack
 GAME VERSION COMPATIBILITY : 3.0.x for GUIpack
 
 see included readme's for more details
---2019-02-03 for CK2 3.0.x changelog--- 
+--2019-02-13 for CK2 3.0.x changelog--- 
 
 ARMOIRIES :
 -3.0.x update
@@ -21,7 +21,7 @@ ARMOIRIES :
 -improved indian vanilla CoA sets quality
 -added about a dozen new muslim CoA designs
 -remastered some few older muslim CoA designs
--dynastic CoA for Merohingi,Nibelunging, de Thours
+-dynastic CoA for Merohingi,Nibelunging, de Thouars
 
 INTERFACE :
 -3.0.x update
