@@ -11696,22 +11696,26 @@ used_for_random = no
 9533 = {
 	name="Draguns"
 	culture = lettigallish
+	religion="baltic_pagan"
 }
 
 
 9534 = {
 	name="Sirkants"
 	culture = lettigallish
+	religion="baltic_pagan"
 }
 
 9535 = {
 	name="Saaremaa"
 	culture = ugricbaltic
+	religion="finnish_pagan"
 }
 
 9536 = {
 	name="Revala"
 	culture = ugricbaltic
+	religion="finnish_pagan"
 }
 
 9537 = {
@@ -18575,22 +18579,27 @@ used_for_random = no
 100375 = {
 	name="von Rohrbach"
 	culture = lettigallish
+	religion="catholic"
 }
 100376 = {
 	name="Kask"
 	culture = finnish
+	religion="catholic"
 }
 100377 = {
 	name="Kukk"
 	culture = finnish
+	religion="finnish_pagan"
 }
 100378 = {
 	name="Sepp"
 	culture = finnish
+	religion="baltic_pagan"
 }
 100379 = {
 	name="Tamm"
 	culture = finnish
+	religion="finnish_pagan"
 }
 100380 = {
 	name="Pärn"
@@ -26019,6 +26028,91 @@ used_for_random = no
 	name="Rudén"
 	culture="swedish"
 	religion="norse_pagan"
+	used_for_random=no
+}
+
+1051126=
+{
+	name="of Bebbanburg"
+	culture="norse"
+	religion="norse_pagan"
+	used_for_random=no
+}
+1051127=
+{
+	name="Corvina"
+	culture="italian"
+	religion="orthodox"
+	used_for_random=no
+}
+1051128=
+{
+	name="Todd"
+	culture="pictish"
+	religion="catholic"
+#	coat_of_arms=
+#	{
+#		data=
+#		{
+#0 4 0 36 7 1 0 4 0 36 7 11 0 4 0 36 7 11 0 4 0 36 7 11 0 			}
+#		religion="catholic"
+#	}
+	used_for_random=no
+}
+1051129=
+{
+	name="Blackbird"
+	culture="volhynian"
+	religion="slavic_pagan"
+#	coat_of_arms=
+#	{
+#		data=
+#		{
+#0 4 0 5 1 2 0 			}
+#		religion="catholic"
+#	}
+	used_for_random=no
+}
+1051130=
+{
+	name="Turnbull"
+	culture="scottish"
+	religion="catholic"
+#	coat_of_arms=
+#	{
+#		data=
+#		{
+#0 2 0 22 2 4 5 2 0 8 2 0 0 2 0 13 2 0 0 2 0 13 2 0 0 			}
+#		religion="catholic"
+#	}
+	used_for_random=no
+}
+1051131=
+{
+	name="Byrrnesson"
+	culture="norse"
+	religion="norse_pagan"
+#	coat_of_arms=
+#	{
+#		data=
+#		{
+#0 1 0 12 11 3 1 			}
+#		religion="norse_pagan"
+#	}
+	used_for_random=no
+}
+1051132=
+{
+	name="d'Aubergine"
+	culture="old_frankish"
+	religion="catholic"
+#	coat_of_arms=
+#	{
+#		data=
+#		{
+#0 4 0 37 11 2 1 2 0 15 12 0 9 2 0 24 12 0 9 			}
+#		religion="catholic"
+#	}
 	used_for_random=no
 }
 1031100 = {
