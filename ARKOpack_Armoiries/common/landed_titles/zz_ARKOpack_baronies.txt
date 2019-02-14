@@ -43,6 +43,10 @@ b_venasque	=	{ coat_of_arms = { data =	{ 0 4 0 114 0 0 0 }	religion="catholic" }
 #b_chateauneufdupape={ coat_of_arms = {data ={ 0 4 0 119 0 0 0 }	religion="catholic" } }
 b_gap	=		{ coat_of_arms = { data =	{ 0 4 0 141 0 0 0 }	religion="catholic" } }
 b_basel	=		{ coat_of_arms = { data =	{ 0 4 0 170 0 0 0 }	religion="catholic" } }
+b_melun	=		{ coat_of_arms = { data =	{ 0 4 0 176 0 0 0 }	religion="catholic" } }
+b_stdenis	=	{ coat_of_arms = { data =	{ 0 4 0 177 0 0 0 }	religion="catholic" } }
+b_compiegne	=	{ coat_of_arms = { data =	{ 0 4 0 178 0 0 0 }	religion="catholic" } }
+b_montreuil	=	{ coat_of_arms = { data =	{ 0 4 0 179 0 0 0 }	religion="catholic" } }
 b_besancon	=	{ coat_of_arms = { data =	{ 0 4 0 210 0 0 0 }	religion="catholic" } }
 b_montbeliard = { coat_of_arms = { data = 	{ 0 4 0 220 0 0 0 } religion="catholic" } }	
 b_ferette =		{ coat_of_arms = { data = 	{ 0 4 0 221 0 0 0 } religion="catholic" } }	

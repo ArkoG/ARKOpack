@@ -7,6 +7,12 @@ standalone version : 2019-02-13
 GAME VERSION COMPATIBILITY : 3.0.x for COApack
 GAME VERSION COMPATIBILITY : 3.0.x for GUIpack
 
+ARMOIRIES :
+-new baronial CoA for : Melun, Saint-Denis, Compiègne, Montreuil
+
+INTERFACE :
+-
+
 see included readme's for more details
 --2019-02-13 for CK2 3.0.x changelog--- 
 
