@@ -16282,7 +16282,7 @@ used_for_random = no
 		{
 			0 #plain
 			0 #texture
-			29 #emblem black scripture
+			13 #emblem black scripture
 			17  #texture internal #
 			0  #gold
 			0  #gold
@@ -32748,7 +32748,7 @@ used_for_random = no
 	{
 		data=
 		{
-			0 0 0 18 0 7 7
+			0 0 0 20 0 7 7
 		}
 		religion="zoroastrian"
 	}
