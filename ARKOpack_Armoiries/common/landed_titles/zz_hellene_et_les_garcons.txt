@@ -1,0 +1,71 @@
+c_roma ={
+	pagan_coa = {
+		template = 0
+		layer = {
+			texture = 6
+			texture_internal = 20
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+		religion="hellenic_pagan"
+	}
+	pagan_coa = {
+		template = 0
+		layer = {
+			texture = 6
+			texture_internal = 20
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+		religion="hellenic_pagan_reformed"
+	}
+}
+e_roman_empire ={
+	pagan_coa = {
+		template = 0
+		layer = {
+			texture = 6
+			texture_internal = 21
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+		religion="hellenic_pagan"
+	}
+	pagan_coa = {
+		template = 0
+		layer = {
+			texture = 6
+			texture_internal = 21
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+		religion="hellenic_pagan_reformed"
+	}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
