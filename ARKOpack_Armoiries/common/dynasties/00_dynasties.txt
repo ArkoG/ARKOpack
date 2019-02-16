@@ -9588,7 +9588,7 @@ used_for_random = no
 	culture ="bedouin_arabic"
 }
 7274 = {
-	name="al-Murábitún" #almoravides
+	name="al-Murábití" #almoravides
 	culture ="maghreb_arabic"
 		coat_of_arms = {
 			template = 0	
@@ -24297,7 +24297,7 @@ used_for_random = no
 	culture ="croatian"
 }
 101875 = {
-	name="al-Muwahhidún" #Al-Muwahhidun /Almohades
+	name="al-Muwahhidí" #Al-Muwahhidun /Almohades
 	culture ="maghreb_arabic"
 	coat_of_arms = {	template = 0	layer = {	texture = 1	texture_internal = 4	emblem = 0	color = 0	color = 0	color = 0	}	religion=sunni}
 	forced_coa_religiongroup = "muslim"
