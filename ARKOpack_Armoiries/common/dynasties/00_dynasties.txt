@@ -24247,11 +24247,11 @@ used_for_random = no
 		{
 			0 #plain
 			0 #texture
-			13 #emblem black eagle
-			14  #texture internal #fendu diagonale
-			12 #silver
-			0 #gold
-			12 #
+			20 #emblem golden crescent
+			2  #texture internal #fendu diagonale
+			8 #orange
+			10 #red
+			10 #
 		}
 		religion="sunni"
 	}
