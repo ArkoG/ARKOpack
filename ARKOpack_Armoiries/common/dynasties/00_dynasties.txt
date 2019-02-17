@@ -3503,11 +3503,11 @@
 		{
 			0 #plain
 			0 #texture
-			2 #emblem croissant or unique hori #from Arko_emblem_cust_MUSLIM.dds
-			4  #texture internal #
-			5 #darker green
-			1  #sable
-			1 #sable
+			5 #emblem croissant or unique hori #from Arko_emblem_cust_MUSLIM.dds
+			31  #texture internal #
+			12 #white
+			5  #green
+			5 #green
 		}
 		religion="shiite"
 	}
