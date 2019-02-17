@@ -3459,7 +3459,7 @@
 	culture ="levantine_arabic"
 }
 580 = {
-	name="al-Isa"
+	name="al-Isawí"
 	culture ="levantine_arabic"
 }
 581 = {
@@ -3591,7 +3591,7 @@
 	culture ="levantine_arabic"
 }
 603 = {
-	name="al-Alí" # Ala-ud-Dawlah
+	name="al-Alawí" # Ala-ud-Dawlah
 	culture ="levantine_arabic"
 }
 604 = {
@@ -12528,7 +12528,7 @@ used_for_random = no
 	culture ="andalusian_arabic"
 }
 12206 = {
-	name = "al-Alí"
+	name = "al-Alawí"
 	culture ="maghreb_arabic"
 }
 12207 = {
@@ -12552,7 +12552,7 @@ used_for_random = no
 	culture ="andalusian_arabic"
 }
 12212 = {
-	name = "al-Musa"
+	name = "al-Músáwí"
 	culture ="andalusian_arabic"
 }
 12213 = {
@@ -12572,7 +12572,7 @@ used_for_random = no
 	culture ="andalusian_arabic"
 }
 12217 = {
-	name = "al-Muttawakil"
+	name = "al-Muttawakilí"
 	culture ="maghreb_arabic"
 }
 12218 = {
@@ -12604,7 +12604,7 @@ used_for_random = no
 	culture ="andalusian_arabic"
 }
 12225 = {
-	name = "al-Yahya"
+	name = "al-Yahyawí"
 	culture ="maghreb_arabic"
 }
 12226 = {
@@ -12620,7 +12620,7 @@ used_for_random = no
 	culture ="andalusian_arabic"
 }
 12229 = {
-	name = "al-Adha"
+	name = "al-Adhawí"
 	culture ="andalusian_arabic"
 }
 12230 = {
@@ -25523,7 +25523,7 @@ used_for_random = no
 	culture ="maghreb_arabic"
 }
 1027002 = {
-	name="al-Ya'la"
+	name="al-Ya'lawí"
 	#name="Ya'liyún"
 	culture ="maghreb_arabic"
 }
@@ -27788,7 +27788,7 @@ used_for_random = no
 	culture ="andalusian_arabic"
 }
 12306 = {
-	name= "al-Alkada"
+	name= "al-Alkadí"
 	culture ="andalusian_arabic"
 }
 12307 = {
@@ -31808,7 +31808,7 @@ used_for_random = no
 
 1046013 = {
 
-	name="al-Musa"
+	name="al-Músáwí"
 
 	culture=andalusian_arabic
 
