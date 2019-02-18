@@ -1,15 +1,13 @@
 culture = { 
 	#christian
-	#religion_group = "christian"
-	religion = {
-		"catholic"
-		#"cathar"
-		#"fraticelli"
-		#"waldensian"
-		#"lollard"
-		"hellenic_pagan_reformed"
-		"hellenic_pagan"
-	}
+	religion_group = "christian"
+#	religion = {
+#		"catholic"
+#		 "cathar"
+#		 "fraticelli"
+#		 "waldensian"
+#		 "lollard"
+#	}
 	
 
 	templates = { 
@@ -247,13 +245,13 @@ culture =
 	religion = {
 		"orthodox"
 		"miaphysite"
-		#"monophysite"
-		#"bogomilist"
-		#"monothelite"
-		#"iconoclast"
-		#"paulician"
+		 "monophysite"
+		 "bogomilist"
+		 "monothelite"
+		 "iconoclast"
+		 "paulician"
 		"nestorian"
-		#"messalian"
+		 "messalian"
 	}
 
 	templates = { 
@@ -495,19 +493,20 @@ culture =
 	}
 
 	color = {
-		{ 220 200 0 }	#0 		Or d'Orient
+		{ 220 220 0 }	#0 		Or d'Orient
 		{ 20 20 20 } 	#1 		Sable
 		{ 100 150 250 } #2 		Bleu Céleste
 		{ 35 150 35 } 	#3 		Vert Sunnite
 		{ 20 20 20 }	#4 		Sable
 		{ 50 130 50 } 	#5 		Vert Shiite
 		{ 150 0 30 }	#6 		Rose
+		##{ 70 200 200 }	#6 		sarsiriyy (teal)
 		{ 150 0 30 } 	#7 		Sanguine
 		{ 200 80 0 }	#8 		Tanné
-		{ 0 86 250 }	#9 		Azur Céleste
+		{ 0 50 200 }	#9 		Bleu mille et une nuits
 		{ 130 0 40 }	#10 	Mûre
 		{ 100 150 250 }		# 11	Bleu Céleste bis
-		{ 208 208 208 }		# 12	Argent
+		{ 220 220 220 }		# 12	Argent
 	}
 	
 	rebel_colors = { 0 1 3 }
