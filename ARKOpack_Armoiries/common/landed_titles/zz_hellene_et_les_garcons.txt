@@ -2,8 +2,8 @@ c_roma ={
 	pagan_coa = {
 		template = 0
 		layer = {
-			texture = 6
-			texture_internal = 20
+			texture = 2
+			texture_internal = 0
 			emblem = 0
 			color = 0
 			color = 0
@@ -14,8 +14,8 @@ c_roma ={
 	pagan_coa = {
 		template = 0
 		layer = {
-			texture = 6
-			texture_internal = 20
+			texture = 2
+			texture_internal = 0
 			emblem = 0
 			color = 0
 			color = 0
@@ -28,8 +28,8 @@ e_roman_empire ={
 	pagan_coa = {
 		template = 0
 		layer = {
-			texture = 6
-			texture_internal = 21
+			texture = 2
+			texture_internal = 1
 			emblem = 0
 			color = 0
 			color = 0
@@ -40,8 +40,8 @@ e_roman_empire ={
 	pagan_coa = {
 		template = 0
 		layer = {
-			texture = 6
-			texture_internal = 21
+			texture = 2
+			texture_internal = 1
 			emblem = 0
 			color = 0
 			color = 0
@@ -50,8 +50,110 @@ e_roman_empire ={
 		religion="hellenic_pagan_reformed"
 	}
 }
-
-
+e_byzantium ={
+	pagan_coa = {
+		template = 0
+		layer = {
+			texture = 2
+			texture_internal = 2
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+		religion="hellenic_pagan"
+	}
+	pagan_coa = {
+		template = 0
+		layer = {
+			texture = 2
+			texture_internal = 2
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+		religion="hellenic_pagan_reformed"
+	}
+}
+e_italy ={
+	pagan_coa = {
+		template = 0
+		layer = {
+			texture = 2
+			texture_internal = 3
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+		religion="hellenic_pagan"
+	}
+	pagan_coa = {
+		template = 0
+		layer = {
+			texture = 2
+			texture_internal = 3
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+		religion="hellenic_pagan_reformed"
+	}
+}
+e_hre ={
+	pagan_coa = {
+		template = 0
+		layer = {
+			texture = 2
+			texture_internal = 4
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+		religion="hellenic_pagan"
+	}
+	pagan_coa = {
+		template = 0
+		layer = {
+			texture = 2
+			texture_internal = 4
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+		religion="hellenic_pagan_reformed"
+	}
+}
+c_korinthos ={
+	pagan_coa = {
+		template = 0
+		layer = {
+			texture = 2
+			texture_internal = 5
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+		religion="hellenic_pagan"
+	}
+	pagan_coa = {
+		template = 0
+		layer = {
+			texture = 2
+			texture_internal = 5
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+		religion="hellenic_pagan_reformed"
+	}
+}
 
 
 
