@@ -3,7 +3,7 @@ pagan_group = { #gives random CoA to pagan religions #donne des armes aléatoires
 	#pagan = { graphical_culture = africangfx }
 }
 
-customizer_christian = { #for DLC customizer, not handy with Ruler Designer
+customizer_group = { #for DLC customizer, not handy with Ruler Designer
 	alternate_start = { always = no }
 
 	has_coa_on_barony_only = yes
@@ -61,27 +61,10 @@ customizer_christian = { #for DLC customizer, not handy with Ruler Designer
 		
 		religious_clothing_head = 0
 		religious_clothing_priest = 1
+		
+		allow_in_ruler_designer = no
 	}
-}
-customizer_muslim = {
-	alternate_start = { always = no }
 
-	has_coa_on_barony_only = no
-	graphical_culture = muslimgfx
-	crusade_cb = crusade
-	playable = yes
-	hostile_within_group = yes
-	
-	ai_convert_same_group = 2 # always try to convert
-	ai_convert_other_group = 1 # try to convert if ai_zeal is high
-	ai_fabricate_claims = no
-	
-	color = { 0 0.6 0 }
-	
-	# Names given only to Muslim characters (base names)
-	male_names = {
-		Abbas Abdul Abdullah Abolhassan Abu-Bakr Ahmad Akbar Allahyar Ali Ali-Fay Ali-Kolon Ali-Zalil Hasan Hossein Hussayn Ismail Mahmud Mohammed Muammar Muhammad
-	}
 	customizers_muslim = {
 		alternate_start = { always = no }
 		graphical_culture = muslimgfx
@@ -115,35 +98,10 @@ customizer_muslim = {
 		attacking_same_religion_piety_loss = yes
 		uses_decadence = yes
 		uses_jizya_tax = yes
+		
+		allow_in_ruler_designer = no
 	}
-}
 
-customizer_dlcfanbois = { #for DLC customizer, not handy with Ruler Designer
-	alternate_start = { always = no }
-	
-	has_coa_on_barony_only = yes
-	graphical_culture = westerngfx
-	crusade_cb = crusade
-	playable = yes
-	ai_peaceful = yes # Will make Hordes lose their super aggressiveness
-	
-	ai_convert_same_group = 2 # always try to convert
-	ai_convert_other_group = 2 # always try to convert
-	
-	color = { 0.8 0.8 0.6 }
-
-	# Names given only to Christian characters (base names)
-	male_names = {
-		Andrew Antoninus Bartolomeus Benedict Christian Christopher Clement Constantine David Demetrius Eustace George Gregory 
-		Hans Isaac Joakim Jacob John Jordan Joseph Laurence Magnus Marcus Martin Matthew Michael Nicholas Patrick Paul Peter Philip 
-		Salvador Samuel Sebastian Simon Stephen Thomas Abraham, Alexander, Daniel, Jesus, Job, Joshua, Cyrus, Luke, Joseph, Zachariah
-	}
-	female_names = {
-		Anna Beatrice Benedicta Brigid Catherine Cecilia Christina Clementia Constance Dorothy Elisabeth Joan Judith Juliana Helen 
-		Magdalena Margaret Maria Marine Patricia Philippa Rachel 
-		Sarah Sophia Stephania
-	}
-	
 	customizers_dlcfanbois = {
 		alternate_start = { always = no }
 		graphical_culture = westerngfx
@@ -176,5 +134,42 @@ customizer_dlcfanbois = { #for DLC customizer, not handy with Ruler Designer
 		
 		religious_clothing_head = 0
 		religious_clothing_priest = 1
+		
+		allow_in_ruler_designer = no
+	}
+	customizers_i_see_starz = {
+		graphical_culture = hellenicgfx
+		alternate_start = { always = no }
+		interface_skin = { hellenic_interface }
+
+		icon = 58
+		heresy_icon = 59
+		
+		color = { 0.6 0.3 0.3 }
+		
+		high_god_name = GOD_JUPITER
+		
+		god_names = {
+			GOD_JUPITER GOD_NEPTUNE GOD_PLUTO GOD_JUNO GOD_CERES GOD_MINERVA GOD_MARS GOD_VULCAN GOD_VENUS GOD_APOLLO GOD_DIANA GOD_VESTA
+		}
+		evil_god_names = {
+			GOD_SATURN GOD_BACCHUS GOD_PLUTO GOD_MERCURY GOD_TYPHON
+		}
+		# Zeus, Hera, Poseidon, Demeter, Athena, Apollo, Artemis, Ares, Aphrodite, Hephaestus, Hermes, and either Hestia or Dionysus.
+		crusade_name = GREAT_HOLY_WAR
+		scripture_name = THE_LEGENDS
+		priest_title = AUGUR
+		
+		priests_can_marry = no
+		priests_can_inherit = no
+		female_temple_holders = yes
+		
+		can_call_crusade = yes
+		join_crusade_if_bordering_hostile = yes
+		
+		religious_clothing_head = 12
+		religious_clothing_priest = 11
+		
+		allow_in_ruler_designer = no
 	}
 }
