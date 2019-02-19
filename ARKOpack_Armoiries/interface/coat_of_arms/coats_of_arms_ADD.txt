@@ -73,19 +73,20 @@ culture = {
 			random = no # Do not use for random CoAs
 		}
 		texture = { #texture = 3
-			file = "gfx\\coats_of_arms\\ARKOpack_hellenic_constellatio_RNG.tga"
+			file = "gfx\\coats_of_arms\\ARKOpack_hellenic_constellatio_RNG.tga" #colour it yourself
 			size = { x = 12 y = 1 }
 			noOfFrames = 12
 			color = 2
 			emblem = no
+			random = no # Do not use for random CoAs
 		}
 		texture = { #texture = 4
-			file = "gfx\\coats_of_arms\\ARKOpack_hellenic_constellatio_DYN.tga"			size = { x = 5 y = 9 }
+			file = "gfx\\coats_of_arms\\ARKOpack_hellenic_constellatio_DYN.tga"	#precolored
 			size = { x = 12 y = 2 }
 			noOfFrames = 24
 			color = 0
 			emblem = no
-			random = no # Do not use for random CoAs
+			random = no # Do not use for random CoAs 
 		}
 		texture = { #texture = 5
 			file = "gfx\\coats_of_arms\\ARKOpackdynasties.tga" ###to split by realm/culture
