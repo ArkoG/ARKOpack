@@ -9695,7 +9695,20 @@ used_for_random = no
 7296 = {
 	name="Hashim"
 	culture ="bedouin_arabic"
-	forced_coa_religiongroup = "muslim"
+	coat_of_arms=
+	{
+		data= #
+		{
+			0 #plain
+			0 #texture
+			30 #emblem #1 yellow text hori #from Arko_emblem_cust_MUSLIM.dds
+			49  #texture internal
+			5 #green
+			5 #green
+			5 #green
+		}
+		religion="sunni"
+	}
 }
 7298 = {
 	name="af Frondholm"
