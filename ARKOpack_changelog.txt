@@ -2,13 +2,20 @@
 ##An improved interface and coats of arms mod for Crusader Kings 2
 #
 ARKOpack for CK2 3.0.x
-HIP version : 2019-02-13
-standalone version : 2019-02-13
+HIP version : 2019-02-19
+standalone version : 2019-02-19
 GAME VERSION COMPATIBILITY : 3.0.x for COApack
 GAME VERSION COMPATIBILITY : 3.0.x for GUIpack
 
 see included readme's for more details
---2019-02-13 for CK2 3.0.x changelog--- 
+--2019-02-19 for CK2 3.0.x changelog--- 
+
+HIP FURRY2 update :
+-new baronial CoA for : Melun, Saint-Denis, Compiègne, Montreuil
+-fixed hellenic defined CoA titles
+-additional hellenic defined CoA titles
+-hellenic patterns for random CoA
+-
 
 ARMOIRIES :
 -3.0.x update
@@ -37,13 +44,6 @@ INTERFACE :
 -reworked the province view for muslim
 -removed the specific religion icons with background from character sheet due to random worlds
 
-ARKOpack for CK2 2.8.3
-HIP version : 2018-06-16
-standalone version : 2018-06-16
-GAME VERSION COMPATIBILITY : 2.8.3 for COApack
-GAME VERSION COMPATIBILITY : 2.8.3 for GUIpack
-
-see included readme's for more details
 --2018-06-16 for CK2 2.8.3 changelog--- 
 
 ARMOIRIES :
