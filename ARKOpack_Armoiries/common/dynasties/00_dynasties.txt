@@ -3503,8 +3503,8 @@
 		{
 			0 #plain
 			0 #texture
-			5 #emblem croissant or unique hori #from Arko_emblem_cust_MUSLIM.dds
-			31  #texture internal #
+			31 #emblem black text or unique hori #from Arko_emblem_cust_MUSLIM.dds
+			43  #texture internal #
 			12 #white
 			5  #green
 			5 #green
@@ -3560,9 +3560,9 @@
 			0 #texture
 			31 #emblem #1 black text hori #from Arko_emblem_cust_MUSLIM.dds
 			4  #texture internal mozarab thingy
+			12 #silver
 			2 #light blue
-			12 #silver
-			12 #silver
+			2 #light blue
 		}
 		religion="sunni"
 	}
