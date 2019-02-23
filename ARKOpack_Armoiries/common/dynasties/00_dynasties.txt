@@ -4756,7 +4756,7 @@
 	culture = "persian"
 }
 812 = {
-	name="al-Saffár"
+	name="Saffárí"
 	culture = "persian"
 }
 813 = {
@@ -24244,7 +24244,7 @@ used_for_random = no
 	culture ="bedouin_arabic"
 }
 101863 = {
-	name="al-Saffár"
+	name="al-Saffárí"
 	culture = bedouin_arabic
 }
 101864 = {
