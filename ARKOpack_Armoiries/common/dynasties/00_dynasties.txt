@@ -33666,7 +33666,14 @@ used_for_random = no
 1051143 = {
 	name="Khuda"
 	culture="sogdian"
-	religion="zoroastrian"
+	coat_of_arms=
+	{
+		data=
+		{
+			0 0 0 17 5 1 1
+		}
+		religion="tengri_pagan"
+	}
 }
 1051144 = {
 	name="Bukhar"
