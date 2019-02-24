@@ -52,7 +52,7 @@ culture = {
 		texture = { #texture = 0
 			file = "gfx\\coats_of_arms\\ARKOpack_hellenic_pattern.tga"
 			size = { x = 10 y = 5 }
-			noOfFrames = 49
+			noOfFrames = 50
 			emblem = no
 			color = 2 
 		}
