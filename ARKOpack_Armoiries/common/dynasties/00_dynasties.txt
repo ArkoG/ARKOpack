@@ -3433,7 +3433,7 @@
 		{
 			0 #plain
 			3 #texture
-			31 #emblem blue flower
+			29 #emblem blue flower
 			40  #texture internal #
 			12  #silver
 			1  #sable
