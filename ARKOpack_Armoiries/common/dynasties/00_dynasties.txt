@@ -3459,7 +3459,7 @@
 	culture ="levantine_arabic"
 }
 580 = {
-	name="al-Isa"
+	name="al-Isawí"
 	culture ="levantine_arabic"
 }
 581 = {
@@ -3503,11 +3503,11 @@
 		{
 			0 #plain
 			0 #texture
-			2 #emblem croissant or unique hori #from Arko_emblem_cust_MUSLIM.dds
-			4  #texture internal #
-			5 #darker green
-			1  #sable
-			1 #sable
+			31 #emblem black text or unique hori #from Arko_emblem_cust_MUSLIM.dds
+			43  #texture internal #
+			12 #white
+			5  #green
+			5 #green
 		}
 		religion="shiite"
 	}
@@ -3558,10 +3558,10 @@
 		{
 			0 #plain
 			0 #texture
-			2 #emblem #1 gold crescent hori #from Arko_emblem_cust_MUSLIM.dds
+			31 #emblem #1 black text hori #from Arko_emblem_cust_MUSLIM.dds
 			4  #texture internal mozarab thingy
-			1 #sable
 			12 #silver
+			2 #light blue
 			2 #light blue
 		}
 		religion="sunni"
@@ -3591,7 +3591,7 @@
 	culture ="levantine_arabic"
 }
 603 = {
-	name="al-Alí" # Ala-ud-Dawlah
+	name="al-Alawí" # Ala-ud-Dawlah
 	culture ="levantine_arabic"
 }
 604 = {
@@ -4756,7 +4756,7 @@
 	culture = "persian"
 }
 812 = {
-	name="al-Saffár"
+	name="Saffárí"
 	culture = "persian"
 }
 813 = {
@@ -9695,7 +9695,20 @@ used_for_random = no
 7296 = {
 	name="Hashim"
 	culture ="bedouin_arabic"
-	forced_coa_religiongroup = "muslim"
+	coat_of_arms=
+	{
+		data= #
+		{
+			0 #plain
+			0 #texture
+			30 #emblem #1 yellow text hori #from Arko_emblem_cust_MUSLIM.dds
+			49  #texture internal
+			5 #green
+			5 #green
+			5 #green
+		}
+		religion="sunni"
+	}
 }
 7298 = {
 	name="af Frondholm"
@@ -12528,7 +12541,7 @@ used_for_random = no
 	culture ="andalusian_arabic"
 }
 12206 = {
-	name = "al-Alí"
+	name = "al-Alawí"
 	culture ="maghreb_arabic"
 }
 12207 = {
@@ -12552,7 +12565,7 @@ used_for_random = no
 	culture ="andalusian_arabic"
 }
 12212 = {
-	name = "al-Musa"
+	name = "al-Músáwí"
 	culture ="andalusian_arabic"
 }
 12213 = {
@@ -12572,7 +12585,7 @@ used_for_random = no
 	culture ="andalusian_arabic"
 }
 12217 = {
-	name = "al-Muttawakil"
+	name = "al-Muttawakilí"
 	culture ="maghreb_arabic"
 }
 12218 = {
@@ -12604,7 +12617,7 @@ used_for_random = no
 	culture ="andalusian_arabic"
 }
 12225 = {
-	name = "al-Yahya"
+	name = "al-Yahyawí"
 	culture ="maghreb_arabic"
 }
 12226 = {
@@ -12620,7 +12633,7 @@ used_for_random = no
 	culture ="andalusian_arabic"
 }
 12229 = {
-	name = "al-Adha"
+	name = "al-Adhawí"
 	culture ="andalusian_arabic"
 }
 12230 = {
@@ -24231,7 +24244,7 @@ used_for_random = no
 	culture ="bedouin_arabic"
 }
 101863 = {
-	name="al-Saffár"
+	name="al-Saffárí"
 	culture = bedouin_arabic
 }
 101864 = {
@@ -24247,11 +24260,11 @@ used_for_random = no
 		{
 			0 #plain
 			0 #texture
-			13 #emblem black eagle
-			14  #texture internal #fendu diagonale
-			12 #silver
-			0 #gold
-			12 #
+			20 #emblem golden crescent
+			2  #texture internal #fendu diagonale
+			8 #orange
+			10 #red
+			10 #
 		}
 		religion="sunni"
 	}
@@ -25523,7 +25536,7 @@ used_for_random = no
 	culture ="maghreb_arabic"
 }
 1027002 = {
-	name="al-Ya'la"
+	name="al-Ya'lawí"
 	#name="Ya'liyún"
 	culture ="maghreb_arabic"
 }
@@ -27788,7 +27801,7 @@ used_for_random = no
 	culture ="andalusian_arabic"
 }
 12306 = {
-	name= "al-Alkada"
+	name= "al-Alkadí"
 	culture ="andalusian_arabic"
 }
 12307 = {
@@ -31808,7 +31821,7 @@ used_for_random = no
 
 1046013 = {
 
-	name="al-Musa"
+	name="al-Músáwí"
 
 	culture=andalusian_arabic
 
@@ -33653,7 +33666,14 @@ used_for_random = no
 1051143 = {
 	name="Khuda"
 	culture="sogdian"
-	religion="zoroastrian"
+	coat_of_arms=
+	{
+		data=
+		{
+			0 0 0 17 5 1 1
+		}
+		religion="tengri_pagan"
+	}
 }
 1051144 = {
 	name="Bukhar"
