@@ -3433,7 +3433,7 @@
 		{
 			0 #plain
 			3 #texture
-			31 #emblem blue flower
+			29 #emblem blue flower
 			40  #texture internal #
 			12  #silver
 			1  #sable
@@ -3502,11 +3502,11 @@
 		data=
 		{
 			0 #plain
-			0 #texture
+			3 #texture
 			31 #emblem black text or unique hori #from Arko_emblem_cust_MUSLIM.dds
-			43  #texture internal #
+			5  #texture internal mozarab thingy
+			12  #green
 			12 #white
-			5  #green
 			5 #green
 		}
 		religion="shiite"
@@ -3557,11 +3557,11 @@
 		data= #
 		{
 			0 #plain
-			0 #texture
+			3 #texture
 			31 #emblem #1 black text hori #from Arko_emblem_cust_MUSLIM.dds
-			4  #texture internal mozarab thingy
-			12 #silver
+			5  #texture internal mozarab thingy
 			2 #light blue
+			12 #silver
 			2 #light blue
 		}
 		religion="sunni"
@@ -23387,11 +23387,11 @@ used_for_random = no
 		data=
 			{
 			0 #plain
-			0 #texture
+			3 #texture
 			16 #emblem #white text #from Arko_emblem_cust_MUSLIM.dds
-			11  #texture internal
-			5 #dark green
+			5  #texture internal mozarab thingy
 			1 #de sable
+			5 #dark green
 			1 #none
 			}
 			religion=sunni
@@ -24260,7 +24260,7 @@ used_for_random = no
 		{
 			0 #plain
 			0 #texture
-			20 #emblem golden crescent
+			20 #emblem flower/yellow parasol
 			2  #texture internal #fendu diagonale
 			8 #orange
 			10 #red

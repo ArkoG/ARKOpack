@@ -1,12 +1,16 @@
 LOADING_TIP_1;Thanks for choosing to play with the ARKOpack;Merci d'avoir choisi de jouer avec l'ARKOpack;Thanks for choosing to play with the ARKOpack;;Muchas gracias juegar con el ARKOpack;;;;;;;;;x
 #customizer;Heraldrism;Héraldisme;;;;;;;;;;;;x
-customizer_christian;Crusader Kings;Les Rois Croisés;;;;;;;;;;;;x
+customizer_christian;Heraldic customizer;Personnalisation héraldique;;;;;;;;;;;;x
+#customizer_christian;Crusader Kings;Les Rois Croisés;;;;;;;;;;;;x
 customizers_christian;Crusader Kings;Les Rois Croisés;;;;;;;;;;;;x
 #customizers_christian_DESC;Heraldrism;Les Hérauts sont les maîtres dans l'art des blasons.;;;;;;;;;;;;x
-customizer_muslim;Sayf al-Islam;Sayf al-Islam;;;;;;;;;;;;x
+#customizer_muslim;Sayf al-Islam;Sayf al-Islam;;;;;;;;;;;;x
 customizers_muslim;Sayf al-Islam;Sayf al-Islam;;;;;;;;;;;;x
 #customizers_muslim_DESC;Heraldrism;Les Hérauts sont les maîtres dans l'art des blasons.;;;;;;;;;;;;x
-customizer_dlcfanbois;DLC;DLC;;;;;;;;;;;;x
+#customizer_dlcfanbois;DLC;DLC;;;;;;;;;;;;x
 customizers_dlcfanbois;DLC;DLC;;;;;;;;;;;;x
 coa_plain_zoroastrian;Pure;Uni;;;;;;;;;;;;x
 coa_plain_chinois;Pure;Pur;;;;;;;;;;;;x
+coa_plain_hellenic;Full;Entier;;;;;;;;;;;;x
+#customizer_i_see_starz;I See Starz;I See Starz;;;;;;;;;;;;x
+customizers_i_see_starz;I See Starz;I See Starz;;;;;;;;;;;;x

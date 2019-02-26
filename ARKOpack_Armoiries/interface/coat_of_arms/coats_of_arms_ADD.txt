@@ -1,0 +1,162 @@
+culture = { 
+	religion = {
+		"hellenic_pagan"
+		"hellenic_pagan_reformed"
+	}
+	
+	templates = { 
+		"coa_plain_hellenic:1" 			#plain
+	}
+
+	color = {
+		{ 250 190 0 }	#0 		metal  Or cretois
+		{ 230 230 230 } #1  	metal Falaise Argent 
+		{ 0 50 180 } 	#2  	  email  Bleu de Circe
+		{ 150 0 30 } 	#3  	  email  De sang 
+		{ 50 100 50 } 	#4  	  email  Vert
+		{ 100 0 100 }	#5  	  email  Pourpre
+		{ 20 20 20 }	#6  	Sable
+		{ 20 20 20 }	#7  	Sable
+		{ 200 80 0 } 	#8  	metal Tanne
+	}
+
+	rebel_colors = { 0 3 7 }
+
+	banned_colors = 
+	{ 
+		{ 0 1  }	#0		
+		{ 0 1  }	#1		
+		{ 2 3 4 5 }		#2		
+		{ 2 3 4 5 }		#3		
+		{ 2 3 4 5 }		#4		
+		{ 2 3 4 5 }		#5		
+		{ 6 7 }		  #6		
+		{ 6 7 }		  #7
+		{ 8 }	#8
+	}
+	
+	emblem = {
+		file = "gfx\\coats_of_arms\\Arko_emblem_hellenic.dds"
+		noOfFrames = 6
+		random = yes
+	}
+	emblem = {
+		file = "gfx\\coats_of_arms\\Arko_emblem_hellenic2.dds"
+		noOfFrames = 24
+		random = no
+	}
+
+	
+	# WHEN ADDING NEW, ALWAYS ADD AT THE END !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!11111
+	textures = {
+		texture = { #texture = 0
+			file = "gfx\\coats_of_arms\\ARKOpack_hellenic_pattern.tga"
+			size = { x = 10 y = 5 }
+			noOfFrames = 50
+			emblem = no
+			color = 2 
+		}
+		texture = { #texture = 1
+			file = "gfx\\coats_of_arms\\ARKOpack_hellenic_pattern2.tga"
+			size = { x = 10 y = 5 }
+			noOfFrames = 49
+			emblem = yes
+			emblem_chance = 30 #default is 50
+			color = 2
+		}
+		texture = { #texture = 2
+			file = "gfx\\coats_of_arms\\ARKOpack_hellenic_titles.tga"
+			size = { x = 5 y = 5 }
+			noOfFrames = 25
+			emblem = no
+			color = 0
+			random = no # Do not use for random CoAs
+		}
+		texture = { #texture = 3
+			file = "gfx\\coats_of_arms\\ARKOpack_hellenic_constellatio_RNG.tga" #colour it yourself
+			size = { x = 12 y = 1 }
+			noOfFrames = 12
+			color = 2
+			emblem = no
+			random = no # Do not use for random CoAs
+		}
+		texture = { #texture = 4
+			file = "gfx\\coats_of_arms\\ARKOpack_hellenic_constellatio_DYN.tga"	#precolored
+			size = { x = 12 y = 2 }
+			noOfFrames = 24
+			color = 0
+			emblem = no
+			random = no # Do not use for random CoAs 
+		}
+		texture = { #texture = 5
+			file = "gfx\\coats_of_arms\\ARKOpackdynasties.tga" ###to split by realm/culture
+			size = { x = 10 y = 15 }
+			noOfFrames = 150
+			color = 0
+			emblem = no
+			random = no # Do not use for random CoAs
+		}
+		# WHEN ADDING NEW, ALWAYS ADD AT THE END !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!11111
+	}
+}
+culture = { 
+	religion = {
+		"customizers_i_see_starz"
+	}
+	
+	templates = { 
+		"coa_plain_hellenic:1" 			#plain
+	}
+
+	color = {
+		{ 250 190 0 }	#0 		metal  Or cretois
+		{ 230 230 230 } #1  	metal Falaise Argent 
+		{ 0 50 180 } 	#2  	  email  Bleu de Circe
+		{ 150 0 30 } 	#3  	  email  De sang 
+		{ 50 100 50 } 	#4  	  email  Vert
+		{ 100 0 100 }	#5  	  email  Pourpre
+		{ 20 20 20 }	#6  	Sable
+		{ 20 20 20 }	#7  	Sable
+		{ 200 80 0 } 	#8  	metal Tanne
+	}
+
+	rebel_colors = { 0 3 7 }
+
+	banned_colors = 
+	{ 
+		{ 0 1  }	#0		
+		{ 0 1  }	#1		
+		{ 2 3 4 5 }		#2		
+		{ 2 3 4 5 }		#3		
+		{ 2 3 4 5 }		#4		
+		{ 2 3 4 5 }		#5		
+		{ 6 7 }		  #6		
+		{ 6 7 }		  #7
+		{ 8 }	#8
+	}
+	
+	emblem = {
+		file = "gfx\\coats_of_arms\\Arko_emblem_hellenic.dds"
+		noOfFrames = 6
+		random = yes
+	}
+	emblem = {
+		file = "gfx\\coats_of_arms\\Arko_emblem_hellenic2.dds"
+		noOfFrames = 24
+		random = no
+	}
+
+	
+	# WHEN ADDING NEW, ALWAYS ADD AT THE END !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!11111
+	textures = {
+		texture = { #texture = 0
+			file = "gfx\\coats_of_arms\\ARKOpack_hellenic_constellatio_DYN.tga"			size = { x = 5 y = 9 }
+			size = { x = 12 y = 2 }
+			noOfFrames = 24
+			color = 0
+			emblem = no
+			#random = no # Do not use for random CoAs
+		}
+		# WHEN ADDING NEW, ALWAYS ADD AT THE END !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!11111
+	}
+}
