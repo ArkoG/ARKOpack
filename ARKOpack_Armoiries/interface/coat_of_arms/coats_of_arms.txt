@@ -1673,7 +1673,7 @@ culture = {
 
 culture =
 { #christians
-	religion_group = "customizer_christian"
+	religion = { "customizers_christian" }
 
 	templates = { 
 		"coa_plain:1" 			#plain
@@ -1793,7 +1793,7 @@ culture =
 
 culture =
 { #muslim
-	religion_group = "customizer_muslim"
+	religion = { "customizers_muslim" }
 
 	templates = { 
 		"coa_plain_muslim:1"
@@ -1871,7 +1871,7 @@ culture =
 
 culture =
 { #DLC
-	religion_group = "customizer_dlcfanbois"
+	religion =  { "customizers_dlcfanbois" }
 
 	templates = { 
 		"coa_plain:1" 			#plain
