@@ -2,18 +2,24 @@
 ##An improved interface and coats of arms mod for Crusader Kings 2
 #
 ARKOpack for CK2 3.0.x
-HIP version : 2019-02-19
-standalone version : 2019-02-19
+HIP version : 2019-03-03
+standalone version : 2019-03-03
 GAME VERSION COMPATIBILITY : 3.0.x for COApack
 GAME VERSION COMPATIBILITY : 3.0.x for GUIpack
 
 see included readme's for more details
 --2019-02-19 for CK2 3.0.x changelog--- 
 
-FURRY2 update :
+HIP FURRY2 update :
+-new baronial CoA for : Melun, Saint-Denis, Compiègne, Montreuil
 -fixed hellenic defined CoA titles
 -additional hellenic defined CoA titles
 -hellenic patterns for random CoA
+-made adaptations to council view to deal with additional voting positions
+-some dynastic names improvments by ese-khan
+-some new dynastic CoA by ese-khan : Qarakhanid, Hashim
+-some muslim dynastic CoA improvments from ese-khan suggestions : Fatimidsn Umayyads Abbasids
+-a few coded CoA fixes
 
 ARMOIRIES :
 -3.0.x update
