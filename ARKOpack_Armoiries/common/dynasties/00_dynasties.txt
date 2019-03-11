@@ -27415,7 +27415,7 @@ used_for_random = no
 	culture = ethiopian
 }
 1040009 = {
-	name="Alwa"
+	name="Aroua"
 	culture = ethiopian
 }
 1022140 = {
