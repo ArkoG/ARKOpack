@@ -23656,11 +23656,11 @@ used_for_random = no
 	culture = ethiopian
 }
 101778 = {
-	name="al-Maris"
+	name="Migi" #Old Nubian term used interchangeably with Nobatia
 	culture = ethiopian
 }
 101779 = {
-	name="al-Muqurra"
+	name="Makouria"
 	culture = ethiopian
 }
 101780 = {
@@ -27411,7 +27411,7 @@ used_for_random = no
 	culture ="welsh"
 }
 1040008 = {
-	name="Daw"
+	name="Dotawo"
 	culture = ethiopian
 }
 1040009 = {
