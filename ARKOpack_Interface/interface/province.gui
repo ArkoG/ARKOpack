@@ -47,6 +47,66 @@ guiTypes = {
 			quadTextureSprite ="GFX_main_close_button"
 			shortcut = "ESCAPE"
 		}
+		### Wonder
+	
+		iconType = {
+			name = "wonder_frame_top"
+			position = { x = 20 y = -130 }
+			quadTextureSprite = "GFX_province_wonder_frame_top"
+			allwaystransparent = yes
+		}
+		
+		iconType = {
+			name = "wonder_numeral_top"
+			position = { x = 148 y = -11 }
+			quadTextureSprite = "GFX_wonder_numeral_strip"
+		}
+		
+		 iconType = {
+			name = "wonder_image"
+			quadTextureSprite = "GFX_wonder_strip_generic_wonder_small"
+			allwaystransparent = yes
+		}
+		
+		guiButtonType = {
+			name = "wonder_image_bg"
+			quadTextureSprite = "GFX_wonder_background_fields_small"
+			clicksound = click
+		}
+		
+		iconType = {
+			name = "wonder_image_frame"
+			spriteType = "GFX_wonder_image_frame_small"
+			allwaystransparent = yes
+		}
+		
+		guiButtonType = {
+			name = "wonder_extend"
+			quadTextureSprite = "GFX_province_wonder_extend"
+			Orientation = "UPPER_LEFT"
+			clicksound = generic_click_04
+		}
+		
+		iconType = {
+			name = "wonder_extend_bg"
+			spriteType = "GFX_province_wonder_frame_side"
+		}
+		
+		guiButtonType = {
+			name = "construct_wonder"
+			quadTextureSprite = "GFX_wonder_icon_strong_border"
+			position = { x = 295 y = 0 }
+			Orientation = "UPPER_LEFT"
+			clicksound = generic_click_04
+		}
+		
+		guiButtonType = {
+			name = "open_wonder_view"
+			quadTextureSprite = "GFX_wonder_icon_strong_border"
+			position = { x = 295 y = 0 }
+			Orientation = "UPPER_LEFT"
+			clicksound = generic_click_04
+		}
 		
 		guiButtonType =	{
 			name = "button_raise_levy"
@@ -64,8 +124,10 @@ guiTypes = {
 			shortcut = "c"
 		}
 ### 2.6	addition	
-		iconType =	{
-			name = "hospital_level_icon"
+		#iconType =	{
+		guiButtonType =	{
+			name = "hospital_level_button" #new 3.1
+			#name = "hospital_level_icon"
 			position = { x=490 y=205 }
 			quadTextureSprite ="GFX_hospital_level_strip"	
 			Orientation = "UPPER_LEFT"
@@ -1844,7 +1906,8 @@ guiTypes = {
 			format = left
 		}
 	}
-	########
+	
+	### Positions
 	
 	positionType = {
 		name = "pv_toolbar_maximized"
@@ -1860,7 +1923,41 @@ guiTypes = {
 		name = "capital_position"
 		position = { x = 464 y = 58 } 
 	}
+###	
+	positionType = {
+		name = "wonder_image_top_pos"
+		position = { x = 120 y = -115 }
+	}
 	
+	positionType = {
+		name = "wonder_image_side_pos"
+		position = { x = 376 y = 103 }
+	}
+	
+	positionType = {
+		name = "wonder_image_side_extended_pos"
+		position = { x = 710 y = 93 }
+	}
+	
+	positionType = {
+		name = "wonder_extend_side_pos"
+		position = { x = 343 y = 80 }
+	}
+	
+	positionType = {
+		name = "wonder_extend_side_extended_pos"
+		position = { x = 677 y = 70 }
+	}
+	
+	positionType = {
+		name = "wonder_frame_to_image_offset"
+		position = { x = -14 y = -15 }
+	}
+	
+	positionType = {
+		name = "wonder_use_top_display_cutoff_resolution_height" # If the game resolution is lower than the Y value here, the extend version of the wonder display will be used instead of the one that is placed on top of the province view
+		position = { x = 0 y = 10 }
+	}	
 	
 	### CHOOSE SETTLEMENT #pas utilise géré via la vue batiments
 	eu3dialogtype = {
