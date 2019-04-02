@@ -33688,9 +33688,16 @@ used_for_random = no
 }
 1051146=
 {
-	name="Hanaya"
+	name="Alhanaya"
 	culture="bedouin_arabic"
 	religion="sunni"
+#	coat_of_arms = {
+#		data=
+#			{
+#				0 1 0 34 7 5 1 
+#			}
+#			religion="sunni"
+#	}
 	used_for_random=no
 }
 1051147=
@@ -34724,6 +34731,29 @@ used_for_random = no
 	name="Skjæran"
 	culture="norwegian"
 	religion="cathar"
+	used_for_random=no
+}
+
+1051899=
+{
+	name="Thimrén" #Ficticious
+	culture="swedish"
+	religion="catholic"
+#	coat_of_arms = {
+#		data=
+#		{
+#			4 0 46 13 4 7 0 0 32 13 4 7 0 0 12 1 4 7 0 0 46 1 0 0 0 
+#		}
+#		religion="catholic"
+#	}
+	used_for_random=no
+}
+
+1051900=
+{
+	name="Norð" #Ficticious
+	culture="saxon"
+	religion="catholic"
 	used_for_random=no
 }
 
@@ -39012,4 +39042,8 @@ used_for_random = no
 {
 	name="de Tilly"
 	culture="outremer"
+}
+1062594 = {
+	name = "Faroaldingi"
+	culture = lombard
 }
