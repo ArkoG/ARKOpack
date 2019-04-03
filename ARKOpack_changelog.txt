@@ -1,14 +1,18 @@
 ###ARKOpack by Arko
 ##An improved interface and coats of arms mod for Crusader Kings 2
 #
-ARKOpack for CK2 3.0.x
+ARKOpack for CK2 3.1.x
 HIP version : 2019-03-08
 standalone version : 2019-03-08
-GAME VERSION COMPATIBILITY : 3.0.x for COApack
-GAME VERSION COMPATIBILITY : 3.0.x for GUIpack
+GAME VERSION COMPATIBILITY : 3.1.x for COApack
+GAME VERSION COMPATIBILITY : 3.1.x for GUIpack
 
 see included readme's for more details
---2019-03-08 for CK2 3.0.x changelog--- 
+--2019-03-08 for CK2 3.1.x changelog--- 
+
+HIP FURRY4 update :
+-3.1.x update
+-no more Diablo-like cathedral of darkness, it now looks more natural (and slighlty smaller)
 
 HIP FURRY3 update :
 -fixed broken customizer CoA stuff
