@@ -847,7 +847,7 @@ guiTypes = {
 		
 		instantTextBoxType = {
 				name = "name"
-				position = { x = 32 y = 2 }
+				position = { x = 50 y = 2 }
 				textureFile = ""
 				font = "Arial12_black"
 				borderSize = {x = 0 y = 0}
@@ -862,17 +862,17 @@ guiTypes = {
 		iconType = {
 			name = "wonder_numerals"
 			spriteType = "GFX_outliner_wonder_numerals"
-			position = { x = 140 y = 0 }
+			position = { x = 16 y = 1 }
 		}
 		
 		iconType = {
 			name ="money_icon_small"
-			spriteType = "GFX_money_icon_small"
-			position = { x= 251 y = 0 }
+			spriteType = "GFX_money_icon_small_debt"
+			position = { x= 258 y = 0 }
 		}
 		instantTextBoxType = {
 			name = "money_text"
-			position = { x = 230 y = 2 }
+			position = { x = 225 y = 2 }
 			textureFile = ""
 			font = "Arial12_black_bidouille"
 			borderSize = {x = 0 y = 0}
@@ -886,18 +886,18 @@ guiTypes = {
 		iconType = {
 			name ="building"
 			spriteType = "GFX_outliner_building"
-			position = { x= 197 y = 1 } 
+			position = { x= 279 y = 1 } 
 		}
 		iconType = {
 			name = "pause"
 			spriteType = "GFX_outliner_wonder_pause"
-			position = { x= 197 y = 1 } 
+			position = { x= 279 y = 1 } 
 		}
 		
 		iconType = {
 			name ="build_progress"
 			spriteType = "GFX_outliner_build_progress"
-			position = { x= 214 y = 2 } 
+			position = { x= 296 y = 2 } 
 		}
 	}
 }
