@@ -2038,7 +2038,7 @@ guiTypes = {
 		guiButtonType = {
 			name = "open_wonder_view"
 			quadTextureSprite = "GFX_wonder_icon"
-			position = { x = 604 y = 176 }
+			position = { x = 5 y = 192 }
 			Orientation = "UPPER_LEFT"
 			clicksound = generic_click_04
 		}
