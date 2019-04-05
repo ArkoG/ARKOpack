@@ -128,6 +128,11 @@ spriteTypes = {
 		norefcount = yes
 	}
 	spriteType = {
+		name = "GFX_money_icon_small_debt"	
+		texturefile = "gfx\\interface\\money_icon_small_debt.tga"
+		norefcount = yes
+	}
+	spriteType = {
 		name = "GFX_checkbox_default_arkopack"
 		texturefile = "gfx\\interface\\checkbox_default_arkopack.dds"
 		noOfFrames = 2
