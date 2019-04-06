@@ -8,11 +8,12 @@ GAME VERSION COMPATIBILITY : 3.1.x for COApack
 GAME VERSION COMPATIBILITY : 3.1.x for GUIpack
 
 see included readme's for more details
---2019-03-08 for CK2 3.1.x changelog--- 
+--2019-04-06 for CK2 3.1.x changelog--- 
 
 HIP FURRY4 update :
--3.1.x update
+-3.1.x update to include Great works stuff
 -no more Diablo-like cathedral of darkness, it now looks more natural (and slighlty smaller)
+-renovated region button in province view
 
 HIP FURRY3 update :
 -fixed broken customizer CoA stuff
