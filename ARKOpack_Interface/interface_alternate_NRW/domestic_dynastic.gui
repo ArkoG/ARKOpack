@@ -2028,11 +2028,19 @@ guiTypes = {
 				#format = left
 				format = right #for testing
 			}
+
 			iconType = {
 				name ="culture_icone"
 				spriteType = "GFX_charview_icone_culture"
 				position = { x= 204 y = 274 }
 			}
+		}
+		guiButtonType = {
+			name = "open_wonder_view"
+			quadTextureSprite = "GFX_wonder_icon"
+			position = { x = 5 y = 192 }
+			Orientation = "UPPER_LEFT"
+			clicksound = generic_click_04
 		}
 		guiButtonType = { #moved forward for visibility
 			name = "quick_plot_button"
