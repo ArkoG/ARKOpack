@@ -2,7 +2,7 @@
 ##An improved interface and coats of arms mod for Crusader Kings 2
 #
 ARKOpack for CK2 3.1.x
-HIP version : 2019-04-14
+HIP version : 2019-04-15
 standalone version : -
 GAME VERSION COMPATIBILITY : 3.1.x for COApack
 GAME VERSION COMPATIBILITY : 3.1.x for GUIpack
