@@ -52,6 +52,7 @@
 				size = { x=219 y=416 }
 				spacing = 0
 				scrollbartype = "standardlistbox_slider"
+				offset = { x=11 y=1 }
 				borderSize = {x = 0 y = 0}
 				Orientation = "UPPER_LEFT"
 			}
