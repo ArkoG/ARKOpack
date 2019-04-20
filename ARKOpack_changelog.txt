@@ -8,10 +8,11 @@ GAME VERSION COMPATIBILITY : 3.1.x for COApack
 GAME VERSION COMPATIBILITY : 3.1.x for GUIpack
 
 see included readme's for more details
---2019-04-14 for CK2 3.1.x changelog--- 
+--2019-04-20 for CK2 3.1.x changelog--- 
 
 HIP FURRY5 update :
 -fixed scrollbar position for diplo action menu
+-fixed era scrren background to larger screen resolutions
 
 ARMOIRIES :
 -3.1.x update
