@@ -7,10 +7,14 @@ standalone version : -
 GAME VERSION COMPATIBILITY : 3.1.x for COApack
 GAME VERSION COMPATIBILITY : 3.1.x for GUIpack
 
+HIP FURRY7 update :
+-bloodline entry can now support 3 lines of text for bloodline description
+-bloodline entry description space is now darker for better readability
+
 see included readme's for more details
 --2019-04-22 for CK2 3.1.x changelog--- 
 
-HIP FURRY5 update :
+HIP FURRY6 update :
 -fixed scrollbar position for diplo action menu
 -fixed era scrren background to larger screen resolutions
 -new event pics for beatification and crowning
