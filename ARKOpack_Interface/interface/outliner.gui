@@ -216,10 +216,12 @@ guiTypes = {
 
 		guiButtonType = {
 			name = "outliner_default_shield"
-			position = { x = 0 y = -7 }
+			position = { x = 500 y = -7 }
 			quadTextureSprite ="GFX_shield_small"
+			#spriteType ="GFX_unit_panel_shields"
 			Orientation = "UPPER_LEFT"
 			clicksound = click
+			#scale = 0.5
 		}
 		
 		instantTextBoxType = {
