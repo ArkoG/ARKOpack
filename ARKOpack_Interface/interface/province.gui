@@ -132,6 +132,7 @@ guiTypes = {
 			position = { x=490 y=205 }
 			quadTextureSprite ="GFX_hospital_level_strip"	
 			Orientation = "UPPER_LEFT"
+			clicksound = generic_click_04
 		}
 ### 2.6	addition		
 		iconType =	{
@@ -1936,8 +1937,13 @@ guiTypes = {
 	}
 	
 	positionType = {
-		name = "wonder_image_side_extended_pos"
+		name = "wonder_image_side_extended_pos_tall"
 		position = { x = 710 y = 93 }
+	}
+	
+	positionType = {
+		name = "wonder_image_side_extended_pos_short"
+		position = { x = 710 y = 242 }
 	}
 	
 	positionType = {
@@ -1946,8 +1952,13 @@ guiTypes = {
 	}
 	
 	positionType = {
-		name = "wonder_extend_side_extended_pos"
+		name = "wonder_extend_side_extended_pos_tall"
 		position = { x = 677 y = 70 }
+	}
+	
+	positionType = {
+		name = "wonder_extend_side_extended_pos_short" # Used when the player doesn't own The Reaper's Due DLC as their extended province view will be shorter.
+		position = { x = 677 y = 219 }
 	}
 	
 	positionType = {

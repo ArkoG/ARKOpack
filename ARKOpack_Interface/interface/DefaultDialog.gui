@@ -1063,6 +1063,10 @@ guiTypes = {
 		name = "after_portrait_offset"
 		position = { x = 0 y = 0 }
 	}
+	positionType = {
+		name = "page_height"
+		position = { x = 0 y = 600 }
+	}
 	
 	### DEFAULT INFO DIALOG
 	eu3dialogtype = {
@@ -1582,6 +1586,46 @@ guiTypes = {
 			shortcut = "ESCAPE"
 			clicksound=generic_click_04
 		}
+	}
+	
+	positionType = { 
+		name = "chronicle_char_scissor_bottom"
+		position = { x = 0 y = 704 }
+	}
+	
+	positionType = { 
+		name = "chronicle_char_scissor_left"
+		position = { x = 696 y = 0 }
+	}
+	
+	positionType = { 
+		name = "chronicle_char_scissor_right"
+		position = { x = 959 y = 0 }
+	}
+	
+	positionType = { 
+		name = "chronicle_char_scissor_top"
+		position = { x = 0 y = 76 }
+	}
+	
+	positionType = { 
+		name = "chronicle_char_mouseover_extra_area"
+		position = { x = 0 y = 150 }
+	}
+	
+	positionType = { 
+		name = "chronicle_char_item_spacing"
+		position = { x = 0 y = 80 }
+	}
+	
+	positionType = { 
+		name = "chronicle_char_item_top_cutoff"
+		position = { x = 0 y = 56 }
+	}
+	
+	positionType = { 
+		name = "chronicle_char_top_left_pos"
+		position = { x = 640 y = 800 }
 	}
 }
 

@@ -213,6 +213,14 @@ guiTypes = {
 			position = { x=0 y =0 }
 			quadTextureSprite ="GFX_outliner_standard"	
 		}
+
+		guiButtonType = {
+			name = "outliner_default_shield"
+			position = { x = 0 y = -7 }
+			quadTextureSprite ="GFX_shield_small"
+			Orientation = "UPPER_LEFT"
+			clicksound = click
+		}
 		
 		instantTextBoxType = {
 				name = "name"
@@ -880,7 +888,6 @@ guiTypes = {
 			maxWidth = 40
 			maxHeight = 16
 			format = left
-			allwaystransparent = yes
 		}
 		
 		iconType = {
