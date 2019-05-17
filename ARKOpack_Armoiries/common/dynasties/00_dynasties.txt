@@ -33688,7 +33688,7 @@ used_for_random = no
 }
 1051146=
 {
-	name="Alhanaya"
+	name="Hanaya"
 	culture="bedouin_arabic"
 	religion="sunni"
 #	coat_of_arms = {
