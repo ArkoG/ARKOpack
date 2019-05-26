@@ -1721,6 +1721,7 @@
 250 = {
 	name="z Dubé" # Berka
 	culture ="bohemian"
+	religion="slavic_pagan"
 }
 251 = {
 	name="von Hohenstauf"
@@ -10103,7 +10104,7 @@ used_for_random = no
 }
 7508 = {
 	name="Mojmírid" # to be adjusted but the one in forum thread needs some aswell form wise.
-	culture ="bohemian"
+	culture ="slovieni"
 	
 	coat_of_arms = {
 		template = 0
@@ -10118,8 +10119,8 @@ used_for_random = no
 	}
 }
 7509 = {
-	name="z Nitrawy" # z Nitrava
-	culture ="bohemian"
+	name="Nitravský" # z Nitrava
+	culture ="slovieni"
 }
 7510 = {
 	name="Faraví"
@@ -11472,6 +11473,7 @@ used_for_random = no
 9117 = {
 	name="Žemaitis"
 	culture = "lithuanian"
+	religion="baltic_pagan"
 }
 9118 = {
 	name="of Gardinas"
@@ -12814,6 +12816,7 @@ used_for_random = no
 12279 = {
 	name= "al-Jannábí"
 	culture ="bedouin_arabic"
+	religion="qarmatian"
 }
 12280 = {
 	name= "al-Halabaní"
@@ -13165,8 +13168,9 @@ used_for_random = no
 	culture ="bohemian" # changed from german
 }
 12474 = {
-	name="z Ssternberkav" # on Sternberg
+	name="z Ssternberkav" # von Sternberg
 	culture ="bohemian"
+	religion="catholic"
 }
 12475 = {
 	name=" z Waldssteina" # von Waldenstein
@@ -19364,9 +19368,11 @@ used_for_random = no
 	name="Révay"
 	culture ="hungarian"
 }
-100540 = {
+100540=
+{
 	name="Duružmic"
 	culture ="hungarian"
+	religion="catholic"
 }
 100541 = {
 	name="Micu-Klein"
@@ -26336,7 +26342,8 @@ used_for_random = no
 }
 1029008 = {
 	name="Buyî"
-	culture = kurdish
+	culture="persian"
+	religion = shiite
 }
 1029009 = {
 	name="Kákúyí"
@@ -28382,6 +28389,7 @@ used_for_random = no
 9588 = {
 	name="z Libicz" # Slavník
 	culture ="bohemian"
+	religion="catholic"
 }
 9589 = {
 	name="af Torgar"
@@ -28418,15 +28426,18 @@ used_for_random = no
 	name="Isbulid"
 	culture = avar
 }
-
-9603 = {
-	name="Slavomirid"
-	culture ="bohemian"
+9603=
+{
+	name="Slavomírid"
+	culture="bohemian"
+	religion="catholic"
 }
 
-9604 = {
-	name="Draslavid"
-	culture ="bohemian"
+9604=
+{
+	name="Drslavid"
+	culture="bohemian"
+	religion="catholic"
 }
 
 1042070 = {
@@ -37687,7 +37698,7 @@ used_for_random = no
 1062088 = {
 	name = "Bonda"
 	culture = dalmatian
-	religion = orthodox
+	religion = catholic
 }
 1062089 = {
 	name = "Cataro"
