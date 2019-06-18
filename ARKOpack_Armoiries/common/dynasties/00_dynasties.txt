@@ -20415,7 +20415,7 @@ used_for_random = no
 	culture = levantine_arabic
 }
 100786 = {
-	name="al-Jarrahí"
+	name="al-Jarráhí"
 	culture = levantine_arabic
 }
 100787 = {
@@ -26354,7 +26354,7 @@ used_for_random = no
 	culture = kurdish
 }
 1029011 = {
-	name="Hasanuyî"
+	name="Hasanûyî"
 	culture = kurdish
 }
 1029012 = {
@@ -40050,7 +40050,7 @@ used_for_random = no
 	religion = sunni
 }
 1062421 = {
-	name = "Banu'l-Furat"
+	name = "al-Furátí"
 	culture = levantine_arabic
 	religion = sunni
 }
@@ -40390,7 +40390,7 @@ used_for_random = no
 	religion = sunni
 }
 1062490 = {
-	name = "Muqlaid"
+	name = "al-Shírází"
 	culture = bedouin_arabic
 	religion = sunni
 }
