@@ -12664,7 +12664,7 @@ used_for_random = no
 	coat_of_arms = {	template = 0	layer = {	texture = 5	texture_internal = 109	emblem = 0	color = 0	color = 0	color = 0	}	}
 }
 12236 = {
-	name= "al-Mankudí"
+	name= "al-Mankúdí"
 	culture ="maghreb_arabic"
 }
 12237 = {
@@ -12676,7 +12676,7 @@ used_for_random = no
 	culture ="maghreb_arabic"
 }
 12239 = {
-	name= "al-Nicmaví"
+	name= "al-Hawwásí"
 	culture ="maghreb_arabic"
 }
 12240 = {
@@ -40095,7 +40095,7 @@ used_for_random = no
 	religion = sunni
 }
 1062430 = {
-	name = "mn Akka"
+	name = "al-Akkí"
 	culture = levantine_arabic
 	religion = sunni
 }
@@ -40105,7 +40105,7 @@ used_for_random = no
 	religion = sunni
 }
 1062432 = {
-	name = "mn Sinai"
+	name = "al-Síní"
 	culture = egyptian_arabic
 	religion = sunni
 }
@@ -40159,7 +40159,7 @@ used_for_random = no
 	religion = shiite
 }
 1062442 = {
-	name = "Ifranid"
+	name = "Ifran"
 	culture = maghreb_arabic
 	religion = ibadi
 }
@@ -40169,7 +40169,7 @@ used_for_random = no
 	religion = ibadi
 }
 1062444 = {
-	name = "Midrarid"
+	name = "al-Midrarí"
 	culture = maghreb_arabic
 	religion = ibadi
 }
@@ -40365,7 +40365,7 @@ used_for_random = no
 	religion = miaphysite
 }
 1062485 = {
-	name = "Hadhbanis"
+	name = "Hadhbani"
 	culture = kurdish
 	religion = sunni
 }
@@ -40430,7 +40430,7 @@ used_for_random = no
 	religion = sunni
 }
 1062498 = {
-	name = "Muhtajid"
+	name = "Mohtají"
 	culture = persian
 	religion = sunni
 }
@@ -40445,7 +40445,7 @@ used_for_random = no
 	religion = sunni
 }
 1062501 = {
-	name = "Ilyasid"
+	name = "Ilyasí"
 	culture = persian
 	religion = sunni
 }
@@ -40455,12 +40455,12 @@ used_for_random = no
 	religion = sunni
 }
 1062503 = {
-	name = "Fasanjid"
+	name = "Fasanjí"
 	culture = persian
 	religion = sunni
 }
 1062504 = {
-	name = "Maghribid"
+	name = "Maghríbí"
 	culture = persian
 	religion = sunni
 }
