@@ -12668,7 +12668,7 @@ used_for_random = no
 	culture ="maghreb_arabic"
 }
 12237 = {
-	name= "al-Avethí"
+	name= "al-Wardí"
 	culture ="maghreb_arabic"
 }
 12238 = {
