@@ -10738,7 +10738,7 @@ used_for_random = no
 	culture = "frankish"
 }
 8691 = {
-	name="de Lacon"
+	name="di Lacon"
 	culture="sardinian"
 }
 8692 = {
@@ -12664,11 +12664,11 @@ used_for_random = no
 	coat_of_arms = {	template = 0	layer = {	texture = 5	texture_internal = 109	emblem = 0	color = 0	color = 0	color = 0	}	}
 }
 12236 = {
-	name= "al-Mankudí"
+	name= "al-Mankúdí"
 	culture ="maghreb_arabic"
 }
 12237 = {
-	name= "al-Avethí"
+	name= "al-Wardí"
 	culture ="maghreb_arabic"
 }
 12238 = {
@@ -12676,7 +12676,7 @@ used_for_random = no
 	culture ="maghreb_arabic"
 }
 12239 = {
-	name= "al-Nicmaví"
+	name= "al-Hawwásí"
 	culture ="maghreb_arabic"
 }
 12240 = {
@@ -20415,7 +20415,7 @@ used_for_random = no
 	culture = levantine_arabic
 }
 100786 = {
-	name="al-Jarrahí"
+	name="al-Jarráhí"
 	culture = levantine_arabic
 }
 100787 = {
@@ -26354,7 +26354,7 @@ used_for_random = no
 	culture = kurdish
 }
 1029011 = {
-	name="Hasanuyî"
+	name="Hasanûyî"
 	culture = kurdish
 }
 1029012 = {
@@ -27297,7 +27297,7 @@ used_for_random = no
 	culture ="italian"
 }
 1042808 = {
-	name="de Callaris"
+	name="di Callaris"
 	culture="sardinian"
 	religion="catholic"
 }
@@ -38260,7 +38260,7 @@ used_for_random = no
     religion="ibadi"
 }
 1059962 = {
-    name="Awellimid"
+    name="Awellim"
     culture = maghreb_arabic # tuareg
     religion="sunni"
 }
@@ -40000,32 +40000,32 @@ used_for_random = no
 	culture = crimean_gothic
 }
 1062411 = {
-	name = "Ikhshidid"
+	name = "al-Ikhshídí"
 	culture = egyptian_arabic
 	religion = sunni
 }
 1062412 = {
-	name = "Hamdanid"
+	name = "al-Hamdaní"
 	culture = levantine_arabic
 	religion = sunni
 }
 1062413 = {
-	name = "Kilabid"
+	name = "al-Kilabí"
 	culture = levantine_arabic
 	religion = sunni
 }
 1062414 = {
-	name = "al-Thamali"
+	name = "al-Thamalí"
 	culture = levantine_arabic
 	religion = sunni
 }
 1062415 = {
-	name = "al-Thamali"
+	name = "al-Thamalí
 	culture = levantine_arabic
 	religion = sunni
 }
 1062416 = {
-	name = "Al-Madhara'i"
+	name = "Al-Mádhará'í"
 	culture = levantine_arabic
 	religion = sunni
 }
@@ -40050,7 +40050,7 @@ used_for_random = no
 	religion = sunni
 }
 1062421 = {
-	name = "Banu'l-Furat"
+	name = "al-Furátí"
 	culture = levantine_arabic
 	religion = sunni
 }
@@ -40095,7 +40095,7 @@ used_for_random = no
 	religion = sunni
 }
 1062430 = {
-	name = "mn Akka"
+	name = "al-Akkí"
 	culture = levantine_arabic
 	religion = sunni
 }
@@ -40105,7 +40105,7 @@ used_for_random = no
 	religion = sunni
 }
 1062432 = {
-	name = "mn Sinai"
+	name = "al-Síní"
 	culture = egyptian_arabic
 	religion = sunni
 }
@@ -40159,7 +40159,7 @@ used_for_random = no
 	religion = shiite
 }
 1062442 = {
-	name = "Ifranid"
+	name = "Ifran"
 	culture = maghreb_arabic
 	religion = ibadi
 }
@@ -40169,7 +40169,7 @@ used_for_random = no
 	religion = ibadi
 }
 1062444 = {
-	name = "Midrarid"
+	name = "al-Midrarí"
 	culture = maghreb_arabic
 	religion = ibadi
 }
@@ -40365,7 +40365,7 @@ used_for_random = no
 	religion = miaphysite
 }
 1062485 = {
-	name = "Hadhbanis"
+	name = "Hadhbani"
 	culture = kurdish
 	religion = sunni
 }
@@ -40375,32 +40375,32 @@ used_for_random = no
 	religion = sunni
 }
 1062487 = {
-	name = "Raiqid"
+	name = "al-Rá'iqí"
 	culture = khazar
 	religion = sunni
 }
 1062488 = {
-	name = "al-Makani"
+	name = "al-Makání"
 	culture = turkish
 	religion = sunni
 }
 1062489 = {
-	name = "Tuzun"
+	name = "Túzúní"
 	culture = turkish
 	religion = sunni
 }
 1062490 = {
-	name = "Muqlaid"
+	name = "al-Shírází"
 	culture = bedouin_arabic
 	religion = sunni
 }
 1062491 = {
-	name = "al-Baridi"
+	name = "al-Barídí"
 	culture = bedouin_arabic
 	religion = sunni
 }
 1062492 = {
-	name = "Kakinid"
+	name = "Kákí"
 	culture = persian
 	religion = zoroastrian
 }
@@ -40430,7 +40430,7 @@ used_for_random = no
 	religion = sunni
 }
 1062498 = {
-	name = "Muhtajid"
+	name = "Mohtají"
 	culture = persian
 	religion = sunni
 }
@@ -40445,7 +40445,7 @@ used_for_random = no
 	religion = sunni
 }
 1062501 = {
-	name = "Ilyasid"
+	name = "Ilyasí"
 	culture = persian
 	religion = sunni
 }
@@ -40455,12 +40455,12 @@ used_for_random = no
 	religion = sunni
 }
 1062503 = {
-	name = "Fasanjid"
+	name = "Fasanjí"
 	culture = persian
 	religion = sunni
 }
 1062504 = {
-	name = "Maghribid"
+	name = "Maghríbí"
 	culture = persian
 	religion = sunni
 }
