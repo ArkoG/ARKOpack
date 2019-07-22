@@ -12487,7 +12487,7 @@ used_for_random = no
 	culture ="castillan"
 }
 12192 = {
-	name = "al-Hajjí"
+	name = "al-Hajjí" #a dynasty based off of the Almoravid Muhammad b. al-Hajj, ; shouldn't really be given a separate dynasty, but alas it's there
 	culture ="andalusian_arabic"
 }
 12193 = {
@@ -12499,11 +12499,11 @@ used_for_random = no
 	culture ="andalusian_arabic"
 }
 12195 = {
-	name = "al-Yahaffí"
+	name = "al-Jahhafí"
 	culture ="andalusian_arabic"
 }
 12196 = {
-	name = "al-Jyadí"
+	name = "al-Jaddí"
 	culture ="andalusian_arabic"
 }
 12197 = {
@@ -20031,7 +20031,7 @@ used_for_random = no
 	culture = bedouin_arabic
 }
 100690 = {
-	name="al-Nabhaní"
+	name="al-Nabhání"
 	culture = bedouin_arabic
 }
 100691 = {
