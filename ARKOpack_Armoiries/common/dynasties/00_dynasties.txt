@@ -12503,7 +12503,7 @@ used_for_random = no
 	culture ="andalusian_arabic"
 }
 12196 = {
-	name = "al-Jaddí"
+	name = "al-Iyádí"
 	culture ="andalusian_arabic"
 }
 12197 = {
@@ -12555,7 +12555,7 @@ used_for_random = no
 	culture ="andalusian_arabic"
 }
 12209 = {
-	name = "al-Iyádí"
+	name = "al-Farají"
 	culture ="andalusian_arabic"
 }
 12210 = {
@@ -27643,7 +27643,7 @@ used_for_random = no
 	culture ="andalusian_arabic"
 }
 12294 = {
-	name= "al-Salimí"
+	name= "al-Sálimí"
 	culture ="andalusian_arabic"
 }
 12295 = {
