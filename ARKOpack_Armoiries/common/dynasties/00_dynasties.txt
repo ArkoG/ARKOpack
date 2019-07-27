@@ -40020,7 +40020,7 @@ used_for_random = no
 	religion = sunni
 }
 1062415 = {
-	name = "al-Thamalí
+	name = "al-Thamalí"
 	culture = levantine_arabic
 	religion = sunni
 }
