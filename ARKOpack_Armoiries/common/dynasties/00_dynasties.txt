@@ -12571,7 +12571,7 @@ used_for_random = no
 	culture ="andalusian_arabic"
 }
 12213 = {
-	name = "al-Mursiyí"
+	name = "al-Mursí"
 	culture ="andalusian_arabic"
 }
 12214 = {
@@ -31282,7 +31282,7 @@ used_for_random = no
 
 1046029 = {
 
-	name="al-Yahsúbí"
+	name="al-Yahsubí"
 
 	culture="bedouin_arabic"
 
