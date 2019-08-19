@@ -3406,7 +3406,7 @@
 	culture ="andalusian_arabic"
 }
 570 = {
-	name="al-Dhunnúní" #Banu Dhi 'l-Nún; Dhu 'l-Nún
+	name="al-Dhunnúní" #Banu Dhi 'l-Nún; Dhu 'l-Nún; Zannun
 	culture ="andalusian_arabic"
 }
 571 = {
@@ -13218,7 +13218,7 @@ used_for_random = no
 	culture ="maghreb_arabic"
 }
 12260 = {
-	name= "al-Jattabí"
+	name= "al-Khattabí"
 	culture ="andalusian_arabic"
 }
 12261 = {
@@ -27826,7 +27826,7 @@ used_for_random = no
 	culture ="andalusian_arabic"
 }
 12310 = {
-	name= "al-Jalidí"
+	name= "al-Khalidí"
 	culture ="andalusian_arabic"
 }
 12311 = {
