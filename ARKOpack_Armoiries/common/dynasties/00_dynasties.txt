@@ -25595,7 +25595,7 @@ used_for_random = no
 	culture = "maghreb_arabic"
 }
 1027015 = {
-	name="al-Ragrágí"
+	name="al-Raghrághí" #or Rajráji
 	culture = "maghreb_arabic"
 }
 1027016 = {
@@ -27639,7 +27639,7 @@ used_for_random = no
 	culture ="andalusian_arabic"
 }
 12293 = {
-	name= "al-Qasí"
+	name= "al-Qasawí"
 	culture ="andalusian_arabic"
 }
 12294 = {
@@ -28270,7 +28270,7 @@ used_for_random = no
 }
 
 12312 = {
-	name= "al-Qutí"
+	name= "al-Qútí" #Banu Qutiyyah (Goda)
 	culture ="andalusian_arabic"
 }
 12313 = {
