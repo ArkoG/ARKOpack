@@ -12639,7 +12639,7 @@ used_for_random = no
 	culture ="andalusian_arabic"
 }
 12230 = {
-	name = "al-Husayní"
+	name = "al-Hassúní"
 	culture ="andalusian_arabic"
 }
 12231 = {
@@ -13230,7 +13230,7 @@ used_for_random = no
 	culture ="andalusian_arabic"
 }
 12263 = {
-	name= "al-Zannuní"
+	name= "al-Zannúní"
 	culture ="andalusian_arabic"
 }
 12264 = {
@@ -13242,7 +13242,7 @@ used_for_random = no
 	culture ="andalusian_arabic"
 }
 12266 = {
-	name= "al-Wad-al-Qavir" # al-Wad-al-Qavir
+	name= "al-Bájí" # named after the qadi of Seville who was chosen as Seville's leader in 1231-1232
 	culture ="andalusian_arabic"
 }
 12267 = {
@@ -25596,7 +25596,7 @@ used_for_random = no
 }
 1027015 = {
 	name="al-Raghrághí" #or Rajráji
-	culture = "maghreb_arabic"
+	culture = "maghreb_arabic" #Zanata Berber
 }
 1027016 = {
 	name="Temim"
@@ -25612,7 +25612,7 @@ used_for_random = no
 }
 
 1027019 = {
-	name="al-Azfaví"
+	name="al-'Azafí" # Banu 'l-Azafi, qadi family of Ceuta; possibly of Andalusian origins a few generations back
 	culture ="maghreb_arabic"
 }
 1027020 = {
