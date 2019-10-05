@@ -10738,8 +10738,8 @@ used_for_random = no
 	culture = "frankish"
 }
 8691 = {
-	name="de Lacon"
-	culture ="sardinian"
+	name="di Lacon"
+	culture="sardinian"
 }
 8692 = {
 	name="de Machierato"
@@ -27297,8 +27297,8 @@ used_for_random = no
 	culture ="italian"
 }
 1042808 = {
-	name="de Callaris"
-	culture ="sardinian"
+	name="di Callaris"
+	culture="sardinian"
 	religion="catholic"
 }
 1043300 = {
@@ -40020,7 +40020,7 @@ used_for_random = no
 	religion = sunni
 }
 1062415 = {
-	name = "al-Thamalí
+	name = "al-Thamalí"
 	culture = levantine_arabic
 	religion = sunni
 }
