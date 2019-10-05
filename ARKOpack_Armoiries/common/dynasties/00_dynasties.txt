@@ -9619,7 +9619,7 @@ used_for_random = no
 	culture ="andalusian_arabic"
 }
 7279 = {
-	name="al-Hakamí"
+	name="al-Qurashí"
 	culture ="andalusian_arabic"
 }
 7280 = {
@@ -12531,7 +12531,7 @@ used_for_random = no
 	culture ="andalusian_arabic"
 }
 12203 = {
-	name = "al-Wanurí"
+	name = "al-Bakrí"
 	culture ="maghreb_arabic"
 }
 12204 = {
@@ -12635,7 +12635,7 @@ used_for_random = no
 	culture ="andalusian_arabic"
 }
 12229 = {
-	name = "al-Adhawí"
+	name = "al-Hamdhaní"
 	culture ="andalusian_arabic"
 }
 12230 = {
@@ -13222,7 +13222,7 @@ used_for_random = no
 	culture ="andalusian_arabic"
 }
 12261 = {
-	name= "al-Mahfuzí"
+	name= "al-Mahfúzí"
 	culture ="andalusian_arabic"
 }
 12262 = {
