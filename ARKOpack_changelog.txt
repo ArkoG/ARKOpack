@@ -1,28 +1,41 @@
 ###ARKOpack by Arko
 ##An improved interface and coats of arms mod for Crusader Kings 2
 #
-ARKOpack for CK2 3.0.x
-HIP version : 2019-03-03
-standalone version : 2019-03-03
-GAME VERSION COMPATIBILITY : 3.0.x for COApack
-GAME VERSION COMPATIBILITY : 3.0.x for GUIpack
+ARKOpack for CK2 3.2.x
+HIP version : 2019-07-23
+standalone version : -
+GAME VERSION COMPATIBILITY : 3.2.x for COApack
+GAME VERSION COMPATIBILITY : 3.2.x for GUIpack
 
 see included readme's for more details
---2019-02-19 for CK2 3.0.x changelog--- 
+--2019-06-05 for CK2 3.2.x changelog--- 
 
-HIP FURRY2 update :
--new baronial CoA for : Melun, Saint-Denis, Compiègne, Montreuil
--fixed hellenic defined CoA titles
--additional hellenic defined CoA titles
--hellenic patterns for random CoA
--made adaptations to council view to deal with additional voting positions
--some dynastic names improvments by ese-khan
--some new dynastic CoA by ese-khan : Qarakhanid, Hashim
--some muslim dynastic CoA improvments from ese-khan suggestions : Fatimidsn Umayyads Abbasids
--a few coded CoA fixes
+HIP GOLDEN2 update :
+-3.2.1 update
+
+HIP GOLDEN1 update :
+ARMOIRIES :
+-3.2.0 update
+
+INTERFACE :
+-3.2.0 update
+-fixed and improved new bookmark era button/picture
+
+HIP FURRY7 update :
+-3.11 compatch
+-bloodline entry can now support 3 lines of text for bloodline description
+-bloodline entry description space is now darker for better readability
+-denorsified bloodline view
+-pilgrimage and pilgrim traits icons are now different (chrisitan and indian one)
+-changed travelling trait icon
+
+HIP FURRY6 update :
+-fixed scrollbar position for diplo action menu
+-fixed era screen background to larger screen resolutions
+-new event pics for beatification and crowning
 
 ARMOIRIES :
--3.0.x update
+-3.1.x update
 -dynastic names improvments by ese-khan
 -various CoA pattern improvments for muslims and christians
 -whole new CoA pattern for zoroastrians
@@ -33,9 +46,17 @@ ARMOIRIES :
 -added about a dozen new muslim CoA designs
 -remastered some few older muslim CoA designs
 -dynastic CoA for Merohingi,Nibelunging, de Thouars
+-new baronial CoA for : Melun, Saint-Denis, Compiègne, Montreuil
+-fixed hellenic defined CoA titles
+-additional hellenic defined CoA titles
+-hellenic patterns for random CoA
+-some dynastic names improvments by ese-khan
+-some new dynastic CoA by ese-khan : Qarakhanid, Hashim
+-some muslim dynastic CoA improvments from ese-khan suggestions : Fatimidsn Umayyads Abbasids
+-a few coded CoA fixes
 
 INTERFACE :
--3.0.x update
+-3.1.x update
 -tutorial and nudge button fix
 -enlarged artifact desc space in artifact view
 -fixed missing prestige cost icon in build building view
@@ -47,6 +68,12 @@ INTERFACE :
 -some code and file cleanup
 -reworked the province view for muslim
 -removed the specific religion icons with background from character sheet due to random worlds
+-made adaptations to council view to deal with additional voting positions
+-made cathedrals colour looking natural
+-cathedral model is smaller
+-renovated region button in province view
+-slighlty larger diplo-action menu to display more text
+-diplo-action menu now can display 5 more actions before scrolling (21 instead of 16)
 
 --2018-06-16 for CK2 2.8.3 changelog--- 
 

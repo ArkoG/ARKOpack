@@ -601,6 +601,26 @@ guiTypes = {
 	### positions
 	
 	positionType = {
+		name = "DynastyTree_WindowBorderBottom"
+		position = { x=0 y=27 }
+	}
+	
+	positionType = {
+		name = "DynastyTree_WindowBorderLeft"
+		position = { x=28 y=0 }
+	}
+	
+	positionType = {
+		name = "DynastyTree_WindowBorderRight"
+		position = { x=28 y=0 }
+	}
+	
+	positionType = {
+		name = "DynastyTree_WindowBorderTop"
+		position = { x=0 y=97 }
+	}
+	
+	positionType = {
 		name = "DynastyTree_ZoomedInCharacterOffset"
 		position = { x=90 y=110 }
 	}
@@ -608,6 +628,16 @@ guiTypes = {
 	positionType = {
 		name = "DynastyTree_ZoomedOutCharacterOffset"
 		position = { x=45 y=62 }
+	}
+	
+	positionType = {
+		name = "RealmTree_BranchOffset"
+		position = { x=-104 y=-47}
+	}
+	
+	positionType = {
+		name = "RealmTree_CharacterOffset"
+		position = { x=112 y=128}
 	}
 	
 	positionType = {

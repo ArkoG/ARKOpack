@@ -47,6 +47,67 @@ guiTypes = {
 			quadTextureSprite ="GFX_main_close_button"
 			shortcut = "ESCAPE"
 		}
+		### Wonder
+	
+		iconType = {
+			name = "wonder_frame_top"
+			position = { x = 17 y = -136 }
+			quadTextureSprite = "GFX_province_wonder_frame_top"
+			allwaystransparent = yes
+		}
+		
+		iconType = {
+			name = "wonder_numeral_top"
+			position = { x = 59 y = -18 }
+			quadTextureSprite = "GFX_wonder_numeral_strip"
+		}
+		
+		 iconType = {
+			name = "wonder_image"
+			quadTextureSprite = "GFX_wonder_strip_generic_wonder_small"
+			allwaystransparent = yes
+		}
+		
+		guiButtonType = {
+			name = "wonder_image_bg"
+			quadTextureSprite = "GFX_wonder_background_fields_small"
+			clicksound = click
+		}
+		
+		iconType = {
+			name = "wonder_image_frame"
+			spriteType = "GFX_wonder_image_frame_small"
+			allwaystransparent = yes
+		}
+		
+		guiButtonType = {
+			name = "wonder_extend"
+			quadTextureSprite = "GFX_province_wonder_extend"
+			Orientation = "UPPER_LEFT"
+			clicksound = generic_click_04
+		}
+		
+		iconType = {
+			name = "wonder_extend_bg"
+			spriteType = "GFX_province_wonder_frame_side"
+		}
+		
+		guiButtonType = {
+			name = "construct_wonder"
+			quadTextureSprite = "GFX_wonder_icon_strong_border"
+			position = { x = 211 y = 118 }
+			Orientation = "UPPER_LEFT"
+			clicksound = generic_click_04
+		}
+		
+		guiButtonType = {
+			name = "open_wonder_view"
+			quadTextureSprite = "GFX_wonder_icon_strong_border"
+			position = { x = 211 y = 118 }
+			Orientation = "UPPER_LEFT"
+			clicksound = generic_click_04
+		}
+		
 		
 		guiButtonType =	{
 			name = "button_raise_levy"
@@ -64,11 +125,14 @@ guiTypes = {
 			shortcut = "c"
 		}
 ### 2.6	addition	
-		iconType =	{
-			name = "hospital_level_icon"
+		#iconType =	{
+		guiButtonType =	{
+			name = "hospital_level_button" #new 3.1
+			#name = "hospital_level_icon"
 			position = { x=490 y=205 }
 			quadTextureSprite ="GFX_hospital_level_strip"	
 			Orientation = "UPPER_LEFT"
+			clicksound = generic_click_04
 		}
 ### 2.6	addition		
 		iconType =	{
@@ -107,7 +171,7 @@ guiTypes = {
 		
 		guiButtonType = {
 			name = "show_region_info"
-			position = { x=53 y=118 }
+			position = { x=52 y=118 }
 			quadTextureSprite ="GFX_show_region_info_icon"
 			Orientation = "UPPER_LEFT"
 			clicksound = generic_click_04  ### 2.6	addition
@@ -117,7 +181,7 @@ guiTypes = {
 		{
 			name ="county_crown"
 			spriteType = "GFX_shield_crown_strip_medium"
-			position = { x= 26 y = 21 }
+			position = { x= 27 y = 21 }
 			Orientation = "UPPER_LEFT"
 		}
 		
@@ -143,7 +207,7 @@ guiTypes = {
 		
 		guiButtonType = {
 			name = "province_tier_shield1" #DF duchy coa
-			position = { x= 224 y = 107 }
+			position = { x= 20 y = 159 }
 			quadTextureSprite ="GFX_shield_medium2"
 			Orientation = "UPPER_LEFT"
 		}
@@ -151,13 +215,13 @@ guiTypes = {
 		{
 			name ="province_tier_shield1_crown"
 			spriteType = "GFX_shield_crown_strip_medium2"
-			position = { x= 235 y = 92 }
+			position = { x= 30 y = 142 }
 			Orientation = "UPPER_LEFT"
 		}
 		
 		guiButtonType = {
 			name = "province_tier_shield2" #DF kingdom coa
-			position = { x= 224 y = 159 }
+			position = { x= 226 y = 159 }
 			quadTextureSprite ="GFX_shield_medium2"
 			Orientation = "UPPER_LEFT"
 		}
@@ -165,7 +229,7 @@ guiTypes = {
 		{
 			name ="province_tier_shield2_crown"
 			spriteType = "GFX_shield_crown_strip_medium2"
-			position = { x= 235 y = 142 }
+			position = { x= 236 y = 142 }
 			Orientation = "UPPER_LEFT"
 		}
 		
@@ -1844,7 +1908,8 @@ guiTypes = {
 			format = left
 		}
 	}
-	########
+	
+	### Positions
 	
 	positionType = {
 		name = "pv_toolbar_maximized"
@@ -1860,7 +1925,51 @@ guiTypes = {
 		name = "capital_position"
 		position = { x = 464 y = 58 } 
 	}
+###	
+	positionType = {
+		name = "wonder_image_top_pos"
+		position = { x = 31 y = -121 }
+	}
 	
+	positionType = {
+		name = "wonder_image_side_pos"
+		position = { x = 376 y = 96 }
+	}
+	
+	positionType = {
+		name = "wonder_image_side_extended_pos_tall"
+		position = { x = 710 y = 93 }
+	}
+	
+	positionType = {
+		name = "wonder_image_side_extended_pos_short"
+		position = { x = 710 y = 242 }
+	}
+	
+	positionType = {
+		name = "wonder_extend_side_pos"
+		position = { x = 343 y = 80 }
+	}
+	
+	positionType = {
+		name = "wonder_extend_side_extended_pos_tall"
+		position = { x = 677 y = 70 }
+	}
+	
+	positionType = {
+		name = "wonder_extend_side_extended_pos_short" # Used when the player doesn't own The Reaper's Due DLC as their extended province view will be shorter.
+		position = { x = 677 y = 219 }
+	}
+	
+	positionType = {
+		name = "wonder_frame_to_image_offset"
+		position = { x = -14 y = -21 }
+	}
+	
+	positionType = {
+		name = "wonder_use_top_display_cutoff_resolution_height" # If the game resolution is lower than the Y value here, the extend version of the wonder display will be used instead of the one that is placed on top of the province view
+		position = { x = 0 y = 10 }
+	}	
 	
 	### CHOOSE SETTLEMENT #pas utilise géré via la vue batiments
 	eu3dialogtype = {

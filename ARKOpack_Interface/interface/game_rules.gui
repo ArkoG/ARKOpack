@@ -47,12 +47,30 @@ guiTypes = {
 			maxHeight = 50
 			orientation="CENTER"
 		}
+
+		instantTextBoxType = {
+			name = "bronze_achiev_warning"
+			text = "BRONZEMAN_DISABLED_ACHIEVEMENTS_WARNING"
+			font = "vic_22_black"
+			position = { x = 670 y = 100 }
+			maxWidth = 265
+			maxHeight = 50
+			format = centre
+		}
 			
 		windowType = {
 			name = "ironman_status"
 			moveable = 0
 			orientation = "CENTER"
 			position = { x=-44 y=-311 }
+
+			guiButtonType = {
+				name = "bronzeman_toggle"
+				position = { x = 5 y = 0 }
+				quadTextureSprite = "GFX_bronze_ironman_button"
+				Orientation = "CENTER"
+				clicksound = menu_click
+			}
 
 			checkboxType = {
 				name = "ironman_checkbox"

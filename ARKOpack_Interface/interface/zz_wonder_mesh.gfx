@@ -1,0 +1,8 @@
+objectTypes = {		
+	pdxmesh = {
+		name = "wonder_cathedral"
+		file = "gfx/models/Mapitems/great_works/cathedral/arkopack_cathedral.mesh"		
+		
+		scale = 0.4
+	}
+}

@@ -213,6 +213,16 @@ guiTypes = {
 			position = { x=0 y =0 }
 			quadTextureSprite ="GFX_outliner_standard"	
 		}
+
+		guiButtonType = {
+			name = "outliner_default_shield"
+			position = { x = 500 y = -7 }
+			quadTextureSprite ="GFX_shield_small"
+			#spriteType ="GFX_unit_panel_shields"
+			Orientation = "UPPER_LEFT"
+			clicksound = click
+			#scale = 0.5
+		}
 		
 		instantTextBoxType = {
 				name = "name"
@@ -823,6 +833,80 @@ guiTypes = {
 				maxHeight = 16
 
 				format = left
+		}
+	}
+
+	### OUTLINER Wonder ENTRY
+	windowType = 
+	{
+		name = "outliner_wonder_entry"
+		backGround=""
+		position = { x=0 y=0 }	
+		size = { x=317 y=16 }
+		moveable = 0
+		dontRender = ""
+		horizontalBorder= ""
+		verticalBorder= ""
+		fullScreen = no	
+
+		guiButtonType = {
+			name = "outliner_standard"
+			position = { x=0 y =0 }
+			quadTextureSprite ="GFX_outliner_standard"	
+		}
+		
+		instantTextBoxType = {
+				name = "name"
+				position = { x = 50 y = 2 }
+				textureFile = ""
+				font = "Arial12_black"
+				borderSize = {x = 0 y = 0}
+				text = "UI_MISSING_TEXT"	
+				maxWidth = 139
+				maxHeight = 16
+				fixedsize = yes
+				format = left
+				allwaystransparent = yes
+		}
+		
+		iconType = {
+			name = "wonder_numerals"
+			spriteType = "GFX_outliner_wonder_numerals"
+			position = { x = 16 y = 1 }
+		}
+		
+		iconType = {
+			name ="money_icon_small"
+			spriteType = "GFX_money_icon_small_debt"
+			position = { x= 258 y = 0 }
+		}
+		instantTextBoxType = {
+			name = "money_text"
+			position = { x = 225 y = 2 }
+			textureFile = ""
+			font = "Arial12_black_bidouille"
+			borderSize = {x = 0 y = 0}
+			text = "UI_MISSING_TEXT"	
+			maxWidth = 40
+			maxHeight = 16
+			format = left
+		}
+		
+		iconType = {
+			name ="building"
+			spriteType = "GFX_outliner_building"
+			position = { x= 279 y = 1 } 
+		}
+		iconType = {
+			name = "pause"
+			spriteType = "GFX_outliner_wonder_pause"
+			position = { x= 279 y = 1 } 
+		}
+		
+		iconType = {
+			name ="build_progress"
+			spriteType = "GFX_outliner_build_progress"
+			position = { x= 296 y = 2 } 
 		}
 	}
 }

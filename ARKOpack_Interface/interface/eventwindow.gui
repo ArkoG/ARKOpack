@@ -351,7 +351,7 @@ guiTypes = {
 		OverlappingElementsBoxType = {
 			name = "related_traits2"
 			position = { x = 288 y = 477 }
-			size = { x=193 y=40 }
+			size = { x=195 y=40 }
 			format = right
 		}
 		###
