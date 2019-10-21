@@ -52,7 +52,7 @@ guiTypes = {
 			name = "bronze_achiev_warning"
 			text = "BRONZEMAN_DISABLED_ACHIEVEMENTS_WARNING"
 			font = "vic_22_black"
-			position = { x = 670 y = 100 }
+			position = { x = 9670 y = 9100 }
 			maxWidth = 265
 			maxHeight = 50
 			format = centre
