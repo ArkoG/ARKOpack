@@ -4730,7 +4730,7 @@
 	culture ="italian"
 }
 806 = {
-	name="al-Sawdaní"
+	name="al-Mawrí" #Sawdan, the last emir of Bari; al-Mazari (from the Sicilian town of Mazara) is also a possible reading
 	culture ="maghreb_arabic"
 }
 807=
