@@ -3098,26 +3098,26 @@
 	name="Faliero"
 	culture ="italian"
 	
-#	coat_of_arms = {
-#		template = 0
-#		layer = {
-#			texture = 9
-#			texture_internal = 8
-#			emblem = 0
-#			color = 0
-#			color = 0
-#			color = 0
-#		}
-#	}
 	coat_of_arms = {
-		template = 0	
-		layer = {	
-			texture = 16 #"italian" job	
-			texture_internal = 60	
-			emblem = 0	
-			color = 0	color = 0	color = 0
-			}
+		template = 0
+		layer = {
+			texture = 9
+			texture_internal = 8
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
 	}
+#	coat_of_arms = {
+#		template = 0	
+#		layer = {	
+#			texture = 16 #"italian" job	
+#			texture_internal = 60	
+#			emblem = 0	
+#			color = 0	color = 0	color = 0
+#			}
+#	}
 }
 515 = {
 	name="Piccolomini"
