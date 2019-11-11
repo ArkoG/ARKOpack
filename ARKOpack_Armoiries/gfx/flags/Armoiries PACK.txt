@@ -62,6 +62,7 @@ C Grisons
 C Hainaut
 C Labourd
 C La Marche
+C_Lecce*
 C Leon (Brittany)
 C Liège
 C Leòn
