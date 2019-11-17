@@ -102,6 +102,7 @@ C Provence
 C Reims
 C Rennes
 C Rennes alt
+C_Rimini*
 C Rouergue
 C Royaumont (MOD)
 C Saluzzo
@@ -171,6 +172,7 @@ D_Piemont (MOD)
 D Pisa
 D Provence
 D Savoie
+D_susa*
 D Swiss
 D swiss band*
 D swiss company*
