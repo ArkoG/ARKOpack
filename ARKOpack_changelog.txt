@@ -12,7 +12,15 @@ GAME VERSION COMPATIBILITY : 3.2.x and 3.3.x for GUIpack
 see included readme's for more details
 --2019-11-08 for CK2 3.2.x and 3.3.x changelog--- 
 
-HIP BASTARD1 update :
+in DEV
+ARMOIRIES :
+-new customization option for christian CoA (additional emblems layer)
+
+INTERFACE :
+-
+
+
+HIP BASTARD1/2 update :
 ARMOIRIES :
 -some few new swiss CoA
 
