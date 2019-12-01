@@ -28,6 +28,7 @@ C Barcelona
 C Blois
 C Bologna
 C Bordeaux
+C Boulogne*
 C Bourbon
 C Bourges
 C Brie
@@ -139,6 +140,7 @@ C Verdun
 C Vermandois
 C Vesoul
 C_Vexin
+C_Yperen*
 ------------
 D Alsace
 D_Antipape (MOD)
