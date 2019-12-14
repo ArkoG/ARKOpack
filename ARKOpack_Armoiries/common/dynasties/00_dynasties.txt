@@ -31251,7 +31251,7 @@ used_for_random = no
 
 1042109 = {
 
-	name="Bamiyaní" 
+	name="Bámiyání" 
  
 	culture = "afghan"
 
