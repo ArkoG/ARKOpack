@@ -3,16 +3,26 @@
 #
 
 ARKOpack for CK2 3.2.x and 3.3.x
-HIP version : 2019-11-08
+HIP version : 2019-12-18
 
 standalone version : -
 GAME VERSION COMPATIBILITY : 3.2.x and 3.3.x for COApack
 GAME VERSION COMPATIBILITY : 3.2.x and 3.3.x for GUIpack
 
 see included readme's for more details
---2019-11-08 for CK2 3.2.x and 3.3.x changelog--- 
+--2019-12-18 for CK2 3.2.x and 3.3.x changelog--- 
 
-HIP BASTARD1 update :
+HIP FROSTY1 update :
+ARMOIRIES :
+-new customization options for christian CoA (additional emblems layer)
+-changed arms for dynasties : Savoie, Abbasids
+-new/changed title arms for : Rimini, Susa, Boulogne, Yperen
+
+INTERFACE :
+-nothing new
+
+
+HIP BASTARD1/2 update :
 ARMOIRIES :
 -some few new swiss CoA
 
