@@ -1,0 +1,13 @@
+spriteTypes = {
+
+#from highlighted ruler post 3.2.1, for it to work on pre-3.3.0 versions
+	spriteType = {
+		name = "GFX_featured_ruler_arrow_round_left"
+		texturefile = "gfx/interface/featured_ruler/arrow_round_left.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_featured_ruler_arrow_round_right"
+		texturefile = "gfx/interface/featured_ruler/arrow_round_right.dds"
+	}
+}

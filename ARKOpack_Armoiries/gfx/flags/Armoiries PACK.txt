@@ -10,10 +10,10 @@
 Provinces et titres :
 
 C Aargau
-C Albret*
-C Amiens*
-C Amous*
-C Aosta*
+C Albret
+C Amiens
+C Amous
+C Aosta
 C Arborea
 C Armagnac
 C Auvergne
@@ -28,9 +28,10 @@ C Barcelona
 C Blois
 C Bologna
 C Bordeaux
+C Boulogne*
 C Bourbon
 C Bourges
-C Brie*
+C Brie
 C Burgos
 C Brescia
 C Byzantion
@@ -39,12 +40,12 @@ C Châlons
 C Charolais
 C Chartres
 C Chur
-C Clermont*
-C Como*
+C Clermont
+C Como
 C Cornouailles
 C Corsica
 C Couserans (MOD)
-C Dunois*
+C Dunois
 C Lyon
 C Viennois
 C Dijon
@@ -62,10 +63,11 @@ C Grisons
 C Hainaut
 C Labourd
 C La Marche
+C_Lecce*
 C Leon (Brittany)
 C Liège
 C Leòn
-C Leventina*
+C Leventina
 C Loon
 C Lusignan
 C Luxembourg
@@ -88,19 +90,20 @@ C_Nemours (MOD)
 C Neuchatel
 C Nordgau
 C_Nordulandvestra (MOD)
-C Orleans*
+C Orleans
 C Parma
 C Penthièvre
 C Penthièvre alt
-C_Perche*
+C_Perche
 C Pisa
 C Plafz
-C Poitiers*
-C_Ponthieu*
+C Poitiers
+C_Ponthieu
 C Provence
 C Reims
 C Rennes
 C Rennes alt
+C_Rimini*
 C Rouergue
 C Royaumont (MOD)
 C Saluzzo
@@ -110,10 +113,10 @@ C Sankt Gallen
 C Sticht
 C Sundgau
 C Saintois
-C Sancerre*
-C Saumur*
+C Sancerre
+C Saumur
 C Savoie
-C Senlis*
+C Senlis
 C Sens
 C Schwyz
 C_Sponheim (MOD)
@@ -130,13 +133,14 @@ C Toulouse
 C Touraine
 C Troyes
 C Valais
-C Vaud* (Savoie themed arms for vanilla)
+C Vaud (Savoie themed arms for vanilla)
 C Venaissin
-C Vendome*
+C Vendome
 C Verdun
 C Vermandois
 C Vesoul
-C_Vexin*
+C_Vexin
+C_Yperen*
 ------------
 D Alsace
 D_Antipape (MOD)
@@ -160,7 +164,7 @@ D Franche comté
 D Genovese_navy
 D Gascogne
 D Gènes
-D Hesse*
+D Hesse
 D Upper Burgundy
 D Leòn
 D Luxembourg
@@ -170,7 +174,10 @@ D_Piemont (MOD)
 D Pisa
 D Provence
 D Savoie
+D_susa*
 D Swiss
+D swiss band*
+D swiss company*
 D Toulouse
 D Toscana
 D Upper_lorraine
@@ -178,7 +185,7 @@ D Trezibond
 D venizia
 D Zaragoza
 ------------
-K Aquitaine*
+K Aquitaine
 K Aragon
 K_Asturias
 K Bourgogne
@@ -201,12 +208,13 @@ K Italy
 K_occitania (MOD)
 K_provence (MOD)
 K_savoy (MOD)
+K_Switerzerland*
 K_genova (MOD)
 K_genoa
 K_Trezibond
 K venizia
 ------------
-E Byzantium*
+E Byzantium
 E France
 E Scandinavia
 E HRE

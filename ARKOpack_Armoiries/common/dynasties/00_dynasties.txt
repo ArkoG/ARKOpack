@@ -3098,26 +3098,26 @@
 	name="Faliero"
 	culture ="italian"
 	
-#	coat_of_arms = {
-#		template = 0
-#		layer = {
-#			texture = 9
-#			texture_internal = 8
-#			emblem = 0
-#			color = 0
-#			color = 0
-#			color = 0
-#		}
-#	}
 	coat_of_arms = {
-		template = 0	
-		layer = {	
-			texture = 16 #"italian" job	
-			texture_internal = 60	
-			emblem = 0	
-			color = 0	color = 0	color = 0
-			}
+		template = 0
+		layer = {
+			texture = 9
+			texture_internal = 8
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
 	}
+#	coat_of_arms = {
+#		template = 0	
+#		layer = {	
+#			texture = 16 #"italian" job	
+#			texture_internal = 60	
+#			emblem = 0	
+#			color = 0	color = 0	color = 0
+#			}
+#	}
 }
 515 = {
 	name="Piccolomini"
@@ -5846,7 +5846,20 @@
 	is_modified=yes
 
 }
-
+981 = {
+	name="Santos"
+	culture="portuguese"
+	religion="catholic"
+	is_modified=yes
+	#coat_of_arms=
+	#{
+	#	data=
+	#	{
+	#		0 0 23 14 1 3 1 0 14 14 1 3 4 0 0 9 1 3 2 0 0 14 1 3 2 
+	#	}
+	#	religion="catholic"
+	#}
+}
 
 
 1002=

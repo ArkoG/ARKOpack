@@ -39,8 +39,8 @@ name="Krag"
 	}
 }
 1000035853 = {
-name="Krummedige"
- culture = danish
+name="Krummendiek"
+ culture = low_saxon
  coat_of_arms = {
 		template = 0
 		layer = {

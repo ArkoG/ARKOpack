@@ -59,7 +59,7 @@ culture = {
 #	}
 	emblem = {
 		file = "gfx\\coats_of_arms\\Arko_emblem_cust.tga"
-		noOfFrames = 48
+		noOfFrames = 62
 		random = no
 	}
 #	emblem = {
@@ -300,7 +300,7 @@ culture =
 #	}
 	emblem = {
 		file = "gfx\\coats_of_arms\\Arko_emblem_cust.tga"
-		noOfFrames = 48
+		noOfFrames = 62
 		random = no
 	}
 #	emblem = {
@@ -1720,7 +1720,7 @@ culture =
 	
 	emblem = {
 		file = "gfx\\coats_of_arms\\Arko_emblem_cust.tga"
-		noOfFrames = 48
+		noOfFrames = 62
 		random = no
 	}
 	emblem = {
@@ -1918,7 +1918,7 @@ culture =
 	
 	emblem = {
 		file = "gfx\\coats_of_arms\\Arko_emblem_cust.tga"
-		noOfFrames = 48
+		noOfFrames = 62
 	}
 
 	# WHEN ADDING NEW, ALWAYS ADD AT THE END !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!11111
