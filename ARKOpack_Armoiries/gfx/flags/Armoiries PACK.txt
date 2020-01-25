@@ -16,19 +16,20 @@ C Amous
 C Aosta
 C Arborea
 C Armagnac
+C_asturias de santillana*
 C Auvergne
 C Auxerre
 C Bamberg
 C Bearn
 C Besançon
-C Besançon ALT* (frankish version)
+C Besançon ALT (frankish version)
 C Bern
 C Bar
 C Barcelona
 C Blois
 C Bologna
 C Bordeaux
-C Boulogne*
+C Boulogne
 C Bourbon
 C Bourges
 C Brie
@@ -63,7 +64,7 @@ C Grisons
 C Hainaut
 C Labourd
 C La Marche
-C_Lecce*
+C_Lecce
 C Leon (Brittany)
 C Liège
 C Leòn
@@ -85,6 +86,7 @@ C Munster
 C Murat (SWMH)
 C Nantes
 C_Narbonne
+d_navarrese_company*
 C Nevers
 C_Nemours (MOD)
 C Neuchatel
@@ -103,7 +105,7 @@ C Provence
 C Reims
 C Rennes
 C Rennes alt
-C_Rimini*
+C_Rimini
 C Rouergue
 C Royaumont (MOD)
 C Saluzzo
@@ -140,7 +142,7 @@ C Verdun
 C Vermandois
 C Vesoul
 C_Vexin
-C_Yperen*
+C_Yperen
 ------------
 D Alsace
 D_Antipape (MOD)
@@ -169,15 +171,16 @@ D Upper Burgundy
 D Leòn
 D Luxembourg
 D Mallorca
+D_navarra*
 D Normandie
 D_Piemont (MOD)
 D Pisa
 D Provence
 D Savoie
-D_susa*
+D_susa
 D Swiss
-D swiss band*
-D swiss company*
+D swiss band
+D swiss company
 D Toulouse
 D Toscana
 D Upper_lorraine
@@ -202,13 +205,14 @@ K Germany
 K Leon
 K Lotharingia
 K Naples
+K_navarra*
 K Papauté
 K Ireland
 K Italy
 K_occitania (MOD)
 K_provence (MOD)
 K_savoy (MOD)
-K_Switerzerland*
+K_Switerzerland
 K_genova (MOD)
 K_genoa
 K_Trezibond
