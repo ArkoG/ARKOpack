@@ -3,7 +3,7 @@
 #
 
 ARKOpack for CK2 3.2.x and 3.3.x
-HIP version : 2019-12-18
+HIP version : 2019-12-20
 
 standalone version : -
 GAME VERSION COMPATIBILITY : 3.2.x and 3.3.x for COApack
