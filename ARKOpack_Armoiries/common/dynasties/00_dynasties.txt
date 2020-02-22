@@ -9913,7 +9913,7 @@ used_for_random = no
 	culture = "turkish"
 }
 7346 = {
-	name="Abuqí"
+	name="al-Abiqí"
 	culture ="levantine_arabic"
 }
 7347 = {
