@@ -9901,7 +9901,7 @@ used_for_random = no
 	culture = "turkish"
 }
 7343 = {
-	name="Lu'Lu"
+	name="al-Nurí" # dynasty of Badr al-Din Lu'lu, a freed slave of Zengid Nur al-Din Arslan Shah
 	culture ="levantine_arabic"
 }
 7344 = {
