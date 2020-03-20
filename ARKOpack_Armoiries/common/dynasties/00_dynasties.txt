@@ -31225,7 +31225,7 @@ used_for_random = no
 	culture = bedouin_arabic
 }
 1042121 = {
-	name="Abd al-Qays"
+	name="al-'Abqasí" # Abd al-Qays
 	culture = bedouin_arabic
 }
 
