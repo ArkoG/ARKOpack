@@ -9901,7 +9901,7 @@ used_for_random = no
 	culture = "turkish"
 }
 7343 = {
-	name="Lu'Lu"
+	name="al-Nurí" # dynasty of Badr al-Din Lu'lu, a freed slave of Zengid Nur al-Din Arslan Shah
 	culture ="levantine_arabic"
 }
 7344 = {
@@ -9913,7 +9913,7 @@ used_for_random = no
 	culture = "turkish"
 }
 7346 = {
-	name="Abuqí"
+	name="al-Abiqí"
 	culture ="levantine_arabic"
 }
 7347 = {
@@ -9961,7 +9961,7 @@ used_for_random = no
 	culture = "turkish"
 }
 7358 = {
-	name="Aq Sonqor"
+	name="al-Bursuqí"
 	culture = "turkish"
 }
 7359 = {
@@ -31225,7 +31225,7 @@ used_for_random = no
 	culture = bedouin_arabic
 }
 1042121 = {
-	name="Abd al-Qays"
+	name="al-'Abqasí" # Abd al-Qays
 	culture = bedouin_arabic
 }
 
