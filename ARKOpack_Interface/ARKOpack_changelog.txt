@@ -3,6 +3,25 @@
 #
 
 ARKOpack for CK2 3.2.x and 3.3.x
+HIP version : 2020- - 
+
+standalone version : -none-
+GAME VERSION COMPATIBILITY : 3.2.x and 3.3.x for COApack
+GAME VERSION COMPATIBILITY : 3.2.x and 3.3.x for GUIpack
+
+see included readme's for more details
+--2020-05-06 for CK2 3.2.x and 3.3.x changelog--- 
+
+HIP FROSTY3 update :
+ARMOIRIES :
+-dynastic names improvments by ese-khan
+
+INTERFACE :
+-new muslim market event picture
+-fixed a slight graphic bug with chancellor councillor banner
+-better Iron century era choosing illustration
+
+ARKOpack for CK2 3.2.x and 3.3.x
 HIP version : 2019-12-20
 
 standalone version : -
