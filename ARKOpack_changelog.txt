@@ -20,6 +20,7 @@ INTERFACE :
 -new muslim market event picture
 -fixed a slight graphic bug with chancellor councillor banner
 -better Iron century era choosing illustration
+-separated out compatibility file for 768 vertical pixels into its own module folder
 
 ARKOpack for CK2 3.2.x and 3.3.x
 HIP version : 2019-12-20
