@@ -852,15 +852,15 @@ guiTypes = {
 			orientation = "UPPER_LEFT"
 		}
 		instantTextBoxType= {
-			position = { x= 20 y = 5 }
+			position = { x= 55 y = 5 }
 			name = "left_value"
 			font = "vic_18_black"
 			borderSize = {x = 0 y = 0}	
-			maxWidth = 100
+			maxWidth = 83
 			maxHeight = 20
 			text = "UI_MISSING_TEXT"
 			orientation = "UPPER_LEFT"
-			format = center
+			format = left
 			fixedsize = yes
 		}
 		
@@ -871,15 +871,15 @@ guiTypes = {
 			orientation = "UPPER_LEFT"
 		}
 		instantTextBoxType= {
-			position = { x= 375 y = 5 }
+			position = { x= 357 y = 5 }
 			name = "right_value"
 			font = "vic_18_black"
 			borderSize = {x = 0 y = 0}	
-			maxWidth = 100
+			maxWidth = 83
 			maxHeight = 20
 			text = "UI_MISSING_TEXT"	
 			orientation = "UPPER_LEFT"
-			format = center
+			format = right
 			fixedsize = yes
 		}
 		
@@ -905,9 +905,11 @@ guiTypes = {
 		OverlappingElementsBoxType = {
 			name = "laws_box"
 			position = { x = 67 y = 30 }
-			size = { x=360 y=34 } #EMF changes this
+			size = { x=360 y=34 } #EMF changes x to 375
 			format = center
-			spacing = 10 #EMF changes this
+			#spacing = 10 #vanilla value
+			spacing = 1 #Arkopack value, makes original buttons grouped
+			#spacing = 10 #EMF changes this to 40
 		}
 	}
 	
@@ -1017,15 +1019,15 @@ guiTypes = {
 		}
 		
 		instantTextBoxType= {
-			position = { x=7 y =6 }
+			position = { x=0 y =6 }
 			name = "option_name"
 			font = "vic_18_black"
 			borderSize = {x = 0 y = 0}	
-			maxWidth = 60
+			maxWidth = 71
 			maxHeight = 20
 			text = ""	
 			orientation = "UPPER_LEFT"
-			format = left
+			format = center
 			fixedsize = yes
 			allwaystransparent = yes
 		}
