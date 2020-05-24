@@ -10,7 +10,7 @@ GAME VERSION COMPATIBILITY : 3.2.x and 3.3.x for COApack
 GAME VERSION COMPATIBILITY : 3.2.x and 3.3.x for GUIpack
 
 see included readme's for more details
---2020-05-06 for CK2 3.2.x and 3.3.x changelog--- 
+--2020-05-24 for CK2 3.2.x and 3.3.x changelog--- 
 
 HIP FROSTY3 update :
 ARMOIRIES :
@@ -20,7 +20,8 @@ INTERFACE :
 -new muslim market event picture
 -fixed a slight graphic bug with chancellor councillor banner
 -better Iron century era choosing illustration
--separated out compatibility file for 768 vertical pixels into its own module folder
+-fixed alignements in law view
+-labels in realm's law buttons in are now centered
 
 ARKOpack for CK2 3.2.x and 3.3.x
 HIP version : 2019-12-20
