@@ -10,7 +10,7 @@ GAME VERSION COMPATIBILITY : 3.2.x and 3.3.x for COApack
 GAME VERSION COMPATIBILITY : 3.2.x and 3.3.x for GUIpack
 
 see included readme's for more details
---2020-05-24 for CK2 3.2.x and 3.3.x changelog--- 
+--2020-06-28 for CK2 3.2.x and 3.3.x changelog--- 
 
 HIP FROSTY3 update :
 ARMOIRIES :
@@ -22,6 +22,10 @@ INTERFACE :
 -better Iron century era choosing illustration
 -fixed alignements in law view
 -labels in realm's law buttons in are now centered
+-improved event letter frames (slight transparency addition)
+-improved some few event pictures (slightly de-satured)
+-changed one event picture (muslim blue dome)
+-improved prestige cost icon (used in building view f.e.)
 
 ARKOpack for CK2 3.2.x and 3.3.x
 HIP version : 2019-12-20
