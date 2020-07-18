@@ -3704,10 +3704,11 @@
 	name="di Lucca"
 	culture ="italian"
 }
-#626 = {
-#	name="Sklerena" #Should not be used
-#	culture ="greek"
-#}
+626 = {
+	name="of East Anglia"
+	culture="saxon"
+	religion="catholic"
+}
 627 = {
 	name="Skleros"
 	culture ="greek"
@@ -15912,6 +15913,12 @@ used_for_random = no
 20103 = { 
 	name="de Brest" # ex Leon unused
 	culture ="breton"
+}
+1051999=
+{
+	name="de Leon"
+	culture="breton"
+	religion="catholic"
 }
 20105 = {
 	name="Gwened"
@@ -41056,6 +41063,11 @@ used_for_random = no
 	name = "de Mortagne"
 	culture = frankish
 	religion = catholic
+}
+1062609 = {
+	name="Theoderisian"
+	culture="lombard"
+	religion="catholic"
 }
 1062610 = {
 	name="Botaneiates"
