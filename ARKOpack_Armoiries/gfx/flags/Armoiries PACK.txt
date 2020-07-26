@@ -189,7 +189,7 @@ D swiss company
 D Toulouse
 D Toscana
 D Upper_lorraine
-D Trezibond
+D Trezibond*
 D venizia
 D Zaragoza
 ------------
@@ -220,7 +220,7 @@ K_savoy (MOD)
 K_Switerzerland
 K_genova (MOD)
 K_genoa
-K_Trezibond
+K_Trezibond*
 K venizia
 ------------
 E Byzantium
