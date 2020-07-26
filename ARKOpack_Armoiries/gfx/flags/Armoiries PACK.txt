@@ -158,6 +158,7 @@ D Aquitaine
 D_Bar (MOD)
 D Barcelone
 D Berry
+d_bosnia*
 D Bourbon
 D Bourgogne
 D Bretagne
@@ -196,6 +197,7 @@ D Zaragoza
 K Aquitaine
 K Aragon
 K_Asturias
+k_bosnia*
 K Bourgogne
 K Bretagne
 K_burgundy_transjurana (MOD)
