@@ -12,11 +12,13 @@ Provinces et titres :
 C Aargau
 C Albret
 C Amiens
+c_amastris*
+c_amorion*
 C Amous
 C Aosta
 C Arborea
 C Armagnac
-C_asturias de santillana*
+C_asturias de santillana
 C Auvergne
 C Auxerre
 C Bamberg
@@ -41,6 +43,7 @@ C Châlons
 C Charolais
 C Chartres
 C Chur
+c_claudiopolis*
 C Clermont
 C Como
 C Cornouailles
@@ -76,6 +79,7 @@ C Lorraine
 C Lyon
 C Mâcon
 C Mallorca
+c_maroneia*
 C Mende (MOD)
 C Metz
 C Montbeliard
@@ -86,7 +90,7 @@ C Munster
 C Murat (SWMH)
 C Nantes
 C_Narbonne
-d_navarrese_company*
+d_navarrese_company
 C Nevers
 C_Nemours (MOD)
 C Neuchatel
@@ -112,6 +116,7 @@ C Saluzzo
 C Santiago
 C Saintonge
 C Sankt Gallen
+c_seres*
 C Sticht
 C Sundgau
 C Saintois
@@ -171,7 +176,7 @@ D Upper Burgundy
 D Leòn
 D Luxembourg
 D Mallorca
-D_navarra*
+D_navarra
 D Normandie
 D_Piemont (MOD)
 D Pisa
@@ -205,7 +210,7 @@ K Germany
 K Leon
 K Lotharingia
 K Naples
-K_navarra*
+K_navarra
 K Papauté
 K Ireland
 K Italy
