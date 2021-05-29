@@ -10060,10 +10060,26 @@ used_for_random = no
 7379 = {
 	name="Jochid"
 	culture = "mongol"
+	coat_of_arms=
+	{
+		data=
+		{
+			0 0 0 74 3 1 1
+		}
+		religion="tengri_pagan"
+	}
 }
 7380 = {
 	name="Chagatayid"
 	culture = "mongol"
+	coat_of_arms=
+	{
+		data=
+		{
+			0 0 0 11 0 1 1
+		}
+		religion="tengri_pagan"
+	}
 }
 
 7389={
@@ -24515,6 +24531,14 @@ used_for_random = no
 	name="Toluid"
 	culture = "mongol"
 	can_appear = no
+	coat_of_arms=
+	{
+		data=
+		{
+			0 0 0 11 3 0 0
+		}
+		religion="tengri_pagan"
+	}
 }
 101917 = {
 	name="Pérez de Zamora"
