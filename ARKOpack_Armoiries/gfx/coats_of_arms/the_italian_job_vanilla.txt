@@ -61,7 +61,7 @@
 44 - Della Scala, 13032
 45 - Carraresi, 101823
 46 - Gradenigo, 13007
-47 - Montemerlo(they are most commonly called Transalgardi (their subbranch who took over was called "Capodilista". Capodilista mostly had a red goat on gold with a branch in the mouth though, but sometimes they used the old arms aswell), ID 8670
+47 - Montemerlo(they are most commonly called Transalgardi (their subbranch who took over was called "Capodilista". Capodilista mostly had a red goat on gold with a branch in the mouth though, but sometimes they used the old arms as well), ID 8670
 48 - Crispo, ID 13023
 #49 - Castropola, ID 7377
 50 - Tiepolo, ID 13006
@@ -100,7 +100,7 @@
 81 - Pallavicini, ID 13002
 82 - Scotti, ID 101844
 83 - di Maltraversi, ID 8708
-84 - Turchi, ID 8721. Its the arms of Giocoli from which they decended, I've been unable to track down a description of Turchi's own.
+84 - Turchi, ID 8721. Its the arms of Giocoli from which they descended, I've been unable to track down a description of Turchi's own.
 85 - Cavalcabò, ID 101825
 86 - Torelli, ID 101848
 87 - Terzi, ID 101846
