@@ -14,7 +14,7 @@ see included readme's for more details
 
 HIP FROSTY3 update :
 ARMOIRIES :
--dynastic names improvments by ese-khan
+-dynastic names improvements by ese-khan
 
 INTERFACE :
 -new muslim market event picture
@@ -69,7 +69,7 @@ HIP FURRY7 update :
 -bloodline entry can now support 3 lines of text for bloodline description
 -bloodline entry description space is now darker for better readability
 -denorsified bloodline view
--pilgrimage and pilgrim traits icons are now different (chrisitan and indian one)
+-pilgrimage and pilgrim traits icons are now different (christian and indian one)
 -changed travelling trait icon
 
 HIP FURRY6 update :
@@ -79,10 +79,10 @@ HIP FURRY6 update :
 
 ARMOIRIES :
 -3.1.x update
--dynastic names improvments by ese-khan
--various CoA pattern improvments for muslims and christians
+-dynastic names improvements by ese-khan
+-various CoA pattern improvements for muslims and christians
 -whole new CoA pattern for zoroastrians
--kept some old vanilla flags that where better or more senseful that the new ones intriduced in 3.0
+-kept some old vanilla flags that where better or more senseful that the new ones introduced in 3.0
 -some flags for newly added counties
 -some new or reworked flags
 -improved indian vanilla CoA sets quality
@@ -93,9 +93,9 @@ ARMOIRIES :
 -fixed hellenic defined CoA titles
 -additional hellenic defined CoA titles
 -hellenic patterns for random CoA
--some dynastic names improvments by ese-khan
+-some dynastic names improvements by ese-khan
 -some new dynastic CoA by ese-khan : Qarakhanid, Hashim
--some muslim dynastic CoA improvments from ese-khan suggestions : Fatimidsn Umayyads Abbasids
+-some muslim dynastic CoA improvements from ese-khan suggestions : Fatimidsn Umayyads Abbasids
 -a few coded CoA fixes
 
 INTERFACE :
@@ -106,8 +106,8 @@ INTERFACE :
 -made offmap power history view adopting the same style as regular titles history view
 -improved barber window visual
 -improved indian vanilla traits quality
--the most intrusive and ugly DLC recommandations are now hidden/wiped
--improved vanilla indian traits quality (better details and constrast)
+-the most intrusive and ugly DLC recommendations are now hidden/wiped
+-improved vanilla indian traits quality (better details and contrast)
 -some code and file cleanup
 -reworked the province view for muslim
 -removed the specific religion icons with background from character sheet due to random worlds
@@ -137,9 +137,9 @@ INTERFACE :
 
 ARMOIRIES :
 -2.8.2.update
-This include using the War of the Rose game bonus emblems, available for Chrisitan group. 
+This include using the War of the Rose game bonus emblems, available for Christian group. 
 -adds some stuff for random muslim CoA, using emblems (used outside the customizer)
--some dynastic names and coded CoA improvments by ese-khan
+-some dynastic names and coded CoA improvements by ese-khan
 -some few new flags or improved old ones
 
 INTERFACE :
@@ -155,7 +155,7 @@ Major :
 -the set of emblems that were only available for customization fake religions ("CRUSADER KINGS" - "SAIF AL ISLAM") are now available as custom options in their regular religion sets. 
 
 Minor :
--some dynastic names improvments by ese-khan
+-some dynastic names improvements by ese-khan
 -updated some colours for random coats of arms
 -made army banners CoA-shaped for christian world
 -some new France flags (Valois, Orleans, Vexin, Paris and such, based on de France/Capetian lillies)
@@ -166,7 +166,7 @@ Minor :
 -various addition for christian random coa (a few templates and emblems for now - more to come later on)
 -adds some CoA template for taoists
 -some few improved versions of coa templates for random CoA
--various dynastic names improvments
+-various dynastic names improvements
 -new "d'Anjou" dynastic CoA (early Plantagenêt arms)
 -new flags for Anjou (county and duchy tiers)
 -new flags for Jerusalem (All tiers)
@@ -184,7 +184,7 @@ Major :
 -new event type available (you can see a preview here : https://forum.paradoxplaza.com/forum/index.php?threads/mod-arkopack-armoiries-interface.603251/page-81#post-23599428 )
 
 Minor :
--some improvments and new stuff around in religion icons background in character sheet
+-some improvements and new stuff around in religion icons background in character sheet
 -on-map land tradeposts are less enORMOUS
 -fixed vanilla rally point icons being too shiny in an out of place way
 -made the Wiki icon into a sidepanel button
@@ -198,7 +198,7 @@ Fixes :
 -wrong favor icon used and fixing its positions
 -long events options are now displayed correctly
 -character modifiers zone size in character view
--fixed vanilla uglyness and misalignements in realm view
+-fixed vanilla uglyness and misalignments in realm view
 -indian military view oddities
 -claim coa frames dimensions were a bit off
 -off-map power window having a too short space to display long chima empire names
@@ -213,7 +213,7 @@ Major :
 -2.7.1 upgrade
 
 Minor :
--muslim dynastic names improvments by Ese Khan
+-muslim dynastic names improvements by Ese Khan
 -various dynastic names changes (occitan and frankish mostly)
 
 Fixes :
@@ -266,7 +266,7 @@ Minor :
 -family_tree // added some embellishments
 -province_view // added unique design for muslims and pagans 
 -unitpanels // added some fluff
--era_screen // various improvments
+-era_screen // various improvements
 -various gfx // reworked crown focus icon (colourfull instead of greyish)
 -various gfx // reworked garrison/levy bar background, adjusted its position where needed
 -various gfx // reworked tech progression bar graphics (uncomplete boxes have a faded colour that brightens on progression)
@@ -346,7 +346,7 @@ ARMOIRIES :
 
 INTERFACE :
 -2.6.1 compatibility
--outliner improvments
+-outliner improvements
 -temporary removal of province view
 -some new empty settlements graphics where vanilla lacks some (turkish, indian, southindian)
 -new desert city holding design
@@ -368,7 +368,7 @@ ARMOIRIES :
 -tweaked some colours (again)
 
 INTERFACE :
--fixed a gfx glitich on build building view
+-fixed a gfx glitch on build building view
 -chronicle image frame tweak
 -fixed the dimension of vanilla event picture triumph_arch
 
@@ -388,7 +388,7 @@ INTERFACE :
 -improved voting laws interface
 -in councillors job view, the coloured header are know linked to the job's main skill (so one can add new councillors and having them using different colours on scrolling) 
 -councillors job view old recolouring redone
--fixed various misalignements (texts end various elements)
+-fixed various misalignments (texts end various elements)
 -joining a voters' group has a new design (a golden "+")
 -civic laws title is no longer cut when displayed in French
 -various laws tabs now use their religion-group colour instead of a different colour by tab
@@ -420,7 +420,7 @@ ARMOIRIES :
 INTERFACE :
 -rearranged trade post/fort view (again)
 -adjusted realm tree button for a better clickability
--added shortcut ENTER to validate choosen focus
+-added shortcut ENTER to validate chosen focus
 -added buildview shortcuts (< and > to navigate through holdings)
 
 

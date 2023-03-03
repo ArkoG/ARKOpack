@@ -1,15 +1,15 @@
 ################################
 # Armoiries Squirrelpack by Aasmul
 # Scandinavian SWMH families by Aasmul 
-# Term of usages(NB! Differnt terms for the vanilla and the swmh packs): SWMH Squirrelpack is not allowed in other mods unless explicit permission is given by me.
+# Term of usages(NB! Different terms for the vanilla and the swmh packs): SWMH Squirrelpack is not allowed in other mods unless explicit permission is given by me.
 # Dynasties Pack 10 : SQUIRRELpack_northern_dynasties_swmh
 ################################
 
 0-INDEX couleurs
 1- "Sested" # danish
 2- "Krag" # danish
-3- "Krummedige" # danish and "Krummediek" lowsaxon. Same family, Krummediek was their castle, situated close to the danish border(north of Itzehoe), Krummedige was the name for later(13th century or earlier, while they were german noblility since the 11th century) danish branch(still survives to this day, while Krummediek died of early)
-4- "Grubbe" # danish. Why on earth this one isn't in vanilla is really weired, one of the top 5 most powerfull families in DK through almost the entire game.
+3- "Krummedige" # danish and "Krummediek" lowsaxon. Same family, Krummediek was their castle, situated close to the danish border(north of Itzehoe), Krummedige was the name for later(13th century or earlier, while they were german nobility since the 11th century) danish branch(still survives to this day, while Krummediek died of early)
+4- "Grubbe" # danish. Why on earth this one isn't in vanilla is really weird, one of the top 5 most powerful families in DK through almost the entire game.
 5- "Krugelund" # danish 
 6- "Galskyt" #danish
 7- "Tillbakaseende Ulv" # swedish
@@ -33,7 +33,7 @@
 25- "Kruse" danish
 26- "Markmand" danish
 27- "Løvenbalk" danish
-28- "Lund" danish #wiredly they didn't have anything with the city of Lund to do, the familiy was from Lolland and not Skåne.
+28- "Lund" danish #weirdly they didn't have anything with the city of Lund to do, the family was from Lolland and not Skåne.
 29- "Normann" pommerian(or danish) and "Paslick" polish . Its two branches of the same vendish/norse family, Norrman was big in the Principality of Rügen(under DK) and went to DK after Rügen was lost to zee germans, "Paslick" supported the Polish king in Pommernia against the Danish king and later against the HRE, later settled in Pomeralia after the germans had won the rest of Pommern..
 30- "Pors" danish
 31- "Lunge" danish
@@ -60,7 +60,7 @@
 52- "Saxtrup" danish
 53- "Sandbro" swedish, also called "Styrbjörnsönerna", the family was from Uppland, colors not 100% certain.
 54- "Skinkel" # danish
-55- "Sappi" # danish . Like most of the danish families with a coa that contains a lions passant or hearts, its a cadetbranch to the house of Estrid(it was custom for male children of the king, born out of wedlock, to setup their own dynasty. The danish kings had a lot of bastards, so that meant a lot of these types of dyansties(under the dual monarchy of Denmark-Norway, it became custom for these type of children to join the "Gyldenløve"(Golden lion) family instead of setting up their own)
+55- "Sappi" # danish . Like most of the danish families with a coa that contains a lions passant or hearts, its a cadetbranch to the house of Estrid(it was custom for male children of the king, born out of wedlock, to setup their own dynasty. The danish kings had a lot of bastards, so that meant a lot of these types of dynasties(under the dual monarchy of Denmark-Norway, it became custom for these type of children to join the "Gyldenløve"(Golden lion) family instead of setting up their own)
 56- "Brock" # danish
 57- "Laxmand" # danish 
 58- "Skade" danish. Family also known as "Kraus"
@@ -73,9 +73,9 @@
 65- "Haukur" norwegian(Icelandic), the family of Haukur Erlendsson. His coa(given by the Norwegian king) Styled a falcon, I haven't been able to find any info on the colors.
 66- "Loftur" norwegian(Icelandic), the family of Loftur Guttormsson. His coa(given by the Norwegian king like above) Styled a falcon(Norwegian king wasn't that imaginative^^), I haven't been able to find any info on the colors.
 67- "Torfi" norwegian(Icelandic), the family of Torfi Arason. His coa(given by the Norwegian king) Styled Azure, a bear argent, with a demi-bear argent on the crest.
-68- "Bjørn" norwegian(Icelandic), the family of Björn Þorleifsson. ("Þorleifsson" is pronunced "Torleifsson") His coa(given by the Norwegian king) Styled Azure, a bear argent, with a demi-bear argent on the crest.(again the Norwegian king seemed to liked to stick with his earlier choices). I gave them a black bear to have things just a tiny bit less uniform.
-69- "Eggert" norwegian(Icelandic), the family of Torfi Eggert Eggertsson. His coa(given by the Norwegian king) Styled Azure, a demi-unicorn argent, with a demi-unicorn argent on the crest.(somthing about blue/silver and Iceland eh?^^)
-70- "Hvide" danish. Family of Marsk(Marshall) Stig Andersen Hvide(he wasn't really a Hvide himself but the three wifes he had, and all his children were)
+68- "Bjørn" norwegian(Icelandic), the family of Björn Þorleifsson. ("Þorleifsson" is pronounced "Torleifsson") His coa(given by the Norwegian king) Styled Azure, a bear argent, with a demi-bear argent on the crest.(again the Norwegian king seemed to liked to stick with his earlier choices). I gave them a black bear to have things just a tiny bit less uniform.
+69- "Eggert" norwegian(Icelandic), the family of Torfi Eggert Eggertsson. His coa(given by the Norwegian king) Styled Azure, a demi-unicorn argent, with a demi-unicorn argent on the crest.(something about blue/silver and Iceland eh?^^)
+70- "Hvide" danish. Family of Marsk(Marshall) Stig Andersen Hvide(he wasn't really a Hvide himself but the three wives he had, and all his children were)
 71- "Kyrning" danish
 72- "Ama" swedish
 73- "Dreefeld" danish
@@ -86,7 +86,7 @@
 78- "Taa" danish
 79- "Moltke" pommerian # Fluffy Chikens!!!!
 80- "Urne" danish
-81- "Tinhuus" danish # Later evolved into Skinkel, but skinkel is primarely associated with another coa.
+81- "Tinhuus" danish # Later evolved into Skinkel, but skinkel is primarily associated with another coa.
 82- "Vognsen" danish
 83- "Örnfot" swedish
 84- "Pressentin" pommerian
@@ -104,11 +104,11 @@
 96- "Krognos" danish
 97- "Göretze" pommerian # Called "Gjordesen" in DK and "Görtz" in SE.
 98- "Kruckow" danish # also a norwegian/pommerian family with same name(but they styled a silver unicorn on blue above two blue and two red horizontal stibes)
-99- "Mule" pommerian # Mule af Flakendal(roskilde) originally came from Rügen(hence the pommerian culture, might be more propper to make them danish).
+99- "Mule" pommerian # Mule af Flakendal(roskilde) originally came from Rügen(hence the pommerian culture, might be more proper to make them danish).
 100- "Smalsted" danish 
 101- "Vinter" danish
 102- "Panter" danish #fluffy panther!
-103- "Skaaning" danish # another panther, coa of "Mogens Skåning"/"Magnus Scanung" selfstyled king of Skaane. Colors unknown 
+103- "Skaaning" danish # another panther, coa of "Mogens Skåning"/"Magnus Scanung" self-styled king of Skaane. Colors unknown 
 104- "Fasti" danish
 105- "Krakewitz" pommerian # a panther again this time from Rügen
 106- "Stalder" danish # A very funky wolf fish.
